@@ -2,7 +2,7 @@
   "airingid": "RADS1009281800034994",
   "seasonnumber": "1",
   "seasonitemnumber": "",
-  "seriesid": "2085313",
+  "seriesid": "10000000000667931",
   "id": "2351af63351dcd77cf47cf79b298641618e18214",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/upgrade-aw1-crisis-on-galvan-b-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2085313",
-  "seriesname": "Ben 10",
+  "seriestitleid": "10000000000667931",
+  "seriesname": "Minisodes",
   "originalpremieredate": "2017-10-20T17:00:00.000Z",
   "pubdate": "2018-09-28T00:00:00.000Z",
   "expdate": "2019-01-01T00:00:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546318800000",
   "mediaid": "2351af63351dcd77cf47cf79b298641618e18214",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
