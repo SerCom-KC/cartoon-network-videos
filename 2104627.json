@@ -2,7 +2,7 @@
   "airingid": "RADS1009281800034982",
   "seasonnumber": "1",
   "seasonitemnumber": "",
-  "seriesid": "2085313",
+  "seriesid": "10000000000667931",
   "id": "a83cc65b9784bfca89b1155a0ad35000b09f6734",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/xlr8-aw1-gauntlet-of-gliders-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2085313",
-  "seriesname": "Ben 10",
+  "seriestitleid": "10000000000667931",
+  "seriesname": "Minisodes",
   "originalpremieredate": "2018-09-28T00:00:00.000Z",
   "pubdate": "2018-09-28T00:00:00.000Z",
   "expdate": "2019-01-01T00:00:00.000Z",
@@ -36,5 +36,5 @@
   "expdateasmilliseconds": "1546318800000",
   "mediaid": "a83cc65b9784bfca89b1155a0ad35000b09f6734",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

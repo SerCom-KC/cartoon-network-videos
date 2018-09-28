@@ -2,7 +2,7 @@
   "airingid": "RADS1009281800034998",
   "seasonnumber": "0",
   "seasonitemnumber": "",
-  "seriesid": "2085313",
+  "seriesid": "10000000000667931",
   "id": "cc0f6889da07b9d18965b6a9293b0015dd778bea",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/how-to-draw-stinkfly-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2085313",
-  "seriesname": "Ben 10",
+  "seriestitleid": "10000000000667931",
+  "seriesname": "Minisodes",
   "originalpremieredate": "2018-09-28T00:00:00.000Z",
   "pubdate": "2018-09-28T00:00:00.000Z",
   "expdate": "2019-01-01T00:00:00.000Z",
@@ -36,5 +36,5 @@
   "expdateasmilliseconds": "1546318800000",
   "mediaid": "cc0f6889da07b9d18965b6a9293b0015dd778bea",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
