@@ -2,7 +2,7 @@
   "airingid": "RADS1009241800034035",
   "seasonnumber": "3",
   "seasonitemnumber": "24",
-  "seriesid": "2043744",
+  "seriesid": "10000000000",
   "id": "e400665566afe5c50a4c661c841dd4c04df0b998",
   "collectionid": "",
   "seofriendlyurl": "/video/transformers/five-fugitives-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2043744",
-  "seriesname": "Transformers",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2017-10-28T06:30:00.000Z",
   "pubdate": "2018-10-01T05:00:00.000Z",
   "expdate": "2018-11-01T04:59:47.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2106798",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2043744",
   "originalseriesname": "Transformers",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1541062787000",
   "mediaid": "e400665566afe5c50a4c661c841dd4c04df0b998",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
