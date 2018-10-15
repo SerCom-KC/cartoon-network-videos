@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1009241800034009",
+  "airingid": "RADS1010121800037176",
   "seasonnumber": "3",
   "seasonitemnumber": "10",
   "seriesid": "2000349",
@@ -20,8 +20,8 @@
   "seriestitleid": "2000349",
   "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2015-10-21T18:30:00.000Z",
-  "pubdate": "2018-10-01T05:00:00.000Z",
-  "expdate": "2018-11-01T04:59:00.000Z",
+  "pubdate": "2018-10-15T05:00:00.000Z",
+  "expdate": "2018-11-01T05:00:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2054776_006_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1445466600000",
-  "pubdateasmilliseconds": "1538384400000",
-  "expdateasmilliseconds": "1541062740000",
+  "pubdateasmilliseconds": "1539594000000",
+  "expdateasmilliseconds": "1541062800000",
   "mediaid": "42d2db4588b4cd23e6a06f3324c3474fbdd2543a",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
