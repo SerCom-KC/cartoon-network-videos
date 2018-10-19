@@ -3,8 +3,14 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: October 19, 2018 at 14:20:13 EDT_
+_Last Update: October 19, 2018 at 16:30:08 EDT_
 ## Video added
-No videos were added.
+### 2156843
+**Lego DC Comics Super Heroes: The Flash**  
+TV-Y7-FV 🔒 76:26  
+[Open in app](https://tinyurl.com/yak6od99)  
+seriesid=`10000000000602100` titleid=`2156843` mediaid=`f6b2e3c5cefb8e88b189cc10066b614287b41c1d`  
+_The morning sun shines on the jewel of the Metropolis skyline, The Daily Planet building. But when The Joker decides this building needs a renovation, it's time to sound the Trouble Alert because all bricks are about to break loose! The Justice League leaps into action, but as the battle is brewing against The Joker, something goes haywire with The Flash's powers, causing him to get caught in a repeating time loop. Even stranger is the yellow-clad Reverse Flash taunting him at every turn. It will take all of Flash's speed, a little magic and the helping hands and paws of the Justice League's new recruits, The Atom, Krypto the Superdog and Ace the Bat-Hound, to break the cycle and save Metropolis._  
+<a href="https://s3.amazonaws.com/cn-orchestrator/2156843_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2156843_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2156843_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2156843_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2156843_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2156843_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2156843_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2156843_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2156843_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2156843_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2156843_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2156843_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2156843_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2156843_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2156843_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2156843_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2156843_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2156843_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2156843_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2156843_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.
