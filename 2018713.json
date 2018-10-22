@@ -2,7 +2,7 @@
   "airingid": "RADS1009241800034080",
   "seasonnumber": "1",
   "seasonitemnumber": "34",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "ebd60288650ac2b8c0ba0cf8362d487c1f1116d1",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/aunt-grandma-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2014-10-02T19:30:00.000Z",
   "pubdate": "2018-10-15T05:00:00.000Z",
   "expdate": "2018-10-22T04:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2018713",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1540198740000",
   "mediaid": "ebd60288650ac2b8c0ba0cf8362d487c1f1116d1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

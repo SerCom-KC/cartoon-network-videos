@@ -2,7 +2,7 @@
   "airingid": "RADS1009241800034081",
   "seasonnumber": "5",
   "seasonitemnumber": "4",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "606ad9f5a4c1be103f5535c11919ca3ca0d0d91b",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/trash-cat-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2016-12-16T16:30:00.000Z",
   "pubdate": "2018-10-15T05:00:00.000Z",
   "expdate": "2018-10-22T04:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088522",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1540198740000",
   "mediaid": "606ad9f5a4c1be103f5535c11919ca3ca0d0d91b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
