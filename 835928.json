@@ -391,7 +391,7 @@
         "seriesname": "Gumball",
         "originalpremieredate": "2018-10-19T20:00:00.000Z",
         "pubdate": "2018-10-01T00:00:00.000Z",
-        "expdate": "2018-11-09T04:59:00.000Z",
+        "expdate": "2018-11-10T04:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2169873_004_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -404,7 +404,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1539993600000",
         "pubdateasmilliseconds": "1538366400000",
-        "expdateasmilliseconds": "1541757540000",
+        "expdateasmilliseconds": "1541843940000",
         "mediaid": "24a850b0a0439edd0e82ae4100722a6e65b1b176",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
