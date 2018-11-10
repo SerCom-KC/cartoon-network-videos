@@ -3,7 +3,7 @@
   "seasonnumber": "1",
   "seasonitemnumber": "3",
   "seriesid": "2132940",
-  "id": "737302292bbd232a4f3859b206392ba8b2b2f37a",
+  "id": "d1f9127a83a38a9e01a3b393b852fba3d03c8858",
   "collectionid": "",
   "seofriendlyurl": "/video/craig-of-the-creek/jessica-goes-to-the-creek-episode.html",
   "seasonepisodenumber": "3",
@@ -21,7 +21,7 @@
   "seriesname": "Craig of the Creek",
   "originalpremieredate": "2018-03-31T08:00:00.000Z",
   "pubdate": "2018-05-01T00:00:00.000Z",
-  "expdate": "2019-05-25T23:59:00.000Z",
+  "expdate": "2018-11-22T04:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2133651_008_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -34,8 +34,8 @@
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1522497600000",
   "pubdateasmilliseconds": "1525147200000",
-  "expdateasmilliseconds": "1558843140000",
-  "mediaid": "737302292bbd232a4f3859b206392ba8b2b2f37a",
+  "expdateasmilliseconds": "1542880740000",
+  "mediaid": "d1f9127a83a38a9e01a3b393b852fba3d03c8858",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
 }
