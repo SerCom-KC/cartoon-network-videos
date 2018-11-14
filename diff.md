@@ -3,14 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: November 14, 2018 at 09:35:12 EST_
+_Last Update: November 14, 2018 at 10:10:13 EST_
 ## Video added
-### 2163314
-**Unikitty en Espanol S01E?? - Juicio Gatuno**  
-TV-Y7 🔒 11:14  
-[Open in app](https://tinyurl.com/ydbbdas5) or on the web: https://www.cartoonnetwork.com/video/espanol/juicio-gatuno-episode.html  
-seriesid=`2163284` titleid=`2163314` mediaid=`791d7f6964866830b6c176b1876b1d44634a6e3a`  
-_Cuando Unikitty tiene un pequeño incidente automovilístico con Master Frown, iél insiste en llevar el tema a juicio! Frown está encantado: no hay nada peor que un tribunal viejo y aburrido, y está ansioso por someter a Unikitty a esa experiencia. A Unikitty le gusta hacer las cosas bien, pero el juicio se realizará en la corte de Unikitty, ique es tan absurda y divertida que se convierte en la peor pesadilla de Frown! ¿Master Frown logrará contagiar a Unikitty con su negatividad? ¿O será él quien termine castigado por las payasadas legales?_  
-<a href="https://s3.amazonaws.com/cn-orchestrator/2163314_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2163314_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2163314_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2163314_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2163314_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2163314_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2163314_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2163314_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2163314_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2163314_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2163314_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2163314_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2163314_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2163314_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2163314_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2163314_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2163314_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2163314_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/2163314_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/2163314_010_640x360.jpg" height="144px" /></a>
+No videos were added.
 ## Video removed
 No videos were removed.
