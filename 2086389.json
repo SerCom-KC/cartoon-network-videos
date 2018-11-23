@@ -2,7 +2,7 @@
   "airingid": "RADS1010291800041470",
   "seasonnumber": "2",
   "seasonitemnumber": "2",
-  "seriesid": "10000000000",
+  "seriesid": "2065972",
   "id": "8d7e71b784859a02ecfd399d8c8722827baff651",
   "collectionid": "",
   "seofriendlyurl": "/video/nexo-knights/greed-is-good-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2065972",
+  "seriesname": "Nexo Knights",
   "originalpremieredate": "2016-08-27T10:30:00.000Z",
   "pubdate": "2018-11-01T09:00:00.000Z",
   "expdate": "2018-12-01T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2086389",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2065972",
   "originalseriesname": "Nexo Knights",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1543658340000",
   "mediaid": "8d7e71b784859a02ecfd399d8c8722827baff651",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

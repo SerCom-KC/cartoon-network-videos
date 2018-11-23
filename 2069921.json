@@ -2,7 +2,7 @@
   "airingid": "RADS1010291800041471",
   "seasonnumber": "1",
   "seasonitemnumber": "10",
-  "seriesid": "10000000000",
+  "seriesid": "2065972",
   "id": "e29ac470d7826a0aa830c7d7aae5dd7842c77058",
   "collectionid": "",
   "seofriendlyurl": "/video/nexo-knights/the-might-and-the-magic-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2065972",
+  "seriesname": "Nexo Knights",
   "originalpremieredate": "2016-03-24T23:00:00.000Z",
   "pubdate": "2018-11-01T09:00:00.000Z",
   "expdate": "2018-12-01T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2069921",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2065972",
   "originalseriesname": "Nexo Knights",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1543658340000",
   "mediaid": "e29ac470d7826a0aa830c7d7aae5dd7842c77058",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
