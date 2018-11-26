@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1011151800045426",
+  "airingid": "RADS1011191800046009",
   "seasonnumber": "0",
   "seasonitemnumber": "",
   "seriesid": "10000000000602100",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000602100",
   "seriesname": "Movies",
   "originalpremieredate": "2016-11-21T00:00:00.000Z",
-  "pubdate": "2018-11-19T02:45:00.000Z",
-  "expdate": "2018-11-26T02:44:00.000Z",
+  "pubdate": "2018-11-26T02:45:00.000Z",
+  "expdate": "2018-12-03T04:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2094155_001_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1479686400000",
-  "pubdateasmilliseconds": "1542595500000",
-  "expdateasmilliseconds": "1543200240000",
+  "pubdateasmilliseconds": "1543200300000",
+  "expdateasmilliseconds": "1543813140000",
   "mediaid": "4c7c97aa1bc589e8f7fa7ff5698a77b00a6368f8",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": true
