@@ -844,7 +844,7 @@
         "pubdate": "2018-11-21T05:00:00.000Z",
         "expdate": "2019-01-01T09:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2085521_007_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "holiday 2018",
         "titleid": "2085521",
