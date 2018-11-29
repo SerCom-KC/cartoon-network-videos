@@ -3,8 +3,14 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: November 29, 2018 at 05:30:12 EST_
+_Last Update: November 29, 2018 at 05:35:10 EST_
 ## Video added
-No videos were added.
+### 645310
+**Ben 10 S03E04 - Merry Christmas**  
+TV-Y7-FV 🔒 22:50  
+[Open in app](https://tinyurl.com/y89dgusj) or on the web: https://www.cartoonnetwork.com/video/ben-10-classic/merry-christmas-episode.html  
+seriesid=`629690` titleid=`645310` mediaid=`607d12471c4f7bd24716028c5b9cdb90c9a1aa5f`  
+_When the Rustbucket's A/C goes on the fritz in the middle of the desert, Ben, Max and Gwen take refuge at Holiday Village, an over the top Christmas theme park that seems to appear out of nowhere. The place is run by an evil entity known as Mr. Jingles, who takes Max prisoner because he believes Max is Santa! It's up to Ben and Gwen to free Max and break the spell Mr. Jingles has cast on Holiday Village, freeing others who've been trapped their for years and releasing the theme park._  
+<a href="https://s3.amazonaws.com/cn-orchestrator/645310_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/645310_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/645310_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/645310_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/645310_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/645310_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/645310_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/645310_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/645310_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/645310_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/645310_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/645310_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/645310_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/645310_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/645310_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/645310_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/645310_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/645310_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cn-orchestrator/645310_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cn-orchestrator/645310_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.
