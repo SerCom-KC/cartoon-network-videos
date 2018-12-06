@@ -21,7 +21,7 @@
   "seriesname": "Holiday Specials",
   "originalpremieredate": "2018-12-21T23:30:00.000Z",
   "pubdate": "2018-11-21T05:00:00.000Z",
-  "expdate": "2019-01-01T09:59:00.000Z",
+  "expdate": "2019-01-11T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2181157_009_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -34,7 +34,7 @@
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1545435000000",
   "pubdateasmilliseconds": "1542776400000",
-  "expdateasmilliseconds": "1546336740000",
+  "expdateasmilliseconds": "1547200740000",
   "mediaid": "860164e701f6755186ce25207667336da3b3651a",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": true
