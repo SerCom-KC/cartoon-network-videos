@@ -2,7 +2,7 @@
   "airingid": "RADS1009211800033379",
   "seasonnumber": "2",
   "seasonitemnumber": "5",
-  "seriesid": "10000000000",
+  "seriesid": "2065972",
   "id": "e28f423209d1ebab6c6492d9756bb3edcc2d1b18",
   "collectionid": "",
   "seofriendlyurl": "/video/nexo-knights/monster-chef-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2065972",
+  "seriesname": "Nexo Knights",
   "originalpremieredate": "2016-09-17T10:30:00.000Z",
   "pubdate": "2018-11-01T09:00:00.000Z",
   "expdate": "2019-12-31T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2086392",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2065972",
   "originalseriesname": "Nexo Knights",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "e28f423209d1ebab6c6492d9756bb3edcc2d1b18",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
