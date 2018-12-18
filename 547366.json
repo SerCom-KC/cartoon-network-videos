@@ -21,7 +21,7 @@
   "seriesname": "Teen Titans",
   "originalpremieredate": "2004-11-07T01:00:00.000Z",
   "pubdate": "2018-04-02T07:00:00.000Z",
-  "expdate": "2019-01-01T04:59:00.000Z",
+  "expdate": "2020-01-01T04:59:59.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/547366_002_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -34,7 +34,7 @@
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1099789200000",
   "pubdateasmilliseconds": "1522652400000",
-  "expdateasmilliseconds": "1546318740000",
+  "expdateasmilliseconds": "1577854799000",
   "mediaid": "78e1c82a485d9c268a835baa9b66a4e62721b14d",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
