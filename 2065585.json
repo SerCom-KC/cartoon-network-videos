@@ -2,7 +2,7 @@
   "airingid": "RADS1012041800049913",
   "seasonnumber": "8",
   "seasonitemnumber": "3",
-  "seriesid": "10000000000",
+  "seriesid": "757073",
   "id": "187d358772ba7677c8b69a9d637fbb80e95c593f",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/beyond-the-grotto-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2016-04-09T23:00:00.000Z",
   "pubdate": "2018-12-22T10:00:00.000Z",
   "expdate": "2019-01-01T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065585",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546336740000",
   "mediaid": "187d358772ba7677c8b69a9d637fbb80e95c593f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
