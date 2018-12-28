@@ -1170,7 +1170,7 @@
         "seriesname": "Ninjago",
         "originalpremieredate": "2018-04-23T22:15:00.000Z",
         "pubdate": "2018-10-01T09:00:00.000Z",
-        "expdate": "2019-01-01T09:59:00.000Z",
+        "expdate": "2021-04-16T03:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141980_004_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -1183,7 +1183,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1524521700000",
         "pubdateasmilliseconds": "1538384400000",
-        "expdateasmilliseconds": "1546336740000",
+        "expdateasmilliseconds": "1618545599000",
         "mediaid": "a00254571cfa5fe3a2575c3f90430530a30a02fa",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
