@@ -2,7 +2,7 @@
   "airingid": "RADS1003201800013826",
   "seasonnumber": "2",
   "seasonitemnumber": "24",
-  "seriesid": "10000000000667931",
+  "seriesid": "2086246",
   "id": "3a0b4245439d8451f9b98878bb03c429fab27558",
   "collectionid": "",
   "seofriendlyurl": "/video/dc-super-hero-girls/hero-of-the-month-lady-shiva-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000667931",
-  "seriesname": "Minisodes",
+  "seriestitleid": "2086246",
+  "seriesname": "DC Super Hero Girls",
   "originalpremieredate": "2018-04-02T04:00:00.000Z",
   "pubdate": "2018-04-02T04:00:00.000Z",
   "expdate": "2018-12-31T05:00:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546232400000",
   "mediaid": "3a0b4245439d8451f9b98878bb03c429fab27558",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

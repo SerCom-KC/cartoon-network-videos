@@ -2,7 +2,7 @@
   "airingid": "RADS1003201800013842",
   "seasonnumber": "3",
   "seasonitemnumber": "",
-  "seriesid": "10000000000667931",
+  "seriesid": "2086246",
   "id": "de6092deaff90728a9364ddd36c72bb7b06f38a9",
   "collectionid": "",
   "seofriendlyurl": "/video/dc-super-hero-girls/wildside-part-1-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000667931",
-  "seriesname": "Minisodes",
+  "seriestitleid": "2086246",
+  "seriesname": "DC Super Hero Girls",
   "originalpremieredate": "2018-04-02T04:00:00.000Z",
   "pubdate": "2018-04-02T04:00:00.000Z",
   "expdate": "2018-12-31T05:00:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546232400000",
   "mediaid": "de6092deaff90728a9364ddd36c72bb7b06f38a9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1003201800013835",
   "seasonnumber": "3",
   "seasonitemnumber": "",
-  "seriesid": "10000000000667931",
+  "seriesid": "2086246",
   "id": "c7a025384d1e05323ea0ca65d98859ae50f5b307",
   "collectionid": "",
   "seofriendlyurl": "/video/dc-super-hero-girls/tales-from-the-kryptomites-part-1-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000667931",
-  "seriesname": "Minisodes",
+  "seriestitleid": "2086246",
+  "seriesname": "DC Super Hero Girls",
   "originalpremieredate": "2018-04-02T04:00:00.000Z",
   "pubdate": "2018-04-02T04:00:00.000Z",
   "expdate": "2018-12-31T05:00:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546232400000",
   "mediaid": "c7a025384d1e05323ea0ca65d98859ae50f5b307",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
