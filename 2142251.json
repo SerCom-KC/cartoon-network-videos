@@ -23,12 +23,12 @@
   "pubdate": "2018-12-08T10:00:00.000Z",
   "expdate": "2019-04-15T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2142251_003_640x360.jpg",
-  "authtype": "auth",
+  "authtype": "unauth",
   "webflags": "",
-  "tags": "",
+  "tags": "unauth",
   "titleid": "2142251",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2079533",
   "originalseriesname": "OK K.O.!",
   "hasparent": false,
@@ -36,6 +36,6 @@
   "pubdateasmilliseconds": "1544263200000",
   "expdateasmilliseconds": "1555318740000",
   "mediaid": "07deb0d144f383935925b52c172f514d64c727f6",
-  "isunlockedfullepisode": false,
+  "isunlockedfullepisode": true,
   "ismultipropertycollection": false
 }
