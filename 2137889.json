@@ -2,7 +2,7 @@
   "airingid": "RADS1008241800027863",
   "seasonnumber": "1",
   "seasonitemnumber": "5",
-  "seriesid": "2133648",
+  "seriesid": "10000000000",
   "id": "55c5eba68b54642a6418c2ae434f8e624ac2c5b0",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/apples-in-trouble-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2133648",
-  "seriesname": "Apple & Onion",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-03-09T23:15:00.000Z",
   "pubdate": "2018-09-03T04:01:00.000Z",
   "expdate": "2019-01-01T04:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2137889",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2133648",
   "originalseriesname": "Apple & Onion",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546318740000",
   "mediaid": "55c5eba68b54642a6418c2ae434f8e624ac2c5b0",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

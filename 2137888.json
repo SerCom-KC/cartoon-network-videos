@@ -2,7 +2,7 @@
   "airingid": "RADS1008241800027854",
   "seasonnumber": "1",
   "seasonitemnumber": "6",
-  "seriesid": "2133648",
+  "seriesid": "10000000000",
   "id": "39b79af4b52f02360070a5fc54f84d44f9167a93",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/4-on-1-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2133648",
-  "seriesname": "Apple & Onion",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-03-10T00:15:00.000Z",
   "pubdate": "2018-09-03T04:01:00.000Z",
   "expdate": "2019-01-01T04:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2137888",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2133648",
   "originalseriesname": "Apple & Onion",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546318740000",
   "mediaid": "39b79af4b52f02360070a5fc54f84d44f9167a93",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

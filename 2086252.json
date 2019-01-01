@@ -2,7 +2,7 @@
   "airingid": "RADS1005101800017564",
   "seasonnumber": "1",
   "seasonitemnumber": "6",
-  "seriesid": "10000000000667931",
+  "seriesid": "2086246",
   "id": "b6746a14cb6788ac71048cbfc892e231e82cb6d1",
   "collectionid": "",
   "seofriendlyurl": "/video/dc-super-hero-girls/fall-into-super-hero-high-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000667931",
-  "seriesname": "Minisodes",
+  "seriestitleid": "2086246",
+  "seriesname": "DC Super Hero Girls",
   "originalpremieredate": "2018-05-19T04:00:00.000Z",
   "pubdate": "2018-05-19T04:00:00.000Z",
   "expdate": "2019-01-01T04:59:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546318740000",
   "mediaid": "b6746a14cb6788ac71048cbfc892e231e82cb6d1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
