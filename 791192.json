@@ -2,7 +2,7 @@
   "airingid": "RADS1012281800056494",
   "seasonnumber": "1",
   "seasonitemnumber": "17",
-  "seriesid": "10000000000",
+  "seriesid": "757073",
   "id": "df6cbee0c148c88da8f87fe8b1f524df475ba28f",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/when-wedding-bells-thaw-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2010-06-29T00:00:00.000Z",
   "pubdate": "2019-01-01T10:00:00.000Z",
   "expdate": "2019-01-08T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "791192",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546941540000",
   "mediaid": "df6cbee0c148c88da8f87fe8b1f524df475ba28f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
