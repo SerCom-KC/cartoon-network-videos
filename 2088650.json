@@ -2,7 +2,7 @@
   "airingid": "RADS1001291800011708",
   "seasonnumber": "4",
   "seasonitemnumber": "11",
-  "seriesid": "10000000000",
+  "seriesid": "2012957",
   "id": "9227145a7ab88e35f76ca3103d04e069573b3fd8",
   "collectionid": "",
   "seofriendlyurl": "/video/clarence/the-trade-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2012957",
+  "seriesname": "Clarence",
   "originalpremieredate": "2017-06-29T20:00:00.000Z",
   "pubdate": "2018-02-16T08:00:00.000Z",
   "expdate": "2019-01-01T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088650",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2012957",
   "originalseriesname": "Clarence",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546336740000",
   "mediaid": "9227145a7ab88e35f76ca3103d04e069573b3fd8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1001291800011713",
   "seasonnumber": "4",
   "seasonitemnumber": "6",
-  "seriesid": "10000000000",
+  "seriesid": "2012957",
   "id": "a46c22317809ed61a767b8a79bbf4fab7a20f3fb",
   "collectionid": "",
   "seofriendlyurl": "/video/clarence/cool-guy-clarence-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2012957",
+  "seriesname": "Clarence",
   "originalpremieredate": "2017-06-21T20:00:00.000Z",
   "pubdate": "2018-02-16T08:00:00.000Z",
   "expdate": "2019-01-01T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088633",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2012957",
   "originalseriesname": "Clarence",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546336740000",
   "mediaid": "a46c22317809ed61a767b8a79bbf4fab7a20f3fb",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

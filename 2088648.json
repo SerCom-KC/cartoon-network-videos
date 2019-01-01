@@ -2,7 +2,7 @@
   "airingid": "RADS1008131800026305",
   "seasonnumber": "4",
   "seasonitemnumber": "3",
-  "seriesid": "10000000000",
+  "seriesid": "2012957",
   "id": "fd894154f46da3a8cbe375af43a77a6560de3c05",
   "collectionid": "",
   "seofriendlyurl": "/video/clarence/chad-and-the-marathon-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2012957",
+  "seriesname": "Clarence",
   "originalpremieredate": "2017-06-15T20:00:00.000Z",
   "pubdate": "2018-08-13T04:00:00.000Z",
   "expdate": "2019-01-01T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088648",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2012957",
   "originalseriesname": "Clarence",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546336740000",
   "mediaid": "fd894154f46da3a8cbe375af43a77a6560de3c05",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

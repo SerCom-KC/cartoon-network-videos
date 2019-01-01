@@ -2,7 +2,7 @@
   "airingid": "RADS1007031800022566",
   "seasonnumber": "4",
   "seasonitemnumber": "21",
-  "seriesid": "10000000000",
+  "seriesid": "2012957",
   "id": "f254de60f434e97f30c27b5f8f626d01ed13cea9",
   "collectionid": "",
   "seofriendlyurl": "/video/clarence/clarence-the-movie-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2012957",
+  "seriesname": "Clarence",
   "originalpremieredate": "2018-06-17T18:00:00.000Z",
   "pubdate": "2018-08-13T04:00:00.000Z",
   "expdate": "2019-01-01T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088659",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2012957",
   "originalseriesname": "Clarence",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546336740000",
   "mediaid": "f254de60f434e97f30c27b5f8f626d01ed13cea9",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
