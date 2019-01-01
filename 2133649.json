@@ -2,7 +2,7 @@
   "airingid": "RADS1012131800051423",
   "seasonnumber": "1",
   "seasonitemnumber": "2",
-  "seriesid": "10000000000",
+  "seriesid": "2133648",
   "id": "92f858f5c3250cb1b76be746f21091284c99a48b",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/the-perfect-team-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2133648",
+  "seriesname": "Apple & Onion",
   "originalpremieredate": "2018-02-24T00:00:00.000Z",
   "pubdate": "2019-01-01T10:00:00.000Z",
   "expdate": "2019-01-16T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2133649",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2133648",
   "originalseriesname": "Apple & Onion",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1547632740000",
   "mediaid": "92f858f5c3250cb1b76be746f21091284c99a48b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

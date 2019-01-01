@@ -2,7 +2,7 @@
   "airingid": "RADS1012281800056628",
   "seasonnumber": "3",
   "seasonitemnumber": "4",
-  "seriesid": "10000000000",
+  "seriesid": "2043744",
   "id": "cba30d751ba7adfe09d754d1afb42ac7f0f544f2",
   "collectionid": "",
   "seofriendlyurl": "/video/transformers/blurred-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2043744",
+  "seriesname": "Transformers",
   "originalpremieredate": "2017-05-13T10:30:00.000Z",
   "pubdate": "2019-01-01T10:00:00.000Z",
   "expdate": "2019-01-08T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2106778",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2043744",
   "originalseriesname": "Transformers",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546941540000",
   "mediaid": "cba30d751ba7adfe09d754d1afb42ac7f0f544f2",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

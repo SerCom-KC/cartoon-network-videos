@@ -2,7 +2,7 @@
   "airingid": "RADS1012131800051429",
   "seasonnumber": "1",
   "seasonitemnumber": "4",
-  "seriesid": "10000000000",
+  "seriesid": "2133648",
   "id": "e603b777c4144104b2a6492f62031727928f3303",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/falafels-fun-day-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2133648",
+  "seriesname": "Apple & Onion",
   "originalpremieredate": "2018-03-03T00:30:00.000Z",
   "pubdate": "2019-01-01T10:00:00.000Z",
   "expdate": "2019-01-16T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2142247",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2133648",
   "originalseriesname": "Apple & Onion",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1547632740000",
   "mediaid": "e603b777c4144104b2a6492f62031727928f3303",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
