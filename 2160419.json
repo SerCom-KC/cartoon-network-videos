@@ -23,12 +23,12 @@
   "pubdate": "2018-11-15T10:00:00.000Z",
   "expdate": "2019-03-29T04:00:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2160419_002_640x360.jpg",
-  "authtype": "auth",
+  "authtype": "unauth",
   "webflags": "",
-  "tags": "",
+  "tags": "unauth",
   "titleid": "2160419",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2130773",
   "originalseriesname": "Unikitty",
   "hasparent": false,
@@ -36,6 +36,6 @@
   "pubdateasmilliseconds": "1542276000000",
   "expdateasmilliseconds": "1553832000000",
   "mediaid": "a9cbbbc163edc8bfc72bc66e0118b5ef07ad37e3",
-  "isunlockedfullepisode": false,
+  "isunlockedfullepisode": true,
   "ismultipropertycollection": false
 }
