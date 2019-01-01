@@ -2,7 +2,7 @@
   "airingid": "RADS1012041800049933",
   "seasonnumber": "1",
   "seasonitemnumber": "9",
-  "seriesid": "10000000000",
+  "seriesid": "2132940",
   "id": "a6e394982596b7bd40220e1f29081f73540ac855",
   "collectionid": "",
   "seofriendlyurl": "/video/craig-of-the-creek/monster-in-the-garden-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2132940",
+  "seriesname": "Craig of the Creek",
   "originalpremieredate": "2018-04-13T23:00:00.000Z",
   "pubdate": "2018-12-20T10:00:00.000Z",
   "expdate": "2019-01-01T09:59:09.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2145396",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2132940",
   "originalseriesname": "Craig of the Creek",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546336749000",
   "mediaid": "a6e394982596b7bd40220e1f29081f73540ac855",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

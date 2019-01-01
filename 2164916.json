@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1005021800016759",
+  "airingid": "RADS1012181800053399",
   "seasonnumber": "0",
   "seasonitemnumber": "",
   "seriesid": "10000000000",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2018-05-04T22:00:00.000Z",
-  "pubdate": "2018-06-10T04:00:00.000Z",
-  "expdate": "2019-01-01T05:00:00.000Z",
+  "pubdate": "2019-01-01T10:00:00.000Z",
+  "expdate": "2019-12-31T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2164916_001_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1525471200000",
-  "pubdateasmilliseconds": "1528603200000",
-  "expdateasmilliseconds": "1546318800000",
+  "pubdateasmilliseconds": "1546336800000",
+  "expdateasmilliseconds": "1577786340000",
   "mediaid": "1acfe5e3d912c87a54b195d3040e4a263084fc26",
   "isunlockedfullepisode": true,
   "ismultipropertycollection": true
