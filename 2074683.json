@@ -2,7 +2,7 @@
   "airingid": "RADS1001021900057128",
   "seasonnumber": "4",
   "seasonitemnumber": "35",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "0f078fa4a6ef1a7a63add3beebb3b3acdda10616",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-slap-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2016-08-17T21:00:00.000Z",
   "pubdate": "2019-01-01T10:00:00.000Z",
   "expdate": "2019-01-08T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2074683",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546941540000",
   "mediaid": "0f078fa4a6ef1a7a63add3beebb3b3acdda10616",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
