@@ -805,7 +805,7 @@
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2054784_009_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
-        "tags": "vod",
+        "tags": "vod|ttg - birthday",
         "titleid": "2054784",
         "titletype": "Episode",
         "bannertext": "",
@@ -1092,7 +1092,7 @@
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2174719_005_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
-        "tags": "",
+        "tags": "ttg - birthday",
         "titleid": "2174719",
         "titletype": "Episode",
         "bannertext": "LATEST EPISODE",
@@ -1174,7 +1174,7 @@
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2134805_003_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
-        "tags": "vod",
+        "tags": "vod|ttg - birthday",
         "titleid": "2134805",
         "titletype": "Episode",
         "bannertext": "",
@@ -1666,7 +1666,7 @@
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2104520_002_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
-        "tags": "vod",
+        "tags": "vod|ttg - birthday",
         "titleid": "2104520",
         "titletype": "Episode",
         "bannertext": "",
@@ -2378,7 +2378,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012271800056420",
+        "airingid": "RADS1012271800056400",
         "seasonnumber": "3",
         "seasonitemnumber": "3",
         "seriesid": "2000349",
@@ -2419,7 +2419,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012271800056400",
+        "airingid": "RADS1012271800056420",
         "seasonnumber": "3",
         "seasonitemnumber": "3",
         "seriesid": "2000349",
