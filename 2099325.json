@@ -2,7 +2,7 @@
   "airingid": "RADS1006041800019689",
   "seasonnumber": "4",
   "seasonitemnumber": "",
-  "seriesid": "10000000000667931",
+  "seriesid": "2012957",
   "id": "72d220f594922065e1187385d87c0561456281aa",
   "collectionid": "",
   "seofriendlyurl": "/video/clarence/doodle-battle-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000667931",
-  "seriesname": "Minisodes",
+  "seriestitleid": "2012957",
+  "seriesname": "Clarence",
   "originalpremieredate": "2018-06-24T18:00:00.000Z",
   "pubdate": "2018-06-08T04:00:00.000Z",
   "expdate": "2019-01-03T09:59:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546509540000",
   "mediaid": "72d220f594922065e1187385d87c0561456281aa",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
