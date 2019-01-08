@@ -2,7 +2,7 @@
   "airingid": "RADS1012281800056499",
   "seasonnumber": "2",
   "seasonitemnumber": "33",
-  "seriesid": "835928",
+  "seriesid": "10000000000",
   "id": "3bed09e7e6d850bb73a5b8cf1be75f4a23fba49e",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-castle-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "835928",
-  "seriesname": "Gumball",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2013-10-01T23:30:00.000Z",
   "pubdate": "2019-01-01T10:00:00.000Z",
   "expdate": "2019-01-08T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2000134",
   "titletype": "Element",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546941540000",
   "mediaid": "3bed09e7e6d850bb73a5b8cf1be75f4a23fba49e",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
