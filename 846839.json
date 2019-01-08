@@ -2,7 +2,7 @@
   "airingid": "RADS1012281800056496",
   "seasonnumber": "3",
   "seasonitemnumber": "21",
-  "seriesid": "757073",
+  "seriesid": "10000000000",
   "id": "e0c7ec9606139f00b08718e807f2947bd30e32f5",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/paper-pete-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "757073",
-  "seriesname": "Adventure Time",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2012-01-17T00:30:00.000Z",
   "pubdate": "2019-01-01T10:00:00.000Z",
   "expdate": "2019-01-08T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "846839",
   "titletype": "Element",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546941540000",
   "mediaid": "e0c7ec9606139f00b08718e807f2947bd30e32f5",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
