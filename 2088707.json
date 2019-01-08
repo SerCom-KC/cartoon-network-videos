@@ -2,7 +2,7 @@
   "airingid": "RADS1003261800014098",
   "seasonnumber": "3",
   "seasonitemnumber": "5",
-  "seriesid": "10000000000",
+  "seriesid": "2056641",
   "id": "9d7bf695e0b0599827bc8a27837f36b41230fa8e",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/neighbors-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2056641",
+  "seriesname": "We Bare Bears",
   "originalpremieredate": "2017-04-11T23:00:00.000Z",
   "pubdate": "2018-04-02T04:00:00.000Z",
   "expdate": "2019-01-08T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088707",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546941540000",
   "mediaid": "9d7bf695e0b0599827bc8a27837f36b41230fa8e",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

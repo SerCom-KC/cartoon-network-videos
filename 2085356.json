@@ -2,7 +2,7 @@
   "airingid": "RADS1012281800056518",
   "seasonnumber": "3",
   "seasonitemnumber": "2",
-  "seriesid": "10000000000",
+  "seriesid": "2012957",
   "id": "21fd48a421d9275235478616d15e39a6fa6313cb",
   "collectionid": "",
   "seofriendlyurl": "/video/clarence/worm-bin-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2012957",
+  "seriesname": "Clarence",
   "originalpremieredate": "2016-11-01T21:30:00.000Z",
   "pubdate": "2019-01-01T10:00:00.000Z",
   "expdate": "2019-01-08T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2085356",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2012957",
   "originalseriesname": "Clarence",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546941540000",
   "mediaid": "21fd48a421d9275235478616d15e39a6fa6313cb",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

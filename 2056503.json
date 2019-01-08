@@ -2,7 +2,7 @@
   "airingid": "RADS1012281800056612",
   "seasonnumber": "7",
   "seasonitemnumber": "1",
-  "seriesid": "10000000000",
+  "seriesid": "810150",
   "id": "f6f353c70b478f8ac72a0996862e7666e6701719",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/dumptown-usa-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "810150",
+  "seriesname": "Regular Show",
   "originalpremieredate": "2015-06-26T22:00:00.000Z",
   "pubdate": "2019-01-01T10:00:00.000Z",
   "expdate": "2019-01-08T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2056503",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546941540000",
   "mediaid": "f6f353c70b478f8ac72a0996862e7666e6701719",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

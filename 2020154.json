@@ -2,7 +2,7 @@
   "airingid": "RADS1012281800056617",
   "seasonnumber": "1",
   "seasonitemnumber": "47",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "29a47a608daca2c818dde64ed24810deeb05b776",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/political-power-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2015-03-11T21:00:00.000Z",
   "pubdate": "2019-01-01T10:00:00.000Z",
   "expdate": "2019-01-08T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2020154",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546941540000",
   "mediaid": "29a47a608daca2c818dde64ed24810deeb05b776",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

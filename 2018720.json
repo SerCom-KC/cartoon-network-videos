@@ -2,7 +2,7 @@
   "airingid": "RADS1001031900058355",
   "seasonnumber": "2",
   "seasonitemnumber": "6",
-  "seriesid": "2007332",
+  "seriesid": "10000000000",
   "id": "cdee224d57bf96f349dfdf7a1673bea1a36226e1",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/the-fan-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2007332",
-  "seriesname": "Uncle Grandpa",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2015-05-06T21:00:00.000Z",
   "pubdate": "2019-01-08T10:00:00.000Z",
   "expdate": "2019-01-15T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2018720",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1547546340000",
   "mediaid": "cdee224d57bf96f349dfdf7a1673bea1a36226e1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

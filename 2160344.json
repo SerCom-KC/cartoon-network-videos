@@ -2,7 +2,7 @@
   "airingid": "RADS1009271800034785",
   "seasonnumber": "1",
   "seasonitemnumber": "18",
-  "seriesid": "10000000000",
+  "seriesid": "2132940",
   "id": "e006bd9901c0be81e32bc8025da4c39ab9f02135",
   "collectionid": "",
   "seofriendlyurl": "/video/craig-of-the-creek/vultures-nest-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2132940",
+  "seriesname": "Craig of the Creek",
   "originalpremieredate": "2018-07-09T13:00:00.000Z",
   "pubdate": "2018-10-26T09:00:00.000Z",
   "expdate": "2019-01-08T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2160344",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2132940",
   "originalseriesname": "Craig of the Creek",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546941540000",
   "mediaid": "e006bd9901c0be81e32bc8025da4c39ab9f02135",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

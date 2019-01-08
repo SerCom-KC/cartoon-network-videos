@@ -2,7 +2,7 @@
   "airingid": "RADS1012281800056614",
   "seasonnumber": "8",
   "seasonitemnumber": "6",
-  "seriesid": "10000000000",
+  "seriesid": "810150",
   "id": "837a2b2ad6b9de61f3ac516704c6a266c289b2a3",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/ugly-moons-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "810150",
+  "seriesname": "Regular Show",
   "originalpremieredate": "2016-09-30T00:00:00.000Z",
   "pubdate": "2019-01-01T10:00:00.000Z",
   "expdate": "2019-01-08T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2075007",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1546941540000",
   "mediaid": "837a2b2ad6b9de61f3ac516704c6a266c289b2a3",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
