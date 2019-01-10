@@ -2,7 +2,7 @@
   "airingid": "RADS1001021900057126",
   "seasonnumber": "2",
   "seasonitemnumber": "49",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "28311086f3eabdaefec423bfec0c799968f15a04",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/the-hive-five-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2015-07-27T22:00:00.000Z",
   "pubdate": "2019-01-01T10:00:00.000Z",
   "expdate": "2019-01-10T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2041645",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2000349",
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1547114340000",
   "mediaid": "28311086f3eabdaefec423bfec0c799968f15a04",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

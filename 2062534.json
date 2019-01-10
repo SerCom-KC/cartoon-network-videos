@@ -2,7 +2,7 @@
   "airingid": "RADS1001021900057127",
   "seasonnumber": "3",
   "seasonitemnumber": "44",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "536b842fa1e13c774760ce38e90ee75b69566964",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/the-titans-show-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2016-08-05T22:00:00.000Z",
   "pubdate": "2019-01-01T10:00:00.000Z",
   "expdate": "2019-01-10T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2062534",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2000349",
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1547114340000",
   "mediaid": "536b842fa1e13c774760ce38e90ee75b69566964",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

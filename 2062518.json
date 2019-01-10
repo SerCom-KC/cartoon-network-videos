@@ -2,7 +2,7 @@
   "airingid": "RADS1001021900057125",
   "seasonnumber": "3",
   "seasonitemnumber": "52",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "5df72cbab50e3c09ea52a3f586aa451e71ff5364",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/the-cape-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2016-10-13T22:00:00.000Z",
   "pubdate": "2019-01-01T10:00:00.000Z",
   "expdate": "2019-01-10T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2062518",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2000349",
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1547114340000",
   "mediaid": "5df72cbab50e3c09ea52a3f586aa451e71ff5364",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
