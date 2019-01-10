@@ -2,7 +2,7 @@
   "airingid": "RADS1001071900059163",
   "seasonnumber": "1",
   "seasonitemnumber": "",
-  "seriesid": "2170837",
+  "seriesid": "10000000000667931",
   "id": "a846cde44730a0a1c4cca99e9c117cdcfd987620",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/bakugan-beyond-the-brawl-a-bakugan-by-any-other-name-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2170837",
-  "seriesname": "Bakugan: Battle Planet",
+  "seriestitleid": "10000000000667931",
+  "seriesname": "Minisodes",
   "originalpremieredate": "2019-01-08T10:00:00.000Z",
   "pubdate": "2019-01-08T10:00:00.000Z",
   "expdate": "2019-12-31T09:59:00.000Z",
@@ -36,5 +36,5 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "a846cde44730a0a1c4cca99e9c117cdcfd987620",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

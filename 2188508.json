@@ -2,7 +2,7 @@
   "airingid": "RADS1001071900059165",
   "seasonnumber": "1",
   "seasonitemnumber": "",
-  "seriesid": "2170837",
+  "seriesid": "10000000000667931",
   "id": "cedcbfe894178142465a5957167e1726e88852f9",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/bakugan-beyond-the-brawl-take-23-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2170837",
-  "seriesname": "Bakugan: Battle Planet",
+  "seriestitleid": "10000000000667931",
+  "seriesname": "Minisodes",
   "originalpremieredate": "2019-01-08T10:00:00.000Z",
   "pubdate": "2019-01-08T10:00:00.000Z",
   "expdate": "2019-12-31T09:59:00.000Z",
@@ -36,5 +36,5 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "cedcbfe894178142465a5957167e1726e88852f9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
