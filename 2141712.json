@@ -2,7 +2,7 @@
   "airingid": "RADS1001041900058835",
   "seasonnumber": "1",
   "seasonitemnumber": "5",
-  "seriesid": "10000000000",
+  "seriesid": "2141710",
   "id": "9172fb6cb83afb352ac471b5d003b73a5d6da2a4",
   "collectionid": "",
   "seofriendlyurl": "/video/total-dramarama/the-date-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2141710",
+  "seriesname": "Total Dramarama",
   "originalpremieredate": "2018-09-08T13:00:00.000Z",
   "pubdate": "2019-01-12T10:00:00.000Z",
   "expdate": "2019-01-12T11:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2141712",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2141710",
   "originalseriesname": "Total Dramarama",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1547294340000",
   "mediaid": "9172fb6cb83afb352ac471b5d003b73a5d6da2a4",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
