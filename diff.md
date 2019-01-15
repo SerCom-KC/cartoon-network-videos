@@ -3,23 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: January 14, 2019 at 19:30:16 EST_
+_Last Update: January 15, 2019 at 00:00:17 EST_
 ## Video added
 No videos were added.
 ## Video removed
-### 686932
-**Ben 10: Race Against Time**  
-TV-PG 🔒 66:59  
-⌛ January 15, 2019 at 00:00:00 EST  
-[Open in app](https://tinyurl.com/y75k84z3)  
-seriesid=`10000000000602100` titleid=`686932` mediaid=`2597a51d8d9d9c562d0c4ba1e794f4ff202db60e`  
-_After fighting aliens with his Grandpa Max and cousin Gwen, Ben returns home to face his biggest challenge yet, just being a regular kid. Little does he know that under his hometown of Bellwood lies a secret, one that he must protect at any cost._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/686932_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/686932_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/686932_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/686932_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/686932_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/686932_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/686932_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/686932_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/686932_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/686932_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/686932_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/686932_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/686932_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/686932_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/686932_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/686932_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/686932_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/686932_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/686932_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/686932_010_640x360.jpg" height="144px" /></a>
-### 676183
-**Ben 10: Secret of the Omnitrix**  
-TV-Y7-FV 🔒 71:05  
-⌛ January 15, 2019 at 00:00:00 EST  
-[Open in app](https://tinyurl.com/ydaqud7u)  
-seriesid=`10000000000602100` titleid=`676183` mediaid=`f0df4a0acdc6985d558b0c449d5c6a87f6fa7114`  
-_In a battle with Animo, Ben in hero mode doesn't listen to reason from Max and Gwen and gets engulfed in a weird energy light. Little does Ben know that the self destruct function on the Omnitrix has just been initiated._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/676183_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/676183_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/676183_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/676183_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/676183_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/676183_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/676183_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/676183_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/676183_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/676183_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/676183_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/676183_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/676183_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/676183_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/676183_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/676183_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/676183_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/676183_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/676183_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/676183_010_640x360.jpg" height="144px" /></a>
+No videos were removed.
