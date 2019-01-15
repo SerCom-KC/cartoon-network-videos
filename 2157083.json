@@ -2,7 +2,7 @@
   "airingid": "RADS1001041900058769",
   "seasonnumber": "1",
   "seasonitemnumber": "10",
-  "seriesid": "10000000000",
+  "seriesid": "2131007",
   "id": "be6856244af82c442ee682a31e906ffd481c75a1",
   "collectionid": "",
   "seofriendlyurl": "/video/summer-camp-island/the-basketball-liaries-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2131007",
+  "seriesname": "Summer Camp Island",
   "originalpremieredate": "2018-07-07T12:00:00.000Z",
   "pubdate": "2019-01-08T10:00:00.000Z",
   "expdate": "2019-01-15T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2157083",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2131007",
   "originalseriesname": "Summer Camp Island",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1547546340000",
   "mediaid": "be6856244af82c442ee682a31e906ffd481c75a1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

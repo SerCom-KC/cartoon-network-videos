@@ -2,7 +2,7 @@
   "airingid": "RADS1001031900058267",
   "seasonnumber": "3",
   "seasonitemnumber": "19",
-  "seriesid": "10000000000",
+  "seriesid": "810150",
   "id": "630b932d7cb476dae0f4186ae8d32b9ee568fc7b",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/gut-model-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "810150",
+  "seriesname": "Regular Show",
   "originalpremieredate": "2012-03-06T01:00:00.000Z",
   "pubdate": "2019-01-08T10:00:00.000Z",
   "expdate": "2019-01-15T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "849712",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1547546340000",
   "mediaid": "630b932d7cb476dae0f4186ae8d32b9ee568fc7b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

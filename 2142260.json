@@ -2,7 +2,7 @@
   "airingid": "RADS1001041900058771",
   "seasonnumber": "1",
   "seasonitemnumber": "6",
-  "seriesid": "10000000000",
+  "seriesid": "2131007",
   "id": "e8473ef356f8ac606b2be2d94d097be6846bc4a2",
   "collectionid": "",
   "seofriendlyurl": "/video/summer-camp-island/oscar--hedgehogs-melody-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2131007",
+  "seriesname": "Summer Camp Island",
   "originalpremieredate": "2018-07-07T11:00:00.000Z",
   "pubdate": "2019-01-08T10:00:00.000Z",
   "expdate": "2019-01-15T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2142260",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2131007",
   "originalseriesname": "Summer Camp Island",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1547546340000",
   "mediaid": "e8473ef356f8ac606b2be2d94d097be6846bc4a2",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
