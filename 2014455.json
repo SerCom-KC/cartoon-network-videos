@@ -2,7 +2,7 @@
   "airingid": "RADS1001031900058241",
   "seasonnumber": "1",
   "seasonitemnumber": "14",
-  "seriesid": "2012957",
+  "seriesid": "10000000000",
   "id": "d59c3a05a8bee246e1f6b5d1e479decdd0953578",
   "collectionid": "",
   "seofriendlyurl": "/video/clarence/puddle-eyes-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2012957",
-  "seriesname": "Clarence",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2014-07-24T22:45:00.000Z",
   "pubdate": "2019-01-15T10:00:00.000Z",
   "expdate": "2019-01-22T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2014455",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2012957",
   "originalseriesname": "Clarence",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1548151140000",
   "mediaid": "d59c3a05a8bee246e1f6b5d1e479decdd0953578",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1001041900058778",
   "seasonnumber": "1",
   "seasonitemnumber": "14",
-  "seriesid": "2131007",
+  "seriesid": "10000000000",
   "id": "0d565f015d3e73043e62fe8a9f424c60fffb7596",
   "collectionid": "",
   "seofriendlyurl": "/video/summer-camp-island/moon-problems-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2131007",
-  "seriesname": "Summer Camp Island",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-07-07T13:00:00.000Z",
   "pubdate": "2019-01-15T10:00:00.000Z",
   "expdate": "2019-01-22T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2142256",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2131007",
   "originalseriesname": "Summer Camp Island",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1548151140000",
   "mediaid": "0d565f015d3e73043e62fe8a9f424c60fffb7596",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
