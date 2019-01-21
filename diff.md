@@ -3,31 +3,15 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: January 21, 2019 at 05:00:16 EST_
+_Last Update: January 21, 2019 at 05:30:15 EST_
 ## Video added
-No videos were added.
-## Video removed
-### 2034472
-**Steven Universe S02E16 - Nightmare Hospital**  
-TV-PG 🔓 11:26  
-⌛ January 21, 2019 at 04:59:00 EST  
-[Open in app](https://tinyurl.com/y7nelocm) or on the web: https://www.cartoonnetwork.com/video/steven-universe/nightmare-hospital-episode.html  
-seriesid=`2011404` titleid=`2034472` mediaid=`2ec21ab51a5c0615821417a60ba72ec2dadb2129`  
-_Steven and Connie sneak into a hospital to recover Rose's Sword._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2034472_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034472_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034472_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034472_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034472_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034472_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034472_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034472_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034472_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034472_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034472_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034472_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034472_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034472_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034472_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034472_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034472_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034472_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034472_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034472_010_640x360.jpg" height="144px" /></a>
-### 2083884
-**Steven Universe S04E22 - The Good Lars**  
-TV-PG 🔓 11:26  
-⌛ January 21, 2019 at 04:59:00 EST  
-[Open in app](https://tinyurl.com/yde2ul7a) or on the web: https://www.cartoonnetwork.com/video/steven-universe/the-good-lars-episode.html  
-seriesid=`2011404` titleid=`2083884` mediaid=`e95c80748589ed82e3b09bd2c49e6d05173b1eeb`  
-_Steven, Lars and Sadie get invited to a party with the Cool Kids._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2083884_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2083884_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2083884_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2083884_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2083884_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2083884_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2083884_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2083884_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2083884_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2083884_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2083884_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2083884_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2083884_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2083884_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2083884_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2083884_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2083884_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2083884_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2083884_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2083884_010_640x360.jpg" height="144px" /></a>
 ### 2132074
 **Steven Universe S05E26 - Together Alone**  
-TV-PG 🔒 11:27  
-⌛ January 21, 2019 at 04:59:00 EST  
+TV-PG 🔓 11:27  
+⌛ February 4, 2019 at 04:59:00 EST  
 [Open in app](https://tinyurl.com/y9phankp) or on the web: https://www.cartoonnetwork.com/video/steven-universe/together-alone-episode.html  
 seriesid=`2011404` titleid=`2132074` mediaid=`1425bab16b5c5656409db67253cdf26ddc3e8f5b`  
 _Steven throws a party to bring his family together._  
 <a href="https://s3.amazonaws.com/cartoonorchestrator/2132074_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2132074_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2132074_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2132074_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2132074_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2132074_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2132074_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2132074_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2132074_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2132074_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2132074_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2132074_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2132074_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2132074_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2132074_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2132074_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2132074_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2132074_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2132074_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2132074_010_640x360.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.
