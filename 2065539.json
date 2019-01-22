@@ -2,7 +2,7 @@
   "airingid": "RADS1001031900058289",
   "seasonnumber": "3",
   "seasonitemnumber": "15",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "857ab90aa847f4b1a88d4878ceecb31047c59562",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/beach-city-drift-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2016-07-22T23:00:00.000Z",
   "pubdate": "2019-01-15T10:00:00.000Z",
   "expdate": "2019-01-22T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065539",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1548151140000",
   "mediaid": "857ab90aa847f4b1a88d4878ceecb31047c59562",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
