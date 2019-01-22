@@ -3,7 +3,7 @@
   "seasonnumber": "2",
   "seasonitemnumber": "2",
   "seriesid": "10000000000",
-  "id": "c68ef917e35a8f0daf07a0c419c192d67b8f6b09",
+  "id": "c7084ccc552bdc77c96213c22f1669c873b21b3b",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/story-for-steven-episode.html",
   "seasonepisodenumber": "2",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Greg tells Steven the full story of how he met Rose-Quartz.",
-  "duration": 685,
+  "duration": 716,
   "freewheelid": "cn-2020152",
   "isclip": false,
   "typesort": "1",
@@ -35,7 +35,7 @@
   "originalpremieredateasmilliseconds": "1428615000000",
   "pubdateasmilliseconds": "1548151200000",
   "expdateasmilliseconds": "1549015140000",
-  "mediaid": "c68ef917e35a8f0daf07a0c419c192d67b8f6b09",
+  "mediaid": "c7084ccc552bdc77c96213c22f1669c873b21b3b",
   "isunlockedfullepisode": true,
   "ismultipropertycollection": true
 }
