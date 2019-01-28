@@ -21,7 +21,7 @@
   "seriesname": "Lego Specials",
   "originalpremieredate": "2019-02-05T22:30:00.000Z",
   "pubdate": "2018-12-13T10:00:00.000Z",
-  "expdate": "2019-02-01T09:59:28.000Z",
+  "expdate": "2019-02-01T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2168841_005_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -34,7 +34,7 @@
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1549405800000",
   "pubdateasmilliseconds": "1544695200000",
-  "expdateasmilliseconds": "1549015168000",
+  "expdateasmilliseconds": "1549015140000",
   "mediaid": "e78eea30a2d828b5c9a2417f788c1758d623d788",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": true
