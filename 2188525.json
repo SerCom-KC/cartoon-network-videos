@@ -2,7 +2,7 @@
   "airingid": "RADS1001251900062465",
   "seasonnumber": "1",
   "seasonitemnumber": "",
-  "seriesid": "2170837",
+  "seriesid": "10000000000667931",
   "id": "2d96039fc3a0357e03c9948c841cd5e3772402df",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/bakugan-beyond-the-brawl-troxs-wild-ride-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2170837",
-  "seriesname": "Bakugan: Battle Planet",
+  "seriestitleid": "10000000000667931",
+  "seriesname": "Minisodes",
   "originalpremieredate": "2019-02-01T10:00:00.000Z",
   "pubdate": "2019-02-01T10:00:00.000Z",
   "expdate": "2019-12-31T09:59:00.000Z",
@@ -36,5 +36,5 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "2d96039fc3a0357e03c9948c841cd5e3772402df",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

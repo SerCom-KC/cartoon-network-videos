@@ -2,7 +2,7 @@
   "airingid": "RADS1001251900062462",
   "seasonnumber": "1",
   "seasonitemnumber": "",
-  "seriesid": "2170837",
+  "seriesid": "10000000000667931",
   "id": "eedf31d47936f43e556590747fd7e541fa7b3e0f",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/bakugan-beyond-the-brawl-rub-a-dub-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2170837",
-  "seriesname": "Bakugan: Battle Planet",
+  "seriestitleid": "10000000000667931",
+  "seriesname": "Minisodes",
   "originalpremieredate": "2019-02-01T10:00:00.000Z",
   "pubdate": "2019-02-01T10:00:00.000Z",
   "expdate": "2019-12-31T09:59:00.000Z",
@@ -36,5 +36,5 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "eedf31d47936f43e556590747fd7e541fa7b3e0f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
