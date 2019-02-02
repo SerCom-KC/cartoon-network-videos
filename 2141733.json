@@ -2,7 +2,7 @@
   "airingid": "RADS1001041900058833",
   "seasonnumber": "1",
   "seasonitemnumber": "23",
-  "seriesid": "10000000000",
+  "seriesid": "2141710",
   "id": "f2c7a707b6b0f4a33d590aabeae27098b229b371",
   "collectionid": "",
   "seofriendlyurl": "/video/total-dramarama/know-it-all-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2141710",
+  "seriesname": "Total Dramarama",
   "originalpremieredate": "2018-12-29T14:00:00.000Z",
   "pubdate": "2019-01-19T10:00:00.000Z",
   "expdate": "2019-02-02T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2141733",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2141710",
   "originalseriesname": "Total Dramarama",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1549101540000",
   "mediaid": "f2c7a707b6b0f4a33d590aabeae27098b229b371",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
