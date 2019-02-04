@@ -3,8 +3,23 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: February 4, 2019 at 03:30:17 EST_
+_Last Update: February 4, 2019 at 05:00:18 EST_
 ## Video added
-No videos were added.
+### 2004578
+**Teen Titans Go! S01E41 - Opposites**  
+TV-PG 🔓 11:13  
+⌛ February 8, 2019 at 04:59:00 EST  
+[Open in app](https://tinyurl.com/y984yohs) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/opposites-episode.html  
+seriesid=`2000349` titleid=`2004578` mediaid=`7ba89bf7deccd1d57ba72fbc55a7750bb85073c5`  
+_Cyborg has a star-crossed crush on Jinx, the cutest member of The Hive._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2004578_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2004578_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2004578_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2004578_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2004578_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2004578_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2004578_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2004578_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2004578_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2004578_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2004578_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2004578_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2004578_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2004578_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2004578_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2004578_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2004578_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2004578_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2004578_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2004578_010_640x360.jpg" height="144px" /></a>
+### 2034466
+**Steven Universe S02E10 - Chille Tid**  
+TV-PG 🔓 11:56  
+⌛ February 14, 2019 at 04:59:00 EST  
+[Open in app](https://tinyurl.com/y9nzjgok) or on the web: https://www.cartoonnetwork.com/video/steven-universe/chille-tid-episode.html  
+seriesid=`2011404` titleid=`2034466` mediaid=`054a333563c7d78c7f3b3cc6416bbad2b6158cd2`  
+_Steven and the Crystal Gems try to relax with a slumber party._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2034466_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034466_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034466_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034466_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034466_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034466_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034466_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034466_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034466_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034466_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034466_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034466_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034466_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034466_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034466_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034466_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034466_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034466_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2034466_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2034466_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.
