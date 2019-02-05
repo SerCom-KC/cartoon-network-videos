@@ -2,7 +2,7 @@
   "airingid": "RADS1005091800017329",
   "seasonnumber": "6",
   "seasonitemnumber": "",
-  "seriesid": "10000000000667931",
+  "seriesid": "757073",
   "id": "a20b81bd073d6c8d9f60338afd2485c43517c21f",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/sow-do-you-like-them-apples-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000667931",
-  "seriesname": "Minisodes",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2016-03-26T23:30:00.000Z",
   "pubdate": "2018-05-19T04:00:00.000Z",
   "expdate": "2020-01-04T05:00:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1578114000000",
   "mediaid": "a20b81bd073d6c8d9f60338afd2485c43517c21f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

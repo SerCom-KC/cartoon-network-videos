@@ -2,7 +2,7 @@
   "airingid": "RADS1005091800017335",
   "seasonnumber": "6",
   "seasonitemnumber": "",
-  "seriesid": "10000000000667931",
+  "seriesid": "757073",
   "id": "e94573e0c6e275743d30412aa21f5435900808db",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/alls-well-that-rats-swell-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000667931",
-  "seriesname": "Minisodes",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2016-03-06T00:30:00.000Z",
   "pubdate": "2018-05-19T04:00:00.000Z",
   "expdate": "2020-01-04T05:00:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1578114000000",
   "mediaid": "e94573e0c6e275743d30412aa21f5435900808db",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

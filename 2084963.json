@@ -2,7 +2,7 @@
   "airingid": "RADS1005091800017326",
   "seasonnumber": "7",
   "seasonitemnumber": "",
-  "seriesid": "10000000000667931",
+  "seriesid": "757073",
   "id": "07860e5b8804b1bced65365fbee899692761eca2",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/frog-seasons-autumn-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000667931",
-  "seriesname": "Minisodes",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2016-04-16T23:30:00.000Z",
   "pubdate": "2018-05-19T04:00:00.000Z",
   "expdate": "2020-01-04T05:00:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1578114000000",
   "mediaid": "07860e5b8804b1bced65365fbee899692761eca2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1005091800017337",
   "seasonnumber": "6",
   "seasonitemnumber": "",
-  "seriesid": "10000000000667931",
+  "seriesid": "757073",
   "id": "0ce2ff6b4d23d0a86b02530398b6860c72d70bf7",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/have-you-seen-the-muffin-mess-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000667931",
-  "seriesname": "Minisodes",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2018-05-19T04:00:00.000Z",
   "pubdate": "2018-05-19T04:00:00.000Z",
   "expdate": "2020-01-04T05:00:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1578114000000",
   "mediaid": "0ce2ff6b4d23d0a86b02530398b6860c72d70bf7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
