@@ -1,7 +1,6 @@
 {
-    "updated": 1549635268,
-    "added": [],
-    "removed": [
+    "updated": 1549635321,
+    "added": [
         {
             "airingid": "RADS1001291900064077",
             "seasonnumber": "3",
@@ -43,5 +42,6 @@
             "isunlockedfullepisode": false,
             "ismultipropertycollection": true
         }
-    ]
+    ],
+    "removed": []
 }
