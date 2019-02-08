@@ -2,7 +2,7 @@
   "airingid": "RADS1001251900062379",
   "seasonnumber": "2",
   "seasonitemnumber": "10",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "f806c3e43412afced0af96032c30bb56a24a76fb",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-treasure-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2012-10-30T23:00:00.000Z",
   "pubdate": "2019-02-08T10:00:00.000Z",
   "expdate": "2019-02-15T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "894317",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1550224740000",
   "mediaid": "f806c3e43412afced0af96032c30bb56a24a76fb",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
