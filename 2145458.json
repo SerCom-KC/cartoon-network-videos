@@ -2,7 +2,7 @@
   "airingid": "RADS1001291900063945",
   "seasonnumber": "1",
   "seasonitemnumber": "9",
-  "seriesid": "2131007",
+  "seriesid": "10000000000",
   "id": "4d5f6606bed0bd1361e6b7630bd8ae8156bfd912",
   "collectionid": "",
   "seofriendlyurl": "/video/summer-camp-island/computer-vampire-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2131007",
-  "seriesname": "Summer Camp Island",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-07-07T12:00:00.000Z",
   "pubdate": "2019-02-08T10:00:00.000Z",
   "expdate": "2019-02-15T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2145458",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2131007",
   "originalseriesname": "Summer Camp Island",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1550224740000",
   "mediaid": "4d5f6606bed0bd1361e6b7630bd8ae8156bfd912",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
