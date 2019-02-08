@@ -3,7 +3,7 @@
   "seasonnumber": "4",
   "seasonitemnumber": "11",
   "seriesid": "2011404",
-  "id": "52ccb756f6411559c0c16e152417b3040a98637c",
+  "id": "335ec49b123ba99ad49ac9763c67f77b91dbd98d",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/adventures-in-light-distortion-episode.html",
   "seasonepisodenumber": "11",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven and the Gems take off on a search and recovery mission.",
-  "duration": 686,
+  "duration": 716,
   "freewheelid": "cn-2083875",
   "isclip": false,
   "typesort": "1",
@@ -35,7 +35,7 @@
   "originalpremieredateasmilliseconds": "1485820800000",
   "pubdateasmilliseconds": "1549015200000",
   "expdateasmilliseconds": "1551434340000",
-  "mediaid": "52ccb756f6411559c0c16e152417b3040a98637c",
+  "mediaid": "335ec49b123ba99ad49ac9763c67f77b91dbd98d",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
 }
