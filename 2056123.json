@@ -2,7 +2,7 @@
   "airingid": "RADS1001281900063359",
   "seasonnumber": "3",
   "seasonitemnumber": "9",
-  "seriesid": "2007332",
+  "seriesid": "10000000000",
   "id": "b5275a4cf1180f7db1c1e82a9c135e2fecf2cb5a",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/relaxation-land-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2007332",
-  "seriesname": "Uncle Grandpa",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2016-04-09T13:00:00.000Z",
   "pubdate": "2019-02-08T10:00:00.000Z",
   "expdate": "2019-02-15T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2056123",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1550224740000",
   "mediaid": "b5275a4cf1180f7db1c1e82a9c135e2fecf2cb5a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
