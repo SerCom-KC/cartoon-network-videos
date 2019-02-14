@@ -3,7 +3,7 @@
   "seasonnumber": "1",
   "seasonitemnumber": "",
   "seriesid": "10000000000667931",
-  "id": "e05ae53a43a3ec16a4738944a38fa3eb1e0414b1",
+  "id": "35a71068e8f8d99e7163f6da8e0fab4dcd2d0150",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/season-1-recap-episode.html",
   "seasonepisodenumber": "0",
@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Catch up with this Steven Universe Season 1 recap.",
-  "duration": 90,
+  "duration": 120,
   "freewheelid": "cn-2118566",
   "isclip": false,
   "typesort": "2",
@@ -35,7 +35,7 @@
   "originalpremieredateasmilliseconds": "1521432000000",
   "pubdateasmilliseconds": "1521432000000",
   "expdateasmilliseconds": "1554350399000",
-  "mediaid": "e05ae53a43a3ec16a4738944a38fa3eb1e0414b1",
+  "mediaid": "35a71068e8f8d99e7163f6da8e0fab4dcd2d0150",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": true
 }
