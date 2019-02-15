@@ -1336,9 +1336,9 @@
         "pubdate": "2019-02-15T10:00:00.000Z",
         "expdate": "2019-03-01T09:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2091077_003_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
-        "tags": "",
+        "tags": "unauth",
         "titleid": "2091077",
         "titletype": "Episode",
         "bannertext": "LATEST EPISODE",
@@ -1349,7 +1349,7 @@
         "pubdateasmilliseconds": "1550224800000",
         "expdateasmilliseconds": "1551434340000",
         "mediaid": "ba0084b6e847412094572aba28f7c0b2746022d5",
-        "isunlockedfullepisode": false,
+        "isunlockedfullepisode": true,
         "ismultipropertycollection": false
     },
     {
