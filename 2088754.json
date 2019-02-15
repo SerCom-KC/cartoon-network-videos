@@ -2,7 +2,7 @@
   "airingid": "RADS1001311900064548",
   "seasonnumber": "3",
   "seasonitemnumber": "44",
-  "seriesid": "2056641",
+  "seriesid": "10000000000",
   "id": "a3dc7c2c391e64c2331cff8370604d6f5db2adee",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/the-park-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2056641",
-  "seriesname": "We Bare Bears",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-02-03T00:00:00.000Z",
   "pubdate": "2019-02-15T10:00:00.000Z",
   "expdate": "2019-02-22T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088754",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1550829540000",
   "mediaid": "a3dc7c2c391e64c2331cff8370604d6f5db2adee",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
