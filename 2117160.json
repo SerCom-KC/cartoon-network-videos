@@ -2,7 +2,7 @@
   "airingid": "RADS1001281900063412",
   "seasonnumber": "3",
   "seasonitemnumber": "1",
-  "seriesid": "2064567",
+  "seriesid": "10000000000",
   "id": "03091ca9aa91e59d60c87670070fed08b430d6de",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/not-so-secret-service-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2064567",
-  "seriesname": "Powerpuff Girls",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-05-13T20:30:00.000Z",
   "pubdate": "2019-02-01T10:00:00.000Z",
   "expdate": "2019-02-15T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2117160",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1550224740000",
   "mediaid": "03091ca9aa91e59d60c87670070fed08b430d6de",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
