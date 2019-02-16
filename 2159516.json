@@ -2,7 +2,7 @@
   "airingid": "RADS1003231800014062",
   "seasonnumber": "1",
   "seasonitemnumber": "",
-  "seriesid": "2133648",
+  "seriesid": "10000000000667931",
   "id": "91aab2b37fe9e60b436774cce99971de366dbc73",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/buff-up-my-head-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "2",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2133648",
-  "seriesname": "Apple & Onion",
+  "seriestitleid": "10000000000667931",
+  "seriesname": "Minisodes",
   "originalpremieredate": "2018-03-23T04:00:00.000Z",
   "pubdate": "2018-03-23T04:00:00.000Z",
   "expdate": "2019-02-16T05:00:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1550293200000",
   "mediaid": "91aab2b37fe9e60b436774cce99971de366dbc73",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
