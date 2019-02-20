@@ -657,7 +657,7 @@
     },
     {
         "airingid": "RADS1012141800052844",
-        "seasonnumber": "1",
+        "seasonnumber": "0",
         "seasonitemnumber": "",
         "seriesid": "2085313",
         "id": "194715669b4bcf6d00f1a1416d7ca327468b1ef2",
@@ -668,12 +668,12 @@
         "episodenumber": "0",
         "type": "short",
         "active": true,
-        "description": "The Petrosapien Civil War comes to a crucial turning point as the crystalline Petrosapiens make the hard choice to team up with their warring sub-surface cousins, the Subsapiens, to defeat the monstrous Antrosapiens that dwell near Petropia's dark planetary core.",
+        "description": "",
         "duration": 59,
         "freewheelid": "cn-2114142",
         "isclip": false,
         "typesort": "2",
-        "tvratingcode": "TV-Y7-FV",
+        "tvratingcode": "TV-PG",
         "seriestitleid": "2085313",
         "seriesname": "Ben 10",
         "originalpremieredate": "2019-01-01T10:00:00.000Z",
@@ -1804,7 +1804,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012141800053051",
+        "airingid": "RADS1012141800053049",
         "seasonnumber": "2",
         "seasonitemnumber": "9",
         "seriesid": "2085313",
@@ -1845,7 +1845,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012141800053049",
+        "airingid": "RADS1012141800053051",
         "seasonnumber": "2",
         "seasonitemnumber": "9",
         "seriesid": "2085313",
