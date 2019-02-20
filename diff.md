@@ -3,16 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: February 20, 2019 at 09:00:16 EST_
+_Last Update: February 20, 2019 at 12:30:15 EST_
 ## Video added
-### 2170847
-**Bakugan: Battle Planet S01E10 - Mask of Power/Story Holes**  
-TV-Y7-FV 🔓 22:32  
-⌛ March 2, 2019 at 04:59:00 EST  
-[Open in app](https://tinyurl.com/y32zgalr) or on the web: https://www.cartoonnetwork.com/video/bakugan/mask-of-powerstory-holes-episode.html  
-seriesid=`2170837` titleid=`2170847` mediaid=`5d49da6c3bdbd8337e045137dbc28754e3f808a6`  
-_Mask of Power: Philomena Dusk from AAAnimus Corp. hires Magnus and gives him a control implant to bolster the power of his Bakugan to defeat Dan./Story Holes:  
-A cryptic call leads the AO in search of a missing Bakugan but they soon realize the call was actually a test from a mysterious benefactor._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2170847_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2170847_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2170847_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2170847_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2170847_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2170847_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2170847_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2170847_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2170847_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2170847_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2170847_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2170847_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2170847_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2170847_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2170847_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2170847_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2170847_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2170847_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2170847_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2170847_010_640x360.jpg" height="144px" /></a>
+No videos were added.
 ## Video removed
 No videos were removed.
