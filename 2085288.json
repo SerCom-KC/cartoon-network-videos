@@ -2,7 +2,7 @@
   "airingid": "RADS1001301900064152",
   "seasonnumber": "2",
   "seasonitemnumber": "22",
-  "seriesid": "2012957",
+  "seriesid": "10000000000",
   "id": "30d39b2389bdab7e37d3b14003d27e11c37b565d",
   "collectionid": "",
   "seofriendlyurl": "/video/clarence/classroom-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2012957",
-  "seriesname": "Clarence",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2016-05-19T21:30:00.000Z",
   "pubdate": "2019-02-22T10:00:00.000Z",
   "expdate": "2019-03-01T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2085288",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2012957",
   "originalseriesname": "Clarence",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1551434340000",
   "mediaid": "30d39b2389bdab7e37d3b14003d27e11c37b565d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
