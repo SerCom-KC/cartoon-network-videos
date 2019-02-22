@@ -2,7 +2,7 @@
   "airingid": "RADS1001311900064557",
   "seasonnumber": "3",
   "seasonitemnumber": "43",
-  "seriesid": "10000000000",
+  "seriesid": "2056641",
   "id": "0ed99369f9942fffd9f719bd501b532dac0642e9",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/beehive-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2056641",
+  "seriesname": "We Bare Bears",
   "originalpremieredate": "2018-01-27T00:00:00.000Z",
   "pubdate": "2019-02-22T05:00:00.000Z",
   "expdate": "2019-04-07T03:59:59.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088735",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554609599000",
   "mediaid": "0ed99369f9942fffd9f719bd501b532dac0642e9",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
