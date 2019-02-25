@@ -641,7 +641,7 @@
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2139777_003_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
-        "tags": "ben 10 - see it first",
+        "tags": "",
         "titleid": "2139777",
         "titletype": "Episode",
         "bannertext": "LATEST EPISODE",
@@ -1804,7 +1804,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012141800053049",
+        "airingid": "RADS1012141800053051",
         "seasonnumber": "2",
         "seasonitemnumber": "9",
         "seriesid": "2085313",
@@ -1845,7 +1845,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012141800053051",
+        "airingid": "RADS1012141800053049",
         "seasonnumber": "2",
         "seasonitemnumber": "9",
         "seriesid": "2085313",
@@ -3634,7 +3634,7 @@
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141432_008_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
-        "tags": "ben 10 - see it first",
+        "tags": "",
         "titleid": "2141432",
         "titletype": "Episode",
         "bannertext": "LATEST EPISODE",
