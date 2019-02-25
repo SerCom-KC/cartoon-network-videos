@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1001311900064291",
+  "airingid": "RADS1001311900064297",
   "seasonnumber": "1",
   "seasonitemnumber": "16",
   "seriesid": "2132940",
@@ -20,8 +20,8 @@
   "seriestitleid": "2132940",
   "seriesname": "Craig of the Creek",
   "originalpremieredate": "2018-07-09T11:00:00.000Z",
-  "pubdate": "2019-02-22T10:00:00.000Z",
-  "expdate": "2019-02-25T09:59:00.000Z",
+  "pubdate": "2019-02-25T10:00:00.000Z",
+  "expdate": "2019-05-31T03:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2157078_008_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Craig of the Creek",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1531134000000",
-  "pubdateasmilliseconds": "1550829600000",
-  "expdateasmilliseconds": "1551088740000",
+  "pubdateasmilliseconds": "1551088800000",
+  "expdateasmilliseconds": "1559275140000",
   "mediaid": "dd266c36804b1fe3a09551398af0b413ae1fd713",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
