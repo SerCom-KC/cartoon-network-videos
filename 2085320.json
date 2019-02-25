@@ -21,7 +21,7 @@
   "seriesname": "Ben 10",
   "originalpremieredate": "2017-06-09T22:30:00.000Z",
   "pubdate": "2019-01-01T10:00:00.000Z",
-  "expdate": "2019-12-31T09:59:00.000Z",
+  "expdate": "2019-03-01T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2085320_004_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -34,7 +34,7 @@
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1497047400000",
   "pubdateasmilliseconds": "1546336800000",
-  "expdateasmilliseconds": "1577786340000",
+  "expdateasmilliseconds": "1551434340000",
   "mediaid": "d812d87074577bd25481ffee21f777b4cf779d79",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
