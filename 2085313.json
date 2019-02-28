@@ -1006,7 +1006,7 @@
         "seriesname": "Ben 10",
         "originalpremieredate": "2017-10-20T21:00:00.000Z",
         "pubdate": "2019-01-01T10:00:00.000Z",
-        "expdate": "2019-12-31T09:59:00.000Z",
+        "expdate": "2019-03-23T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2088584_009_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -1019,7 +1019,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1508533200000",
         "pubdateasmilliseconds": "1546336800000",
-        "expdateasmilliseconds": "1577786340000",
+        "expdateasmilliseconds": "1553331540000",
         "mediaid": "307b3589398e691372d3fc3d01d95fca30d1ab32",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
@@ -1804,7 +1804,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012141800053049",
+        "airingid": "RADS1012141800053051",
         "seasonnumber": "2",
         "seasonitemnumber": "9",
         "seriesid": "2085313",
@@ -1845,7 +1845,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012141800053051",
+        "airingid": "RADS1012141800053049",
         "seasonnumber": "2",
         "seasonitemnumber": "9",
         "seriesid": "2085313",
@@ -3754,7 +3754,7 @@
         "originalpremieredate": "2017-10-06T21:00:00.000Z",
         "pubdate": "2019-01-01T10:00:00.000Z",
         "expdate": "2019-03-15T08:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2088591_010_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2088591_001_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "",
@@ -5065,8 +5065,8 @@
         "seriesname": "Ben 10",
         "originalpremieredate": "2017-10-13T21:00:00.000Z",
         "pubdate": "2019-01-01T10:00:00.000Z",
-        "expdate": "2019-12-31T09:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2086226_010_640x360.jpg",
+        "expdate": "2019-03-15T08:59:00.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2086226_008_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "",
@@ -5078,7 +5078,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1507928400000",
         "pubdateasmilliseconds": "1546336800000",
-        "expdateasmilliseconds": "1577786340000",
+        "expdateasmilliseconds": "1552640340000",
         "mediaid": "eb4a576f7d11ee38b25f4288609e1b49341e6e7f",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
