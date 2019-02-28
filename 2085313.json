@@ -1804,7 +1804,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012141800053051",
+        "airingid": "RADS1012141800053049",
         "seasonnumber": "2",
         "seasonitemnumber": "9",
         "seriesid": "2085313",
@@ -1845,7 +1845,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012141800053049",
+        "airingid": "RADS1012141800053051",
         "seasonnumber": "2",
         "seasonitemnumber": "9",
         "seriesid": "2085313",
@@ -3753,7 +3753,7 @@
         "seriesname": "Ben 10",
         "originalpremieredate": "2017-10-06T21:00:00.000Z",
         "pubdate": "2019-01-01T10:00:00.000Z",
-        "expdate": "2019-12-31T09:59:00.000Z",
+        "expdate": "2019-03-15T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2088591_010_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -3766,7 +3766,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1507323600000",
         "pubdateasmilliseconds": "1546336800000",
-        "expdateasmilliseconds": "1577786340000",
+        "expdateasmilliseconds": "1552640340000",
         "mediaid": "9e58ca75e20b86a6e89fdad7d89718a398260594",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
@@ -3958,7 +3958,7 @@
         "seriesname": "Ben 10",
         "originalpremieredate": "2017-09-30T18:00:00.000Z",
         "pubdate": "2019-01-01T10:00:00.000Z",
-        "expdate": "2020-01-01T04:59:59.000Z",
+        "expdate": "2019-03-15T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2098663_005_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -3971,7 +3971,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1506794400000",
         "pubdateasmilliseconds": "1546336800000",
-        "expdateasmilliseconds": "1577854799000",
+        "expdateasmilliseconds": "1552640340000",
         "mediaid": "b3bd5f2e34a2e20efc3e0ff3ebc69c7e332ce898",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
