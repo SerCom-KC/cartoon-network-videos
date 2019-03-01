@@ -2,7 +2,7 @@
   "airingid": "RADS1002221900068889",
   "seasonnumber": "2",
   "seasonitemnumber": "17",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "40e76b3f4e04129102262ceae5d58e9af6c8a4c8",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/spider-sense-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2017-07-23T21:30:00.000Z",
   "pubdate": "2019-03-01T10:00:00.000Z",
   "expdate": "2019-03-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2109048",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1552640340000",
   "mediaid": "40e76b3f4e04129102262ceae5d58e9af6c8a4c8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

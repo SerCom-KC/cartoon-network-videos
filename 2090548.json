@@ -2,7 +2,7 @@
   "airingid": "RADS1002221900068888",
   "seasonnumber": "2",
   "seasonitemnumber": "23",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "765887b518e3cc189f113633dc65325222c3bb2a",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/find-your-bliss-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2019-03-01T10:00:00.000Z",
   "pubdate": "2019-03-01T10:00:00.000Z",
   "expdate": "2019-03-15T08:59:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1552640340000",
   "mediaid": "765887b518e3cc189f113633dc65325222c3bb2a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
