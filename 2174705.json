@@ -2,7 +2,7 @@
   "airingid": "RADS1001291900064011",
   "seasonnumber": "2",
   "seasonitemnumber": "12",
-  "seriesid": "1000000000043906",
+  "seriesid": "2130773",
   "id": "105fb9b74ff96540378a89b2e45c597e36303390",
   "collectionid": "",
   "seofriendlyurl": "/video/unikitty/hawkodile-sensei-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "1000000000043906",
-  "seriesname": "Lego Specials",
+  "seriestitleid": "2130773",
+  "seriesname": "Unikitty",
   "originalpremieredate": "2019-02-13T22:30:00.000Z",
   "pubdate": "2019-02-08T10:00:00.000Z",
   "expdate": "2019-03-25T08:59:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1553504340000",
   "mediaid": "105fb9b74ff96540378a89b2e45c597e36303390",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

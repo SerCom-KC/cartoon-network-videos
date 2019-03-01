@@ -2,7 +2,7 @@
   "airingid": "RADS1001291900064009",
   "seasonnumber": "2",
   "seasonitemnumber": "13",
-  "seriesid": "1000000000043906",
+  "seriesid": "2130773",
   "id": "c6cc425fad07859bd9ba65fa9b79b6f0bef658bd",
   "collectionid": "",
   "seofriendlyurl": "/video/unikitty/plot-device-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "1000000000043906",
-  "seriesname": "Lego Specials",
+  "seriestitleid": "2130773",
+  "seriesname": "Unikitty",
   "originalpremieredate": "2019-02-15T22:30:00.000Z",
   "pubdate": "2019-02-08T10:00:00.000Z",
   "expdate": "2019-03-26T08:59:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1553590740000",
   "mediaid": "c6cc425fad07859bd9ba65fa9b79b6f0bef658bd",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
