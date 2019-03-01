@@ -2,7 +2,7 @@
   "airingid": "RADS1002251900069855",
   "seasonnumber": "5",
   "seasonitemnumber": "1",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "7b29762b9c2bf63b590f7cdc531196b9f6d9793c",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/laundry-woes-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2013-09-02T23:30:00.000Z",
   "pubdate": "2019-03-01T10:00:00.000Z",
   "expdate": "2019-03-08T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2006385",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1552039140000",
   "mediaid": "7b29762b9c2bf63b590f7cdc531196b9f6d9793c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

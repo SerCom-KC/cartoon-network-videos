@@ -2,7 +2,7 @@
   "airingid": "RADS1001281900063303",
   "seasonnumber": "4",
   "seasonitemnumber": "18",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "4f9d0ba68dec31eec2273ccdaa8aac6fd696474e",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/tiger-philanthropist-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2017-03-04T00:00:00.000Z",
   "pubdate": "2019-02-22T10:00:00.000Z",
   "expdate": "2019-03-01T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065557",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1551434340000",
   "mediaid": "4f9d0ba68dec31eec2273ccdaa8aac6fd696474e",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

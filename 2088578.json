@@ -2,7 +2,7 @@
   "airingid": "RADS1001311900064251",
   "seasonnumber": "1",
   "seasonitemnumber": "17",
-  "seriesid": "10000000000",
+  "seriesid": "2085313",
   "id": "340c8f0cdb8fc791a2e5cd182630cbbc338ddc2b",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/villain-time-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2085313",
+  "seriesname": "Ben 10",
   "originalpremieredate": "2017-05-02T21:00:00.000Z",
   "pubdate": "2019-02-22T10:00:00.000Z",
   "expdate": "2019-03-01T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088578",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2085313",
   "originalseriesname": "Ben 10",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1551434340000",
   "mediaid": "340c8f0cdb8fc791a2e5cd182630cbbc338ddc2b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
