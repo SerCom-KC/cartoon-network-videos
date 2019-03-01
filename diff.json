@@ -1,12 +1,11 @@
 {
-    "updated": 1551448763,
-    "added": [],
-    "removed": [
+    "updated": 1551448839,
+    "added": [
         {
             "airingid": "RADS1002261800012767",
             "seasonnumber": "0",
             "seasonitemnumber": "",
-            "seriesid": "1000000000043906",
+            "seriesid": "10000000000602100",
             "id": "32f726b55c071f47de97bdcc42ada64abaf9155d",
             "collectionid": "",
             "seofriendlyurl": "/video/lego-specials/ninjago-masters-of-spinjitzu-day-of-the-departed-episode.html",
@@ -21,18 +20,18 @@
             "isclip": false,
             "typesort": "3",
             "tvratingcode": "TV-Y7-FV",
-            "seriestitleid": "1000000000043906",
-            "seriesname": "Lego Specials",
+            "seriestitleid": "10000000000602100",
+            "seriesname": "Movies",
             "originalpremieredate": "2016-10-29T22:00:00.000Z",
             "pubdate": "2018-03-01T05:00:00.000Z",
             "expdate": "2019-10-29T03:59:00.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2086426_004_640x360.jpg",
             "authtype": "auth",
             "webflags": "",
-            "tags": "lego",
+            "tags": "movies",
             "titleid": "2086426",
             "titletype": "Special",
-            "bannertext": "MOVIE",
+            "bannertext": "",
             "originalseriesid": "43908",
             "originalseriesname": "LEGO Specials",
             "hasparent": false,
@@ -43,5 +42,6 @@
             "isunlockedfullepisode": false,
             "ismultipropertycollection": true
         }
-    ]
+    ],
+    "removed": []
 }
