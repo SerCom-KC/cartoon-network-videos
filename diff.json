@@ -1,12 +1,11 @@
 {
-    "updated": 1552055304,
-    "added": [],
-    "removed": [
+    "updated": 1552055603,
+    "added": [
         {
             "airingid": "RADS1012171800053140",
             "seasonnumber": "3",
             "seasonitemnumber": "",
-            "seriesid": "2086246",
+            "seriesid": "2177542",
             "id": "7d632c1add26ed9a2089a238590bc538e9b6500a",
             "collectionid": "",
             "seofriendlyurl": "/video/dc-super-hero-girls/seeing-red-episode.html",
@@ -21,19 +20,19 @@
             "isclip": false,
             "typesort": "2",
             "tvratingcode": "TV-Y7",
-            "seriestitleid": "2086246",
+            "seriestitleid": "2177542",
             "seriesname": "DC Super Hero Girls",
             "originalpremieredate": "2019-01-01T10:00:00.000Z",
             "pubdate": "2019-01-01T10:00:00.000Z",
             "expdate": "2019-12-31T09:59:00.000Z",
-            "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2117305_008_640x360.jpg",
+            "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2117305_010_640x360.jpg",
             "authtype": "unauth",
             "webflags": "",
             "tags": "vod|shorts",
             "titleid": "2117305",
             "titletype": "Episode",
             "bannertext": "",
-            "originalseriesid": "2086246",
+            "originalseriesid": "2177542",
             "originalseriesname": "DC Super Hero Girls",
             "hasparent": false,
             "originalpremieredateasmilliseconds": "1546336800000",
@@ -43,5 +42,6 @@
             "isunlockedfullepisode": false,
             "ismultipropertycollection": false
         }
-    ]
+    ],
+    "removed": []
 }
