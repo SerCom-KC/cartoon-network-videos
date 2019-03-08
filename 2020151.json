@@ -2,7 +2,7 @@
   "airingid": "RADS1002251900069871",
   "seasonnumber": "2",
   "seasonitemnumber": "3",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "90f521373af7da39b0bd4f91fc0348077c9f2f75",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/shirt-club-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2015-04-16T21:30:00.000Z",
   "pubdate": "2019-03-01T10:00:00.000Z",
   "expdate": "2019-03-08T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2020151",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1552039140000",
   "mediaid": "90f521373af7da39b0bd4f91fc0348077c9f2f75",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

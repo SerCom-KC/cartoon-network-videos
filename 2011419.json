@@ -2,7 +2,7 @@
   "airingid": "RADS1002251900069870",
   "seasonnumber": "1",
   "seasonitemnumber": "1",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "2f42521238deacd9d184ab191c406407b6cc543d",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/gem-glow-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2013-11-05T23:15:00.000Z",
   "pubdate": "2019-03-01T10:00:00.000Z",
   "expdate": "2019-03-08T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2011419",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1552039140000",
   "mediaid": "2f42521238deacd9d184ab191c406407b6cc543d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

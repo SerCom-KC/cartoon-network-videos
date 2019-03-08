@@ -2,7 +2,7 @@
   "airingid": "RADS1002251900069874",
   "seasonnumber": "4",
   "seasonitemnumber": "4",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "b1202a52adb1241976a4541701dafbc999e047c4",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/mindful-education-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2016-08-25T23:00:00.000Z",
   "pubdate": "2019-03-01T10:00:00.000Z",
   "expdate": "2019-03-08T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2083869",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1552039140000",
   "mediaid": "b1202a52adb1241976a4541701dafbc999e047c4",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
