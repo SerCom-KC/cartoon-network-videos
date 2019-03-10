@@ -3,23 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: March 10, 2019 at 05:30:40 EDT_
+_Last Update: March 10, 2019 at 06:00:40 EDT_
 ## Video added
-### 2171420
-**We Bare Bears S04E17 - The Mall**  
-TV-Y7 🔒 11:16  
-⌛ April 6, 2019 at 23:59:59 EDT  
-[Open in app](https://tinyurl.com/ydc6yjom) or on the web: https://www.cartoonnetwork.com/video/we-bare-bears/the-mall-episode.html  
-seriesid=`2056641` titleid=`2171420` mediaid=`87a520de2eba093ca5c7865f4c5230694f6810e1`  
-_The Bears go the mall and encounter their human counterparts._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2171420_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171420_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171420_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171420_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171420_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171420_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171420_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171420_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171420_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171420_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171420_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171420_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171420_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171420_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171420_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171420_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171420_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171420_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171420_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171420_010_640x360.jpg" height="144px" /></a>
-### 2117432
-**Mega Man S01E31 - Big Bad Dreams**  
-TV-Y7-FV 🔓 11:06  
-⌛ March 24, 2019 at 04:59:00 EDT  
-[Open in app](https://tinyurl.com/yxkmua4r) or on the web: https://www.cartoonnetwork.com/video/mega-man/big-bad-dreams-episode.html  
-seriesid=`2117352` titleid=`2117432` mediaid=`99f5d1642f6f6ed3097a579dac0f62e17db6722a`  
-_When Namagem starts using his Hypno powers to haunt Aki's dreams, our hero must face his fears in the dreamscape._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2117432_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2117432_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2117432_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2117432_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2117432_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2117432_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2117432_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2117432_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2117432_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2117432_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2117432_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2117432_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2117432_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2117432_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2117432_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2117432_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2117432_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2117432_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2117432_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2117432_010_640x360.jpg" height="144px" /></a>
+No videos were added.
 ## Video removed
 No videos were removed.
