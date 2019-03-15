@@ -2,7 +2,7 @@
   "airingid": "RADS1002251900069992",
   "seasonnumber": "4",
   "seasonitemnumber": "17",
-  "seriesid": "757073",
+  "seriesid": "10000000000",
   "id": "8b8d051a782ecac8e3f5d1278bd348a52e1357cd",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/bmo-noire-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "757073",
-  "seriesname": "Adventure Time",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2012-08-06T23:30:00.000Z",
   "pubdate": "2019-03-08T10:00:00.000Z",
   "expdate": "2019-03-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "891859",
   "titletype": "Element",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1552640340000",
   "mediaid": "8b8d051a782ecac8e3f5d1278bd348a52e1357cd",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1002251900069996",
   "seasonnumber": "5",
   "seasonitemnumber": "37",
-  "seriesid": "757073",
+  "seriesid": "10000000000",
   "id": "3ef4fe2a39170637cd8e7e2fd46bfd60cb73cdea",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/the-box-prince-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "757073",
-  "seriesname": "Adventure Time",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2013-10-07T23:00:00.000Z",
   "pubdate": "2019-03-08T10:00:00.000Z",
   "expdate": "2019-03-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2002186",
   "titletype": "Element",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1552640340000",
   "mediaid": "3ef4fe2a39170637cd8e7e2fd46bfd60cb73cdea",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
