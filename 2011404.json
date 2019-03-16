@@ -3035,7 +3035,7 @@
     },
     {
         "airingid": "RADS1004121800015879",
-        "seasonnumber": "4",
+        "seasonnumber": "0",
         "seasonitemnumber": "",
         "seriesid": "2011404",
         "id": "ff6ce63bf19254477aa8e97a80da89a94cfbd947",
@@ -3046,7 +3046,7 @@
         "episodenumber": "0",
         "type": "short",
         "active": true,
-        "description": "Music and lyrics by Rebecca Sugar. Additional music by Aivi Tran and Steven Velema. Performed by Zach Callison, Tom Scharpling (speaking) and Deedee Magno Hall (speaking).",
+        "description": "",
         "duration": 139,
         "freewheelid": "cn-2133132",
         "isclip": false,
