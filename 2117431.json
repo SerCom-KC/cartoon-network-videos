@@ -2,7 +2,7 @@
   "airingid": "RADS1002251900069816",
   "seasonnumber": "1",
   "seasonitemnumber": "30",
-  "seriesid": "10000000000",
+  "seriesid": "2117352",
   "id": "3c96d381bf956dda55ce88f3a0a296ef9c160cbf",
   "collectionid": "",
   "seofriendlyurl": "/video/mega-man/chill-out-bruh-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2117352",
+  "seriesname": "Mega Man",
   "originalpremieredate": "2019-02-10T11:30:00.000Z",
   "pubdate": "2019-03-03T10:00:00.000Z",
   "expdate": "2019-03-17T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2117431",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2117352",
   "originalseriesname": "Mega Man",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1552813140000",
   "mediaid": "3c96d381bf956dda55ce88f3a0a296ef9c160cbf",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
