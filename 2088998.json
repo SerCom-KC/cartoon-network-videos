@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070473",
   "seasonnumber": "5",
   "seasonitemnumber": "3",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "4705a44b2cdcf2339979dd05e6ec797375fda2e3",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-boredom-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2016-09-15T21:00:00.000Z",
   "pubdate": "2019-03-22T09:00:00.000Z",
   "expdate": "2019-04-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088998",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554109140000",
   "mediaid": "4705a44b2cdcf2339979dd05e6ec797375fda2e3",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

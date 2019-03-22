@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070469",
   "seasonnumber": "1",
   "seasonitemnumber": "29",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "f627f4949066782d9d420c42eb7b2d1b254a3939",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-wand-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2012-01-25T00:30:00.000Z",
   "pubdate": "2019-03-22T09:00:00.000Z",
   "expdate": "2019-04-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "839532",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554109140000",
   "mediaid": "f627f4949066782d9d420c42eb7b2d1b254a3939",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

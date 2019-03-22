@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070471",
   "seasonnumber": "2",
   "seasonitemnumber": "24",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "8e08ac60e6774258d0bed4d286c104fe03982177",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-sidekick-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2013-07-03T23:30:00.000Z",
   "pubdate": "2019-03-22T09:00:00.000Z",
   "expdate": "2019-04-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "894302",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554109140000",
   "mediaid": "8e08ac60e6774258d0bed4d286c104fe03982177",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

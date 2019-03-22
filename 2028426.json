@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070472",
   "seasonnumber": "3",
   "seasonitemnumber": "21",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "941d5027b1d39a4f023a43c129b679042eb09ba7",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-burden-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2014-10-16T23:00:00.000Z",
   "pubdate": "2019-03-22T09:00:00.000Z",
   "expdate": "2019-04-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2028426",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554109140000",
   "mediaid": "941d5027b1d39a4f023a43c129b679042eb09ba7",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
