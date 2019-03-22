@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070536",
   "seasonnumber": "2",
   "seasonitemnumber": "7",
-  "seriesid": "10000000000",
+  "seriesid": "2056641",
   "id": "e6868c0b5e09d4cd0bb65e39df69f344f4ac35aa",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/rooms-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2056641",
+  "seriesname": "We Bare Bears",
   "originalpremieredate": "2016-04-21T23:00:00.000Z",
   "pubdate": "2019-03-15T09:00:00.000Z",
   "expdate": "2019-03-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065526",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1553245140000",
   "mediaid": "e6868c0b5e09d4cd0bb65e39df69f344f4ac35aa",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

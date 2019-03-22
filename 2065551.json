@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070501",
   "seasonnumber": "3",
   "seasonitemnumber": "26",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "fa8d8756253405087f6f8f9bd18f96e2d0160dc2",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/earthlings-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2016-08-08T23:00:00.000Z",
   "pubdate": "2019-03-15T09:00:00.000Z",
   "expdate": "2019-03-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065551",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1553245140000",
   "mediaid": "fa8d8756253405087f6f8f9bd18f96e2d0160dc2",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

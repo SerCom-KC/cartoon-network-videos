@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070490",
   "seasonnumber": "8",
   "seasonitemnumber": "16",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "6efdad905d1237344e9927cf066f00bc92d29672",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/new-beds-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2016-10-14T00:00:00.000Z",
   "pubdate": "2019-03-22T09:00:00.000Z",
   "expdate": "2019-04-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088606",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554109140000",
   "mediaid": "6efdad905d1237344e9927cf066f00bc92d29672",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1002271900070834",
   "seasonnumber": "1",
   "seasonitemnumber": "19",
-  "seriesid": "10000000000",
+  "seriesid": "2141710",
   "id": "7bb5a972bf5b252c873c63415c09b053007e805b",
   "collectionid": "",
   "seofriendlyurl": "/video/total-dramarama/inglorious-toddlers-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2141710",
+  "seriesname": "Total Dramarama",
   "originalpremieredate": "2018-12-01T14:00:00.000Z",
   "pubdate": "2019-03-15T09:00:00.000Z",
   "expdate": "2019-03-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2141729",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2141710",
   "originalseriesname": "Total Dramarama",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1553245140000",
   "mediaid": "7bb5a972bf5b252c873c63415c09b053007e805b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

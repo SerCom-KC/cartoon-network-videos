@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070499",
   "seasonnumber": "1",
   "seasonitemnumber": "43",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "779351d12fe32e8fb53dff399a541aac935eaa47",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/maximum-capacity-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2015-02-26T23:30:00.000Z",
   "pubdate": "2019-03-15T09:00:00.000Z",
   "expdate": "2019-03-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2020146",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1553245140000",
   "mediaid": "779351d12fe32e8fb53dff399a541aac935eaa47",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
