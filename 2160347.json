@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070488",
   "seasonnumber": "2",
   "seasonitemnumber": "15",
-  "seriesid": "2079533",
+  "seriesid": "10000000000",
   "id": "b41fce164a0cdc266733fa0c5625a752804bf7bf",
   "collectionid": "",
   "seofriendlyurl": "/video/ok-ko/bittersweet-rivals-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2079533",
-  "seriesname": "OK K.O.!",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-07-02T13:00:00.000Z",
   "pubdate": "2019-03-22T09:00:00.000Z",
   "expdate": "2019-04-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2160347",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2079533",
   "originalseriesname": "OK K.O.!",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554109140000",
   "mediaid": "b41fce164a0cdc266733fa0c5625a752804bf7bf",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

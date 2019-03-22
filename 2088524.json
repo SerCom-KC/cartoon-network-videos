@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070529",
   "seasonnumber": "5",
   "seasonitemnumber": "14",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "faad92774d674884fffb524659441ed072465bbe",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/transitional-phase-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2017-06-23T20:30:00.000Z",
   "pubdate": "2019-03-15T09:00:00.000Z",
   "expdate": "2019-03-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088524",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1553245140000",
   "mediaid": "faad92774d674884fffb524659441ed072465bbe",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

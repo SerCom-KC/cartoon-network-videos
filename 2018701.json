@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070526",
   "seasonnumber": "1",
   "seasonitemnumber": "38",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "ae4273d2c5d88e6f5c0d1dade28c6fe059a3eb87",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/not-funny-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2014-12-01T22:30:00.000Z",
   "pubdate": "2019-03-15T09:00:00.000Z",
   "expdate": "2019-03-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2018701",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1553245140000",
   "mediaid": "ae4273d2c5d88e6f5c0d1dade28c6fe059a3eb87",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
