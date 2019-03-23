@@ -2,7 +2,7 @@
   "airingid": "RADS1002281900071234",
   "seasonnumber": "1",
   "seasonitemnumber": "13",
-  "seriesid": "2170837",
+  "seriesid": "10000000000",
   "id": "68b9e0b7619db7e612716057758e26a557d5bf65",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/dawn-before-dusk-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2170837",
-  "seriesname": "Bakugan: Battle Planet",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-02-16T12:00:00.000Z",
   "pubdate": "2019-03-09T10:00:00.000Z",
   "expdate": "2019-03-23T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2170850",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2170837",
   "originalseriesname": "Bakugan: Battle Planet",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1553331540000",
   "mediaid": "68b9e0b7619db7e612716057758e26a557d5bf65",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
