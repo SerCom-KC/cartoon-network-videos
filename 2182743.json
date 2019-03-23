@@ -2,7 +2,7 @@
   "airingid": "RADS1002251900069942",
   "seasonnumber": "1",
   "seasonitemnumber": "26",
-  "seriesid": "10000000000",
+  "seriesid": "2141710",
   "id": "f635bff51f5927d26c44fdaf29487c09b534ce60",
   "collectionid": "",
   "seofriendlyurl": "/video/total-dramarama/toys-will-be-toys-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2141710",
+  "seriesname": "Total Dramarama",
   "originalpremieredate": "2019-02-16T14:00:00.000Z",
   "pubdate": "2019-03-09T10:00:00.000Z",
   "expdate": "2019-03-23T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2182743",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2141710",
   "originalseriesname": "Total Dramarama",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1553331540000",
   "mediaid": "f635bff51f5927d26c44fdaf29487c09b534ce60",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
