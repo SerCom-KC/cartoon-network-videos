@@ -2,7 +2,7 @@
   "airingid": "RADS1002251900069818",
   "seasonnumber": "1",
   "seasonitemnumber": "31",
-  "seriesid": "10000000000",
+  "seriesid": "2117352",
   "id": "99f5d1642f6f6ed3097a579dac0f62e17db6722a",
   "collectionid": "",
   "seofriendlyurl": "/video/mega-man/big-bad-dreams-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2117352",
+  "seriesname": "Mega Man",
   "originalpremieredate": "2019-02-17T11:30:00.000Z",
   "pubdate": "2019-03-10T09:00:00.000Z",
   "expdate": "2019-03-24T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2117432",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2117352",
   "originalseriesname": "Mega Man",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1553417940000",
   "mediaid": "99f5d1642f6f6ed3097a579dac0f62e17db6722a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
