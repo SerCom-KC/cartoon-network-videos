@@ -2,7 +2,7 @@
   "airingid": "RADS1002251900069927",
   "seasonnumber": "5",
   "seasonitemnumber": "20",
-  "seriesid": "2000349",
+  "seriesid": "10000000000",
   "id": "4eab2719279ad7a5d107379a9ac8e9d0887e402d",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/genie-president-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2000349",
-  "seriesname": "Teen Titans Go!",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-02-18T23:00:00.000Z",
   "pubdate": "2019-03-11T09:00:00.000Z",
   "expdate": "2019-03-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2169964",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2000349",
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1553849940000",
   "mediaid": "4eab2719279ad7a5d107379a9ac8e9d0887e402d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
