@@ -2,7 +2,7 @@
   "airingid": "RADS1002271900070808",
   "seasonnumber": "4",
   "seasonitemnumber": "21",
-  "seriesid": "2056641",
+  "seriesid": "10000000000",
   "id": "f7d27815564243820a7e3932cc80b029e7f7fdaf",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/bubble-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2056641",
-  "seriesname": "We Bare Bears",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-03-05T00:00:00.000Z",
   "pubdate": "2019-03-25T09:00:00.000Z",
   "expdate": "2019-04-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2167611",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554713940000",
   "mediaid": "f7d27815564243820a7e3932cc80b029e7f7fdaf",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

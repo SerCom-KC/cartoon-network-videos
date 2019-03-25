@@ -2,7 +2,7 @@
   "airingid": "RADS1002281900071303",
   "seasonnumber": "1",
   "seasonitemnumber": "39",
-  "seriesid": "2132940",
+  "seriesid": "10000000000",
   "id": "15a562350d511e04b857ff5052caf085df1e2267",
   "collectionid": "",
   "seofriendlyurl": "/video/craig-of-the-creek/the-mystery-of-the-timekeeper-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2132940",
-  "seriesname": "Craig of the Creek",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-03-04T22:00:00.000Z",
   "pubdate": "2019-03-25T09:00:00.000Z",
   "expdate": "2019-04-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2178245",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2132940",
   "originalseriesname": "Craig of the Creek",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554713940000",
   "mediaid": "15a562350d511e04b857ff5052caf085df1e2267",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
