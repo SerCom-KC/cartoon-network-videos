@@ -2195,7 +2195,7 @@
         "seriesname": "Gumball",
         "originalpremieredate": "2019-02-01T10:00:00.000Z",
         "pubdate": "2019-02-01T10:00:00.000Z",
-        "expdate": "2019-04-01T08:59:31.000Z",
+        "expdate": "2019-05-20T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2167833_005_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -2208,7 +2208,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1549015200000",
         "pubdateasmilliseconds": "1549015200000",
-        "expdateasmilliseconds": "1554109171000",
+        "expdateasmilliseconds": "1558342740000",
         "mediaid": "afc604000b4fc309808c8f37ab18f19ec489e25d",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
