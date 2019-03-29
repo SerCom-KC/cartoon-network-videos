@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070513",
   "seasonnumber": "2",
   "seasonitemnumber": "44",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "f93ad452f873ae25a17888392d8cc8c2124a7308",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/beast-man-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2015-06-29T22:00:00.000Z",
   "pubdate": "2019-03-22T09:00:00.000Z",
   "expdate": "2019-03-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2028690",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2000349",
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1553849940000",
   "mediaid": "f93ad452f873ae25a17888392d8cc8c2124a7308",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070514",
   "seasonnumber": "1",
   "seasonitemnumber": "45",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "4dd722a7f655a2558e71b3715579a8dc92558d3b",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/little-buddies-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2014-03-19T23:30:00.000Z",
   "pubdate": "2019-03-22T09:00:00.000Z",
   "expdate": "2019-03-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2004583",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2000349",
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1553849940000",
   "mediaid": "4dd722a7f655a2558e71b3715579a8dc92558d3b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
