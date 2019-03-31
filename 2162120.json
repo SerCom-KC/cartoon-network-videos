@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003041900071884",
+  "airingid": "RADS1003281900077501",
   "seasonnumber": "3",
   "seasonitemnumber": "25",
   "seriesid": "2064567",
@@ -20,8 +20,8 @@
   "seriestitleid": "2064567",
   "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2019-04-07T20:30:00.000Z",
-  "pubdate": "2019-03-08T10:00:00.000Z",
-  "expdate": "2019-03-31T08:59:56.000Z",
+  "pubdate": "2019-03-31T08:59:56.000Z",
+  "expdate": "2019-04-28T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2162120_005_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1554669000000",
-  "pubdateasmilliseconds": "1552039200000",
-  "expdateasmilliseconds": "1554022796000",
+  "pubdateasmilliseconds": "1554022796000",
+  "expdateasmilliseconds": "1556441940000",
   "mediaid": "2aa65984c3c73e3433cd7ac9c222dab0fce0d5f9",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
