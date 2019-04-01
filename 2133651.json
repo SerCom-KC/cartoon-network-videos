@@ -23,12 +23,12 @@
   "pubdate": "2019-02-08T10:00:00.000Z",
   "expdate": "2019-05-31T03:59:59.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2133651_008_640x360.jpg",
-  "authtype": "auth",
+  "authtype": "unauth",
   "webflags": "",
-  "tags": "",
+  "tags": "unauth",
   "titleid": "2133651",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2132940",
   "originalseriesname": "Craig of the Creek",
   "hasparent": false,
@@ -36,6 +36,6 @@
   "pubdateasmilliseconds": "1549620000000",
   "expdateasmilliseconds": "1559275199000",
   "mediaid": "737302292bbd232a4f3859b206392ba8b2b2f37a",
-  "isunlockedfullepisode": false,
+  "isunlockedfullepisode": true,
   "ismultipropertycollection": false
 }
