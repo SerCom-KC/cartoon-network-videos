@@ -2,7 +2,7 @@
   "airingid": "RADS1002011900064736",
   "seasonnumber": "1",
   "seasonitemnumber": "1",
-  "seriesid": "10000000000",
+  "seriesid": "2170837",
   "id": "ddf31fdee70cf133b7a2de17cc46555e5358589b",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/origin-of-species-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2170837",
+  "seriesname": "Bakugan: Battle Planet",
   "originalpremieredate": "2018-12-24T00:00:00.000Z",
   "pubdate": "2019-02-16T10:00:00.000Z",
   "expdate": "2019-04-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2170838",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2170837",
   "originalseriesname": "Bakugan: Battle Planet",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554713940000",
   "mediaid": "ddf31fdee70cf133b7a2de17cc46555e5358589b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
