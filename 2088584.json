@@ -2,7 +2,7 @@
   "airingid": "RADS1002281900071251",
   "seasonnumber": "1",
   "seasonitemnumber": "34",
-  "seriesid": "10000000000",
+  "seriesid": "2085313",
   "id": "307b3589398e691372d3fc3d01d95fca30d1ab32",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/xingo-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2085313",
+  "seriesname": "Ben 10",
   "originalpremieredate": "2017-10-20T21:00:00.000Z",
   "pubdate": "2019-03-23T09:00:00.000Z",
   "expdate": "2019-04-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088584",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2085313",
   "originalseriesname": "Ben 10",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554109140000",
   "mediaid": "307b3589398e691372d3fc3d01d95fca30d1ab32",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

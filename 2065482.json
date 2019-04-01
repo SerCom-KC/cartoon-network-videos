@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070523",
   "seasonnumber": "4",
   "seasonitemnumber": "17",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "2347f7c70839ebcf35e09b0f32f1e6213dce7f43",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/a-gift-for-gus-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2016-12-08T21:30:00.000Z",
   "pubdate": "2019-03-22T09:00:00.000Z",
   "expdate": "2019-04-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065482",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554109140000",
   "mediaid": "2347f7c70839ebcf35e09b0f32f1e6213dce7f43",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

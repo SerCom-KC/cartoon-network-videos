@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070522",
   "seasonnumber": "2",
   "seasonitemnumber": "20",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "5b0cf72334c3b37279a247cf4fc5f3be5a9d9fe6",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/uncle-grandpa-retires-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2015-09-03T21:00:00.000Z",
   "pubdate": "2019-03-22T09:00:00.000Z",
   "expdate": "2019-04-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2056105",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554109140000",
   "mediaid": "5b0cf72334c3b37279a247cf4fc5f3be5a9d9fe6",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

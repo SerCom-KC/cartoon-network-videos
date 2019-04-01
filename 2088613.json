@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070492",
   "seasonnumber": "8",
   "seasonitemnumber": "24",
-  "seriesid": "10000000000",
+  "seriesid": "810150",
   "id": "47618f4a01b669143ac19b6d43e31b25b2babf8a",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/kill-em-with-kindness-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "810150",
+  "seriesname": "Regular Show",
   "originalpremieredate": "2017-01-14T17:00:00.000Z",
   "pubdate": "2019-03-22T09:00:00.000Z",
   "expdate": "2019-04-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088613",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554109140000",
   "mediaid": "47618f4a01b669143ac19b6d43e31b25b2babf8a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

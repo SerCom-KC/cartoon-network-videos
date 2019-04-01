@@ -2,7 +2,7 @@
   "airingid": "RADS1002261900070521",
   "seasonnumber": "1",
   "seasonitemnumber": "35",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "61a50ceb7168a9700ab29fb7384bd833b2c70b3a",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/grounded-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2014-10-02T23:30:00.000Z",
   "pubdate": "2019-03-22T09:00:00.000Z",
   "expdate": "2019-04-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2018706",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554109140000",
   "mediaid": "61a50ceb7168a9700ab29fb7384bd833b2c70b3a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1001031900058252",
+  "airingid": "RADS1003251900076114",
   "seasonnumber": "1",
   "seasonitemnumber": "34",
   "seriesid": "10000000000",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2015-04-10T21:00:00.000Z",
-  "pubdate": "2019-01-15T10:00:00.000Z",
-  "expdate": "2019-01-22T09:59:00.000Z",
+  "pubdate": "2019-04-01T09:00:00.000Z",
+  "expdate": "2019-04-08T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2032718_005_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Clarence",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1428699600000",
-  "pubdateasmilliseconds": "1547546400000",
-  "expdateasmilliseconds": "1548151140000",
+  "pubdateasmilliseconds": "1554109200000",
+  "expdateasmilliseconds": "1554713940000",
   "mediaid": "945d082fa6389cb36dca1c5f99a8fdd9412e40a7",
   "isunlockedfullepisode": true,
   "ismultipropertycollection": true

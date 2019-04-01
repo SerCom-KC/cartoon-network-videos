@@ -2,7 +2,7 @@
   "airingid": "RADS1002251900069834",
   "seasonnumber": "6",
   "seasonitemnumber": "11",
-  "seriesid": "10000000000",
+  "seriesid": "2055199",
   "id": "ad7ed490d376ace2b3c7bb1ba17c98dd532f76dc",
   "collectionid": "",
   "seofriendlyurl": "/video/magiswords/potion-in-the-ocean-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2055199",
+  "seriesname": "Magiswords",
   "originalpremieredate": "2016-11-09T23:30:00.000Z",
   "pubdate": "2019-03-01T10:00:00.000Z",
   "expdate": "2019-04-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2089138",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2055199",
   "originalseriesname": "Magiswords",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554109140000",
   "mediaid": "ad7ed490d376ace2b3c7bb1ba17c98dd532f76dc",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
