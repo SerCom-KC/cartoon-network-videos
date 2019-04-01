@@ -2,7 +2,7 @@
   "airingid": "RADS1003251900076012",
   "seasonnumber": "2",
   "seasonitemnumber": "10",
-  "seriesid": "10000000000",
+  "seriesid": "757073",
   "id": "64b508942a9789aaebb219833ffafe2f3ae4a54b",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/to-cut-a-womans-hair-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2011-01-11T01:00:00.000Z",
   "pubdate": "2019-04-01T09:00:00.000Z",
   "expdate": "2019-04-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "812757",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554713940000",
   "mediaid": "64b508942a9789aaebb219833ffafe2f3ae4a54b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
