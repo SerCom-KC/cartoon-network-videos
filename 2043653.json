@@ -2,7 +2,7 @@
   "airingid": "RADS1003151900074136",
   "seasonnumber": "6",
   "seasonitemnumber": "32",
-  "seriesid": "757073",
+  "seriesid": "10000000000",
   "id": "d011a83e36c5f4873c320807ab9fe80453b27a58",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/friends-forever-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "757073",
-  "seriesname": "Adventure Time",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2015-04-16T23:30:00.000Z",
   "pubdate": "2019-03-22T09:00:00.000Z",
   "expdate": "2019-04-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2043653",
   "titletype": "Element",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554109140000",
   "mediaid": "d011a83e36c5f4873c320807ab9fe80453b27a58",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
