@@ -2,7 +2,7 @@
   "airingid": "RADS1003251900076025",
   "seasonnumber": "3",
   "seasonitemnumber": "39",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "14d93ade12d6173a4c716d21ff3d21af912947ec",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-money-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2015-07-09T22:00:00.000Z",
   "pubdate": "2019-04-01T09:00:00.000Z",
   "expdate": "2019-04-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2034042",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554713940000",
   "mediaid": "14d93ade12d6173a4c716d21ff3d21af912947ec",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

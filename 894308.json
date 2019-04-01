@@ -2,7 +2,7 @@
   "airingid": "RADS1003251900076024",
   "seasonnumber": "2",
   "seasonitemnumber": "1",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "38ca1e01bed57039ee2fbb56a3e47fe8329a7cdd",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-colossus-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2012-08-14T23:00:00.000Z",
   "pubdate": "2019-04-01T09:00:00.000Z",
   "expdate": "2019-04-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "894308",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554713940000",
   "mediaid": "38ca1e01bed57039ee2fbb56a3e47fe8329a7cdd",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
