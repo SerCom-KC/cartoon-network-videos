@@ -2,7 +2,7 @@
   "airingid": "RADS1003261900076283",
   "seasonnumber": "3",
   "seasonitemnumber": "23",
-  "seriesid": "10000000000",
+  "seriesid": "2043744",
   "id": "0e011286f1f1bb2549020b6ed5913c94d2b31f97",
   "collectionid": "",
   "seofriendlyurl": "/video/transformers/sick-as-a-bot-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2043744",
+  "seriesname": "Transformers",
   "originalpremieredate": "2017-10-21T10:30:00.000Z",
   "pubdate": "2019-04-01T09:00:00.000Z",
   "expdate": "2019-04-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2106797",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2043744",
   "originalseriesname": "Transformers",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556528340000",
   "mediaid": "0e011286f1f1bb2549020b6ed5913c94d2b31f97",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

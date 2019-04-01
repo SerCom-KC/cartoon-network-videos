@@ -2,7 +2,7 @@
   "airingid": "RADS1003261900076223",
   "seasonnumber": "1",
   "seasonitemnumber": "20",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "eb8db2637a311c6ffd7bf7c61c634584437cfbea",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/bubbles-of-the-opera-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2016-06-16T22:30:00.000Z",
   "pubdate": "2019-04-01T09:00:00.000Z",
   "expdate": "2019-04-07T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065502",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554627540000",
   "mediaid": "eb8db2637a311c6ffd7bf7c61c634584437cfbea",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

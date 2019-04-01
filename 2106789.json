@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1001291900063878",
+  "airingid": "RADS1003281900077721",
   "seasonnumber": "3",
   "seasonitemnumber": "15",
   "seriesid": "2043744",
@@ -20,8 +20,8 @@
   "seriestitleid": "2043744",
   "seriesname": "Transformers",
   "originalpremieredate": "2017-08-26T10:30:00.000Z",
-  "pubdate": "2019-02-01T10:00:00.000Z",
-  "expdate": "2019-03-01T09:59:00.000Z",
+  "pubdate": "2019-04-01T09:00:00.000Z",
+  "expdate": "2019-04-29T03:59:59.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2106789_004_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Transformers",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1503743400000",
-  "pubdateasmilliseconds": "1549015200000",
-  "expdateasmilliseconds": "1551434340000",
+  "pubdateasmilliseconds": "1554109200000",
+  "expdateasmilliseconds": "1556510399000",
   "mediaid": "dfc8f11d63110aef4105bb8f3875ac1a4a4834de",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false

@@ -2,7 +2,7 @@
   "airingid": "RADS1003261900076224",
   "seasonnumber": "2",
   "seasonitemnumber": "29",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "ccbc2fa3157cb55aee3f9af574a7c64c9922671f",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/youre-a-good-man-mojo-jojo-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2017-12-03T22:30:00.000Z",
   "pubdate": "2019-04-01T09:00:00.000Z",
   "expdate": "2019-04-07T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2094650",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554627540000",
   "mediaid": "ccbc2fa3157cb55aee3f9af574a7c64c9922671f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

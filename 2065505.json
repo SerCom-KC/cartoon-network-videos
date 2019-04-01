@@ -2,7 +2,7 @@
   "airingid": "RADS1003261900076222",
   "seasonnumber": "1",
   "seasonitemnumber": "25",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "0380b6c0f74fcbc048137a86b535a31e5c080e1b",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/fashion-forward-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2016-09-19T21:30:00.000Z",
   "pubdate": "2019-04-01T09:00:00.000Z",
   "expdate": "2019-04-07T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065505",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554627540000",
   "mediaid": "0380b6c0f74fcbc048137a86b535a31e5c080e1b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
