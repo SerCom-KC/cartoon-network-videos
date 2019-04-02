@@ -3,8 +3,23 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: April 1, 2019 at 19:31:03 EDT_
+_Last Update: April 1, 2019 at 21:01:33 EDT_
 ## Video added
-No videos were added.
+### 2181880
+**Craig of the Creek S02E04 - Kelsey the Elder**  
+🆕 TV-Y7 🔒 11:16  
+⌛ April 15, 2019 at 04:59:00 EDT  
+[Open in app](https://tinyurl.com/yx8wqdcm) or on the web: https://www.cartoonnetwork.com/video/craig-of-the-creek/kelsey-the-elder-episode.html  
+seriesid=`2132940` titleid=`2181880` mediaid=`b695f3f5d2d1783c78ee201fd1e6d8b355d0492e`  
+_A spat between the Elders of the Creek leaves an opening in their tabletop role playing game, so Kelsey joins the campaign!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2181880_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2181880_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2181880_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2181880_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2181880_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2181880_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2181880_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2181880_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2181880_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2181880_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2181880_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2181880_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2181880_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2181880_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2181880_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2181880_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2181880_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2181880_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2181880_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2181880_010_640x360.jpg" height="144px" /></a>
+### 2186680
+**Craig of the Creek S02E05 - Sour Candy Trials**  
+🆕 TV-Y7 🔒 11:16  
+⌛ April 15, 2019 at 04:59:00 EDT  
+[Open in app](https://tinyurl.com/y5uttb72) or on the web: https://www.cartoonnetwork.com/video/craig-of-the-creek/sour-candy-trials-episode.html  
+seriesid=`2132940` titleid=`2186680` mediaid=`c733df3bf345bbc66aea9f9e1a37717ff9e02654`  
+_Craig goes on a mind-bending journey as he tries to eat the most sour candy in the Creek!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2186680_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2186680_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2186680_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2186680_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2186680_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2186680_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2186680_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2186680_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2186680_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2186680_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2186680_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2186680_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2186680_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2186680_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2186680_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2186680_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2186680_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2186680_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2186680_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2186680_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.
