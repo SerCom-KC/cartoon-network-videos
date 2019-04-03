@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1001281900063385",
+  "airingid": "RADS1004031900078905",
   "seasonnumber": "2",
   "seasonitemnumber": "24",
   "seriesid": "2056641",
@@ -20,8 +20,8 @@
   "seriestitleid": "2056641",
   "seriesname": "We Bare Bears",
   "originalpremieredate": "2017-04-03T23:00:00.000Z",
-  "pubdate": "2019-02-01T10:00:00.000Z",
-  "expdate": "2019-03-01T09:59:17.000Z",
+  "pubdate": "2019-04-01T09:00:00.000Z",
+  "expdate": "2019-04-15T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2088714_004_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1491260400000",
-  "pubdateasmilliseconds": "1549015200000",
-  "expdateasmilliseconds": "1551434357000",
+  "pubdateasmilliseconds": "1554109200000",
+  "expdateasmilliseconds": "1555318740000",
   "mediaid": "aafa2e66575c60ff2afba0820fa35966e13d398a",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
