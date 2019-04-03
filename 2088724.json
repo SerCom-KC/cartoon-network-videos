@@ -3,7 +3,7 @@
   "seasonnumber": "3",
   "seasonitemnumber": "34",
   "seriesid": "2056641",
-  "id": "f87fb2f9f6106f8cebca700a34002a39c09776f8",
+  "id": "402aef80eb297336f54cebd8cdc40e5eccb97b73",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/panda-2-episode.html",
   "seasonepisodenumber": "34",
@@ -21,7 +21,7 @@
   "seriesname": "We Bare Bears",
   "originalpremieredate": "2017-11-11T00:30:00.000Z",
   "pubdate": "2018-04-02T04:00:00.000Z",
-  "expdate": "2019-04-07T03:59:00.000Z",
+  "expdate": "2020-01-01T04:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2088724_002_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -34,8 +34,8 @@
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1510360200000",
   "pubdateasmilliseconds": "1522641600000",
-  "expdateasmilliseconds": "1554609540000",
-  "mediaid": "f87fb2f9f6106f8cebca700a34002a39c09776f8",
+  "expdateasmilliseconds": "1577854740000",
+  "mediaid": "402aef80eb297336f54cebd8cdc40e5eccb97b73",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
 }
