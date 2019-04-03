@@ -21,7 +21,7 @@
   "seriesname": "We Bare Bears",
   "originalpremieredate": "2018-11-06T00:00:00.000Z",
   "pubdate": "2018-12-10T10:00:00.000Z",
-  "expdate": "2019-04-30T04:00:00.000Z",
+  "expdate": "2020-01-01T04:59:59.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2162797_003_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -34,7 +34,7 @@
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1541462400000",
   "pubdateasmilliseconds": "1544436000000",
-  "expdateasmilliseconds": "1556596800000",
+  "expdateasmilliseconds": "1577854799000",
   "mediaid": "b1eccdf3a37c5269a28dce3a68c34543b735ce1b",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
