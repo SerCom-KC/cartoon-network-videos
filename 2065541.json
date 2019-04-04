@@ -3,7 +3,7 @@
   "seasonnumber": "3",
   "seasonitemnumber": "17",
   "seriesid": "2011404",
-  "id": "7f55726a6b6a79787f04f48da630fcee733c0dfa",
+  "id": "dc0c039466a52a35781942649eadba74bd4f217b",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/kikis-pizza-delivery-service-episode.html",
   "seasonepisodenumber": "17",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven saves Kiki from some delicious nightmares.",
-  "duration": 746,
+  "duration": 716,
   "freewheelid": "cn-2065541",
   "isclip": false,
   "typesort": "1",
@@ -35,7 +35,7 @@
   "originalpremieredateasmilliseconds": "1469574000000",
   "pubdateasmilliseconds": "1554109200000",
   "expdateasmilliseconds": "1556701140000",
-  "mediaid": "7f55726a6b6a79787f04f48da630fcee733c0dfa",
+  "mediaid": "dc0c039466a52a35781942649eadba74bd4f217b",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
 }
