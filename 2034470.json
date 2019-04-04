@@ -3,7 +3,7 @@
   "seasonnumber": "2",
   "seasonitemnumber": "13",
   "seriesid": "10000000000",
-  "id": "c5b1954cb9b82c78e71f04a43781ffc1b1c5cdea",
+  "id": "8947ec12b5387c076b7ef34ace24cdef13db6fed",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/onion-friend-episode.html",
   "seasonepisodenumber": "13",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven and Amethyst visit the strange world of Onion's house.",
-  "duration": 747,
+  "duration": 717,
   "freewheelid": "cn-2034470",
   "isclip": false,
   "typesort": "1",
@@ -35,7 +35,7 @@
   "originalpremieredateasmilliseconds": "1436997600000",
   "pubdateasmilliseconds": "1554109200000",
   "expdateasmilliseconds": "1554713940000",
-  "mediaid": "c5b1954cb9b82c78e71f04a43781ffc1b1c5cdea",
+  "mediaid": "8947ec12b5387c076b7ef34ace24cdef13db6fed",
   "isunlockedfullepisode": true,
   "ismultipropertycollection": true
 }
