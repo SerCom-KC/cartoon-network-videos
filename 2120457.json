@@ -2,7 +2,7 @@
   "airingid": "RADS1004021900078762",
   "seasonnumber": "2",
   "seasonitemnumber": "36",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "e7e46e4e4391b50edd8f1313755517cc2098bf64",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/derby-dollies-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2018-04-29T20:00:00.000Z",
   "pubdate": "2019-04-07T09:00:00.000Z",
   "expdate": "2019-04-14T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2120457",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1555232340000",
   "mediaid": "e7e46e4e4391b50edd8f1313755517cc2098bf64",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

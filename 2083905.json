@@ -2,7 +2,7 @@
   "airingid": "RADS1004021900078761",
   "seasonnumber": "1",
   "seasonitemnumber": "31",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "1a17fe91cdffe69f4a9fea9b576fc4ff39048239",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/secret-swapper-of-doom-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2016-10-15T21:30:00.000Z",
   "pubdate": "2019-04-07T09:00:00.000Z",
   "expdate": "2019-04-14T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2083905",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1555232340000",
   "mediaid": "1a17fe91cdffe69f4a9fea9b576fc4ff39048239",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
