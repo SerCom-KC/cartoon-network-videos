@@ -2,7 +2,7 @@
   "airingid": "RADS1003261900076252",
   "seasonnumber": "1",
   "seasonitemnumber": "9",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "db7093a30aa2e1befc3862aedee1831dab3ac25c",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/tiger-millionaire-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2014-01-21T01:00:00.000Z",
   "pubdate": "2019-04-01T09:00:00.000Z",
   "expdate": "2019-04-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2011427",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554713940000",
   "mediaid": "db7093a30aa2e1befc3862aedee1831dab3ac25c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

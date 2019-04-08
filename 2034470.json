@@ -2,7 +2,7 @@
   "airingid": "RADS1003261900076253",
   "seasonnumber": "2",
   "seasonitemnumber": "13",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "8947ec12b5387c076b7ef34ace24cdef13db6fed",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/onion-friend-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2015-07-15T22:00:00.000Z",
   "pubdate": "2019-04-01T09:00:00.000Z",
   "expdate": "2019-04-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2034470",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554713940000",
   "mediaid": "8947ec12b5387c076b7ef34ace24cdef13db6fed",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

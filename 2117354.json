@@ -2,7 +2,7 @@
   "airingid": "RADS1004021900078732",
   "seasonnumber": "1",
   "seasonitemnumber": "2",
-  "seriesid": "2117352",
+  "seriesid": "10000000000",
   "id": "404e3d1420409fa25a9bc63310b6b1dad4a3225c",
   "collectionid": "",
   "seofriendlyurl": "/video/mega-man/throwing-shade-part-2-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2117352",
-  "seriesname": "Mega Man",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-08-05T10:30:00.000Z",
   "pubdate": "2019-04-08T08:59:00.000Z",
   "expdate": "2019-04-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2117354",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2117352",
   "originalseriesname": "Mega Man",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1555318740000",
   "mediaid": "404e3d1420409fa25a9bc63310b6b1dad4a3225c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

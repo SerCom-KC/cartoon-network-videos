@@ -2,7 +2,7 @@
   "airingid": "RADS1003261900076232",
   "seasonnumber": "1",
   "seasonitemnumber": "5",
-  "seriesid": "10000000000",
+  "seriesid": "810150",
   "id": "397a998cfc2f82c7cddf599ca0ae039bec14231d",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/free-cake-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "810150",
+  "seriesname": "Regular Show",
   "originalpremieredate": "2010-10-05T00:15:00.000Z",
   "pubdate": "2019-04-01T09:00:00.000Z",
   "expdate": "2019-04-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "810156",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554713940000",
   "mediaid": "397a998cfc2f82c7cddf599ca0ae039bec14231d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
