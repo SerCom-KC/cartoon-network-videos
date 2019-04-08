@@ -2,7 +2,7 @@
   "airingid": "RADS1004021900078752",
   "seasonnumber": "1",
   "seasonitemnumber": "37",
-  "seriesid": "10000000000",
+  "seriesid": "2079533",
   "id": "70c62845c6e3d527c40e75bd7b87d3f9c908ca5b",
   "collectionid": "",
   "seofriendlyurl": "/video/ok-ko/we-got-hacked-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2079533",
+  "seriesname": "OK K.O.!",
   "originalpremieredate": "2017-10-27T22:30:00.000Z",
   "pubdate": "2019-04-08T09:00:00.000Z",
   "expdate": "2019-04-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2091050",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2079533",
   "originalseriesname": "OK K.O.!",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1555318740000",
   "mediaid": "70c62845c6e3d527c40e75bd7b87d3f9c908ca5b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
