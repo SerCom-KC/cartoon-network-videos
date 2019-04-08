@@ -2,7 +2,7 @@
   "airingid": "RADS1003251900076122",
   "seasonnumber": "2",
   "seasonitemnumber": "12",
-  "seriesid": "2012957",
+  "seriesid": "10000000000",
   "id": "f17641d0079416e66a803f7f60903bb2a2b617b6",
   "collectionid": "",
   "seofriendlyurl": "/video/clarence/ice-cream-hunt-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2012957",
-  "seriesname": "Clarence",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2016-03-03T22:00:00.000Z",
   "pubdate": "2019-04-08T09:00:00.000Z",
   "expdate": "2019-04-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065516",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2012957",
   "originalseriesname": "Clarence",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1555318740000",
   "mediaid": "f17641d0079416e66a803f7f60903bb2a2b617b6",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
