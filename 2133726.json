@@ -2,7 +2,7 @@
   "airingid": "RADS1002251900069882",
   "seasonnumber": "1",
   "seasonitemnumber": "5",
-  "seriesid": "10000000000",
+  "seriesid": "2131007",
   "id": "01cddd72110af9201e4633c57b0d141fe1da6712",
   "collectionid": "",
   "seofriendlyurl": "/video/summer-camp-island/pajama-pajimjams-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2131007",
+  "seriesname": "Summer Camp Island",
   "originalpremieredate": "2018-07-07T11:00:00.000Z",
   "pubdate": "2019-03-08T10:00:00.000Z",
   "expdate": "2019-04-09T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2133726",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2131007",
   "originalseriesname": "Summer Camp Island",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554800340000",
   "mediaid": "01cddd72110af9201e4633c57b0d141fe1da6712",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1002251900069898",
   "seasonnumber": "1",
   "seasonitemnumber": "4",
-  "seriesid": "10000000000",
+  "seriesid": "2131007",
   "id": "96bb24e49439bd89786b5d3f3ec77b1d880eb592",
   "collectionid": "",
   "seofriendlyurl": "/video/summer-camp-island/saxophone-come-home-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2131007",
+  "seriesname": "Summer Camp Island",
   "originalpremieredate": "2018-07-07T10:30:00.000Z",
   "pubdate": "2019-03-08T10:00:00.000Z",
   "expdate": "2019-04-09T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2132942",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2131007",
   "originalseriesname": "Summer Camp Island",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1554800340000",
   "mediaid": "96bb24e49439bd89786b5d3f3ec77b1d880eb592",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
