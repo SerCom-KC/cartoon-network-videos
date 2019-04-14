@@ -2,7 +2,7 @@
   "airingid": "RADS1003011900071526",
   "seasonnumber": "1",
   "seasonitemnumber": "34",
-  "seriesid": "10000000000",
+  "seriesid": "2117352",
   "id": "c20b99e5ff7bbbfa728605fde52e45254c47b65a",
   "collectionid": "",
   "seofriendlyurl": "/video/mega-man/fire-man-in-the-hole-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2117352",
+  "seriesname": "Mega Man",
   "originalpremieredate": "2019-03-10T10:30:00.000Z",
   "pubdate": "2019-03-31T09:00:00.000Z",
   "expdate": "2019-04-14T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2117435",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2117352",
   "originalseriesname": "Mega Man",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1555232340000",
   "mediaid": "c20b99e5ff7bbbfa728605fde52e45254c47b65a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
