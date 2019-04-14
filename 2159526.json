@@ -2,7 +2,7 @@
   "airingid": "RADS1004021900078770",
   "seasonnumber": "3",
   "seasonitemnumber": "22",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "12d62a73a60239eeab9a5df1df6b1adf5a891ed5",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/bucketboy-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2019-03-24T20:30:00.000Z",
   "pubdate": "2019-04-14T09:00:00.000Z",
   "expdate": "2019-04-28T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2159526",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556441940000",
   "mediaid": "12d62a73a60239eeab9a5df1df6b1adf5a891ed5",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
