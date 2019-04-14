@@ -2,7 +2,7 @@
   "airingid": "RADS1004021900078769",
   "seasonnumber": "3",
   "seasonitemnumber": "21",
-  "seriesid": "2064567",
+  "seriesid": "10000000000",
   "id": "cd7443226f98d4ef336a9842ef12dfe5338aba25",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/lights-out-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2064567",
-  "seriesname": "Powerpuff Girls",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-03-24T20:30:00.000Z",
   "pubdate": "2019-04-14T09:00:00.000Z",
   "expdate": "2019-04-28T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2168274",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556441940000",
   "mediaid": "cd7443226f98d4ef336a9842ef12dfe5338aba25",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
