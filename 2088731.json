@@ -2,7 +2,7 @@
   "airingid": "RADS1004081900080231",
   "seasonnumber": "3",
   "seasonitemnumber": "31",
-  "seriesid": "2056641",
+  "seriesid": "10000000000",
   "id": "7805aed30b49d67be1a74c6fa4c4bb2e332ad85d",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/charlies-halloween-thing-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2056641",
-  "seriesname": "We Bare Bears",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2017-10-27T23:30:00.000Z",
   "pubdate": "2019-04-15T08:59:00.000Z",
   "expdate": "2019-04-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088731",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556528340000",
   "mediaid": "7805aed30b49d67be1a74c6fa4c4bb2e332ad85d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

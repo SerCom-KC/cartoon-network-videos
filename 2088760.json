@@ -2,7 +2,7 @@
   "airingid": "RADS1004081900080243",
   "seasonnumber": "3",
   "seasonitemnumber": "53",
-  "seriesid": "2056641",
+  "seriesid": "10000000000",
   "id": "73b5fb5cb7df54b556ce8cb95816d4410e80de8d",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/i-butler-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2056641",
-  "seriesname": "We Bare Bears",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-07-30T17:00:00.000Z",
   "pubdate": "2019-04-15T08:59:00.000Z",
   "expdate": "2019-04-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088760",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556528340000",
   "mediaid": "73b5fb5cb7df54b556ce8cb95816d4410e80de8d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
