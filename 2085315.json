@@ -2,7 +2,7 @@
   "airingid": "RADS1004081900079333",
   "seasonnumber": "1",
   "seasonitemnumber": "11",
-  "seriesid": "10000000000",
+  "seriesid": "2085313",
   "id": "0e87b5af2223a68eea52b0669d45f6c0d081fef0",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/clown-college-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2085313",
+  "seriesname": "Ben 10",
   "originalpremieredate": "2017-04-20T21:00:00.000Z",
   "pubdate": "2019-04-15T08:59:00.000Z",
   "expdate": "2019-04-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2085315",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2085313",
   "originalseriesname": "Ben 10",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556528340000",
   "mediaid": "0e87b5af2223a68eea52b0669d45f6c0d081fef0",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
