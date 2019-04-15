@@ -23,12 +23,12 @@
   "pubdate": "2019-04-15T08:59:00.000Z",
   "expdate": "2019-04-29T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2088714_004_640x360.jpg",
-  "authtype": "auth",
+  "authtype": "unauth",
   "webflags": "",
-  "tags": "",
+  "tags": "unauth",
   "titleid": "2088714",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -36,6 +36,6 @@
   "pubdateasmilliseconds": "1555318740000",
   "expdateasmilliseconds": "1556528340000",
   "mediaid": "aafa2e66575c60ff2afba0820fa35966e13d398a",
-  "isunlockedfullepisode": false,
+  "isunlockedfullepisode": true,
   "ismultipropertycollection": false
 }
