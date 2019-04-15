@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1004021900078657",
+  "airingid": "RADS1004081900079765",
   "seasonnumber": "9",
   "seasonitemnumber": "",
   "seriesid": "860668",
@@ -20,8 +20,8 @@
   "seriestitleid": "860668",
   "seriesname": "Ninjago",
   "originalpremieredate": "2019-04-19T22:00:00.000Z",
-  "pubdate": "2019-04-12T09:00:00.000Z",
-  "expdate": "2019-04-15T08:59:00.000Z",
+  "pubdate": "2019-04-15T08:59:00.000Z",
+  "expdate": "2019-04-29T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2194651_009_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Ninjago",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1555711200000",
-  "pubdateasmilliseconds": "1555059600000",
-  "expdateasmilliseconds": "1555318740000",
+  "pubdateasmilliseconds": "1555318740000",
+  "expdateasmilliseconds": "1556528340000",
   "mediaid": "1b8e4fce95596b4c0ed87ba43a1c900f96ab13b8",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false

@@ -2,7 +2,7 @@
   "airingid": "RADS1004031900078897",
   "seasonnumber": "2",
   "seasonitemnumber": "14",
-  "seriesid": "10000000000",
+  "seriesid": "2056641",
   "id": "dc6fb80870af3b2d6b20ad79ebec11e73ecd0fc9",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/the-audition-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2056641",
+  "seriesname": "We Bare Bears",
   "originalpremieredate": "2016-08-05T21:00:00.000Z",
   "pubdate": "2019-04-08T08:59:00.000Z",
   "expdate": "2019-04-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2075014",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1555318740000",
   "mediaid": "dc6fb80870af3b2d6b20ad79ebec11e73ecd0fc9",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1003261900076321",
   "seasonnumber": "4",
   "seasonitemnumber": "1",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "1051c4d863df13661e480f3e48d3951e3c761916",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/inventor-mentor-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2016-07-01T23:00:00.000Z",
   "pubdate": "2019-04-08T09:00:00.000Z",
   "expdate": "2019-04-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2056121",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1555318740000",
   "mediaid": "1051c4d863df13661e480f3e48d3951e3c761916",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
