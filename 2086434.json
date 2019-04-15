@@ -2,7 +2,7 @@
   "airingid": "RADS1004081900079793",
   "seasonnumber": "6",
   "seasonitemnumber": "8",
-  "seriesid": "860668",
+  "seriesid": "10000000000",
   "id": "d1f25dbe4c5c8ee1537a916e9978712167a6dd69",
   "collectionid": "",
   "seofriendlyurl": "/video/ninjago/pause-and-effect-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "860668",
-  "seriesname": "Ninjago",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2017-05-24T21:30:00.000Z",
   "pubdate": "2019-04-15T08:59:00.000Z",
   "expdate": "2019-04-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2086434",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "860668",
   "originalseriesname": "Ninjago",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556528340000",
   "mediaid": "d1f25dbe4c5c8ee1537a916e9978712167a6dd69",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
