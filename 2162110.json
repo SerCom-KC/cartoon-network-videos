@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003211900075165",
+  "airingid": "RADS1004081900079458",
   "seasonnumber": "3",
   "seasonitemnumber": "14",
   "seriesid": "2085313",
@@ -20,8 +20,8 @@
   "seriestitleid": "2085313",
   "seriesname": "Ben 10",
   "originalpremieredate": "2019-04-06T16:00:00.000Z",
-  "pubdate": "2019-03-29T09:00:00.000Z",
-  "expdate": "2019-04-15T08:59:00.000Z",
+  "pubdate": "2019-04-15T09:00:00.000Z",
+  "expdate": "2019-05-11T08:59:48.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2162110_003_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Ben 10",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1554566400000",
-  "pubdateasmilliseconds": "1553850000000",
-  "expdateasmilliseconds": "1555318740000",
+  "pubdateasmilliseconds": "1555318800000",
+  "expdateasmilliseconds": "1557565188000",
   "mediaid": "43717482cd7b0869f1df4211cecd5f3cae97a24f",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
