@@ -1,7 +1,47 @@
 {
-    "updated": 1555354654,
-    "added": [],
-    "removed": [
+    "updated": 1555354716,
+    "added": [
+        {
+            "airingid": "RADS1004081900080332",
+            "seasonnumber": "4",
+            "seasonitemnumber": "18",
+            "seriesid": "2056641",
+            "id": "1b80a4592dd1c0db68c5d14019749f03d6111d85",
+            "collectionid": "",
+            "seofriendlyurl": "/video/we-bare-bears/tunnels-episode.html",
+            "seasonepisodenumber": "18",
+            "title": "Tunnels",
+            "episodenumber": "18",
+            "type": "fullepisode",
+            "active": true,
+            "description": "The Bears discover a network of tunnels underneath the cave. Are they prepared to discover where they lead to and who dug them?",
+            "duration": 676,
+            "freewheelid": "cn-2168277",
+            "isclip": false,
+            "typesort": "1",
+            "tvratingcode": "TV-Y7",
+            "seriestitleid": "2056641",
+            "seriesname": "We Bare Bears",
+            "originalpremieredate": "2019-02-12T00:00:00.000Z",
+            "pubdate": "2019-04-15T08:59:00.000Z",
+            "expdate": "2019-04-29T08:59:00.000Z",
+            "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2168277_002_640x360.jpg",
+            "authtype": "unauth",
+            "webflags": "",
+            "tags": "unauth",
+            "titleid": "2168277",
+            "titletype": "Episode",
+            "bannertext": "UNLOCKED",
+            "originalseriesid": "2056641",
+            "originalseriesname": "We Bare Bears",
+            "hasparent": false,
+            "originalpremieredateasmilliseconds": "1549929600000",
+            "pubdateasmilliseconds": "1555318740000",
+            "expdateasmilliseconds": "1556528340000",
+            "mediaid": "1b80a4592dd1c0db68c5d14019749f03d6111d85",
+            "isunlockedfullepisode": true,
+            "ismultipropertycollection": false
+        },
         {
             "airingid": "RADS1004081900080028",
             "seasonnumber": "1",
@@ -43,5 +83,6 @@
             "isunlockedfullepisode": true,
             "ismultipropertycollection": false
         }
-    ]
+    ],
+    "removed": []
 }
