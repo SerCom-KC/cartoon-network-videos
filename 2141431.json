@@ -2,7 +2,7 @@
   "airingid": "RADS1003251900076055",
   "seasonnumber": "1",
   "seasonitemnumber": "9",
-  "seriesid": "10000000000",
+  "seriesid": "2133648",
   "id": "16d65d30ec6c849880735eedfed201c778de019b",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/pancakes-bus-tour-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2133648",
+  "seriesname": "Apple & Onion",
   "originalpremieredate": "2018-03-23T22:00:00.000Z",
   "pubdate": "2019-04-15T08:59:00.000Z",
   "expdate": "2019-05-02T03:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2141431",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2133648",
   "originalseriesname": "Apple & Onion",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556769540000",
   "mediaid": "16d65d30ec6c849880735eedfed201c778de019b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
