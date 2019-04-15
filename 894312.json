@@ -2,7 +2,7 @@
   "airingid": "RADS1003271900076945",
   "seasonnumber": "2",
   "seasonitemnumber": "7",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "0da431a6076658bb9cba78bf0144ebf2fda7e78d",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-job-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2012-09-18T23:00:00.000Z",
   "pubdate": "2019-04-15T09:00:00.000Z",
   "expdate": "2019-04-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "894312",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1555923540000",
   "mediaid": "0da431a6076658bb9cba78bf0144ebf2fda7e78d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
