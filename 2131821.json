@@ -2,7 +2,7 @@
   "airingid": "RADS1004081900080016",
   "seasonnumber": "1",
   "seasonitemnumber": "2",
-  "seriesid": "2131007",
+  "seriesid": "10000000000",
   "id": "f7e7256b840c3fbdf5a309318075a0effadd7fd3",
   "collectionid": "",
   "seofriendlyurl": "/video/summer-camp-island/monster-babies-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2131007",
-  "seriesname": "Summer Camp Island",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-07-07T10:00:00.000Z",
   "pubdate": "2019-04-15T08:59:00.000Z",
   "expdate": "2019-04-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2131821",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2131007",
   "originalseriesname": "Summer Camp Island",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556528340000",
   "mediaid": "f7e7256b840c3fbdf5a309318075a0effadd7fd3",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
