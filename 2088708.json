@@ -3,7 +3,7 @@
   "seasonnumber": "3",
   "seasonitemnumber": "21",
   "seriesid": "10000000000",
-  "id": "59879a97f894ea4a88ca1cbeace31e25ba5c959a",
+  "id": "ba375485cf6307e6318738d0db5aa5440b8bda8c",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/crowbar-jones-episode.html",
   "seasonepisodenumber": "21",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Grizz screens an epic amateur movie he just made for a focus group. But when he notices people are leaving he must figure out ways to keep the audience engaged.",
-  "duration": 677,
+  "duration": 679,
   "freewheelid": "cn-2088708",
   "isclip": false,
   "typesort": "1",
@@ -35,7 +35,7 @@
   "originalpremieredateasmilliseconds": "1504308600000",
   "pubdateasmilliseconds": "1555318740000",
   "expdateasmilliseconds": "1556528340000",
-  "mediaid": "59879a97f894ea4a88ca1cbeace31e25ba5c959a",
+  "mediaid": "ba375485cf6307e6318738d0db5aa5440b8bda8c",
   "isunlockedfullepisode": true,
   "ismultipropertycollection": true
 }
