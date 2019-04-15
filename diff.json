@@ -1,12 +1,11 @@
 {
-    "updated": 1555346495,
-    "added": [],
-    "removed": [
+    "updated": 1555346670,
+    "added": [
         {
             "airingid": "RADS1004081900079776",
             "seasonnumber": "8",
             "seasonitemnumber": "5",
-            "seriesid": "10000000000",
+            "seriesid": "860668",
             "id": "109a55390a094d0fee6c96149fdbec1e524ae67c",
             "collectionid": "",
             "seofriendlyurl": "/video/ninjago/the-gilded-path-episode.html",
@@ -21,8 +20,8 @@
             "isclip": false,
             "typesort": "1",
             "tvratingcode": "TV-Y7-FV",
-            "seriestitleid": "10000000000",
-            "seriesname": "Unlocked",
+            "seriestitleid": "860668",
+            "seriesname": "Ninjago",
             "originalpremieredate": "2019-04-15T08:59:00.000Z",
             "pubdate": "2019-04-15T08:59:00.000Z",
             "expdate": "2019-04-29T08:59:00.000Z",
@@ -41,7 +40,8 @@
             "expdateasmilliseconds": "1556528340000",
             "mediaid": "109a55390a094d0fee6c96149fdbec1e524ae67c",
             "isunlockedfullepisode": true,
-            "ismultipropertycollection": true
+            "ismultipropertycollection": false
         }
-    ]
+    ],
+    "removed": []
 }
