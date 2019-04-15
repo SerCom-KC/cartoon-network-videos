@@ -2,7 +2,7 @@
   "airingid": "RADS1004081900079320",
   "seasonnumber": "1",
   "seasonitemnumber": "24",
-  "seriesid": "2085313",
+  "seriesid": "10000000000",
   "id": "d812d87074577bd25481ffee21f777b4cf779d79",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/freaky-gwen-ben-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2085313",
-  "seriesname": "Ben 10",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2017-06-09T22:30:00.000Z",
   "pubdate": "2019-04-15T08:59:00.000Z",
   "expdate": "2019-04-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2085320",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2085313",
   "originalseriesname": "Ben 10",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556528340000",
   "mediaid": "d812d87074577bd25481ffee21f777b4cf779d79",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
