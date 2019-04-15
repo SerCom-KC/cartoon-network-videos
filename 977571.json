@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003111900072961",
+  "airingid": "RADS1003251900076100",
   "seasonnumber": "1",
   "seasonitemnumber": "38",
   "seriesid": "10000000000",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2013-11-23T14:00:00.000Z",
-  "pubdate": "2019-03-15T09:00:00.000Z",
-  "expdate": "2019-03-22T08:59:00.000Z",
+  "pubdate": "2019-04-15T09:00:00.000Z",
+  "expdate": "2019-04-22T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/977571_006_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Ben 10: Omniverse",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1385215200000",
-  "pubdateasmilliseconds": "1552640400000",
-  "expdateasmilliseconds": "1553245140000",
+  "pubdateasmilliseconds": "1555318800000",
+  "expdateasmilliseconds": "1555923540000",
   "mediaid": "280db9fda436b72dc1f4818883347931ba641c00",
   "isunlockedfullepisode": true,
   "ismultipropertycollection": true
