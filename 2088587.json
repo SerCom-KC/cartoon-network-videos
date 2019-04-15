@@ -2,7 +2,7 @@
   "airingid": "RADS1004081900079309",
   "seasonnumber": "1",
   "seasonitemnumber": "21",
-  "seriesid": "2085313",
+  "seriesid": "10000000000",
   "id": "255b147314dd737ce1b673235fdb8892814e5f9d",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/hole-in-10-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2085313",
-  "seriesname": "Ben 10",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2017-05-09T21:00:00.000Z",
   "pubdate": "2019-04-15T08:59:00.000Z",
   "expdate": "2019-04-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088587",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2085313",
   "originalseriesname": "Ben 10",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556528340000",
   "mediaid": "255b147314dd737ce1b673235fdb8892814e5f9d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
