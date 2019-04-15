@@ -885,9 +885,9 @@
         "pubdate": "2019-04-14T09:00:00.000Z",
         "expdate": "2020-03-10T03:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2181119_007_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
-        "tags": "dcshg - sweetjustice",
+        "tags": "dcshg - sweetjustice|unauth",
         "titleid": "2181119",
         "titletype": "Episode",
         "bannertext": "SEE IT FIRST",
@@ -898,7 +898,7 @@
         "pubdateasmilliseconds": "1555232400000",
         "expdateasmilliseconds": "1583812799000",
         "mediaid": "5011773dc05c3803f33487e36cc2acdd8ecdcc3e",
-        "isunlockedfullepisode": false,
+        "isunlockedfullepisode": true,
         "ismultipropertycollection": false
     },
     {
@@ -2279,9 +2279,9 @@
         "pubdate": "2019-04-14T09:00:00.000Z",
         "expdate": "2020-03-10T03:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2181118_006_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
-        "tags": "dcshg - sweetjustice",
+        "tags": "dcshg - sweetjustice|unauth",
         "titleid": "2181118",
         "titletype": "Episode",
         "bannertext": "LATEST EPISODE",
@@ -2292,7 +2292,7 @@
         "pubdateasmilliseconds": "1555232400000",
         "expdateasmilliseconds": "1583812799000",
         "mediaid": "973bf45309450eef312a505f16a99d336c443a0a",
-        "isunlockedfullepisode": false,
+        "isunlockedfullepisode": true,
         "ismultipropertycollection": false
     },
     {
@@ -3345,9 +3345,9 @@
         "pubdate": "2019-04-14T09:00:00.000Z",
         "expdate": "2020-03-10T03:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2181117_010_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
-        "tags": "dcshg - sweetjustice",
+        "tags": "dcshg - sweetjustice|unauth",
         "titleid": "2181117",
         "titletype": "Episode",
         "bannertext": "LATEST EPISODE",
@@ -3358,7 +3358,7 @@
         "pubdateasmilliseconds": "1555232400000",
         "expdateasmilliseconds": "1583812799000",
         "mediaid": "e572f8a15ed15622429f16cefe4d9df4a1a1527f",
-        "isunlockedfullepisode": false,
+        "isunlockedfullepisode": true,
         "ismultipropertycollection": false
     },
     {
