@@ -1,7 +1,47 @@
 {
-    "updated": 1555333476,
-    "added": [],
-    "removed": [
+    "updated": 1555333597,
+    "added": [
+        {
+            "airingid": "RADS1004081900079814",
+            "seasonnumber": "7",
+            "seasonitemnumber": "2",
+            "seriesid": "10000000000",
+            "id": "a00254571cfa5fe3a2575c3f90430530a30a02fa",
+            "collectionid": "",
+            "seofriendlyurl": "/video/ninjago/the-jade-princess-episode.html",
+            "seasonepisodenumber": "2",
+            "title": "The Jade Princess",
+            "episodenumber": "2",
+            "type": "fullepisode",
+            "active": true,
+            "description": "In the wake of a vicious attack upon the palace, the Sons of Garmadon steal the second Oni Mask, and the ninja invite the royal princess, Harumi, into their makeshift family.",
+            "duration": 1322,
+            "freewheelid": "cn-2141980",
+            "isclip": false,
+            "typesort": "1",
+            "tvratingcode": "TV-Y7-FV",
+            "seriestitleid": "10000000000",
+            "seriesname": "Unlocked",
+            "originalpremieredate": "2018-04-23T22:15:00.000Z",
+            "pubdate": "2019-04-15T08:59:00.000Z",
+            "expdate": "2019-04-29T08:59:00.000Z",
+            "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141980_009_640x360.jpg",
+            "authtype": "unauth",
+            "webflags": "",
+            "tags": "unauth",
+            "titleid": "2141980",
+            "titletype": "Episode",
+            "bannertext": "",
+            "originalseriesid": "860668",
+            "originalseriesname": "Ninjago",
+            "hasparent": false,
+            "originalpremieredateasmilliseconds": "1524521700000",
+            "pubdateasmilliseconds": "1555318740000",
+            "expdateasmilliseconds": "1556528340000",
+            "mediaid": "a00254571cfa5fe3a2575c3f90430530a30a02fa",
+            "isunlockedfullepisode": true,
+            "ismultipropertycollection": true
+        },
         {
             "airingid": "RADS1004081900079794",
             "seasonnumber": "6",
@@ -43,5 +83,6 @@
             "isunlockedfullepisode": true,
             "ismultipropertycollection": true
         }
-    ]
+    ],
+    "removed": []
 }
