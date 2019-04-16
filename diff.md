@@ -3,23 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: April 15, 2019 at 23:31:11 EDT_
+_Last Update: April 16, 2019 at 00:01:14 EDT_
 ## Video added
-### 2168429
-**We Bare Bears en Espanol S03E32 - Conejos**  
-🆕 TV-Y7 🔓 11:19  
-⌛ April 29, 2019 at 04:59:00 EDT  
-[Open in app](https://tinyurl.com/ybw3llre) or on the web: https://www.cartoonnetwork.com/video/espanol/conejos-episode.html  
-seriesid=`2165895` titleid=`2168429` mediaid=`ed5f4938add40e648001739435e35d250fff0da1`  
-_Los Osos bebés conocen a un grupo de conejos indefensos. Cuando descubren que los conejos viven aterrados de unos cuervos despiadados, los Osos deciden convertirse en héroes y ayudarlos._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2168429_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168429_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168429_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168429_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168429_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168429_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168429_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168429_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168429_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168429_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168429_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168429_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168429_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168429_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168429_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168429_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168429_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168429_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168429_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168429_010_640x360.jpg" height="144px" /></a>
-### 2168465
-**We Bare Bears en Espanol S03E45 - Yo soy Polar**  
-🆕 TV-Y7 🔓 11:19  
-⌛ April 29, 2019 at 04:59:00 EDT  
-[Open in app](https://tinyurl.com/y2c9cas8) or on the web: https://www.cartoonnetwork.com/video/espanol/yo-soy-polar-episode.html  
-seriesid=`2165895` titleid=`2168465` mediaid=`0eef4ffecd4f757d39884494bd35f03815dc8da2`  
-_Cuando Polar se golpea la cabeza, Pardo y Panda se dan cuenta de que su comportamiento cambia._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2168465_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168465_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168465_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168465_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168465_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168465_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168465_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168465_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168465_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168465_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168465_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168465_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168465_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168465_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168465_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168465_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168465_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168465_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2168465_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2168465_010_640x360.jpg" height="144px" /></a>
+No videos were added.
 ## Video removed
 No videos were removed.
