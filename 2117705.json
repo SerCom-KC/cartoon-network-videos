@@ -2,7 +2,7 @@
   "airingid": "RADS1004021900078764",
   "seasonnumber": "2",
   "seasonitemnumber": "37",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "80d924c410156e79d6eec25bd227d0b8e7142c9d",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/bubbles-the-blue-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2018-04-29T20:00:00.000Z",
   "pubdate": "2019-04-21T09:00:00.000Z",
   "expdate": "2019-05-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2117705",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556701140000",
   "mediaid": "80d924c410156e79d6eec25bd227d0b8e7142c9d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1004021900078771",
   "seasonnumber": "3",
   "seasonitemnumber": "23",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "cb547b84cc8d4530818332b04c9c1e6783a5c201",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/the-fog-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2019-03-31T20:30:00.000Z",
   "pubdate": "2019-04-21T09:00:00.000Z",
   "expdate": "2019-05-05T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2160695",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1557046740000",
   "mediaid": "cb547b84cc8d4530818332b04c9c1e6783a5c201",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
