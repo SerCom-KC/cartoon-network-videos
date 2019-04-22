@@ -2,7 +2,7 @@
   "airingid": "RADS1003261900076332",
   "seasonnumber": "4",
   "seasonitemnumber": "4",
-  "seriesid": "2007332",
+  "seriesid": "10000000000",
   "id": "62323076484af25f57f382b423735de97b53d5af",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/rv-olympics-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2007332",
-  "seriesname": "Uncle Grandpa",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2016-08-04T23:30:00.000Z",
   "pubdate": "2019-04-22T09:00:00.000Z",
   "expdate": "2019-05-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065480",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556701140000",
   "mediaid": "62323076484af25f57f382b423735de97b53d5af",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
