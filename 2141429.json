@@ -2,7 +2,7 @@
   "airingid": "RADS1003251900076041",
   "seasonnumber": "1",
   "seasonitemnumber": "3",
-  "seriesid": "2133648",
+  "seriesid": "10000000000",
   "id": "24cd9198bbb1f438817971d36b0501ea757b3e8f",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/tips-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2133648",
-  "seriesname": "Apple & Onion",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-03-03T00:15:00.000Z",
   "pubdate": "2019-04-01T09:00:00.000Z",
   "expdate": "2019-04-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2141429",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2133648",
   "originalseriesname": "Apple & Onion",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556528340000",
   "mediaid": "24cd9198bbb1f438817971d36b0501ea757b3e8f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

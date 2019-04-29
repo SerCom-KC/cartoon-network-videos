@@ -2,7 +2,7 @@
   "airingid": "RADS1003251900076040",
   "seasonnumber": "1",
   "seasonitemnumber": "1",
-  "seriesid": "2133648",
+  "seriesid": "10000000000",
   "id": "8a62d1ebcc668277e78529d68cb6b272cce86928",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/a-new-life-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2133648",
-  "seriesname": "Apple & Onion",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-02-24T00:00:00.000Z",
   "pubdate": "2019-04-01T09:00:00.000Z",
   "expdate": "2019-04-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2141430",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2133648",
   "originalseriesname": "Apple & Onion",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556528340000",
   "mediaid": "8a62d1ebcc668277e78529d68cb6b272cce86928",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
