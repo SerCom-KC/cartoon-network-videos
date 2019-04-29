@@ -2,7 +2,7 @@
   "airingid": "RADS1004081900080039",
   "seasonnumber": "1",
   "seasonitemnumber": "18",
-  "seriesid": "2131007",
+  "seriesid": "10000000000",
   "id": "dcab427cc63e5a3afdfa80225e01cb047094e96d",
   "collectionid": "",
   "seofriendlyurl": "/video/summer-camp-island/hedgehog-werewolf-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2131007",
-  "seriesname": "Summer Camp Island",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-07-07T14:00:00.000Z",
   "pubdate": "2019-04-29T08:59:00.000Z",
   "expdate": "2019-07-11T03:59:59.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2142257",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2131007",
   "originalseriesname": "Summer Camp Island",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1562817599000",
   "mediaid": "dcab427cc63e5a3afdfa80225e01cb047094e96d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
