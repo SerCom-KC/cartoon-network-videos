@@ -23,12 +23,12 @@
   "pubdate": "2019-04-29T08:59:00.000Z",
   "expdate": "2019-07-11T03:59:59.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2142259_008_640x360.jpg",
-  "authtype": "auth",
+  "authtype": "unauth",
   "webflags": "",
-  "tags": "",
+  "tags": "unauth",
   "titleid": "2142259",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2131007",
   "originalseriesname": "Summer Camp Island",
   "hasparent": false,
@@ -36,6 +36,6 @@
   "pubdateasmilliseconds": "1556528340000",
   "expdateasmilliseconds": "1562817599000",
   "mediaid": "8427aee8d34ebbbc6893c75411ed39e8079ff590",
-  "isunlockedfullepisode": false,
+  "isunlockedfullepisode": true,
   "ismultipropertycollection": false
 }
