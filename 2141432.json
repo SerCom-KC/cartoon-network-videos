@@ -23,12 +23,12 @@
   "pubdate": "2019-03-30T09:00:00.000Z",
   "expdate": "2020-01-01T05:00:59.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141432_008_640x360.jpg",
-  "authtype": "unauth",
+  "authtype": "auth",
   "webflags": "",
-  "tags": "unauth",
+  "tags": "",
   "titleid": "2141432",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2085313",
   "originalseriesname": "Ben 10",
   "hasparent": false,
@@ -36,6 +36,6 @@
   "pubdateasmilliseconds": "1553936400000",
   "expdateasmilliseconds": "1577854859000",
   "mediaid": "994ab45e4d7580a375f515cb6b7b3174ffcb7cdc",
-  "isunlockedfullepisode": true,
+  "isunlockedfullepisode": false,
   "ismultipropertycollection": false
 }
