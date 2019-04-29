@@ -2,7 +2,7 @@
   "airingid": "RADS1003261900076284",
   "seasonnumber": "3",
   "seasonitemnumber": "21",
-  "seriesid": "2043744",
+  "seriesid": "10000000000",
   "id": "b4fed653b01fa3a085c70c4de221ddd4460f4e8d",
   "collectionid": "",
   "seofriendlyurl": "/video/transformers/collateral-damage-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2043744",
-  "seriesname": "Transformers",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2017-10-07T10:30:00.000Z",
   "pubdate": "2019-04-01T09:00:00.000Z",
   "expdate": "2019-04-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2106795",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2043744",
   "originalseriesname": "Transformers",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556528340000",
   "mediaid": "b4fed653b01fa3a085c70c4de221ddd4460f4e8d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
