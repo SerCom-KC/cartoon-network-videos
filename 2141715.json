@@ -2,7 +2,7 @@
   "airingid": "RADS1004081900080110",
   "seasonnumber": "1",
   "seasonitemnumber": "10",
-  "seriesid": "2141710",
+  "seriesid": "10000000000",
   "id": "93c107f2aa6dc0b9479099aff4ba1d96fb26e9f8",
   "collectionid": "",
   "seofriendlyurl": "/video/total-dramarama/germ-factory-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2141710",
-  "seriesname": "Total Dramarama",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-09-29T13:00:00.000Z",
   "pubdate": "2019-04-29T08:59:00.000Z",
   "expdate": "2019-09-02T03:59:59.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2141715",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2141710",
   "originalseriesname": "Total Dramarama",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567396799000",
   "mediaid": "93c107f2aa6dc0b9479099aff4ba1d96fb26e9f8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
