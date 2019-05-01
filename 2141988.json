@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1004081900079825",
+  "airingid": "RADS1005011900089318",
   "seasonnumber": "7",
   "seasonitemnumber": "10",
   "seriesid": "10000000000",
@@ -21,7 +21,7 @@
   "seriesname": "Unlocked",
   "originalpremieredate": "2018-05-25T22:15:00.000Z",
   "pubdate": "2019-04-29T08:59:00.000Z",
-  "expdate": "2021-04-16T03:59:59.000Z",
+  "expdate": "2019-06-03T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141988_002_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -34,7 +34,7 @@
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1527286500000",
   "pubdateasmilliseconds": "1556528340000",
-  "expdateasmilliseconds": "1618545599000",
+  "expdateasmilliseconds": "1559552340000",
   "mediaid": "df51f390c915ed446c091aa5ff24411ce0a408d3",
   "isunlockedfullepisode": true,
   "ismultipropertycollection": true
