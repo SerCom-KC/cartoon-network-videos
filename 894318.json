@@ -2,7 +2,7 @@
   "airingid": "RADS1003271900076951",
   "seasonnumber": "2",
   "seasonitemnumber": "9",
-  "seriesid": "835928",
+  "seriesid": "10000000000",
   "id": "a689ffdd09603665aff636500fd0409eb20d6b2d",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/halloween-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "835928",
-  "seriesname": "Gumball",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2012-10-23T23:00:00.000Z",
   "pubdate": "2019-04-22T09:00:00.000Z",
   "expdate": "2019-05-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "894318",
   "titletype": "Element",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1556701140000",
   "mediaid": "a689ffdd09603665aff636500fd0409eb20d6b2d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
