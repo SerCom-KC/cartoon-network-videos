@@ -3,127 +3,31 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: May 1, 2019 at 09:01:09 EDT_
+_Last Update: May 1, 2019 at 09:31:49 EDT_
 ## Video added
-### 2171421
-**We Bare Bears S04E26 - Snake Babies**  
-TV-Y7 🔓 11:16  
-⌛ December 31, 2019 at 23:59:59 EST  
-[Open in app](<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
-
-
-<title>tinyurl.com | 520: Web server is returning an unknown error</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
-<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
-<style type="text/css">body{margin:0;padding:0}</style>
-
-
-
-
-</head>
-<body>
-<div id="cf-wrapper">
-
-    
-
-    <div id="cf-error-details" class="cf-error-details-wrapper">
-        <div class="cf-wrapper cf-error-overview">
-            <h1>
-              
-              <span class="cf-error-type">Error</span>
-              <span class="cf-error-code">520</span>
-              <small class="heading-ray-id">Ray ID: 4d01f14e3874794c &bull; 2019-05-01 13:01:10 UTC</small>
-            </h1>
-            <h2 class="cf-subheadline">Web server is returning an unknown error</h2>
-        </div><!-- /.error-overview -->
-        
-        <div class="cf-section cf-highlight cf-status-display">
-            <div class="cf-wrapper">
-                <div class="cf-columns cols-3">
-                  
-<div id="cf-browser-status" class="cf-column cf-status-item cf-browser-status ">
-  <div class="cf-icon-error-container">
-    <i class="cf-icon cf-icon-browser"></i>
-    <i class="cf-icon-status cf-icon-ok"></i>
-  </div>
-  <span class="cf-status-desc">You</span>
-  <h3 class="cf-status-name">Browser</h3>
-  <span class="cf-status-label">Working</span>
-</div>
-
-<div id="cf-cloudflare-status" class="cf-column cf-status-item cf-cloudflare-status ">
-  <div class="cf-icon-error-container">
-    <i class="cf-icon cf-icon-cloud"></i>
-    <i class="cf-icon-status cf-icon-ok"></i>
-  </div>
-  <span class="cf-status-desc">Los Angeles</span>
-  <h3 class="cf-status-name">Cloudflare</h3>
-  <span class="cf-status-label">Working</span>
-</div>
-
-<div id="cf-host-status" class="cf-column cf-status-item cf-host-status cf-error-source">
-  <div class="cf-icon-error-container">
-    <i class="cf-icon cf-icon-server"></i>
-    <i class="cf-icon-status cf-icon-error"></i>
-  </div>
-  <span class="cf-status-desc">tinyurl.com</span>
-  <h3 class="cf-status-name">Host</h3>
-  <span class="cf-status-label">Error</span>
-</div>
-
-                </div>
-              
-            </div>
-        </div><!-- /.status-display -->
-
-        <div class="cf-section cf-wrapper">
-            <div class="cf-columns two">
-                <div class="cf-column">
-                    <h2>What happened?</h2>
-                    <p>There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.</p>
-                </div>
-              
-                <div class="cf-column">
-                    <h2>What can I do?</h2>
-                          <h5>If you are a visitor of this website:</h5>
-      <p>Please try again in a few minutes.</p>
-
-      <h5>If you are the owner of this website:</h5>
-      <p><span>There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171936-Error-520">Additional troubleshooting resources</a>.</p>
-                </div>
-            </div>
-              
-        </div><!-- /.section -->
-
-        <div class="cf-error-footer cf-wrapper">
-  <p>
-    <span class="cf-footer-item">Cloudflare Ray ID: <strong>4d01f14e3874794c</strong></span>
-    <span class="cf-footer-separator">&bull;</span>
-    <span class="cf-footer-item"><span>Your IP</span>: 2607:fcd0:100:6e07::fe55:2d7</span>
-    <span class="cf-footer-separator">&bull;</span>
-    <span class="cf-footer-item"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-</div><!-- /.error-footer -->
-
-
-    </div><!-- /#cf-error-details -->
-</div><!-- /#cf-wrapper -->
-</body>
-</html>
-) or on the web: https://www.cartoonnetwork.com/video/we-bare-bears/snake-babies-episode.html  
-seriesid=`2056641` titleid=`2171421` mediaid=`b2bab835a771a706da6700710869ef5f0112334f`  
-_Charlie adopts baby snakes despite the Bears thinking he's not ready for parenthood._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2171421_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171421_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171421_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171421_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171421_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171421_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171421_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171421_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171421_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171421_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171421_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171421_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171421_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171421_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171421_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171421_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171421_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171421_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2171421_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2171421_010_640x360.jpg" height="144px" /></a>
+### 335546
+**Powerpuff Girls S03E?? - Criss Cross Crisis**  
+TV-Y7-FV 🔒 19:53  
+⌛ June 3, 2019 at 04:59:00 EDT  
+[Open in app](https://tinyurl.com/yyx9twwa) or on the web: https://www.cartoonnetwork.com/video/powerpuff-girls/criss-cross-crisis-episode.html  
+seriesid=`2064567` titleid=`335546` mediaid=`203935ff00f592ed4bcc8fa82410bad6b9eb1e04`  
+_Another one of the Professor's plans goes awry when he tries to switch apples for oranges causing the entire town to switch from one body to another. The girls must remedy the situation._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/335546_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/335546_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/335546_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/335546_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/335546_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/335546_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/335546_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/335546_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/335546_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/335546_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/335546_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/335546_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/335546_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/335546_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/335546_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/335546_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/335546_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/335546_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/335546_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/335546_010_640x360.jpg" height="144px" /></a>
+### 331272
+**Powerpuff Girls S02E?? - A Very Special Blossom/Daylight Savings**  
+TV-Y7-FV 🔒 23:28  
+⌛ June 3, 2019 at 04:59:00 EDT  
+[Open in app](https://tinyurl.com/y4rrugre) or on the web: https://www.cartoonnetwork.com/video/powerpuff-girls/a-very-special-blossomdaylight-savings-episode.html  
+seriesid=`2064567` titleid=`331272` mediaid=`194764c9af2a726dafd7ef818787b9b0fb89d5ca`  
+_A Very Special Blossom: When the Professor wants an expensive gift for Father's Day, Blossom makes the mistake of taking what she can't afford instead of giving him a gift from the heart./Daylight Savings: The Powerpuff Girls are exhausted in school from saving Townsville past their bedtime. What will happen to their town when the girls are put on a curfew?_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/331272_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/331272_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/331272_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/331272_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/331272_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/331272_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/331272_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/331272_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/331272_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/331272_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/331272_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/331272_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/331272_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/331272_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/331272_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/331272_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/331272_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/331272_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/331272_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/331272_010_640x360.jpg" height="144px" /></a>
+### 326565
+**Powerpuff Girls S01E?? - Major Competition/Mr. Mojo's Rising**  
+TV-Y7-FV 🔒 22:33  
+⌛ June 3, 2019 at 04:59:00 EDT  
+[Open in app](https://tinyurl.com/yyafxhcq) or on the web: https://www.cartoonnetwork.com/video/powerpuff-girls/major-competitionmr-mojos-rising-episode.html  
+seriesid=`2064567` titleid=`326565` mediaid=`e716ed47c29bfb91019af1d2c7acb981690780ce`  
+_Major Competition: There's a new man in town, Major Man, a perfect superhero, who cuts in on the girls' turf. But the girls prove that even though they're minors, they're still the major part of saving the day./Mr. Mojo's Rising: Mojo kidnaps the Professor and forces him to give him the same superpowers at the girls. But once empowered, the true evolution of this supervillain chimp comes to light._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/326565_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/326565_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/326565_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/326565_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/326565_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/326565_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/326565_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/326565_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/326565_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/326565_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/326565_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/326565_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/326565_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/326565_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/326565_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/326565_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/326565_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/326565_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/326565_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/326565_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.
