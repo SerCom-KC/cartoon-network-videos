@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003281900077836",
+  "airingid": "RADS1004241900084878",
   "seasonnumber": "1",
   "seasonitemnumber": "12",
   "seriesid": "2084345",
@@ -20,8 +20,8 @@
   "seriestitleid": "2084345",
   "seriesname": "Justice League Action",
   "originalpremieredate": "2017-03-11T12:30:00.000Z",
-  "pubdate": "2019-04-01T09:00:00.000Z",
-  "expdate": "2019-05-01T08:59:00.000Z",
+  "pubdate": "2019-05-01T09:00:00.000Z",
+  "expdate": "2019-06-03T08:59:34.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2084366_009_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Justice League Action",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1489235400000",
-  "pubdateasmilliseconds": "1554109200000",
-  "expdateasmilliseconds": "1556701140000",
+  "pubdateasmilliseconds": "1556701200000",
+  "expdateasmilliseconds": "1559552374000",
   "mediaid": "9c84653abf77d902b238963a1a63f20e76341761",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false

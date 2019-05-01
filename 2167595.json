@@ -2,7 +2,7 @@
   "airingid": "RADS1004291900088191",
   "seasonnumber": "1",
   "seasonitemnumber": "32",
-  "seriesid": "2132940",
+  "seriesid": "10000000000",
   "id": "02e68558556c67d32469cc4bd4550954577e031b",
   "collectionid": "",
   "seofriendlyurl": "/video/craig-of-the-creek/dinner-at-the-creek-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2132940",
-  "seriesname": "Craig of the Creek",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-11-07T22:00:00.000Z",
   "pubdate": "2019-05-01T09:00:00.000Z",
   "expdate": "2019-05-06T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2167595",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2132940",
   "originalseriesname": "Craig of the Creek",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1557133140000",
   "mediaid": "02e68558556c67d32469cc4bd4550954577e031b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
