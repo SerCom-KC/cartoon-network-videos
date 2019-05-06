@@ -23,12 +23,12 @@
   "pubdate": "2019-05-06T09:00:00.000Z",
   "expdate": "2019-05-13T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2020050_006_640x360.jpg",
-  "authtype": "auth",
+  "authtype": "unauth",
   "webflags": "",
-  "tags": "at - mom",
+  "tags": "at - mom|unauth",
   "titleid": "2020050",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -36,6 +36,6 @@
   "pubdateasmilliseconds": "1557133200000",
   "expdateasmilliseconds": "1557737940000",
   "mediaid": "602d6503a5d3d499735f304e9639f13ab43f73aa",
-  "isunlockedfullepisode": false,
+  "isunlockedfullepisode": true,
   "ismultipropertycollection": false
 }
