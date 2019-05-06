@@ -2,7 +2,7 @@
   "airingid": "RADS1005021900089466",
   "seasonnumber": "4",
   "seasonitemnumber": "4",
-  "seriesid": "2056641",
+  "seriesid": "10000000000",
   "id": "8e8ff3013c2e4f43773dfe628a0e9fc7c2c05aef",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/the-limo-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2056641",
-  "seriesname": "We Bare Bears",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-08-10T23:00:00.000Z",
   "pubdate": "2019-05-06T09:00:00.000Z",
   "expdate": "2019-05-13T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088741",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1557737940000",
   "mediaid": "8e8ff3013c2e4f43773dfe628a0e9fc7c2c05aef",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

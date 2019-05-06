@@ -2,7 +2,7 @@
   "airingid": "RADS1004301900088809",
   "seasonnumber": "2",
   "seasonitemnumber": "26",
-  "seriesid": "2130773",
+  "seriesid": "10000000000",
   "id": "20a7fde5b8391296da5ad05e6825c594a07529f2",
   "collectionid": "",
   "seofriendlyurl": "/video/unikitty/career-day-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2130773",
-  "seriesname": "Unikitty",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-02-28T22:30:00.000Z",
   "pubdate": "2019-05-06T09:00:00.000Z",
   "expdate": "2019-05-20T08:59:41.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2188639",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2130773",
   "originalseriesname": "Unikitty",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558342781000",
   "mediaid": "20a7fde5b8391296da5ad05e6825c594a07529f2",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
