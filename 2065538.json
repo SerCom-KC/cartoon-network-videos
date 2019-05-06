@@ -2,7 +2,7 @@
   "airingid": "RADS1004251900085899",
   "seasonnumber": "3",
   "seasonitemnumber": "14",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "e909eb011c7c9ea08b3a06cc033ce1845f745e51",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/the-new-lars-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2016-07-21T23:00:00.000Z",
   "pubdate": "2019-05-01T09:00:00.000Z",
   "expdate": "2019-05-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065538",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1557305940000",
   "mediaid": "e909eb011c7c9ea08b3a06cc033ce1845f745e51",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
