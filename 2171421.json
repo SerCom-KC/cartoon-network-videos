@@ -2,7 +2,7 @@
   "airingid": "RADS1004081900080316",
   "seasonnumber": "4",
   "seasonitemnumber": "26",
-  "seriesid": "10000000000",
+  "seriesid": "2056641",
   "id": "b2bab835a771a706da6700710869ef5f0112334f",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/snake-babies-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2056641",
+  "seriesname": "We Bare Bears",
   "originalpremieredate": "2019-03-25T23:00:00.000Z",
   "pubdate": "2019-04-29T08:59:00.000Z",
   "expdate": "2020-01-01T04:59:59.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2171421",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "b2bab835a771a706da6700710869ef5f0112334f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
