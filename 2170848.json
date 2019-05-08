@@ -2,7 +2,7 @@
   "airingid": "RADS1004291900087346",
   "seasonnumber": "1",
   "seasonitemnumber": "11",
-  "seriesid": "10000000000",
+  "seriesid": "2170837",
   "id": "c8b1e612857681a703e0463f12af5ed8f8369a60",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/home-on-the-runtop-slot-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2170837",
+  "seriesname": "Bakugan: Battle Planet",
   "originalpremieredate": "2019-02-02T12:00:00.000Z",
   "pubdate": "2019-05-08T08:59:00.000Z",
   "expdate": "2019-05-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2170848",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2170837",
   "originalseriesname": "Bakugan: Battle Planet",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1557910740000",
   "mediaid": "c8b1e612857681a703e0463f12af5ed8f8369a60",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
