@@ -2,7 +2,7 @@
   "airingid": "RADS1004251900085877",
   "seasonnumber": "4",
   "seasonitemnumber": "26",
-  "seriesid": "10000000000",
+  "seriesid": "810150",
   "id": "02860c9ac1806a45e5a2e23dc021d3ba63eb5e2d",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/skips-stress-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "810150",
+  "seriesname": "Regular Show",
   "originalpremieredate": "2013-05-14T00:00:00.000Z",
   "pubdate": "2019-05-01T09:00:00.000Z",
   "expdate": "2019-05-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "977583",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1557305940000",
   "mediaid": "02860c9ac1806a45e5a2e23dc021d3ba63eb5e2d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

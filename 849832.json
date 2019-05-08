@@ -2,7 +2,7 @@
   "airingid": "RADS1004251900085880",
   "seasonnumber": "3",
   "seasonitemnumber": "1",
-  "seriesid": "10000000000",
+  "seriesid": "810150",
   "id": "ffefa49e13ff5bb0354097d01a97a7d7dd0bf7b1",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/stick-hockey-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "810150",
+  "seriesname": "Regular Show",
   "originalpremieredate": "2011-09-20T00:15:00.000Z",
   "pubdate": "2019-05-01T09:00:00.000Z",
   "expdate": "2019-05-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "849832",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1557305940000",
   "mediaid": "ffefa49e13ff5bb0354097d01a97a7d7dd0bf7b1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

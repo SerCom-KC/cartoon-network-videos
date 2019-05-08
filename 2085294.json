@@ -2,7 +2,7 @@
   "airingid": "RADS1004251900085864",
   "seasonnumber": "1",
   "seasonitemnumber": "15",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "ee98283c9253afe9cd9b96c8dddc3b82f368e7ca",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/blue-ribbon-blues-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2016-05-12T22:00:00.000Z",
   "pubdate": "2019-05-01T09:00:00.000Z",
   "expdate": "2019-05-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2085294",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1557305940000",
   "mediaid": "ee98283c9253afe9cd9b96c8dddc3b82f368e7ca",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

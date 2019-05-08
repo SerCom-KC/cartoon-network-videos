@@ -2,7 +2,7 @@
   "airingid": "RADS1004251900085836",
   "seasonnumber": "4",
   "seasonitemnumber": "7",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "63af64fdd1c3cab5866799128a91278cc5bd9a68",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/bbsfbday-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2016-12-03T23:00:00.000Z",
   "pubdate": "2019-05-01T09:00:00.000Z",
   "expdate": "2019-05-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2104520",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2000349",
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1557305940000",
   "mediaid": "63af64fdd1c3cab5866799128a91278cc5bd9a68",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
