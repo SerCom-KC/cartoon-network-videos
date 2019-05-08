@@ -2,7 +2,7 @@
   "airingid": "RADS1004291900087344",
   "seasonnumber": "1",
   "seasonitemnumber": "2",
-  "seriesid": "2170837",
+  "seriesid": "10000000000",
   "id": "34fcaf213e7233248372128022a24d51cad8ffd8",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/burger-runmonkey-see-monkey-dont-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2170837",
-  "seriesname": "Bakugan: Battle Planet",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-12-24T00:00:00.000Z",
   "pubdate": "2019-05-08T08:59:00.000Z",
   "expdate": "2019-05-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2170839",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2170837",
   "originalseriesname": "Bakugan: Battle Planet",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1557910740000",
   "mediaid": "34fcaf213e7233248372128022a24d51cad8ffd8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
