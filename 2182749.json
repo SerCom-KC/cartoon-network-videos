@@ -2,7 +2,7 @@
   "airingid": "RADS1004031900078862",
   "seasonnumber": "1",
   "seasonitemnumber": "34",
-  "seriesid": "10000000000",
+  "seriesid": "2141710",
   "id": "4a4ae760740e172db29381fbe6c6dfc60b20364d",
   "collectionid": "",
   "seofriendlyurl": "/video/total-dramarama/the-never-gwending-story-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2141710",
+  "seriesname": "Total Dramarama",
   "originalpremieredate": "2019-04-06T13:00:00.000Z",
   "pubdate": "2019-04-27T09:00:00.000Z",
   "expdate": "2019-05-11T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2182749",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2141710",
   "originalseriesname": "Total Dramarama",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1557565140000",
   "mediaid": "4a4ae760740e172db29381fbe6c6dfc60b20364d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

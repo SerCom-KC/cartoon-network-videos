@@ -2,7 +2,7 @@
   "airingid": "RADS1004161900082512",
   "seasonnumber": "3",
   "seasonitemnumber": "17",
-  "seriesid": "2085313",
+  "seriesid": "10000000000",
   "id": "a8c439213773eda711cf9558007af4078be10cb8",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/the-chupaca-bro-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2085313",
-  "seriesname": "Ben 10",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-04-20T16:00:00.000Z",
   "pubdate": "2019-05-11T08:59:00.000Z",
   "expdate": "2019-05-25T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2166309",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2085313",
   "originalseriesname": "Ben 10",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558774740000",
   "mediaid": "a8c439213773eda711cf9558007af4078be10cb8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

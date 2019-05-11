@@ -2,7 +2,7 @@
   "airingid": "RADS1004161900082514",
   "seasonnumber": "3",
   "seasonitemnumber": "18",
-  "seriesid": "2085313",
+  "seriesid": "10000000000",
   "id": "391b6dc284bea7aae1ee75ad4b3f7f01d5a673d6",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/buggy-out-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2085313",
-  "seriesname": "Ben 10",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-04-20T16:00:00.000Z",
   "pubdate": "2019-05-11T08:59:00.000Z",
   "expdate": "2019-05-25T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2166310",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2085313",
   "originalseriesname": "Ben 10",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558774740000",
   "mediaid": "391b6dc284bea7aae1ee75ad4b3f7f01d5a673d6",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
