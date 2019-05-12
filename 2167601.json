@@ -2,7 +2,7 @@
   "airingid": "RADS1004301900088645",
   "seasonnumber": "3",
   "seasonitemnumber": "30",
-  "seriesid": "2064567",
+  "seriesid": "10000000000",
   "id": "80925d6755cd8d42d651c904b070045afe4b72e5",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/brainlord-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2064567",
-  "seriesname": "Powerpuff Girls",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-04-21T20:30:00.000Z",
   "pubdate": "2019-05-12T09:00:00.000Z",
   "expdate": "2019-05-26T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2167601",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558861140000",
   "mediaid": "80925d6755cd8d42d651c904b070045afe4b72e5",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
