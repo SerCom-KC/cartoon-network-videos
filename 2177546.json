@@ -2,7 +2,7 @@
   "airingid": "RADS1004021900078719",
   "seasonnumber": "1",
   "seasonitemnumber": "8",
-  "seriesid": "10000000000",
+  "seriesid": "2177542",
   "id": "5f1c81956c7553abb11db5ae84a0223d7b728cb0",
   "collectionid": "",
   "seofriendlyurl": "/video/dc-super-hero-girls/meetthecheetah-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2177542",
+  "seriesname": "DC Super Hero Girls",
   "originalpremieredate": "2019-04-07T20:00:00.000Z",
   "pubdate": "2019-04-28T08:59:00.000Z",
   "expdate": "2019-05-12T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2177546",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2177542",
   "originalseriesname": "DC Super Hero Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1557651540000",
   "mediaid": "5f1c81956c7553abb11db5ae84a0223d7b728cb0",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
