@@ -2,7 +2,7 @@
   "airingid": "RADS1004301900088646",
   "seasonnumber": "3",
   "seasonitemnumber": "29",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "fa5b99a5f3ebf7e3423436a0293d77ad8c9de684",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/tagalong-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2019-04-21T20:30:00.000Z",
   "pubdate": "2019-05-12T09:00:00.000Z",
   "expdate": "2019-05-26T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2164904",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558861140000",
   "mediaid": "fa5b99a5f3ebf7e3423436a0293d77ad8c9de684",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
