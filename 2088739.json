@@ -2,7 +2,7 @@
   "airingid": "RADS1005021900089481",
   "seasonnumber": "4",
   "seasonitemnumber": "8",
-  "seriesid": "2056641",
+  "seriesid": "10000000000",
   "id": "5a8ffd13ea8d3339f34f6f6971e8b74c632e5e11",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/el-oso-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2056641",
-  "seriesname": "We Bare Bears",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-08-16T23:00:00.000Z",
   "pubdate": "2019-05-13T09:00:00.000Z",
   "expdate": "2019-05-20T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088739",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558342740000",
   "mediaid": "5a8ffd13ea8d3339f34f6f6971e8b74c632e5e11",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

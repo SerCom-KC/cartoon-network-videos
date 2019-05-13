@@ -2,7 +2,7 @@
   "airingid": "RADS1004251900085906",
   "seasonnumber": "2",
   "seasonitemnumber": "11",
-  "seriesid": "2011404",
+  "seriesid": "10000000000",
   "id": "f3390a97b6784557e4f3babec18498aac65b5eb5",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/cry-for-help-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2011404",
-  "seriesname": "Steven Universe",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2015-07-13T22:00:00.000Z",
   "pubdate": "2019-05-13T09:00:00.000Z",
   "expdate": "2019-05-20T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2034467",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558342740000",
   "mediaid": "f3390a97b6784557e4f3babec18498aac65b5eb5",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

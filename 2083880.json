@@ -2,7 +2,7 @@
   "airingid": "RADS1004251900085915",
   "seasonnumber": "4",
   "seasonitemnumber": "16",
-  "seriesid": "2011404",
+  "seriesid": "10000000000",
   "id": "b0be490f8c670a854886568fefe5fca0124b7ba5",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/storm-in-the-room-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2011404",
-  "seriesname": "Steven Universe",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2017-02-18T00:00:00.000Z",
   "pubdate": "2019-05-13T09:00:00.000Z",
   "expdate": "2019-05-20T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2083880",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558342740000",
   "mediaid": "b0be490f8c670a854886568fefe5fca0124b7ba5",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
