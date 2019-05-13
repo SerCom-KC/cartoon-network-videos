@@ -23,9 +23,9 @@
   "pubdate": "2019-05-11T08:59:00.000Z",
   "expdate": "2020-03-30T03:59:59.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193181_004_640x360.jpg",
-  "authtype": "auth",
+  "authtype": "unauth",
   "webflags": "",
-  "tags": "espanol|victor and valentino en espanol",
+  "tags": "espanol|victor and valentino en espanol|unauth",
   "titleid": "2193181",
   "titletype": "Episode",
   "bannertext": "LATEST EPISODE",
@@ -36,6 +36,6 @@
   "pubdateasmilliseconds": "1557565140000",
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "fc13c79cc0024e254fc7dc6a8dbe6686875bbd27",
-  "isunlockedfullepisode": false,
+  "isunlockedfullepisode": true,
   "ismultipropertycollection": false
 }
