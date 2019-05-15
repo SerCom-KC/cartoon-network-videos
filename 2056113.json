@@ -2,7 +2,7 @@
   "airingid": "RADS1004251900085846",
   "seasonnumber": "3",
   "seasonitemnumber": "7",
-  "seriesid": "2007332",
+  "seriesid": "10000000000",
   "id": "8c9625ab9fed996339a33e55cffae3ac953146e4",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/lame-station-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2007332",
-  "seriesname": "Uncle Grandpa",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2016-04-02T13:00:00.000Z",
   "pubdate": "2019-05-15T09:00:00.000Z",
   "expdate": "2019-05-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2056113",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558515540000",
   "mediaid": "8c9625ab9fed996339a33e55cffae3ac953146e4",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

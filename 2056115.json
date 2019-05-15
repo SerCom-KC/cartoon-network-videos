@@ -2,7 +2,7 @@
   "airingid": "RADS1004251900085848",
   "seasonnumber": "3",
   "seasonitemnumber": "8",
-  "seriesid": "2007332",
+  "seriesid": "10000000000",
   "id": "d226de30cae36e03c8cf9c1f47c9d16afe361eca",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/space-oddity-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2007332",
-  "seriesname": "Uncle Grandpa",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2016-04-02T15:30:00.000Z",
   "pubdate": "2019-05-15T09:00:00.000Z",
   "expdate": "2019-05-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2056115",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558515540000",
   "mediaid": "d226de30cae36e03c8cf9c1f47c9d16afe361eca",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1004251900085886",
   "seasonnumber": "4",
   "seasonitemnumber": "11",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "8201e13d0250f5e49c690ff8fa7683be54f5dcee",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/tgi-tuesday-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2013-01-08T01:00:00.000Z",
   "pubdate": "2019-05-15T09:00:00.000Z",
   "expdate": "2019-05-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "962462",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558515540000",
   "mediaid": "8201e13d0250f5e49c690ff8fa7683be54f5dcee",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1004251900085884",
   "seasonnumber": "8",
   "seasonitemnumber": "3",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "7e2029767123dcc037b4164f3e44411eab26e234",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/welcome-to-space-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2016-09-28T00:00:00.000Z",
   "pubdate": "2019-05-15T09:00:00.000Z",
   "expdate": "2019-05-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2069944",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558515540000",
   "mediaid": "7e2029767123dcc037b4164f3e44411eab26e234",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
