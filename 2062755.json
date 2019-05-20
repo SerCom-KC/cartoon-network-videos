@@ -2,7 +2,7 @@
   "airingid": "RADS1004261900086891",
   "seasonnumber": "4",
   "seasonitemnumber": "10",
-  "seriesid": "835928",
+  "seriesid": "10000000000",
   "id": "a6015a32b2330266b02fb1e1e2fc85fe62127664",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-parking-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "835928",
-  "seriesname": "Gumball",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2015-09-04T23:00:00.000Z",
   "pubdate": "2019-05-13T09:00:00.000Z",
   "expdate": "2019-05-20T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2062755",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558342740000",
   "mediaid": "a6015a32b2330266b02fb1e1e2fc85fe62127664",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
