@@ -2,7 +2,7 @@
   "airingid": "RADS1004251900085967",
   "seasonnumber": "2",
   "seasonitemnumber": "5",
-  "seriesid": "2012957",
+  "seriesid": "10000000000",
   "id": "74f83d5dff9f3c54607aea873e86de809186fb95",
   "collectionid": "",
   "seofriendlyurl": "/video/clarence/plane-excited-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2012957",
-  "seriesname": "Clarence",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2016-01-21T22:00:00.000Z",
   "pubdate": "2019-05-20T09:00:00.000Z",
   "expdate": "2019-05-27T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2062616",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2012957",
   "originalseriesname": "Clarence",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558947540000",
   "mediaid": "74f83d5dff9f3c54607aea873e86de809186fb95",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
