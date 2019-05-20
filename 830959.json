@@ -2,7 +2,7 @@
   "airingid": "RADS1004261900086881",
   "seasonnumber": "3",
   "seasonitemnumber": "17",
-  "seriesid": "757073",
+  "seriesid": "10000000000",
   "id": "fabdd5a6ffef8ac5267eff6dca6a712b58003770",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/thank-you-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "757073",
-  "seriesname": "Adventure Time",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2011-11-24T01:30:00.000Z",
   "pubdate": "2019-05-13T09:00:00.000Z",
   "expdate": "2019-05-20T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "830959",
   "titletype": "Element",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558342740000",
   "mediaid": "fabdd5a6ffef8ac5267eff6dca6a712b58003770",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
