@@ -2,7 +2,7 @@
   "airingid": "RADS1004291900087350",
   "seasonnumber": "1",
   "seasonitemnumber": "22",
-  "seriesid": "10000000000",
+  "seriesid": "2170837",
   "id": "3712b1118d9ec5ef63dac8a3e93c0a5400409690",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/the-throw-downbrawl-for-it-all-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2170837",
+  "seriesname": "Bakugan: Battle Planet",
   "originalpremieredate": "2019-04-20T11:00:00.000Z",
   "pubdate": "2019-05-11T08:59:00.000Z",
   "expdate": "2019-05-25T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2170859",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2170837",
   "originalseriesname": "Bakugan: Battle Planet",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558774740000",
   "mediaid": "3712b1118d9ec5ef63dac8a3e93c0a5400409690",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
