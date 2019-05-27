@@ -2,7 +2,7 @@
   "airingid": "RADS1004291900088459",
   "seasonnumber": "1",
   "seasonitemnumber": "15",
-  "seriesid": "10000000000",
+  "seriesid": "2117352",
   "id": "5f4e312ada1c9ba561603db2918a93a66820a880",
   "collectionid": "",
   "seofriendlyurl": "/video/mega-man/drill-of-the-hunt-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2117352",
+  "seriesname": "Mega Man",
   "originalpremieredate": "2018-09-23T10:30:00.000Z",
   "pubdate": "2019-05-19T09:00:00.000Z",
   "expdate": "2019-05-27T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2117367",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2117352",
   "originalseriesname": "Mega Man",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558947540000",
   "mediaid": "5f4e312ada1c9ba561603db2918a93a66820a880",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

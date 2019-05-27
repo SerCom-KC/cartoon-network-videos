@@ -2,7 +2,7 @@
   "airingid": "RADS1004291900088184",
   "seasonnumber": "1",
   "seasonitemnumber": "20",
-  "seriesid": "10000000000",
+  "seriesid": "2132940",
   "id": "5c3a675d6650c4f348803c71be8c84155e8c1182",
   "collectionid": "",
   "seofriendlyurl": "/video/craig-of-the-creek/jpony-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2132940",
+  "seriesname": "Craig of the Creek",
   "originalpremieredate": "2018-07-09T15:00:00.000Z",
   "pubdate": "2019-05-20T09:00:00.000Z",
   "expdate": "2019-05-27T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2159521",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2132940",
   "originalseriesname": "Craig of the Creek",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1558947540000",
   "mediaid": "5c3a675d6650c4f348803c71be8c84155e8c1182",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
