@@ -24,9 +24,9 @@
         "pubdate": "2019-05-25T08:59:00.000Z",
         "expdate": "2020-03-30T03:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193184_004_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
-        "tags": "espanol|victor and valentino en espanol",
+        "tags": "espanol|victor and valentino en espanol|unauth",
         "titleid": "2193184",
         "titletype": "Episode",
         "bannertext": "LATEST EPISODE",
@@ -37,7 +37,7 @@
         "pubdateasmilliseconds": "1558774740000",
         "expdateasmilliseconds": "1585540799000",
         "mediaid": "1d0cb314c63e8bbcf2a81a244e35f7e2bc288818",
-        "isunlockedfullepisode": false,
+        "isunlockedfullepisode": true,
         "ismultipropertycollection": false
     },
     {
@@ -188,9 +188,9 @@
         "pubdate": "2019-05-25T08:59:00.000Z",
         "expdate": "2020-03-30T03:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193185_008_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
-        "tags": "espanol|victor and valentino en espanol",
+        "tags": "espanol|victor and valentino en espanol|unauth",
         "titleid": "2193185",
         "titletype": "Episode",
         "bannertext": "LATEST EPISODE",
@@ -201,7 +201,7 @@
         "pubdateasmilliseconds": "1558774740000",
         "expdateasmilliseconds": "1585540799000",
         "mediaid": "3ae82be92d3ecd9d6b31e23de666aec1e3d12277",
-        "isunlockedfullepisode": false,
+        "isunlockedfullepisode": true,
         "ismultipropertycollection": false
     },
     {
