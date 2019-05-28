@@ -145,7 +145,7 @@
         "seriesname": "Victor and Valentino",
         "originalpremieredate": "2019-03-30T14:00:00.000Z",
         "pubdate": "2019-05-11T09:00:00.000Z",
-        "expdate": "2020-03-30T03:59:59.000Z",
+        "expdate": "2019-06-01T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2161257_006_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -158,7 +158,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1553954400000",
         "pubdateasmilliseconds": "1557565200000",
-        "expdateasmilliseconds": "1585540799000",
+        "expdateasmilliseconds": "1559379540000",
         "mediaid": "19d0d57a803bf3d25e97082687e5e80e3cde23ea",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
