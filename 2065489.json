@@ -2,7 +2,7 @@
   "airingid": "RADS1004251900085872",
   "seasonnumber": "4",
   "seasonitemnumber": "23",
-  "seriesid": "2007332",
+  "seriesid": "10000000000",
   "id": "9f38bce14818a65394654ce527882548474574eb",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/face-fix-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2007332",
-  "seriesname": "Uncle Grandpa",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2016-12-13T21:30:00.000Z",
   "pubdate": "2019-05-29T09:00:00.000Z",
   "expdate": "2019-06-03T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065489",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1559552340000",
   "mediaid": "9f38bce14818a65394654ce527882548474574eb",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
