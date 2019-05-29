@@ -2,7 +2,7 @@
   "airingid": "RADS1004291900087366",
   "seasonnumber": "1",
   "seasonitemnumber": "14",
-  "seriesid": "10000000000",
+  "seriesid": "2170837",
   "id": "2515e31d10bc012e5053320c85939f4264a00b70",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/stratifiedmaze-daze-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2170837",
+  "seriesname": "Bakugan: Battle Planet",
   "originalpremieredate": "2019-02-23T12:00:00.000Z",
   "pubdate": "2019-05-29T09:00:00.000Z",
   "expdate": "2019-06-03T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2170851",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2170837",
   "originalseriesname": "Bakugan: Battle Planet",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1559552340000",
   "mediaid": "2515e31d10bc012e5053320c85939f4264a00b70",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
