@@ -3343,7 +3343,7 @@
         "seriesname": "Unlocked",
         "originalpremieredate": "2018-10-01T21:00:00.000Z",
         "pubdate": "2019-05-27T09:00:00.000Z",
-        "expdate": "2019-06-03T08:59:00.000Z",
+        "expdate": "2019-06-10T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2162792_006_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -3356,7 +3356,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1538427600000",
         "pubdateasmilliseconds": "1558947600000",
-        "expdateasmilliseconds": "1559552340000",
+        "expdateasmilliseconds": "1560157140000",
         "mediaid": "5cbe792bf49921a750b7ceba6476979e100fa095",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": true
