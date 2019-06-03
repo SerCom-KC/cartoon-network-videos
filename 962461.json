@@ -2,7 +2,7 @@
   "airingid": "RADS1005281900095065",
   "seasonnumber": "4",
   "seasonitemnumber": "9",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "c63d7bc3b692145acb1677e650829f959be6b7f5",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/one-pull-up-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2012-11-27T01:00:00.000Z",
   "pubdate": "2019-06-03T09:00:00.000Z",
   "expdate": "2019-06-10T08:59:52.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "962461",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1560157192000",
   "mediaid": "c63d7bc3b692145acb1677e650829f959be6b7f5",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

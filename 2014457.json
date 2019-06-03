@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1004241900084830",
+  "airingid": "RADS1005301900095959",
   "seasonnumber": "1",
   "seasonitemnumber": "15",
   "seriesid": "2012957",
@@ -20,8 +20,8 @@
   "seriestitleid": "2012957",
   "seriesname": "Clarence",
   "originalpremieredate": "2014-07-31T22:45:00.000Z",
-  "pubdate": "2019-05-01T09:00:00.000Z",
-  "expdate": "2019-06-03T08:59:00.000Z",
+  "pubdate": "2019-06-03T09:00:00.000Z",
+  "expdate": "2019-07-01T08:59:22.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2014457_008_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Clarence",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1406846700000",
-  "pubdateasmilliseconds": "1556701200000",
-  "expdateasmilliseconds": "1559552340000",
+  "pubdateasmilliseconds": "1559552400000",
+  "expdateasmilliseconds": "1561971562000",
   "mediaid": "202d30325557f48ed3c26f7b014145c496a6f356",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false

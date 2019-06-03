@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1001291900063888",
+  "airingid": "RADS1005301900096196",
   "seasonnumber": "2",
   "seasonitemnumber": "9",
   "seriesid": "2007332",
@@ -20,8 +20,8 @@
   "seriestitleid": "2007332",
   "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2015-05-14T21:00:00.000Z",
-  "pubdate": "2019-02-01T10:00:00.000Z",
-  "expdate": "2019-03-01T09:59:00.000Z",
+  "pubdate": "2019-06-03T09:00:00.000Z",
+  "expdate": "2019-07-01T08:59:05.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2047863_004_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1431637200000",
-  "pubdateasmilliseconds": "1549015200000",
-  "expdateasmilliseconds": "1551434340000",
+  "pubdateasmilliseconds": "1559552400000",
+  "expdateasmilliseconds": "1561971545000",
   "mediaid": "8d9d5c07147396e1d8ba05eec82beca3bec445c4",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
