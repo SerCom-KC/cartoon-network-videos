@@ -2,7 +2,7 @@
   "airingid": "RADS1005281900095054",
   "seasonnumber": "1",
   "seasonitemnumber": "32",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "095e6371950fe87714fad534bf34fd739780f5f5",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/rainy-day-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2016-10-22T21:30:00.000Z",
   "pubdate": "2019-06-03T09:00:00.000Z",
   "expdate": "2019-06-09T08:59:21.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2083910",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1560070761000",
   "mediaid": "095e6371950fe87714fad534bf34fd739780f5f5",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

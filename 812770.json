@@ -2,7 +2,7 @@
   "airingid": "RADS1005281900094972",
   "seasonnumber": "2",
   "seasonitemnumber": "15",
-  "seriesid": "10000000000",
+  "seriesid": "757073",
   "id": "8f03aa4ab131a686562ce4e4f51ac3ec1308c9cc",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/the-real-you-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2011-02-15T01:00:00.000Z",
   "pubdate": "2019-06-03T09:00:00.000Z",
   "expdate": "2019-06-10T08:59:36.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "812770",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1560157176000",
   "mediaid": "8f03aa4ab131a686562ce4e4f51ac3ec1308c9cc",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

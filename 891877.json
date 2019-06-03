@@ -2,7 +2,7 @@
   "airingid": "RADS1005281900094975",
   "seasonnumber": "4",
   "seasonitemnumber": "1",
-  "seriesid": "10000000000",
+  "seriesid": "757073",
   "id": "32b053c16d2d52897b723b6ebbe7bc0ad5fa2631",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/hot-to-the-touch-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2012-04-02T23:30:00.000Z",
   "pubdate": "2019-06-03T09:00:00.000Z",
   "expdate": "2019-06-10T08:59:36.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "891877",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1560157176000",
   "mediaid": "32b053c16d2d52897b723b6ebbe7bc0ad5fa2631",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
