@@ -2,7 +2,7 @@
   "airingid": "RADS1004301900088664",
   "seasonnumber": "1",
   "seasonitemnumber": "8",
-  "seriesid": "2131007",
+  "seriesid": "10000000000",
   "id": "ddd5d9a075b9721a4a126c8abde83bf9772e52f4",
   "collectionid": "",
   "seofriendlyurl": "/video/summer-camp-island/ghost-the-boy-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2131007",
-  "seriesname": "Summer Camp Island",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-07-07T11:30:00.000Z",
   "pubdate": "2019-06-03T08:59:00.000Z",
   "expdate": "2019-07-11T03:59:59.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2141448",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2131007",
   "originalseriesname": "Summer Camp Island",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1562817599000",
   "mediaid": "ddd5d9a075b9721a4a126c8abde83bf9772e52f4",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
