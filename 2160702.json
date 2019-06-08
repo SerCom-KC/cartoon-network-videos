@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1005281900094867",
+  "airingid": "RADS1005281900094872",
   "seasonnumber": "1",
   "seasonitemnumber": "1",
   "seriesid": "2160701",
@@ -20,8 +20,8 @@
   "seriestitleid": "2160701",
   "seriesname": "Victor and Valentino",
   "originalpremieredate": "2019-03-30T13:30:00.000Z",
-  "pubdate": "2019-06-01T08:59:00.000Z",
-  "expdate": "2019-06-08T08:59:00.000Z",
+  "pubdate": "2019-06-08T08:59:00.000Z",
+  "expdate": "2019-06-22T09:00:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2160702_004_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Victor and Valentino",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1553952600000",
-  "pubdateasmilliseconds": "1559379540000",
-  "expdateasmilliseconds": "1559984340000",
+  "pubdateasmilliseconds": "1559984340000",
+  "expdateasmilliseconds": "1561194000000",
   "mediaid": "404e782f8384a3324f1c998215a43ba74fb63c6e",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
