@@ -2,7 +2,7 @@
   "airingid": "RADS1004291900087428",
   "seasonnumber": "1",
   "seasonitemnumber": "46",
-  "seriesid": "10000000000",
+  "seriesid": "2117352",
   "id": "87eb3008ffbc10ae0154fbbeba29caeb2d7e53d7",
   "collectionid": "",
   "seofriendlyurl": "/video/mega-man/a-man-man-for-all-seasons-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2117352",
+  "seriesname": "Mega Man",
   "originalpremieredate": "2019-05-05T10:30:00.000Z",
   "pubdate": "2019-05-26T08:59:00.000Z",
   "expdate": "2019-06-09T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2117447",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2117352",
   "originalseriesname": "Mega Man",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1560070740000",
   "mediaid": "87eb3008ffbc10ae0154fbbeba29caeb2d7e53d7",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
