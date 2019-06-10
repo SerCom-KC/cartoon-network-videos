@@ -2,7 +2,7 @@
   "airingid": "RADS1005281900095063",
   "seasonnumber": "4",
   "seasonitemnumber": "3",
-  "seriesid": "10000000000",
+  "seriesid": "810150",
   "id": "971a5ee6baff1dcb46bca9ae32155188ccc14379",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/paybackparty-bus-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "810150",
+  "seriesname": "Regular Show",
   "originalpremieredate": "2019-06-03T09:00:00.000Z",
   "pubdate": "2019-06-03T09:00:00.000Z",
   "expdate": "2019-06-10T08:59:52.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1560157192000",
   "mediaid": "971a5ee6baff1dcb46bca9ae32155188ccc14379",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

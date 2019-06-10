@@ -2,7 +2,7 @@
   "airingid": "RADS1005281900095071",
   "seasonnumber": "4",
   "seasonitemnumber": "15",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "7963fcc57c19d0d858a3ecfee7eb27bc17d6d1f0",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/the-new-crystal-gems-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2017-02-11T00:00:00.000Z",
   "pubdate": "2019-06-03T09:00:00.000Z",
   "expdate": "2019-06-10T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2083878",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1560157140000",
   "mediaid": "7963fcc57c19d0d858a3ecfee7eb27bc17d6d1f0",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

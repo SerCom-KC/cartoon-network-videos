@@ -2,7 +2,7 @@
   "airingid": "RADS1005281900095062",
   "seasonnumber": "3",
   "seasonitemnumber": "14",
-  "seriesid": "10000000000",
+  "seriesid": "810150",
   "id": "ae5e673505ebeb36c90fc0f3b99f1b695f29fe89",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/fortune-cookie-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "810150",
+  "seriesname": "Regular Show",
   "originalpremieredate": "2012-01-24T01:00:00.000Z",
   "pubdate": "2019-06-03T09:00:00.000Z",
   "expdate": "2019-06-10T08:59:52.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "847153",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1560157192000",
   "mediaid": "ae5e673505ebeb36c90fc0f3b99f1b695f29fe89",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
