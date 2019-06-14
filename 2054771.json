@@ -2,7 +2,7 @@
   "airingid": "RADS1006031900096900",
   "seasonnumber": "3",
   "seasonitemnumber": "4",
-  "seriesid": "2000349",
+  "seriesid": "10000000000",
   "id": "f3044bf9231ef34b3d0d4a74a9e7ecc4f1e07f32",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/croissant-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2000349",
-  "seriesname": "Teen Titans Go!",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2015-08-20T22:00:00.000Z",
   "pubdate": "2019-06-14T09:00:00.000Z",
   "expdate": "2019-06-21T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2054771",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2000349",
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561107540000",
   "mediaid": "f3044bf9231ef34b3d0d4a74a9e7ecc4f1e07f32",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

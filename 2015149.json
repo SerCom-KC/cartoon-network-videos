@@ -2,7 +2,7 @@
   "airingid": "RADS1006031900096899",
   "seasonnumber": "2",
   "seasonitemnumber": "16",
-  "seriesid": "2000349",
+  "seriesid": "10000000000",
   "id": "2211cf06fa41a7b0e34ea3d5a2048dac566c1e39",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/vegetables-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2000349",
-  "seriesname": "Teen Titans Go!",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2014-10-09T22:00:00.000Z",
   "pubdate": "2019-06-14T09:00:00.000Z",
   "expdate": "2019-06-21T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2015149",
   "titletype": "Element",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2000349",
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561107540000",
   "mediaid": "2211cf06fa41a7b0e34ea3d5a2048dac566c1e39",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
