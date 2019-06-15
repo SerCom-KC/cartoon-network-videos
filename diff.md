@@ -3,23 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: June 14, 2019 at 05:30:23 EDT_
+_Last Update: June 15, 2019 at 05:00:19 EDT_
 ## Video added
 No videos were added.
 ## Video removed
-### 2002480
-**Teen Titans Go! S01E06 - Hey Pizza!**  
-TV-PG 🔓 11:04  
-⌛ June 14, 2019 at 04:59:00 EDT  
-[Open in app](https://tinyurl.com/yxrp8vfv) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/hey-pizza-episode.html  
-seriesid=`2000349` titleid=`2002480` mediaid=`1c7d2fa5a16f022a40c5a370e06b154bfa6c7f73`  
-_Beast Boy and Cyborg try their best to slow the pizza delivery boy so they can get free pizza._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2002480_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002480_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002480_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002480_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002480_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002480_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002480_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002480_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002480_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002480_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002480_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002480_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002480_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002480_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002480_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002480_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002480_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002480_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002480_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002480_010_640x360.jpg" height="144px" /></a>
-### 2002470
-**Teen Titans Go! S01E01 - Legendary Sandwich**  
-TV-PG 🔓 11:19  
-⌛ June 14, 2019 at 04:59:00 EDT  
-[Open in app](https://tinyurl.com/y5gt3qz8) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/legendary-sandwich-episode.html  
-seriesid=`2000349` titleid=`2002470` mediaid=`4209107a34339a7e43e38a28e1a0a2863a3de5ae`  
-_The team goes on a series of epic quests in order to create the world's perfect sandwich._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2002470_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002470_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002470_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002470_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002470_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002470_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002470_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002470_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002470_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002470_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002470_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002470_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002470_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002470_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002470_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002470_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002470_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002470_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002470_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002470_010_640x360.jpg" height="144px" /></a>
+No videos were removed.
