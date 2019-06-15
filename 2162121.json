@@ -2,7 +2,7 @@
   "airingid": "RADS1006031900096953",
   "seasonnumber": "1",
   "seasonitemnumber": "3",
-  "seriesid": "10000000000",
+  "seriesid": "2160701",
   "id": "ca26a60c768f03cb9babba9a0753cd10d8cffe01",
   "collectionid": "",
   "seofriendlyurl": "/video/victor-and-valentino/brotherly-love-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2160701",
+  "seriesname": "Victor and Valentino",
   "originalpremieredate": "2019-03-30T14:00:00.000Z",
   "pubdate": "2019-06-08T09:00:00.000Z",
   "expdate": "2019-06-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2162121",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2160701",
   "originalseriesname": "Victor and Valentino",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1560589140000",
   "mediaid": "ca26a60c768f03cb9babba9a0753cd10d8cffe01",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
