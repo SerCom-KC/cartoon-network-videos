@@ -2,7 +2,7 @@
   "airingid": "RADS1005301900096030",
   "seasonnumber": "5",
   "seasonitemnumber": "19",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "d064ecb531454d6346af8b371178c2ee7969ce1a",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-ollie-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2017-02-20T22:00:00.000Z",
   "pubdate": "2019-06-17T09:00:00.000Z",
   "expdate": "2019-06-24T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2097634",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561366740000",
   "mediaid": "d064ecb531454d6346af8b371178c2ee7969ce1a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
