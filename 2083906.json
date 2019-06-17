@@ -2,7 +2,7 @@
   "airingid": "RADS1006031900096772",
   "seasonnumber": "1",
   "seasonitemnumber": "26",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "c0385fb5b08102b0f9702ea5d311e141b361f5dd",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/in-the-garden-of-good-and-eddie-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2016-09-20T21:30:00.000Z",
   "pubdate": "2019-06-17T09:00:00.000Z",
   "expdate": "2019-06-24T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2083906",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561366740000",
   "mediaid": "c0385fb5b08102b0f9702ea5d311e141b361f5dd",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1006031900096774",
   "seasonnumber": "2",
   "seasonitemnumber": "27",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "f9010f00a075878d78c265cd5e3b250f3af2d2ec",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/blisstersweet-symphony-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2019-06-17T09:00:00.000Z",
   "pubdate": "2019-06-17T09:00:00.000Z",
   "expdate": "2019-06-24T08:59:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561366740000",
   "mediaid": "f9010f00a075878d78c265cd5e3b250f3af2d2ec",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
