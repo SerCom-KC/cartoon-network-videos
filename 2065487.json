@@ -2,7 +2,7 @@
   "airingid": "RADS1006031900096920",
   "seasonnumber": "4",
   "seasonitemnumber": "22",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "8fd68083408f872a1e27a9dc8ea9c55a114cbaf6",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/uncle-dummy-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2016-12-13T21:30:00.000Z",
   "pubdate": "2019-06-10T09:00:00.000Z",
   "expdate": "2019-06-17T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065487",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1560761940000",
   "mediaid": "8fd68083408f872a1e27a9dc8ea9c55a114cbaf6",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

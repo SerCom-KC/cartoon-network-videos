@@ -2,7 +2,7 @@
   "airingid": "RADS1006031900096919",
   "seasonnumber": "3",
   "seasonitemnumber": "16",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "262d4102f19bd6bb0da159145595baa273c01949",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/fleas-help-me-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2016-05-21T15:30:00.000Z",
   "pubdate": "2019-06-10T09:00:00.000Z",
   "expdate": "2019-06-17T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2056129",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1560761940000",
   "mediaid": "262d4102f19bd6bb0da159145595baa273c01949",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
