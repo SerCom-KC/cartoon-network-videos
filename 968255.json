@@ -2,7 +2,7 @@
   "airingid": "RADS1005301900095872",
   "seasonnumber": "5",
   "seasonitemnumber": "4",
-  "seriesid": "10000000000",
+  "seriesid": "757073",
   "id": "5b6f08d2b52f344ab4f6563e09c1034848d088f1",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/up-a-tree-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2012-11-27T00:30:00.000Z",
   "pubdate": "2019-06-17T09:00:00.000Z",
   "expdate": "2019-06-24T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "968255",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561366740000",
   "mediaid": "5b6f08d2b52f344ab4f6563e09c1034848d088f1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1005301900095871",
   "seasonnumber": "4",
   "seasonitemnumber": "26",
-  "seriesid": "10000000000",
+  "seriesid": "757073",
   "id": "c792fd11664367efe240d25684d84fef53d05a37",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/the-lich-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2012-10-22T23:30:00.000Z",
   "pubdate": "2019-06-17T09:00:00.000Z",
   "expdate": "2019-06-24T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "891866",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561366740000",
   "mediaid": "c792fd11664367efe240d25684d84fef53d05a37",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

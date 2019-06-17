@@ -2,7 +2,7 @@
   "airingid": "RADS1005301900095870",
   "seasonnumber": "4",
   "seasonitemnumber": "22",
-  "seriesid": "10000000000",
+  "seriesid": "757073",
   "id": "3a00490aedf74bad7681dafb3485d2d2a3688d61",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/ignition-point-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2012-09-17T23:30:00.000Z",
   "pubdate": "2019-06-17T09:00:00.000Z",
   "expdate": "2019-06-24T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "891861",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561366740000",
   "mediaid": "3a00490aedf74bad7681dafb3485d2d2a3688d61",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
