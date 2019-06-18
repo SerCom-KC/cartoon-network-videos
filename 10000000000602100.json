@@ -145,7 +145,7 @@
         "seriesname": "Movies",
         "originalpremieredate": "2016-10-29T22:00:00.000Z",
         "pubdate": "2018-03-01T05:00:00.000Z",
-        "expdate": "2019-10-29T03:59:00.000Z",
+        "expdate": "2019-08-30T03:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2086426_004_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -158,7 +158,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1477778400000",
         "pubdateasmilliseconds": "1519880400000",
-        "expdateasmilliseconds": "1572321540000",
+        "expdateasmilliseconds": "1567137540000",
         "mediaid": "32f726b55c071f47de97bdcc42ada64abaf9155d",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true
