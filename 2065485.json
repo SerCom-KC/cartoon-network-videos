@@ -2,7 +2,7 @@
   "airingid": "RADS1006031900096915",
   "seasonnumber": "4",
   "seasonitemnumber": "20",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "3a6187d4eac433462bc7d848df76fa657d62bb78",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/disappearing-act-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2016-12-12T21:30:00.000Z",
   "pubdate": "2019-06-17T09:00:00.000Z",
   "expdate": "2019-06-24T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065485",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561366740000",
   "mediaid": "3a6187d4eac433462bc7d848df76fa657d62bb78",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

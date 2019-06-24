@@ -2,7 +2,7 @@
   "airingid": "RADS1005301900096280",
   "seasonnumber": "1",
   "seasonitemnumber": "9",
-  "seriesid": "10000000000",
+  "seriesid": "2012957",
   "id": "98dbe0f0a7cba47803e9a70034fb845dee19ca76",
   "collectionid": "",
   "seofriendlyurl": "/video/clarence/honk-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2012957",
+  "seriesname": "Clarence",
   "originalpremieredate": "2014-06-19T22:45:00.000Z",
   "pubdate": "2019-06-17T09:00:00.000Z",
   "expdate": "2019-06-24T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2014451",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2012957",
   "originalseriesname": "Clarence",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561366740000",
   "mediaid": "98dbe0f0a7cba47803e9a70034fb845dee19ca76",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1005291900095188",
   "seasonnumber": "1",
   "seasonitemnumber": "29",
-  "seriesid": "10000000000",
+  "seriesid": "2085313",
   "id": "bc0814c2c83ede1d84c95e25b75f78a980fddfb1",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/bad-penny-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2085313",
+  "seriesname": "Ben 10",
   "originalpremieredate": "2017-09-28T18:00:00.000Z",
   "pubdate": "2019-06-17T09:00:00.000Z",
   "expdate": "2019-06-24T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088590",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2085313",
   "originalseriesname": "Ben 10",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561366740000",
   "mediaid": "bc0814c2c83ede1d84c95e25b75f78a980fddfb1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
