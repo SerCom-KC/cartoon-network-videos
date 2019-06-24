@@ -2,7 +2,7 @@
   "airingid": "RADS1006031900096768",
   "seasonnumber": "1",
   "seasonitemnumber": "16",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "748e31d3b53f9800b4d88543b4d2732ad88c996a",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/frenemy-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2016-05-19T22:30:00.000Z",
   "pubdate": "2019-06-24T09:00:00.000Z",
   "expdate": "2019-07-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065501",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561971540000",
   "mediaid": "748e31d3b53f9800b4d88543b4d2732ad88c996a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

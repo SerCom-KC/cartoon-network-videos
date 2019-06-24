@@ -2,7 +2,7 @@
   "airingid": "RADS1006031900096770",
   "seasonnumber": "3",
   "seasonitemnumber": "",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "ae18d25bf7800a5d647b19051ca815984f4f11d8",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/small-world-stone-cold-spider-part-2-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2018-09-02T20:00:00.000Z",
   "pubdate": "2019-06-24T09:00:00.000Z",
   "expdate": "2019-07-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2152900",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561971540000",
   "mediaid": "ae18d25bf7800a5d647b19051ca815984f4f11d8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
