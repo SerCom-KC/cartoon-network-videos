@@ -1,7 +1,6 @@
 {
-    "updated": 1561400536,
-    "added": [],
-    "removed": [
+    "updated": 1561401136,
+    "added": [
         {
             "airingid": "RADS1006211900001264",
             "seasonnumber": "1",
@@ -13,13 +12,13 @@
             "seasonepisodenumber": null,
             "title": "Infinity Train Trailer",
             "episodenumber": null,
-            "type": "fullepisode",
+            "type": "movie",
             "active": true,
             "description": "What is the train? Where did it come from? And most importantly: What's in the next train car? Join Tulip, One-One, and Atticus in a mind-blowing adventure on the enigmatic Infinity Train.",
             "duration": 104,
             "freewheelid": "42b8a3c47cdf674ae550db6f197bb4fe34e2b709",
             "isclip": false,
-            "typesort": "1",
+            "typesort": "3",
             "tvratingcode": "TV-Y7-FV",
             "seriestitleid": "2164900",
             "seriesname": "Infinity Train",
@@ -32,7 +31,7 @@
             "tags": "it - sneak peek|sponsored",
             "titleid": "2200865",
             "titletype": "Clip",
-            "bannertext": "LATEST EPISODE",
+            "bannertext": "MOVIE",
             "originalseriesid": "2164900",
             "originalseriesname": "Infinity Train",
             "hasparent": true,
@@ -43,5 +42,6 @@
             "isunlockedfullepisode": false,
             "ismultipropertycollection": false
         }
-    ]
+    ],
+    "removed": []
 }
