@@ -2564,7 +2564,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2019-04-29T08:59:00.000Z",
         "pubdate": "2019-04-29T08:59:00.000Z",
-        "expdate": "2020-07-27T03:59:59.000Z",
+        "expdate": "2019-07-27T03:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2168433_004_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -2577,7 +2577,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1556528340000",
         "pubdateasmilliseconds": "1556528340000",
-        "expdateasmilliseconds": "1595822399000",
+        "expdateasmilliseconds": "1564199999000",
         "mediaid": "30326ad9842aa4dde5ccf9cca0801fa7269c1651",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true
