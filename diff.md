@@ -3,23 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: June 28, 2019 at 08:30:19 EDT_
+_Last Update: June 28, 2019 at 16:00:19 EDT_
 ## Video added
-### 2128540
-**Teen Titans Go! S04E26 - Hot Salad Water**  
-TV-PG 🔓 11:07  
-⌛ July 1, 2019 at 04:59:00 EDT  
-[Open in app](https://tinyurl.com/yxzup6ce) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/hot-salad-water-episode.html  
-seriesid=`2000349` titleid=`2128540` mediaid=`e779e20c3934753e48ffbc6b74492c0525231f85`  
-_When drinking tea turns the other Titans English, it's up to Robin to save America from another British invasion._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2128540_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128540_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128540_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128540_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128540_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128540_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128540_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128540_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128540_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128540_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128540_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128540_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128540_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128540_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128540_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128540_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128540_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128540_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128540_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128540_010_640x360.jpg" height="144px" /></a>
-### 2002471
-**Teen Titans Go! S01E02 - Pie Bros**  
-TV-PG 🔓 11:04  
-⌛ July 1, 2019 at 04:59:00 EDT  
-[Open in app](https://tinyurl.com/yyb7ecry) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/pie-bros-episode.html  
-seriesid=`2000349` titleid=`2002471` mediaid=`c40925c7c3bcbae1f1a4411618f80709260939dc`  
-_Beast Boy has to get a job at a pie shop to earn enough money to buy Cyborg a birthday gift, only his job interferes with being able to attend the actual party._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2002471_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002471_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002471_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002471_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002471_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002471_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002471_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002471_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002471_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002471_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002471_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002471_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002471_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002471_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002471_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002471_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002471_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002471_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2002471_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2002471_010_640x360.jpg" height="144px" /></a>
+No videos were added.
 ## Video removed
 No videos were removed.
