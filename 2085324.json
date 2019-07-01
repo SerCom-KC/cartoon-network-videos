@@ -2,7 +2,7 @@
   "airingid": "RADS1005291900095202",
   "seasonnumber": "1",
   "seasonitemnumber": "36",
-  "seriesid": "10000000000",
+  "seriesid": "2085313",
   "id": "14e5bf3ee622a443c301d2196dac15ccdba07c97",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/need-for-speed-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2085313",
+  "seriesname": "Ben 10",
   "originalpremieredate": "2017-11-03T21:00:00.000Z",
   "pubdate": "2019-06-24T09:00:00.000Z",
   "expdate": "2019-07-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2085324",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2085313",
   "originalseriesname": "Ben 10",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561971540000",
   "mediaid": "14e5bf3ee622a443c301d2196dac15ccdba07c97",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

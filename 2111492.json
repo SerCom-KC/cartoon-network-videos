@@ -2,7 +2,7 @@
   "airingid": "RADS1006261900003309",
   "seasonnumber": "5",
   "seasonitemnumber": "5",
-  "seriesid": "2011404",
+  "seriesid": "10000000000",
   "id": "c08ab113d43997fdcbcb50665a0806c0e682347d",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/dewey-wins-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2011404",
-  "seriesname": "Steven Universe",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2017-12-16T00:30:00.000Z",
   "pubdate": "2019-07-01T09:00:00.000Z",
   "expdate": "2019-07-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2111492",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1562576340000",
   "mediaid": "c08ab113d43997fdcbcb50665a0806c0e682347d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

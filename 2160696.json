@@ -2,7 +2,7 @@
   "airingid": "RADS1005301900095638",
   "seasonnumber": "3",
   "seasonitemnumber": "50",
-  "seriesid": "10000000000",
+  "seriesid": "2056641",
   "id": "80406f071c7dd0244f5668566e34eadd2b9887c1",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/paperboyz-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2056641",
+  "seriesname": "We Bare Bears",
   "originalpremieredate": "2018-07-30T14:00:00.000Z",
   "pubdate": "2019-06-24T09:00:00.000Z",
   "expdate": "2019-07-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2160696",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561971540000",
   "mediaid": "80406f071c7dd0244f5668566e34eadd2b9887c1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

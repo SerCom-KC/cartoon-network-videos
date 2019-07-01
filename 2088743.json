@@ -2,7 +2,7 @@
   "airingid": "RADS1005301900095634",
   "seasonnumber": "3",
   "seasonitemnumber": "36",
-  "seriesid": "10000000000",
+  "seriesid": "2056641",
   "id": "369d9cce10d7fe119bc797074a85ecc344323014",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/lazer-royale-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2056641",
+  "seriesname": "We Bare Bears",
   "originalpremieredate": "2017-11-18T00:15:00.000Z",
   "pubdate": "2019-06-24T09:00:00.000Z",
   "expdate": "2019-07-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088743",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561971540000",
   "mediaid": "369d9cce10d7fe119bc797074a85ecc344323014",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

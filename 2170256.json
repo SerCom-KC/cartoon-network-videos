@@ -2,7 +2,7 @@
   "airingid": "RADS1005291900095297",
   "seasonnumber": "1",
   "seasonitemnumber": "38",
-  "seriesid": "10000000000",
+  "seriesid": "2132940",
   "id": "fc483b6f4047ce3ba12cb0857c5e3ba5e03cd56b",
   "collectionid": "",
   "seofriendlyurl": "/video/craig-of-the-creek/the-great-fossil-rush-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2132940",
+  "seriesname": "Craig of the Creek",
   "originalpremieredate": "2019-02-25T22:00:00.000Z",
   "pubdate": "2019-06-24T09:00:00.000Z",
   "expdate": "2019-07-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2170256",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2132940",
   "originalseriesname": "Craig of the Creek",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561971540000",
   "mediaid": "fc483b6f4047ce3ba12cb0857c5e3ba5e03cd56b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

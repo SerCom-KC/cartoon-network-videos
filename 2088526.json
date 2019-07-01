@@ -2,7 +2,7 @@
   "airingid": "RADS1006031900096926",
   "seasonnumber": "5",
   "seasonitemnumber": "15",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "a937561f75d51f3c6cc1781db2ddb111e89d341f",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/cartoon-factory-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2017-06-23T20:30:00.000Z",
   "pubdate": "2019-06-24T09:00:00.000Z",
   "expdate": "2019-07-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088526",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561971540000",
   "mediaid": "a937561f75d51f3c6cc1781db2ddb111e89d341f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

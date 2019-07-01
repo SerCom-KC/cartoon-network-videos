@@ -2,7 +2,7 @@
   "airingid": "RADS1005291900095295",
   "seasonnumber": "1",
   "seasonitemnumber": "37",
-  "seriesid": "10000000000",
+  "seriesid": "2132940",
   "id": "4fccb0fd41e45b5a89ff73ed08293a294eb55c74",
   "collectionid": "",
   "seofriendlyurl": "/video/craig-of-the-creek/dibs-court-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2132940",
+  "seriesname": "Craig of the Creek",
   "originalpremieredate": "2019-02-18T22:00:00.000Z",
   "pubdate": "2019-06-24T09:00:00.000Z",
   "expdate": "2019-07-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2170255",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2132940",
   "originalseriesname": "Craig of the Creek",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1561971540000",
   "mediaid": "4fccb0fd41e45b5a89ff73ed08293a294eb55c74",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
