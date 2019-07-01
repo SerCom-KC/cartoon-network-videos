@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003281900077732",
+  "airingid": "RADS1006241900002066",
   "seasonnumber": "1",
   "seasonitemnumber": "40",
   "seriesid": "2011404",
@@ -20,8 +20,8 @@
   "seriestitleid": "2011404",
   "seriesname": "Steven Universe",
   "originalpremieredate": "2015-02-05T23:30:00.000Z",
-  "pubdate": "2019-04-01T09:00:00.000Z",
-  "expdate": "2019-05-01T08:59:00.000Z",
+  "pubdate": "2019-07-01T09:00:00.000Z",
+  "expdate": "2019-08-01T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2020144_006_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Steven Universe",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1423179000000",
-  "pubdateasmilliseconds": "1554109200000",
-  "expdateasmilliseconds": "1556701140000",
+  "pubdateasmilliseconds": "1561971600000",
+  "expdateasmilliseconds": "1564649940000",
   "mediaid": "8797f7b88be52040a57202224caa4ab6e6c5309f",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
