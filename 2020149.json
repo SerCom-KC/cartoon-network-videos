@@ -1,9 +1,9 @@
 {
-  "airingid": "RADS1007011900003770",
+  "airingid": "RADS1006241900002071",
   "seasonnumber": "1",
   "seasonitemnumber": "45",
   "seriesid": "2011404",
-  "id": "b06855cefebce81978ca910679411a501072e5d4",
+  "id": "989462a9003c5e13e55ef00645bb1b9793f01cb8",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/roses-scabbard-episode.html",
   "seasonepisodenumber": "45",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven joins Pearl on a special mission to a place that belonged to Rose-Quartz. ",
-  "duration": 686,
+  "duration": 716,
   "freewheelid": "cn-2020149",
   "isclip": false,
   "typesort": "1",
@@ -25,7 +25,7 @@
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2020149_003_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
-  "tags": "",
+  "tags": "vod",
   "titleid": "2020149",
   "titletype": "Episode",
   "bannertext": "",
@@ -35,7 +35,7 @@
   "originalpremieredateasmilliseconds": "1425934800000",
   "pubdateasmilliseconds": "1561971600000",
   "expdateasmilliseconds": "1564649940000",
-  "mediaid": "b06855cefebce81978ca910679411a501072e5d4",
+  "mediaid": "989462a9003c5e13e55ef00645bb1b9793f01cb8",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
 }
