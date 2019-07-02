@@ -1,9 +1,9 @@
 {
-  "airingid": "RADS1007011900003768",
+  "airingid": "RADS1006241900002062",
   "seasonnumber": "1",
   "seasonitemnumber": "26",
   "seriesid": "2011404",
-  "id": "befd2594193a148c15dc9cb5cd87e52acdd8b4b6",
+  "id": "0775ad7396aa479fe90c3801673454250192a148",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/ocean-gem-episode.html",
   "seasonepisodenumber": "26",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Ocean disappears on the first day of summer and Beach City is in a panic. ",
-  "duration": 686,
+  "duration": 716,
   "freewheelid": "cn-2014420",
   "isclip": false,
   "typesort": "1",
@@ -25,7 +25,7 @@
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2014420_008_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
-  "tags": "",
+  "tags": "vod",
   "titleid": "2014420",
   "titletype": "Episode",
   "bannertext": "",
@@ -35,7 +35,7 @@
   "originalpremieredateasmilliseconds": "1411684200000",
   "pubdateasmilliseconds": "1561971600000",
   "expdateasmilliseconds": "1564649940000",
-  "mediaid": "befd2594193a148c15dc9cb5cd87e52acdd8b4b6",
+  "mediaid": "0775ad7396aa479fe90c3801673454250192a148",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
 }
