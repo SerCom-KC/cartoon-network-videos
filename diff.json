@@ -1,17 +1,16 @@
 {
-    "updated": 1562939056,
-    "added": [],
-    "removed": [
+    "updated": 1562939296,
+    "added": [
         {
             "airingid": "RADS1006201900001087",
             "seasonnumber": "1",
             "seasonitemnumber": "",
-            "seriesid": "10000000000",
+            "seriesid": "2131007",
             "id": "4b5f0f3152c224982e47d81991ec644f8ab3ea67",
             "collectionid": "",
-            "seofriendlyurl": "/video/summer-camp-island/magical-moments-week-5-episode.html",
+            "seofriendlyurl": "/video/summer-camp-island/susies-magical-moments-intro-week-3-6-episode.html",
             "seasonepisodenumber": "0",
-            "title": "Magical Moments: Week 5",
+            "title": "Susie's Magical Moments: Intro Week 3 - 6",
             "episodenumber": "0",
             "type": "fullepisode",
             "active": true,
@@ -21,15 +20,15 @@
             "isclip": false,
             "typesort": "1",
             "tvratingcode": "TV-Y7",
-            "seriestitleid": "10000000000",
-            "seriesname": "Unlocked",
+            "seriestitleid": "2131007",
+            "seriesname": "Summer Camp Island",
             "originalpremieredate": "2019-07-12T09:00:00.000Z",
             "pubdate": "2019-07-12T09:00:00.000Z",
             "expdate": "2019-07-19T08:59:02.000Z",
-            "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2197803_001_640x360.jpg",
+            "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2197803_003_640x360.jpg",
             "authtype": "unauth",
             "webflags": "",
-            "tags": "unauth",
+            "tags": "sci - magic|unauth",
             "titleid": "2197803",
             "titletype": "Element",
             "bannertext": "LATEST EPISODE",
@@ -41,7 +40,8 @@
             "expdateasmilliseconds": "1563526742000",
             "mediaid": "4b5f0f3152c224982e47d81991ec644f8ab3ea67",
             "isunlockedfullepisode": true,
-            "ismultipropertycollection": true
+            "ismultipropertycollection": false
         }
-    ]
+    ],
+    "removed": []
 }
