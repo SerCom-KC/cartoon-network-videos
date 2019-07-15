@@ -2,7 +2,7 @@
   "airingid": "RADS1006191900000922",
   "seasonnumber": "1",
   "seasonitemnumber": "13",
-  "seriesid": "2055199",
+  "seriesid": "10000000000",
   "id": "a2e2e15b014f6b04ef6bdd1fad29d043b4ee238b",
   "collectionid": "",
   "seofriendlyurl": "/video/magiswords/gotta-get-grup-to-get-down-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2055199",
-  "seriesname": "Magiswords",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2016-11-11T23:30:00.000Z",
   "pubdate": "2019-07-08T09:00:00.000Z",
   "expdate": "2019-07-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2089140",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2055199",
   "originalseriesname": "Magiswords",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1563181140000",
   "mediaid": "a2e2e15b014f6b04ef6bdd1fad29d043b4ee238b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

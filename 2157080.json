@@ -2,7 +2,7 @@
   "airingid": "RADS1006261900003223",
   "seasonnumber": "2",
   "seasonitemnumber": "24",
-  "seriesid": "2055199",
+  "seriesid": "10000000000",
   "id": "011fd16fdb0b5fe7576007d8c307575f433e8ee8",
   "collectionid": "",
   "seofriendlyurl": "/video/magiswords/manlier-fish-the-fishlier-man-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2055199",
-  "seriesname": "Magiswords",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-05-08T15:30:00.000Z",
   "pubdate": "2019-07-08T08:59:00.000Z",
   "expdate": "2019-07-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2157080",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2055199",
   "originalseriesname": "Magiswords",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1563181140000",
   "mediaid": "011fd16fdb0b5fe7576007d8c307575f433e8ee8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

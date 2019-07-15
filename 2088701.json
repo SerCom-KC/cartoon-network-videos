@@ -2,7 +2,7 @@
   "airingid": "RADS1006201900001059",
   "seasonnumber": "5",
   "seasonitemnumber": "20",
-  "seriesid": "2007332",
+  "seriesid": "10000000000",
   "id": "ee87c5394c2f68dd8be42d87eeb69cf29dae2557",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/high-dive-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2007332",
-  "seriesname": "Uncle Grandpa",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2017-06-28T20:30:00.000Z",
   "pubdate": "2019-07-08T09:00:00.000Z",
   "expdate": "2019-07-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088701",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1563181140000",
   "mediaid": "ee87c5394c2f68dd8be42d87eeb69cf29dae2557",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

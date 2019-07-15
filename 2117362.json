@@ -2,7 +2,7 @@
   "airingid": "RADS1006241900001707",
   "seasonnumber": "1",
   "seasonitemnumber": "12",
-  "seriesid": "10000000000",
+  "seriesid": "2117352",
   "id": "86ca2d044e517dec04dff4d0b172873f672ca3f9",
   "collectionid": "",
   "seofriendlyurl": "/video/mega-man/opposites-attract-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2117352",
+  "seriesname": "Mega Man",
   "originalpremieredate": "2018-09-09T10:30:00.000Z",
   "pubdate": "2019-07-15T08:59:00.000Z",
   "expdate": "2019-07-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2117362",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2117352",
   "originalseriesname": "Mega Man",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1563785940000",
   "mediaid": "86ca2d044e517dec04dff4d0b172873f672ca3f9",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

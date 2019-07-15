@@ -2,7 +2,7 @@
   "airingid": "RADS1006261900003217",
   "seasonnumber": "1",
   "seasonitemnumber": "5",
-  "seriesid": "2055199",
+  "seriesid": "10000000000",
   "id": "9ba04fa73904fae5508d2bd21a39f8c54e9ccdc1",
   "collectionid": "",
   "seofriendlyurl": "/video/magiswords/surely-you-jest-o-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2055199",
-  "seriesname": "Magiswords",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2016-10-13T22:30:00.000Z",
   "pubdate": "2019-07-08T08:59:00.000Z",
   "expdate": "2019-07-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2089131",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2055199",
   "originalseriesname": "Magiswords",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1563181140000",
   "mediaid": "9ba04fa73904fae5508d2bd21a39f8c54e9ccdc1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
