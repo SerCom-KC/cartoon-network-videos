@@ -2,7 +2,7 @@
   "airingid": "RADS1006201900001056",
   "seasonnumber": "2",
   "seasonitemnumber": "9",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "8d9d5c07147396e1d8ba05eec82beca3bec445c4",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/older-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2015-05-14T21:00:00.000Z",
   "pubdate": "2019-07-08T09:00:00.000Z",
   "expdate": "2019-07-15T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2047863",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1563181140000",
   "mediaid": "8d9d5c07147396e1d8ba05eec82beca3bec445c4",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
