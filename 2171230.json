@@ -3,7 +3,7 @@
   "seasonnumber": "1",
   "seasonitemnumber": "4",
   "seriesid": "2167202",
-  "id": "fdeb52fa3af37e7daae7183f969f5077d7944296",
+  "id": "0d2c1a6491f1e47cfe71e624d6346f776f0edd3c",
   "collectionid": "",
   "seofriendlyurl": "/video/transformers-cyberverse/memory-part-2-episode.html",
   "seasonepisodenumber": "4",
@@ -21,7 +21,7 @@
   "seriesname": "Transformers Cyberverse",
   "originalpremieredate": "2018-08-27T04:00:00.000Z",
   "pubdate": "2018-08-27T04:00:00.000Z",
-  "expdate": "2019-08-27T04:00:00.000Z",
+  "expdate": "2019-09-01T03:59:59.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2171230_006_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -34,8 +34,8 @@
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1535342400000",
   "pubdateasmilliseconds": "1535342400000",
-  "expdateasmilliseconds": "1566878400000",
-  "mediaid": "fdeb52fa3af37e7daae7183f969f5077d7944296",
+  "expdateasmilliseconds": "1567310399000",
+  "mediaid": "0d2c1a6491f1e47cfe71e624d6346f776f0edd3c",
   "isunlockedfullepisode": true,
   "ismultipropertycollection": false
 }
