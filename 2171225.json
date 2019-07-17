@@ -3,7 +3,7 @@
   "seasonnumber": "1",
   "seasonitemnumber": "2",
   "seriesid": "2167202",
-  "id": "f61497eeb7379692b4ad022a7710d3eefdcb5271",
+  "id": "4d0af1d21c28239b136e5ee3d2bd37ca0ecd8086",
   "collectionid": "",
   "seofriendlyurl": "/video/transformers-cyberverse/fractured-part-2-episode.html",
   "seasonepisodenumber": "2",
@@ -21,7 +21,7 @@
   "seriesname": "Transformers Cyberverse",
   "originalpremieredate": "2018-08-27T04:00:00.000Z",
   "pubdate": "2018-08-27T04:00:00.000Z",
-  "expdate": "2019-08-27T04:00:00.000Z",
+  "expdate": "2019-09-01T03:59:59.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2171225_006_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -34,8 +34,8 @@
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1535342400000",
   "pubdateasmilliseconds": "1535342400000",
-  "expdateasmilliseconds": "1566878400000",
-  "mediaid": "f61497eeb7379692b4ad022a7710d3eefdcb5271",
+  "expdateasmilliseconds": "1567310399000",
+  "mediaid": "4d0af1d21c28239b136e5ee3d2bd37ca0ecd8086",
   "isunlockedfullepisode": true,
   "ismultipropertycollection": false
 }
