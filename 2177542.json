@@ -164,7 +164,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1006171900000719",
+        "airingid": "RADS1006171900000725",
         "seasonnumber": "1",
         "seasonitemnumber": "16",
         "seriesid": "2177542",
@@ -205,7 +205,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1006171900000725",
+        "airingid": "RADS1006171900000719",
         "seasonnumber": "1",
         "seasonitemnumber": "16",
         "seriesid": "2177542",
@@ -2706,7 +2706,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1006171900000717",
+        "airingid": "RADS1006171900000722",
         "seasonnumber": "1",
         "seasonitemnumber": "14",
         "seriesid": "2177542",
@@ -2747,7 +2747,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1006171900000722",
+        "airingid": "RADS1006171900000717",
         "seasonnumber": "1",
         "seasonitemnumber": "14",
         "seriesid": "2177542",
@@ -4000,7 +4000,7 @@
         "originalpremieredate": "2019-07-19T09:00:00.000Z",
         "pubdate": "2019-07-19T09:00:00.000Z",
         "expdate": "2019-08-25T08:59:47.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2192256_002_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2192256_007_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "dcshg - sif",
