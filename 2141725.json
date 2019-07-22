@@ -2,7 +2,7 @@
   "airingid": "RADS1006271900003429",
   "seasonnumber": "1",
   "seasonitemnumber": "15",
-  "seriesid": "10000000000",
+  "seriesid": "2141710",
   "id": "88eb42e45ac82e143c576399a67c8d324d3eea2a",
   "collectionid": "",
   "seofriendlyurl": "/video/total-dramarama/a-ninjustice-to-harold-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2141710",
+  "seriesname": "Total Dramarama",
   "originalpremieredate": "2018-11-03T13:00:00.000Z",
   "pubdate": "2019-07-15T09:00:00.000Z",
   "expdate": "2019-07-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2141725",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2141710",
   "originalseriesname": "Total Dramarama",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1563785940000",
   "mediaid": "88eb42e45ac82e143c576399a67c8d324d3eea2a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

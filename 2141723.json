@@ -2,7 +2,7 @@
   "airingid": "RADS1006271900003425",
   "seasonnumber": "1",
   "seasonitemnumber": "13",
-  "seriesid": "10000000000",
+  "seriesid": "2141710",
   "id": "e85e996d04429894b702386e4e8d4d4355954e5a",
   "collectionid": "",
   "seofriendlyurl": "/video/total-dramarama/thats-a-wrap-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2141710",
+  "seriesname": "Total Dramarama",
   "originalpremieredate": "2018-10-20T13:00:00.000Z",
   "pubdate": "2019-07-15T09:00:00.000Z",
   "expdate": "2019-07-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2141723",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2141710",
   "originalseriesname": "Total Dramarama",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1563785940000",
   "mediaid": "e85e996d04429894b702386e4e8d4d4355954e5a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

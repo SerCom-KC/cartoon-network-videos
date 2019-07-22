@@ -2,7 +2,7 @@
   "airingid": "RADS1006271900003423",
   "seasonnumber": "1",
   "seasonitemnumber": "12",
-  "seriesid": "10000000000",
+  "seriesid": "2141710",
   "id": "17a85cb5e20c85e15e18df8d06d09a70ef7df0e8",
   "collectionid": "",
   "seofriendlyurl": "/video/total-dramarama/the-bad-guy-busters-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2141710",
+  "seriesname": "Total Dramarama",
   "originalpremieredate": "2018-10-13T13:00:00.000Z",
   "pubdate": "2019-07-15T09:00:00.000Z",
   "expdate": "2019-07-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2141722",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2141710",
   "originalseriesname": "Total Dramarama",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1563785940000",
   "mediaid": "17a85cb5e20c85e15e18df8d06d09a70ef7df0e8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1006271900003524",
   "seasonnumber": "4",
   "seasonitemnumber": "11",
-  "seriesid": "10000000000",
+  "seriesid": "2056641",
   "id": "82a651313387929ddbcd7d02a4f6e586da3ecfe8",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/pizza-band-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2056641",
+  "seriesname": "We Bare Bears",
   "originalpremieredate": "2018-11-07T00:00:00.000Z",
   "pubdate": "2019-07-15T09:00:00.000Z",
   "expdate": "2019-07-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2164908",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1563785940000",
   "mediaid": "82a651313387929ddbcd7d02a4f6e586da3ecfe8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

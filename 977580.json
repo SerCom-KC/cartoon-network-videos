@@ -2,7 +2,7 @@
   "airingid": "RADS1006191900000998",
   "seasonnumber": "4",
   "seasonitemnumber": "23",
-  "seriesid": "10000000000",
+  "seriesid": "810150",
   "id": "d9735488e30f7dc3a6be0d823703e9bde44df1c2",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/picking-up-margaret-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "810150",
+  "seriesname": "Regular Show",
   "originalpremieredate": "2013-04-16T00:00:00.000Z",
   "pubdate": "2019-07-15T09:00:00.000Z",
   "expdate": "2019-07-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "977580",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1563785940000",
   "mediaid": "d9735488e30f7dc3a6be0d823703e9bde44df1c2",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

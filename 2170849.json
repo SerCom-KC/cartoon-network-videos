@@ -2,7 +2,7 @@
   "airingid": "RADS1006241900001557",
   "seasonnumber": "1",
   "seasonitemnumber": "12",
-  "seriesid": "10000000000",
+  "seriesid": "2170837",
   "id": "14f188130f638625ad7b77aaaabd7593d0e8b13c",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/fathers-and-friendsmidsummer-nightmare-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2170837",
+  "seriesname": "Bakugan: Battle Planet",
   "originalpremieredate": "2019-02-09T12:00:00.000Z",
   "pubdate": "2019-07-15T08:59:00.000Z",
   "expdate": "2019-07-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2170849",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2170837",
   "originalseriesname": "Bakugan: Battle Planet",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1563785940000",
   "mediaid": "14f188130f638625ad7b77aaaabd7593d0e8b13c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

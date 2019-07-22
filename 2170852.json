@@ -2,7 +2,7 @@
   "airingid": "RADS1006241900001554",
   "seasonnumber": "1",
   "seasonitemnumber": "15",
-  "seriesid": "10000000000",
+  "seriesid": "2170837",
   "id": "8935fc24bd13f7c04992a5863c87a38d551c704a",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/all-jungled-upouter-demons-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2170837",
+  "seriesname": "Bakugan: Battle Planet",
   "originalpremieredate": "2019-03-02T12:00:00.000Z",
   "pubdate": "2019-07-15T08:59:00.000Z",
   "expdate": "2019-07-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2170852",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2170837",
   "originalseriesname": "Bakugan: Battle Planet",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1563785940000",
   "mediaid": "8935fc24bd13f7c04992a5863c87a38d551c704a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
