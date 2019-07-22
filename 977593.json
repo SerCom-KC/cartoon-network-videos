@@ -2,7 +2,7 @@
   "airingid": "RADS1006191900001010",
   "seasonnumber": "4",
   "seasonitemnumber": "33",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "2054826ed3b611e79805f5b1e39d82e8232ea02e",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/blind-trust-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2013-07-16T00:00:00.000Z",
   "pubdate": "2019-07-22T09:00:00.000Z",
   "expdate": "2019-08-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "977593",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1564649940000",
   "mediaid": "2054826ed3b611e79805f5b1e39d82e8232ea02e",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
