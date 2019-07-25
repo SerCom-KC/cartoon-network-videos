@@ -1640,7 +1640,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1006191900000858",
+        "airingid": "RADS1007181900007184",
         "seasonnumber": "6",
         "seasonitemnumber": "44",
         "seriesid": "10000000000",
@@ -1661,8 +1661,8 @@
         "seriestitleid": "10000000000",
         "seriesname": "Unlocked",
         "originalpremieredate": "2019-06-24T23:15:00.000Z",
-        "pubdate": "2019-07-15T08:59:00.000Z",
-        "expdate": "2019-07-25T08:59:00.000Z",
+        "pubdate": "2019-07-25T09:00:00.000Z",
+        "expdate": "2019-08-01T08:59:09.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2171539_004_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -1674,8 +1674,8 @@
         "originalseriesname": "Gumball",
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1561418100000",
-        "pubdateasmilliseconds": "1563181140000",
-        "expdateasmilliseconds": "1564045140000",
+        "pubdateasmilliseconds": "1564045200000",
+        "expdateasmilliseconds": "1564649949000",
         "mediaid": "2037b5d12cf82de4230829d75cf5b3785ffbb87f",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": true
@@ -8487,7 +8487,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1006191900000857",
+        "airingid": "RADS1007181900007182",
         "seasonnumber": "6",
         "seasonitemnumber": "43",
         "seriesid": "10000000000",
@@ -8508,8 +8508,8 @@
         "seriestitleid": "10000000000",
         "seriesname": "Unlocked",
         "originalpremieredate": "2019-06-24T23:00:00.000Z",
-        "pubdate": "2019-07-15T08:59:00.000Z",
-        "expdate": "2019-07-25T08:59:00.000Z",
+        "pubdate": "2019-07-25T09:00:00.000Z",
+        "expdate": "2019-08-01T08:59:09.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2171535_001_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -8521,8 +8521,8 @@
         "originalseriesname": "Gumball",
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1561417200000",
-        "pubdateasmilliseconds": "1563181140000",
-        "expdateasmilliseconds": "1564045140000",
+        "pubdateasmilliseconds": "1564045200000",
+        "expdateasmilliseconds": "1564649949000",
         "mediaid": "ed993a0dc99c4e07db395dd4bfb7ab404066f41d",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": true
