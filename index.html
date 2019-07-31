@@ -237,7 +237,7 @@
                         var expdate = new Date(parseInt(release.expdateasmilliseconds));
                         html_result += '⌛ ' + expdate.toLocaleString("en-US", date_display_config) + " at " + expdate.toLocaleString("en-US", time_display_config) + '<br>';
                         //html_result += 'Open in (US only): APP / WEB<br>';
-                        html_result += 'seriesid=<code>' + release.seriesid + '</code> titleid=<code>' + release.titleid + '</code> mediaid=<code>' + release.mediaid + '</code><br>';
+                        html_result += 'seriesid=<code>' + release.originalseriesid + '</code> titleid=<code>' + release.titleid + '</code> mediaid=<code>' + release.mediaid + '</code><br>';
                         var addeddate = new Date(resp.updated * 1000);
                         html_result += '<a href="https://github.com/SerCom-KC/cartoon-network-videos/blob/' + sha + '/diff.json"><i>Added on ' + addeddate.toLocaleString("en-US", date_display_config) + " at " + addeddate.toLocaleString("en-US", time_display_config) + '</i></a>';
                         html_result += '</div></div>';
