@@ -842,7 +842,7 @@
         "seriesname": "OK K.O.!",
         "originalpremieredate": "2017-09-04T22:10:00.000Z",
         "pubdate": "2019-08-01T09:00:00.000Z",
-        "expdate": "2019-08-14T08:59:00.000Z",
+        "expdate": "2019-08-08T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2091056_007_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -855,7 +855,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1504563000000",
         "pubdateasmilliseconds": "1564650000000",
-        "expdateasmilliseconds": "1565773140000",
+        "expdateasmilliseconds": "1565254740000",
         "mediaid": "7e97c9995929f8c3514dad09787c560512cda1d7",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
