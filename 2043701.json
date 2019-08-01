@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1012271800056358",
+  "airingid": "RADS1007251900009301",
   "seasonnumber": "6",
   "seasonitemnumber": "19",
   "seriesid": "810150",
@@ -20,8 +20,8 @@
   "seriestitleid": "810150",
   "seriesname": "Regular Show",
   "originalpremieredate": "2015-03-06T00:45:00.000Z",
-  "pubdate": "2019-01-01T10:00:00.000Z",
-  "expdate": "2019-02-01T09:59:00.000Z",
+  "pubdate": "2019-08-01T09:00:00.000Z",
+  "expdate": "2019-09-03T08:59:19.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2043701_010_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Regular Show",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1425602700000",
-  "pubdateasmilliseconds": "1546336800000",
-  "expdateasmilliseconds": "1549015140000",
+  "pubdateasmilliseconds": "1564650000000",
+  "expdateasmilliseconds": "1567501159000",
   "mediaid": "406f86ead2288b2d66f0d843136e6822c10deddd",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
