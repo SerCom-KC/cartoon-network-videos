@@ -2,7 +2,7 @@
   "airingid": "RADS1006191900000859",
   "seasonnumber": "1",
   "seasonitemnumber": "11",
-  "seriesid": "835928",
+  "seriesid": "10000000000",
   "id": "9ae312463508d6e9459274c770e9619b7e762f23",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-laziest-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "835928",
-  "seriesname": "Gumball",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2011-06-20T23:30:00.000Z",
   "pubdate": "2019-07-22T09:00:00.000Z",
   "expdate": "2019-08-01T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "839543",
   "titletype": "Element",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1564649940000",
   "mediaid": "9ae312463508d6e9459274c770e9619b7e762f23",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
