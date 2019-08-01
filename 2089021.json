@@ -2,7 +2,7 @@
   "airingid": "RADS1007181900007289",
   "seasonnumber": "5",
   "seasonitemnumber": "29",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "b8d208f5524bafb3167a398dc6d56c1afcd8d21e",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-weirdo-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2017-03-08T22:00:00.000Z",
   "pubdate": "2019-08-01T09:00:00.000Z",
   "expdate": "2019-08-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2089021",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1565254740000",
   "mediaid": "b8d208f5524bafb3167a398dc6d56c1afcd8d21e",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

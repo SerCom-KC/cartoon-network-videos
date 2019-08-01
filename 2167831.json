@@ -2,7 +2,7 @@
   "airingid": "RADS1007181900007291",
   "seasonnumber": "6",
   "seasonitemnumber": "30",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "6258c7bb0dc94ae34280d5ff079931acc8b453bb",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-buddy-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2018-11-10T01:00:00.000Z",
   "pubdate": "2019-08-01T09:00:00.000Z",
   "expdate": "2019-08-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2167831",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1565254740000",
   "mediaid": "6258c7bb0dc94ae34280d5ff079931acc8b453bb",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

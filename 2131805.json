@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1005301900096051",
+  "airingid": "RADS1007251900009346",
   "seasonnumber": "2",
   "seasonitemnumber": "6",
   "seriesid": "2055199",
@@ -20,8 +20,8 @@
   "seriestitleid": "2055199",
   "seriesname": "Magiswords",
   "originalpremieredate": "2018-05-07T10:15:00.000Z",
-  "pubdate": "2019-06-03T09:00:00.000Z",
-  "expdate": "2019-07-01T08:59:55.000Z",
+  "pubdate": "2019-08-01T09:00:00.000Z",
+  "expdate": "2019-09-03T08:59:25.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2131805_008_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Magiswords",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1525688100000",
-  "pubdateasmilliseconds": "1559552400000",
-  "expdateasmilliseconds": "1561971595000",
+  "pubdateasmilliseconds": "1564650000000",
+  "expdateasmilliseconds": "1567501165000",
   "mediaid": "367f5f9549038f7cd222e3ea965e95b796941582",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
