@@ -2,7 +2,7 @@
   "airingid": "RADS1007291900010065",
   "seasonnumber": "1",
   "seasonitemnumber": "17",
-  "seriesid": "2130773",
+  "seriesid": "10000000000",
   "id": "15fd5b97b50ef3b9fc703f38035dcd29e9b897b7",
   "collectionid": "",
   "seofriendlyurl": "/video/unikitty/lab-cat-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2130773",
-  "seriesname": "Unikitty",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-02-23T23:30:00.000Z",
   "pubdate": "2019-08-01T09:00:00.000Z",
   "expdate": "2019-08-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2155549",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2130773",
   "originalseriesname": "Unikitty",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1565254740000",
   "mediaid": "15fd5b97b50ef3b9fc703f38035dcd29e9b897b7",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

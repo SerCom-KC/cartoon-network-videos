@@ -2,7 +2,7 @@
   "airingid": "RADS1007291900009985",
   "seasonnumber": "1",
   "seasonitemnumber": "22",
-  "seriesid": "2117352",
+  "seriesid": "10000000000",
   "id": "5991bf5150df7e1a4b1e5b0bf30542139118654e",
   "collectionid": "",
   "seofriendlyurl": "/video/mega-man/swish-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2117352",
-  "seriesname": "Mega Man",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-01-06T11:30:00.000Z",
   "pubdate": "2019-08-01T09:00:00.000Z",
   "expdate": "2019-08-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2117374",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2117352",
   "originalseriesname": "Mega Man",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1565254740000",
   "mediaid": "5991bf5150df7e1a4b1e5b0bf30542139118654e",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

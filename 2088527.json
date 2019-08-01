@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1006201900001069",
+  "airingid": "RADS1007181900007462",
   "seasonnumber": "5",
   "seasonitemnumber": "17",
   "seriesid": "10000000000",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2017-06-26T20:30:00.000Z",
-  "pubdate": "2019-07-22T09:00:00.000Z",
-  "expdate": "2019-08-01T08:59:00.000Z",
+  "pubdate": "2019-08-01T09:00:00.000Z",
+  "expdate": "2019-08-08T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2088527_009_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1498509000000",
-  "pubdateasmilliseconds": "1563786000000",
-  "expdateasmilliseconds": "1564649940000",
+  "pubdateasmilliseconds": "1564650000000",
+  "expdateasmilliseconds": "1565254740000",
   "mediaid": "e19b808a786736e7c64f0e017677b84f6cb538d9",
   "isunlockedfullepisode": true,
   "ismultipropertycollection": true

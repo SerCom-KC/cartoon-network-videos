@@ -2,7 +2,7 @@
   "airingid": "RADS1007291900010032",
   "seasonnumber": "3",
   "seasonitemnumber": "1",
-  "seriesid": "2011404",
+  "seriesid": "10000000000",
   "id": "387db4c62974aaf0f043ea5cf032abe56512f83c",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/stevens-birthday-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2011404",
-  "seriesname": "Steven Universe",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2016-01-05T22:30:00.000Z",
   "pubdate": "2019-08-01T09:00:00.000Z",
   "expdate": "2019-08-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2061278",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1565254740000",
   "mediaid": "387db4c62974aaf0f043ea5cf032abe56512f83c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
