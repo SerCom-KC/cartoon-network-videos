@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003281900077936",
+  "airingid": "RADS1007251900009118",
   "seasonnumber": "1",
   "seasonitemnumber": "1",
   "seriesid": "757073",
@@ -20,8 +20,8 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2010-05-18T00:00:00.000Z",
-  "pubdate": "2019-04-01T09:00:00.000Z",
-  "expdate": "2019-05-01T08:59:00.000Z",
+  "pubdate": "2019-08-01T09:00:00.000Z",
+  "expdate": "2019-09-03T08:59:56.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/791188_009_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1274140800000",
-  "pubdateasmilliseconds": "1554109200000",
-  "expdateasmilliseconds": "1556701140000",
+  "pubdateasmilliseconds": "1564650000000",
+  "expdateasmilliseconds": "1567501196000",
   "mediaid": "66a5f211af2169459ed920257bcbc839a7c2398e",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false

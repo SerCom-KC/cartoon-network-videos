@@ -2,7 +2,7 @@
   "airingid": "RADS1007181900007265",
   "seasonnumber": "4",
   "seasonitemnumber": "10",
-  "seriesid": "10000000000",
+  "seriesid": "757073",
   "id": "aa07e81ccd610a16b4520fc007e9374985c95b88",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/beyond-this-earthly-realm-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2012-06-11T23:30:00.000Z",
   "pubdate": "2019-08-01T09:00:00.000Z",
   "expdate": "2019-08-08T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "891857",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1565254740000",
   "mediaid": "aa07e81ccd610a16b4520fc007e9374985c95b88",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
