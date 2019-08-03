@@ -4081,7 +4081,7 @@
         "seriesname": "DC Super Hero Girls",
         "originalpremieredate": "2019-03-31T20:00:00.000Z",
         "pubdate": "2019-08-01T08:59:00.000Z",
-        "expdate": "2020-03-30T03:59:59.000Z",
+        "expdate": "2019-08-08T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2177548_008_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -4094,7 +4094,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1554062400000",
         "pubdateasmilliseconds": "1564649940000",
-        "expdateasmilliseconds": "1585540799000",
+        "expdateasmilliseconds": "1565254800000",
         "mediaid": "f092c7532aed4fb0599b4e6695cd66a623a5e989",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
