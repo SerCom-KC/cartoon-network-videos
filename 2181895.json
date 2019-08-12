@@ -2,7 +2,7 @@
   "airingid": "RADS1005281900095081",
   "seasonnumber": "1",
   "seasonitemnumber": "2",
-  "seriesid": "10000000000",
+  "seriesid": "2181893",
   "id": "b6953fdea6d968f0859be53d4d1dd0a1c1b0761d",
   "collectionid": "",
   "seofriendlyurl": "/video/mao-mao/the-perfect-adventure-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2181893",
+  "seriesname": "Mao Mao",
   "originalpremieredate": "2019-07-01T22:28:00.000Z",
   "pubdate": "2019-06-03T09:00:00.000Z",
   "expdate": "2019-08-12T09:00:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2181895",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2181893",
   "originalseriesname": "Mao Mao",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1565600400000",
   "mediaid": "b6953fdea6d968f0859be53d4d1dd0a1c1b0761d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
