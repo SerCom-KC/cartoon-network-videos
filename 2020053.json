@@ -2,7 +2,7 @@
   "airingid": "RADS1007181900007275",
   "seasonnumber": "6",
   "seasonitemnumber": "24",
-  "seriesid": "10000000000",
+  "seriesid": "757073",
   "id": "c8deb6d56a52364ab6eb1d673344ddc302a81289",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/evergreen-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2015-01-16T00:00:00.000Z",
   "pubdate": "2019-08-15T09:00:00.000Z",
   "expdate": "2019-08-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2020053",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "757073",
   "originalseriesname": "Adventure Time",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1566464340000",
   "mediaid": "c8deb6d56a52364ab6eb1d673344ddc302a81289",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
