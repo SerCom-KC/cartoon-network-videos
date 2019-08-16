@@ -21,7 +21,7 @@
   "seriesname": "Infinity Train",
   "originalpremieredate": "2019-08-08T23:45:00.000Z",
   "pubdate": "2019-08-09T03:00:00.000Z",
-  "expdate": "2019-08-30T08:59:00.000Z",
+  "expdate": "2020-01-01T04:59:59.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2171412_002_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -34,7 +34,7 @@
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1565307900000",
   "pubdateasmilliseconds": "1565319600000",
-  "expdateasmilliseconds": "1567155540000",
+  "expdateasmilliseconds": "1577854799000",
   "mediaid": "fbd8f70ae448cf221fb832797cad35cfb4b78ecb",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
