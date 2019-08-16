@@ -2,7 +2,7 @@
   "airingid": "RADS1008011900010810",
   "seasonnumber": "1",
   "seasonitemnumber": "35",
-  "seriesid": "2131007",
+  "seriesid": "10000000000",
   "id": "7ac143a0058f29dc9f350f549830ff12450b3570",
   "collectionid": "",
   "seofriendlyurl": "/video/summer-camp-island/campers-above-the-bed-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2131007",
-  "seriesname": "Summer Camp Island",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-07-14T16:30:00.000Z",
   "pubdate": "2019-08-16T08:59:00.000Z",
   "expdate": "2019-08-30T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2167602",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2131007",
   "originalseriesname": "Summer Camp Island",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567155540000",
   "mediaid": "7ac143a0058f29dc9f350f549830ff12450b3570",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
