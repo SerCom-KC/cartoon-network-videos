@@ -2,7 +2,7 @@
   "airingid": "RADS1007291900010084",
   "seasonnumber": "1",
   "seasonitemnumber": "22",
-  "seriesid": "10000000000",
+  "seriesid": "2160701",
   "id": "04f2587c53a926bb50239a71a1b42edfada59d60",
   "collectionid": "",
   "seofriendlyurl": "/video/victor-and-valentino/know-it-all-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2160701",
+  "seriesname": "Victor and Valentino",
   "originalpremieredate": "2019-07-13T13:30:00.000Z",
   "pubdate": "2019-08-03T08:59:00.000Z",
   "expdate": "2019-08-17T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2193863",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2160701",
   "originalseriesname": "Victor and Valentino",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1566032340000",
   "mediaid": "04f2587c53a926bb50239a71a1b42edfada59d60",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
