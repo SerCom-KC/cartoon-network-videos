@@ -2,7 +2,7 @@
   "airingid": "RADS1007301900010553",
   "seasonnumber": "1",
   "seasonitemnumber": "7",
-  "seriesid": "10000000000",
+  "seriesid": "2177542",
   "id": "f092c7532aed4fb0599b4e6695cd66a623a5e989",
   "collectionid": "",
   "seofriendlyurl": "/video/dc-super-hero-girls/burritobucket-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2177542",
+  "seriesname": "DC Super Hero Girls",
   "originalpremieredate": "2019-03-31T20:00:00.000Z",
   "pubdate": "2019-08-08T09:00:00.000Z",
   "expdate": "2019-08-21T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2177548",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2177542",
   "originalseriesname": "DC Super Hero Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1566377940000",
   "mediaid": "f092c7532aed4fb0599b4e6695cd66a623a5e989",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
