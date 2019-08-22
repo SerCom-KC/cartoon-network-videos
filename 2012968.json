@@ -2,7 +2,7 @@
   "airingid": "RADS1007181900007356",
   "seasonnumber": "1",
   "seasonitemnumber": "16",
-  "seriesid": "10000000000",
+  "seriesid": "2012957",
   "id": "72ffc131a5104c3d4c124f49de2e86b429fb23b1",
   "collectionid": "",
   "seofriendlyurl": "/video/clarence/slumber-party-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2012957",
+  "seriesname": "Clarence",
   "originalpremieredate": "2014-08-07T22:45:00.000Z",
   "pubdate": "2019-08-15T09:00:00.000Z",
   "expdate": "2019-08-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2012968",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2012957",
   "originalseriesname": "Clarence",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1566464340000",
   "mediaid": "72ffc131a5104c3d4c124f49de2e86b429fb23b1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

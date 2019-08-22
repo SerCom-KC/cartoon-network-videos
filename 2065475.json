@@ -2,7 +2,7 @@
   "airingid": "RADS1007181900007469",
   "seasonnumber": "4",
   "seasonitemnumber": "11",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "19cbabb875e7480ad54eeb60b3454c09bc08aa4a",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/mr-gus-moves-out-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2016-12-05T21:30:00.000Z",
   "pubdate": "2019-08-15T09:00:00.000Z",
   "expdate": "2019-08-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065475",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1566464340000",
   "mediaid": "19cbabb875e7480ad54eeb60b3454c09bc08aa4a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

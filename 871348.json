@@ -2,7 +2,7 @@
   "airingid": "RADS1007181900007454",
   "seasonnumber": "3",
   "seasonitemnumber": "29",
-  "seriesid": "10000000000",
+  "seriesid": "810150",
   "id": "4c7adcd78b386aa4af0d90dd749c773ffa94076d",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/access-denied-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "810150",
+  "seriesname": "Regular Show",
   "originalpremieredate": "2012-06-05T00:00:00.000Z",
   "pubdate": "2019-08-15T09:00:00.000Z",
   "expdate": "2019-08-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "871348",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1566464340000",
   "mediaid": "4c7adcd78b386aa4af0d90dd749c773ffa94076d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

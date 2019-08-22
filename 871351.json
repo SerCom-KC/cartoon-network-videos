@@ -2,7 +2,7 @@
   "airingid": "RADS1007181900007453",
   "seasonnumber": "3",
   "seasonitemnumber": "34",
-  "seriesid": "10000000000",
+  "seriesid": "810150",
   "id": "d27dde48983f1b993b2036108472f688132f7ce5",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/diary-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "810150",
+  "seriesname": "Regular Show",
   "originalpremieredate": "2012-07-24T00:00:00.000Z",
   "pubdate": "2019-08-15T09:00:00.000Z",
   "expdate": "2019-08-22T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "871351",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "810150",
   "originalseriesname": "Regular Show",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1566464340000",
   "mediaid": "d27dde48983f1b993b2036108472f688132f7ce5",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
