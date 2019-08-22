@@ -2,7 +2,7 @@
   "airingid": "RADS1007301900010509",
   "seasonnumber": "1",
   "seasonitemnumber": "25",
-  "seriesid": "2132940",
+  "seriesid": "10000000000",
   "id": "eb55193e92ad81d8bebe0cd093e7236909e28212",
   "collectionid": "",
   "seofriendlyurl": "/video/craig-of-the-creek/big-pinchy-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2132940",
-  "seriesname": "Craig of the Creek",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-08-31T21:00:00.000Z",
   "pubdate": "2019-08-22T09:00:00.000Z",
   "expdate": "2019-08-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2162791",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2132940",
   "originalseriesname": "Craig of the Creek",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567069140000",
   "mediaid": "eb55193e92ad81d8bebe0cd093e7236909e28212",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

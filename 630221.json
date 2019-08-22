@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1006191900000893",
+  "airingid": "RADS1007181900007347",
   "seasonnumber": "2",
   "seasonitemnumber": "7",
   "seriesid": "10000000000",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2006-06-21T23:00:00.000Z",
-  "pubdate": "2019-07-15T09:00:00.000Z",
-  "expdate": "2019-07-22T08:59:00.000Z",
+  "pubdate": "2019-08-22T09:00:00.000Z",
+  "expdate": "2019-08-29T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/630221_002_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Ben 10",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1150930800000",
-  "pubdateasmilliseconds": "1563181200000",
-  "expdateasmilliseconds": "1563785940000",
+  "pubdateasmilliseconds": "1566464400000",
+  "expdateasmilliseconds": "1567069140000",
   "mediaid": "e6fabaf4af97d80378fd92e56bd8f80b5cc75b30",
   "isunlockedfullepisode": true,
   "ismultipropertycollection": true

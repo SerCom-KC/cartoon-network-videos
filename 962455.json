@@ -2,7 +2,7 @@
   "airingid": "RADS1007181900007436",
   "seasonnumber": "4",
   "seasonitemnumber": "4",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "bd23fa312b0cb4fafde06bbd29f69907b74e20f9",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/wallpaper-man-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-08-22T09:00:00.000Z",
   "pubdate": "2019-08-22T09:00:00.000Z",
   "expdate": "2019-08-29T08:59:00.000Z",
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567069140000",
   "mediaid": "bd23fa312b0cb4fafde06bbd29f69907b74e20f9",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
