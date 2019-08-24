@@ -2,7 +2,7 @@
   "airingid": "RADS1007301900010461",
   "seasonnumber": "1",
   "seasonitemnumber": "5",
-  "seriesid": "10000000000",
+  "seriesid": "2085313",
   "id": "d40e294ce488baa4252ace74c028a91e2d88351f",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/the-clocktopus-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2085313",
+  "seriesname": "Ben 10",
   "originalpremieredate": "2017-04-11T21:00:00.000Z",
   "pubdate": "2019-08-17T09:00:00.000Z",
   "expdate": "2019-08-24T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2085357",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2085313",
   "originalseriesname": "Ben 10",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1566637140000",
   "mediaid": "d40e294ce488baa4252ace74c028a91e2d88351f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1007261900009741",
   "seasonnumber": "2",
   "seasonitemnumber": "11",
-  "seriesid": "10000000000",
+  "seriesid": "2132940",
   "id": "df450b89f03e9061c8ca2dcd19549d9dbbfb6582",
   "collectionid": "",
   "seofriendlyurl": "/video/craig-of-the-creek/council-of-the-creek-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2132940",
+  "seriesname": "Craig of the Creek",
   "originalpremieredate": "2019-07-20T13:00:00.000Z",
   "pubdate": "2019-08-10T08:59:00.000Z",
   "expdate": "2019-08-24T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2186681",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2132940",
   "originalseriesname": "Craig of the Creek",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1566637140000",
   "mediaid": "df450b89f03e9061c8ca2dcd19549d9dbbfb6582",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1007301900010459",
   "seasonnumber": "1",
   "seasonitemnumber": "4",
-  "seriesid": "10000000000",
+  "seriesid": "2085313",
   "id": "654e59fd3d39bc4a04ed4c739a35b2d77e38564a",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/riding-the-storm-out-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2085313",
+  "seriesname": "Ben 10",
   "originalpremieredate": "2017-04-10T21:30:00.000Z",
   "pubdate": "2019-08-17T09:00:00.000Z",
   "expdate": "2019-08-24T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2086227",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2085313",
   "originalseriesname": "Ben 10",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1566637140000",
   "mediaid": "654e59fd3d39bc4a04ed4c739a35b2d77e38564a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
