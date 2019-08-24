@@ -2,7 +2,7 @@
   "airingid": "RADS1007301900010464",
   "seasonnumber": "1",
   "seasonitemnumber": "9",
-  "seriesid": "2085313",
+  "seriesid": "10000000000",
   "id": "39811ba2c029da0ddaf613d3dcc040919d33768e",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/brief-career-of-lucky-girl-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2085313",
-  "seriesname": "Ben 10",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2017-04-18T21:00:00.000Z",
   "pubdate": "2019-08-24T09:00:00.000Z",
   "expdate": "2019-09-03T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2086511",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2085313",
   "originalseriesname": "Ben 10",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567501140000",
   "mediaid": "39811ba2c029da0ddaf613d3dcc040919d33768e",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
