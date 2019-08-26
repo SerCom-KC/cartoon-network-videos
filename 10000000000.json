@@ -41,7 +41,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011538",
+        "airingid": "RADS1008021900011545",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "10000000000",
@@ -82,7 +82,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011545",
+        "airingid": "RADS1008021900011538",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "10000000000",
@@ -2378,7 +2378,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011576",
+        "airingid": "RADS1008021900011535",
         "seasonnumber": "5",
         "seasonitemnumber": "14",
         "seriesid": "10000000000",
@@ -2419,7 +2419,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011535",
+        "airingid": "RADS1008021900011576",
         "seasonnumber": "5",
         "seasonitemnumber": "14",
         "seriesid": "10000000000",
@@ -4223,7 +4223,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011532",
+        "airingid": "RADS1008021900011549",
         "seasonnumber": "5",
         "seasonitemnumber": "20",
         "seriesid": "10000000000",
@@ -4264,7 +4264,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011549",
+        "airingid": "RADS1008021900011532",
         "seasonnumber": "5",
         "seasonitemnumber": "20",
         "seriesid": "10000000000",
@@ -5863,7 +5863,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011554",
+        "airingid": "RADS1008021900011540",
         "seasonnumber": "5",
         "seasonitemnumber": "9",
         "seriesid": "10000000000",
@@ -5904,7 +5904,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011540",
+        "airingid": "RADS1008021900011554",
         "seasonnumber": "5",
         "seasonitemnumber": "9",
         "seriesid": "10000000000",
@@ -9964,15 +9964,15 @@
     },
     {
         "airingid": "RADS1007181900007429",
-        "seasonnumber": null,
+        "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
         "id": "c22655f750e83ac9ea094a2bb2017f893392e2d0",
         "collectionid": "",
         "seofriendlyurl": "/video/powerpuff-girls/him-diddle-riddle-episode.html",
-        "seasonepisodenumber": null,
+        "seasonepisodenumber": "",
         "title": "Him Diddle Riddle",
-        "episodenumber": null,
+        "episodenumber": "",
         "type": "fullepisode",
         "active": true,
         "description": "The Powerpuff Girls must solve a series of Him's riddles to keep the Professor from having to pay.",
