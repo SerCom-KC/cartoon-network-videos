@@ -2,7 +2,7 @@
   "airingid": "RADS1008021900011336",
   "seasonnumber": "3",
   "seasonitemnumber": "23",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "bf55481bbf6afd7f07f493cf7e505e051f3bfcc3",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/steven-vs-amethyst-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2016-08-03T23:00:00.000Z",
   "pubdate": "2019-08-15T09:00:00.000Z",
   "expdate": "2019-08-26T08:59:01.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065547",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1566809941000",
   "mediaid": "bf55481bbf6afd7f07f493cf7e505e051f3bfcc3",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1008021900011335",
   "seasonnumber": "3",
   "seasonitemnumber": "25",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "a24a533eda541fb2c144f798e8d7f44012a41342",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/beta-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2016-08-08T23:00:00.000Z",
   "pubdate": "2019-08-15T09:00:00.000Z",
   "expdate": "2019-08-26T08:59:01.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065550",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1566809941000",
   "mediaid": "a24a533eda541fb2c144f798e8d7f44012a41342",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

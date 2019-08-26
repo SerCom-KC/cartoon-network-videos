@@ -2,7 +2,7 @@
   "airingid": "RADS1008021900011339",
   "seasonnumber": "3",
   "seasonitemnumber": "27",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "5b946b8f52c88e0a398c20183be58ca53895d57d",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/back-to-the-moon-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2016-08-09T23:00:00.000Z",
   "pubdate": "2019-08-15T09:00:00.000Z",
   "expdate": "2019-08-26T08:59:01.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2065552",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1566809941000",
   "mediaid": "5b946b8f52c88e0a398c20183be58ca53895d57d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
