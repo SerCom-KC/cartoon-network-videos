@@ -3,23 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 26, 2019 at 07:00:12 EDT_
+_Last Update: August 26, 2019 at 07:30:13 EDT_
 ## Video added
 No videos were added.
 ## Video removed
-### 2020134
-**Steven Universe S01E29 - Secret Team**  
-TV-PG 🔒 11:26  
-⌛ September 2, 2019 at 17:59:00 EDT  
-[Open in app](https://tinyurl.com/y9yrgqsg) or on the web: https://www.cartoonnetwork.com/video/steven-universe/secret-team-episode.html  
-seriesid=`2011404` titleid=`2020134` mediaid=`1e86bdc72f84a6645c8ae977ea5a8dfa0d69693e`  
-_Steven, Amethyst and Pearl accidentally pop a bubbled gem and form Secret Team to secretly retrieve the missing shards._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2020134_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020134_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020134_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020134_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020134_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020134_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020134_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020134_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020134_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020134_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020134_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020134_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020134_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020134_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020134_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020134_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020134_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020134_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020134_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020134_010_640x360.jpg" height="144px" /></a>
-### 2020133
-**Steven Universe S01E31 - Keep Beach City Weird!**  
-TV-PG 🔒 11:26  
-⌛ September 2, 2019 at 17:59:00 EDT  
-[Open in app](https://tinyurl.com/yavs4xoq) or on the web: https://www.cartoonnetwork.com/video/steven-universe/keep-beach-city-weird-episode.html  
-seriesid=`2011404` titleid=`2020133` mediaid=`f88c75b2ac9aa0aeea13dde0b52183398e244d28`  
-_Steven gets caught up in Ronaldo's paranormal theories about the strange occurrences in Beach City._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2020133_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020133_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020133_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020133_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020133_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020133_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020133_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020133_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020133_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020133_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020133_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020133_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020133_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020133_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020133_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020133_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020133_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020133_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2020133_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2020133_010_640x360.jpg" height="144px" /></a>
+No videos were removed.
