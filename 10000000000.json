@@ -41,7 +41,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011545",
+        "airingid": "RADS1008021900011538",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "10000000000",
@@ -82,7 +82,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011538",
+        "airingid": "RADS1008021900011545",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "10000000000",
@@ -902,7 +902,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011555",
+        "airingid": "RADS1008021900011536",
         "seasonnumber": "5",
         "seasonitemnumber": "6",
         "seriesid": "10000000000",
@@ -943,7 +943,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011536",
+        "airingid": "RADS1008021900011555",
         "seasonnumber": "5",
         "seasonitemnumber": "6",
         "seriesid": "10000000000",
@@ -2625,7 +2625,7 @@
     },
     {
         "airingid": "RADS1008051900011912",
-        "seasonnumber": "0",
+        "seasonnumber": "2",
         "seasonitemnumber": "1",
         "seriesid": "10000000000",
         "id": "2d873f7ad2ab4b7d6ccff36992d51ea05434cff9",
@@ -2636,15 +2636,15 @@
         "episodenumber": "1",
         "type": "fullepisode",
         "active": true,
-        "description": "",
+        "description": "The Forbidden Isle: The AO travel to a remote island in search of a Core Cell, but instead they find the Bakugan known as Kelion, which soon bonds with Dan./New World Orders: The AO discover a small group of kids and Bakugan being used as laborers against their will, but freeing them is only half the problem.",
         "duration": 1351,
         "freewheelid": "cn-2203693",
         "isclip": false,
         "typesort": "1",
-        "tvratingcode": "TV-PG",
+        "tvratingcode": "TV-Y7-FV",
         "seriestitleid": "10000000000",
         "seriesname": "Unlocked",
-        "originalpremieredate": "2019-08-25T09:00:00.000Z",
+        "originalpremieredate": "2019-08-04T11:00:00.000Z",
         "pubdate": "2019-08-25T09:00:00.000Z",
         "expdate": "2019-09-08T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2203693_008_640x360.jpg",
@@ -2653,11 +2653,11 @@
         "tags": "unauth",
         "titleid": "2203693",
         "titletype": "Episode",
-        "bannertext": "LATEST EPISODE",
+        "bannertext": "",
         "originalseriesid": "2170837",
         "originalseriesname": "Bakugan: Battle Planet",
         "hasparent": false,
-        "originalpremieredateasmilliseconds": "1566723600000",
+        "originalpremieredateasmilliseconds": "1564916400000",
         "pubdateasmilliseconds": "1566723600000",
         "expdateasmilliseconds": "1567933140000",
         "mediaid": "2d873f7ad2ab4b7d6ccff36992d51ea05434cff9",
@@ -5863,7 +5863,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011540",
+        "airingid": "RADS1008021900011554",
         "seasonnumber": "5",
         "seasonitemnumber": "9",
         "seriesid": "10000000000",
@@ -5904,7 +5904,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011554",
+        "airingid": "RADS1008021900011540",
         "seasonnumber": "5",
         "seasonitemnumber": "9",
         "seriesid": "10000000000",
@@ -6478,7 +6478,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011537",
+        "airingid": "RADS1008021900011557",
         "seasonnumber": "5",
         "seasonitemnumber": "21",
         "seriesid": "10000000000",
@@ -6519,7 +6519,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011557",
+        "airingid": "RADS1008021900011537",
         "seasonnumber": "5",
         "seasonitemnumber": "21",
         "seriesid": "10000000000",
