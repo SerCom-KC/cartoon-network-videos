@@ -861,7 +861,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011536",
+        "airingid": "RADS1008021900011555",
         "seasonnumber": "5",
         "seasonitemnumber": "6",
         "seriesid": "10000000000",
@@ -902,7 +902,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011555",
+        "airingid": "RADS1008021900011536",
         "seasonnumber": "5",
         "seasonitemnumber": "6",
         "seriesid": "10000000000",
@@ -1518,15 +1518,15 @@
     },
     {
         "airingid": "RADS1012181800053399",
-        "seasonnumber": "0",
+        "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
         "id": "1acfe5e3d912c87a54b195d3040e4a263084fc26",
         "collectionid": "",
         "seofriendlyurl": "/video/teen-titans-go/top-of-the-titans-best-love-songs-episode.html",
-        "seasonepisodenumber": "0",
+        "seasonepisodenumber": "",
         "title": "Top of the Titans: Best Love Songs",
-        "episodenumber": "0",
+        "episodenumber": "",
         "type": "fullepisode",
         "active": true,
         "description": "The Titans follow their heart with songs devoted to their greatest relationships: Beast Boy & Raven, Cyborg & Jinx and the Titans & Food.",
@@ -1886,7 +1886,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011550",
+        "airingid": "RADS1008021900011531",
         "seasonnumber": "5",
         "seasonitemnumber": "5",
         "seriesid": "10000000000",
@@ -1927,7 +1927,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011531",
+        "airingid": "RADS1008021900011550",
         "seasonnumber": "5",
         "seasonitemnumber": "5",
         "seriesid": "10000000000",
@@ -2051,15 +2051,15 @@
     },
     {
         "airingid": "RADS1012181800053400",
-        "seasonnumber": "0",
+        "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
         "id": "26aa559211d856d0aaa54bd0e8a6ad95aa0b24f8",
         "collectionid": "",
         "seofriendlyurl": "/video/teen-titans-go/top-of-the-titans-raddest-songs-episode.html",
-        "seasonepisodenumber": "0",
+        "seasonepisodenumber": "",
         "title": "Top of the Titans:  Raddest Songs",
-        "episodenumber": "0",
+        "episodenumber": "",
         "type": "fullepisode",
         "active": true,
         "description": "From \"Booty Scooty\" to \"Sour Grapes\" to \"The Night Begins to Shine,\" Birdarang is here to count down the raddest music from Teen Titans Go!",
@@ -2830,15 +2830,15 @@
     },
     {
         "airingid": "RADS1012181800053401",
-        "seasonnumber": "0",
+        "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
         "id": "31f869aad9eb5148437abb2134920cd506015b9c",
         "collectionid": "",
         "seofriendlyurl": "/video/teen-titans-go/top-of-the-titans-beast-boy--cyborg-songs-episode.html",
-        "seasonepisodenumber": "0",
+        "seasonepisodenumber": "",
         "title": "Top of the Titans: Beast Boy & Cyborg Songs",
-        "episodenumber": "0",
+        "episodenumber": "",
         "type": "fullepisode",
         "active": true,
         "description": "Birdarang counts down the best musical moments from the raddest bros you know, Beast Boy and Cyborg. Waffles!",
@@ -3814,15 +3814,15 @@
     },
     {
         "airingid": "RADS1012181800053402",
-        "seasonnumber": "0",
+        "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
         "id": "439ea406e2a91a556e6121236a25bce558dd9122",
         "collectionid": "",
         "seofriendlyurl": "/video/teen-titans-go/top-of-the-titans-dance-party-episode.html",
-        "seasonepisodenumber": "0",
+        "seasonepisodenumber": "",
         "title": "Top of the Titans: Dance Party!",
-        "episodenumber": "0",
+        "episodenumber": "",
         "type": "fullepisode",
         "active": true,
         "description": "Come correct because it's a Titans Dance Battle! Birdarang reviews the greatest dance songs in Teen Titans Go! history.",
@@ -4141,7 +4141,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011549",
+        "airingid": "RADS1008021900011532",
         "seasonnumber": "5",
         "seasonitemnumber": "20",
         "seriesid": "10000000000",
@@ -4182,7 +4182,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011532",
+        "airingid": "RADS1008021900011549",
         "seasonnumber": "5",
         "seasonitemnumber": "20",
         "seriesid": "10000000000",
@@ -11071,15 +11071,15 @@
     },
     {
         "airingid": "RADS1012181800053403",
-        "seasonnumber": "0",
+        "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
         "id": "daf01eb50375096b83d49455538af38f9444bb21",
         "collectionid": "",
         "seofriendlyurl": "/video/teen-titans-go/top-of-the-titans-best-rivals-episode.html",
-        "seasonepisodenumber": "0",
+        "seasonepisodenumber": "",
         "title": "Top of the Titans: Best Rivals",
-        "episodenumber": "0",
+        "episodenumber": "",
         "type": "fullepisode",
         "active": true,
         "description": " From Trigon to Terra to Darkseid, Robin counts down the worst of the worst: the greatest villains to ever challenge the Teen Titans!",
@@ -12218,7 +12218,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011534",
+        "airingid": "RADS1008021900011548",
         "seasonnumber": "5",
         "seasonitemnumber": "3",
         "seriesid": "10000000000",
@@ -12259,7 +12259,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011548",
+        "airingid": "RADS1008021900011534",
         "seasonnumber": "5",
         "seasonitemnumber": "3",
         "seriesid": "10000000000",
