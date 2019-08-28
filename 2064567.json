@@ -42,7 +42,7 @@
     },
     {
         "airingid": "RADS1007181900007427",
-        "seasonnumber": null,
+        "seasonnumber": "",
         "seasonitemnumber": "6",
         "seriesid": "2064567",
         "id": "0ae410d9b76eb02b0a382dbfd7530b2a0c190775",
@@ -165,7 +165,7 @@
     },
     {
         "airingid": "RADS1007251900009356",
-        "seasonnumber": null,
+        "seasonnumber": "",
         "seasonitemnumber": "2",
         "seriesid": "2064567",
         "id": "1d7536be8202ac2835ec7072aadf4fc8052192f5",
@@ -206,7 +206,7 @@
     },
     {
         "airingid": "RADS1007251900009364",
-        "seasonnumber": null,
+        "seasonnumber": "",
         "seasonitemnumber": "12",
         "seriesid": "2064567",
         "id": "1f88be99aecd27067c2bc66164e52517f6c0328b",
@@ -247,7 +247,7 @@
     },
     {
         "airingid": "RADS1007181900007426",
-        "seasonnumber": null,
+        "seasonnumber": "",
         "seasonitemnumber": "10",
         "seriesid": "2064567",
         "id": "27d8043de1389291d36ecd858b86bc1c7060e56b",
@@ -821,7 +821,7 @@
     },
     {
         "airingid": "RADS1007181900007428",
-        "seasonnumber": null,
+        "seasonnumber": "",
         "seasonitemnumber": "7",
         "seriesid": "2064567",
         "id": "84602980dc1a64884eff1dfd49a43f7ebcacd26d",
@@ -1026,7 +1026,7 @@
     },
     {
         "airingid": "RADS1007181900007430",
-        "seasonnumber": null,
+        "seasonnumber": "",
         "seasonitemnumber": "6",
         "seriesid": "2064567",
         "id": "a0f6a0899bd8034e82f053cc4b2ca9dff9f5774e",
@@ -1108,7 +1108,7 @@
     },
     {
         "airingid": "RADS1007251900009359",
-        "seasonnumber": null,
+        "seasonnumber": "",
         "seasonitemnumber": "1",
         "seriesid": "2064567",
         "id": "aa8a2c75968921a89ddb3f9eee0db8d1dc062718",
@@ -1477,7 +1477,7 @@
     },
     {
         "airingid": "RADS1007251900009361",
-        "seasonnumber": null,
+        "seasonnumber": "",
         "seasonitemnumber": "6",
         "seriesid": "2064567",
         "id": "ca2be9173fc1865f809af36f0695c4d2c62b70c2",
