@@ -452,7 +452,7 @@
     },
     {
         "airingid": "RADS1007251900009367",
-        "seasonnumber": null,
+        "seasonnumber": "",
         "seasonitemnumber": "3",
         "seriesid": "2064567",
         "id": "36b082408dce1b8eb052d11796f132aa82002375",
@@ -493,7 +493,7 @@
     },
     {
         "airingid": "RADS1007251900009371",
-        "seasonnumber": null,
+        "seasonnumber": "",
         "seasonitemnumber": "1",
         "seriesid": "2064567",
         "id": "3da51e64a4aabbf67b0bcc5eead7fb35b66aa68c",
@@ -534,7 +534,7 @@
     },
     {
         "airingid": "RADS1007251900009372",
-        "seasonnumber": null,
+        "seasonnumber": "",
         "seasonitemnumber": "2",
         "seriesid": "2064567",
         "id": "4e2dbe715a9edd4fe31ec42fab2ee82d9c702532",
@@ -698,7 +698,7 @@
     },
     {
         "airingid": "RADS1007251900009374",
-        "seasonnumber": null,
+        "seasonnumber": "",
         "seasonitemnumber": "1",
         "seriesid": "2064567",
         "id": "6ddcd28f6f7628074a0625b0e1ec6502550d8143",
@@ -1354,7 +1354,7 @@
     },
     {
         "airingid": "RADS1007251900009380",
-        "seasonnumber": null,
+        "seasonnumber": "",
         "seasonitemnumber": "4",
         "seriesid": "2064567",
         "id": "c02ec05f17a0b9ccc724b1d7e94bc49094d8922b",
@@ -1846,7 +1846,7 @@
     },
     {
         "airingid": "RADS1007251900009378",
-        "seasonnumber": null,
+        "seasonnumber": "",
         "seasonitemnumber": "12",
         "seriesid": "2064567",
         "id": "f1706b5cda8552a44914b933b55aa426d35d00ec",
