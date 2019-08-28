@@ -1886,7 +1886,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011550",
+        "airingid": "RADS1008021900011531",
         "seasonnumber": "5",
         "seasonitemnumber": "5",
         "seriesid": "10000000000",
@@ -1927,7 +1927,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011531",
+        "airingid": "RADS1008021900011550",
         "seasonnumber": "5",
         "seasonitemnumber": "5",
         "seriesid": "10000000000",
@@ -5781,7 +5781,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011540",
+        "airingid": "RADS1008021900011554",
         "seasonnumber": "5",
         "seasonitemnumber": "9",
         "seriesid": "10000000000",
@@ -5822,7 +5822,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011554",
+        "airingid": "RADS1008021900011540",
         "seasonnumber": "5",
         "seasonitemnumber": "9",
         "seriesid": "10000000000",
@@ -6396,7 +6396,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011557",
+        "airingid": "RADS1008021900011537",
         "seasonnumber": "5",
         "seasonitemnumber": "21",
         "seriesid": "10000000000",
@@ -6437,7 +6437,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011537",
+        "airingid": "RADS1008021900011557",
         "seasonnumber": "5",
         "seasonitemnumber": "21",
         "seriesid": "10000000000",
@@ -8651,7 +8651,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011553",
+        "airingid": "RADS1008021900011533",
         "seasonnumber": "5",
         "seasonitemnumber": "19",
         "seriesid": "10000000000",
@@ -8692,7 +8692,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011533",
+        "airingid": "RADS1008021900011553",
         "seasonnumber": "5",
         "seasonitemnumber": "19",
         "seriesid": "10000000000",
@@ -9143,7 +9143,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011539",
+        "airingid": "RADS1008021900011546",
         "seasonnumber": "5",
         "seasonitemnumber": "13",
         "seriesid": "10000000000",
@@ -9184,7 +9184,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011546",
+        "airingid": "RADS1008021900011539",
         "seasonnumber": "5",
         "seasonitemnumber": "13",
         "seriesid": "10000000000",
@@ -9836,6 +9836,47 @@
         "pubdateasmilliseconds": "1566464400000",
         "expdateasmilliseconds": "1567069140000",
         "mediaid": "bd23fa312b0cb4fafde06bbd29f69907b74e20f9",
+        "isunlockedfullepisode": true,
+        "ismultipropertycollection": true
+    },
+    {
+        "airingid": "RADS1008021900011358",
+        "seasonnumber": "5",
+        "seasonitemnumber": "16",
+        "seriesid": "10000000000",
+        "id": "c15ae28f081c5d7211316a13652dd812c0eb4d3a",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe/letters-to-lars-episode.html",
+        "seasonepisodenumber": "16",
+        "title": "Letters to Lars",
+        "episodenumber": "16",
+        "type": "fullepisode",
+        "active": true,
+        "description": "Steven writes about the latest news of Beach City.",
+        "duration": 686,
+        "freewheelid": "cn-2117706",
+        "isclip": false,
+        "typesort": "1",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "10000000000",
+        "seriesname": "Unlocked",
+        "originalpremieredate": "2018-04-30T23:30:00.000Z",
+        "pubdate": "2019-08-26T08:59:00.000Z",
+        "expdate": "2019-09-02T22:59:00.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2117706_006_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "unauth",
+        "titleid": "2117706",
+        "titletype": "Episode",
+        "bannertext": "",
+        "originalseriesid": "2011404",
+        "originalseriesname": "Steven Universe",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1525131000000",
+        "pubdateasmilliseconds": "1566809940000",
+        "expdateasmilliseconds": "1567465140000",
+        "mediaid": "c15ae28f081c5d7211316a13652dd812c0eb4d3a",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": true
     },
@@ -12218,7 +12259,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011534",
+        "airingid": "RADS1008021900011548",
         "seasonnumber": "5",
         "seasonitemnumber": "3",
         "seriesid": "10000000000",
@@ -12259,7 +12300,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011548",
+        "airingid": "RADS1008021900011534",
         "seasonnumber": "5",
         "seasonitemnumber": "3",
         "seriesid": "10000000000",
