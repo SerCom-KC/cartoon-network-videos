@@ -1,6 +1,6 @@
 [
     {
-        "airingid": "RADS1008021900011545",
+        "airingid": "RADS1008021900011538",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "10000000000",
@@ -41,7 +41,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011538",
+        "airingid": "RADS1008021900011545",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "10000000000",
@@ -697,7 +697,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011536",
+        "airingid": "RADS1008021900011555",
         "seasonnumber": "5",
         "seasonitemnumber": "6",
         "seriesid": "10000000000",
@@ -738,7 +738,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011555",
+        "airingid": "RADS1008021900011536",
         "seasonnumber": "5",
         "seasonitemnumber": "6",
         "seriesid": "10000000000",
@@ -1845,7 +1845,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011550",
+        "airingid": "RADS1008021900011531",
         "seasonnumber": "5",
         "seasonitemnumber": "5",
         "seriesid": "10000000000",
@@ -1886,7 +1886,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011531",
+        "airingid": "RADS1008021900011550",
         "seasonnumber": "5",
         "seasonitemnumber": "5",
         "seriesid": "10000000000",
@@ -2255,7 +2255,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011576",
+        "airingid": "RADS1008021900011535",
         "seasonnumber": "5",
         "seasonitemnumber": "14",
         "seriesid": "10000000000",
@@ -2296,7 +2296,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011535",
+        "airingid": "RADS1008021900011576",
         "seasonnumber": "5",
         "seasonitemnumber": "14",
         "seriesid": "10000000000",
@@ -3362,47 +3362,6 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1010261800041238",
-        "seasonnumber": "2",
-        "seasonitemnumber": "",
-        "seriesid": "10000000000",
-        "id": "3e7390defd096806d76dad3ff280f07abb379fc6",
-        "collectionid": "",
-        "seofriendlyurl": "/video/ben-10/innervasion-part-4-mind-over-alien-matter-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Innervasion Part 4: Mind over Alien Matter",
-        "episodenumber": "",
-        "type": "fullepisode",
-        "active": true,
-        "description": "While inside the Omnitrix, Ben and Vilgax must work together if they are to close the gateway, but once the Fulmini leader, the High Override, appears, even that might not be enough. Luckily, help arrives in the form of a being calling itself Glitch!",
-        "duration": 676,
-        "freewheelid": "cn-2113875",
-        "isclip": false,
-        "typesort": "1",
-        "tvratingcode": "TV-Y7-FV",
-        "seriestitleid": "10000000000",
-        "seriesname": "Unlocked",
-        "originalpremieredate": "2018-10-27T02:45:00.000Z",
-        "pubdate": "2018-10-27T02:45:00.000Z",
-        "expdate": "2020-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2113875_003_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "unauth",
-        "titleid": "2113875",
-        "titletype": "Episode",
-        "bannertext": "",
-        "originalseriesid": "2085313",
-        "originalseriesname": "Ben 10",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1540608300000",
-        "pubdateasmilliseconds": "1540608300000",
-        "expdateasmilliseconds": "1577854799000",
-        "mediaid": "3e7390defd096806d76dad3ff280f07abb379fc6",
-        "isunlockedfullepisode": true,
-        "ismultipropertycollection": true
-    },
-    {
         "airingid": "RADS1007311900010638",
         "seasonnumber": "1",
         "seasonitemnumber": "11",
@@ -3936,7 +3895,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011532",
+        "airingid": "RADS1008021900011549",
         "seasonnumber": "5",
         "seasonitemnumber": "20",
         "seriesid": "10000000000",
@@ -3977,7 +3936,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011549",
+        "airingid": "RADS1008021900011532",
         "seasonnumber": "5",
         "seasonitemnumber": "20",
         "seriesid": "10000000000",
@@ -5207,7 +5166,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011540",
+        "airingid": "RADS1008021900011554",
         "seasonnumber": "5",
         "seasonitemnumber": "9",
         "seriesid": "10000000000",
@@ -5248,7 +5207,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011554",
+        "airingid": "RADS1008021900011540",
         "seasonnumber": "5",
         "seasonitemnumber": "9",
         "seriesid": "10000000000",
@@ -9471,47 +9430,6 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1010261800041240",
-        "seasonnumber": "2",
-        "seasonitemnumber": "",
-        "seriesid": "10000000000",
-        "id": "b50870152b595318f0074f7332f01dd0c7b0d555",
-        "collectionid": "",
-        "seofriendlyurl": "/video/ben-10/innervasion-part-2-call-the-dream-police-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Innervasion Part 2: Call the Dream Police",
-        "episodenumber": "",
-        "type": "fullepisode",
-        "active": true,
-        "description": "After defeating the Warbot and discovering Vilgax inside, Ben's \"secret voices\" only worsen and begin affecting his sleep, but once Gwen discovers a sleepwalking Ben using missing items from the campsite to create his own massive Junkbot, it is up to Ben to stop his own creation.",
-        "duration": 676,
-        "freewheelid": "cn-2113873",
-        "isclip": false,
-        "typesort": "1",
-        "tvratingcode": "TV-Y7-FV",
-        "seriestitleid": "10000000000",
-        "seriesname": "Unlocked",
-        "originalpremieredate": "2018-10-27T02:45:00.000Z",
-        "pubdate": "2018-10-27T02:45:00.000Z",
-        "expdate": "2020-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2113873_007_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "unauth",
-        "titleid": "2113873",
-        "titletype": "Episode",
-        "bannertext": "",
-        "originalseriesid": "2085313",
-        "originalseriesname": "Ben 10",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1540608300000",
-        "pubdateasmilliseconds": "1540608300000",
-        "expdateasmilliseconds": "1577854799000",
-        "mediaid": "b50870152b595318f0074f7332f01dd0c7b0d555",
-        "isunlockedfullepisode": true,
-        "ismultipropertycollection": true
-    },
-    {
         "airingid": "RADS1012051800050277",
         "seasonnumber": "1",
         "seasonitemnumber": "",
@@ -9799,7 +9717,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011358",
+        "airingid": "RADS1008021900011373",
         "seasonnumber": "5",
         "seasonitemnumber": "16",
         "seriesid": "10000000000",
@@ -9840,7 +9758,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011373",
+        "airingid": "RADS1008021900011358",
         "seasonnumber": "5",
         "seasonitemnumber": "16",
         "seriesid": "10000000000",
@@ -12419,47 +12337,6 @@
         "pubdateasmilliseconds": "1541131200000",
         "expdateasmilliseconds": "1567310340000",
         "mediaid": "f3b42da8231fa9c91b63f7641326604194c08866",
-        "isunlockedfullepisode": true,
-        "ismultipropertycollection": true
-    },
-    {
-        "airingid": "RADS1010261800041241",
-        "seasonnumber": "2",
-        "seasonitemnumber": "",
-        "seriesid": "10000000000",
-        "id": "f43c2794af94e7f936b9c50150882f13233c44b1",
-        "collectionid": "",
-        "seofriendlyurl": "/video/ben-10/innervasion-part-1-message-in-a-boxcar-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Innervasion Part 1: Message in a Boxcar",
-        "episodenumber": "",
-        "type": "fullepisode",
-        "active": true,
-        "description": "As Team Tennyson prepares their boxcar for an upcoming race, Ben is hearing voices and is unable to go Upgrade to enhance his car, but once the race is interrupted by a mysterious Warbot, Ben must overcome the voices inside his head if he is to defeat the giant adversary.",
-        "duration": 676,
-        "freewheelid": "cn-2094745",
-        "isclip": false,
-        "typesort": "1",
-        "tvratingcode": "TV-Y7-FV",
-        "seriestitleid": "10000000000",
-        "seriesname": "Unlocked",
-        "originalpremieredate": "2018-10-27T02:45:00.000Z",
-        "pubdate": "2018-10-27T02:45:00.000Z",
-        "expdate": "2020-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2094745_006_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "unauth",
-        "titleid": "2094745",
-        "titletype": "Episode",
-        "bannertext": "",
-        "originalseriesid": "2085313",
-        "originalseriesname": "Ben 10",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1540608300000",
-        "pubdateasmilliseconds": "1540608300000",
-        "expdateasmilliseconds": "1577854799000",
-        "mediaid": "f43c2794af94e7f936b9c50150882f13233c44b1",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": true
     },
