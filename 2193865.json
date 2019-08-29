@@ -2,7 +2,7 @@
   "airingid": "RADS1008011900011191",
   "seasonnumber": "1",
   "seasonitemnumber": "24",
-  "seriesid": "10000000000",
+  "seriesid": "2160701",
   "id": "92432e11b4ebc63855ece1196b939dd401cbfe9f",
   "collectionid": "",
   "seofriendlyurl": "/video/victor-and-valentino/love-at-first-bite-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2160701",
+  "seriesname": "Victor and Valentino",
   "originalpremieredate": "2019-07-27T13:30:00.000Z",
   "pubdate": "2019-08-17T08:59:04.000Z",
   "expdate": "2019-08-31T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2193865",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2160701",
   "originalseriesname": "Victor and Valentino",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567241940000",
   "mediaid": "92432e11b4ebc63855ece1196b939dd401cbfe9f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
