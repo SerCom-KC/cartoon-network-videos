@@ -656,7 +656,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1008021900011375",
+        "airingid": "RADS1008021900011359",
         "seasonnumber": "5",
         "seasonitemnumber": "26",
         "seriesid": "2011404",
@@ -697,7 +697,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1008021900011359",
+        "airingid": "RADS1008021900011375",
         "seasonnumber": "5",
         "seasonitemnumber": "26",
         "seriesid": "2011404",
@@ -4387,6 +4387,47 @@
         "ismultipropertycollection": false
     },
     {
+        "airingid": "RADS1008121900012985",
+        "seasonnumber": "5",
+        "seasonitemnumber": "",
+        "seriesid": "2011404",
+        "id": "8cd79a2381b3cea3090214389a463914e3f18f1f",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe/steven-universe-fan-karaoke-at-san-diego-comic-con-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Steven Universe Fan Karaoke at San Diego Comic-Con",
+        "episodenumber": "",
+        "type": "fullepisode",
+        "active": true,
+        "description": "Fans of Steven Universe gathered at the Cartoon Network booth at San Diego Comic-Con to sing their favorite Steven Universe songs on a recreation of the Beach City stage.",
+        "duration": 98,
+        "freewheelid": "cn-2207081",
+        "isclip": false,
+        "typesort": "1",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "2011404",
+        "seriesname": "Steven Universe",
+        "originalpremieredate": "2019-08-29T04:00:00.000Z",
+        "pubdate": "2019-08-29T04:00:00.000Z",
+        "expdate": "2019-09-09T08:59:00.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2207081_007_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "su - movie trailer|unauth",
+        "titleid": "2207081",
+        "titletype": "Element",
+        "bannertext": "LATEST EPISODE",
+        "originalseriesid": "2011404",
+        "originalseriesname": "Steven Universe",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1567051200000",
+        "pubdateasmilliseconds": "1567051200000",
+        "expdateasmilliseconds": "1568019540000",
+        "mediaid": "8cd79a2381b3cea3090214389a463914e3f18f1f",
+        "isunlockedfullepisode": true,
+        "ismultipropertycollection": false
+    },
+    {
         "airingid": "RADS1008021900011419",
         "seasonnumber": "2",
         "seasonitemnumber": "18",
@@ -5330,7 +5371,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1008021900011361",
+        "airingid": "RADS1008021900011374",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "2011404",
@@ -5371,7 +5412,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1008021900011374",
+        "airingid": "RADS1008021900011361",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "2011404",
@@ -5781,7 +5822,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1008021900011373",
+        "airingid": "RADS1008021900011358",
         "seasonnumber": "5",
         "seasonitemnumber": "16",
         "seriesid": "2011404",
@@ -5822,7 +5863,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1008021900011358",
+        "airingid": "RADS1008021900011373",
         "seasonnumber": "5",
         "seasonitemnumber": "16",
         "seriesid": "2011404",
