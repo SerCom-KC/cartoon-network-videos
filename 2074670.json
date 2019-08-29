@@ -2,7 +2,7 @@
   "airingid": "RADS1007181900007307",
   "seasonnumber": "4",
   "seasonitemnumber": "24",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "051aa4a5ba10a41255e055bc143c061fdd7dccb0",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-signal-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2016-04-28T21:30:00.000Z",
   "pubdate": "2019-08-29T09:00:00.000Z",
   "expdate": "2019-09-03T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2074670",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567501140000",
   "mediaid": "051aa4a5ba10a41255e055bc143c061fdd7dccb0",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

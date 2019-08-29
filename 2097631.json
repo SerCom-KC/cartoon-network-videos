@@ -2,7 +2,7 @@
   "airingid": "RADS1007181900007310",
   "seasonnumber": "5",
   "seasonitemnumber": "13",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "df1e36a64ddc971b77b647a6f958ef4aa80903d7",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-fuss-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2017-02-08T22:00:00.000Z",
   "pubdate": "2019-08-29T09:00:00.000Z",
   "expdate": "2019-09-03T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2097631",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567501140000",
   "mediaid": "df1e36a64ddc971b77b647a6f958ef4aa80903d7",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
