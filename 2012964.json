@@ -2,7 +2,7 @@
   "airingid": "RADS1007181900007362",
   "seasonnumber": "1",
   "seasonitemnumber": "21",
-  "seriesid": "10000000000",
+  "seriesid": "2012957",
   "id": "27001570c95a024687f8f4cad3ddf3bfd702b0b3",
   "collectionid": "",
   "seofriendlyurl": "/video/clarence/neighborhood-grill-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2012957",
+  "seriesname": "Clarence",
   "originalpremieredate": "2014-10-23T22:30:00.000Z",
   "pubdate": "2019-08-22T09:00:00.000Z",
   "expdate": "2019-08-29T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2012964",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2012957",
   "originalseriesname": "Clarence",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567069140000",
   "mediaid": "27001570c95a024687f8f4cad3ddf3bfd702b0b3",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
