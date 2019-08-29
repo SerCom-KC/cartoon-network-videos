@@ -1,6 +1,6 @@
 [
     {
-        "airingid": "RADS1008021900011545",
+        "airingid": "RADS1008021900011538",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "10000000000",
@@ -41,7 +41,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011538",
+        "airingid": "RADS1008021900011545",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "10000000000",
@@ -939,47 +939,6 @@
         "pubdateasmilliseconds": "1566291540000",
         "expdateasmilliseconds": "1567501140000",
         "mediaid": "13ca38dc50278c52c734f88f2cc2788a1bc42b33",
-        "isunlockedfullepisode": true,
-        "ismultipropertycollection": true
-    },
-    {
-        "airingid": "RADS1008021900011359",
-        "seasonnumber": "5",
-        "seasonitemnumber": "26",
-        "seriesid": "10000000000",
-        "id": "1425bab16b5c5656409db67253cdf26ddc3e8f5b",
-        "collectionid": "",
-        "seofriendlyurl": "/video/steven-universe/together-alone-episode.html",
-        "seasonepisodenumber": "26",
-        "title": "Together Alone",
-        "episodenumber": "26",
-        "type": "fullepisode",
-        "active": true,
-        "description": "Steven throws a party to bring his family together.",
-        "duration": 687,
-        "freewheelid": "cn-2132074",
-        "isclip": false,
-        "typesort": "1",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "10000000000",
-        "seriesname": "Unlocked",
-        "originalpremieredate": "2019-01-01T00:30:00.000Z",
-        "pubdate": "2019-08-26T08:59:00.000Z",
-        "expdate": "2019-09-02T22:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2132074_007_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "unauth",
-        "titleid": "2132074",
-        "titletype": "Episode",
-        "bannertext": "",
-        "originalseriesid": "2011404",
-        "originalseriesname": "Steven Universe",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1546302600000",
-        "pubdateasmilliseconds": "1566809940000",
-        "expdateasmilliseconds": "1567465140000",
-        "mediaid": "1425bab16b5c5656409db67253cdf26ddc3e8f5b",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": true
     },
@@ -3854,7 +3813,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011549",
+        "airingid": "RADS1008021900011532",
         "seasonnumber": "5",
         "seasonitemnumber": "20",
         "seriesid": "10000000000",
@@ -3895,7 +3854,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011532",
+        "airingid": "RADS1008021900011549",
         "seasonnumber": "5",
         "seasonitemnumber": "20",
         "seriesid": "10000000000",
@@ -5740,7 +5699,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011557",
+        "airingid": "RADS1008021900011537",
         "seasonnumber": "5",
         "seasonitemnumber": "21",
         "seriesid": "10000000000",
@@ -5781,7 +5740,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011537",
+        "airingid": "RADS1008021900011557",
         "seasonnumber": "5",
         "seasonitemnumber": "21",
         "seriesid": "10000000000",
@@ -6889,7 +6848,7 @@
     },
     {
         "airingid": "RADS1008121900012985",
-        "seasonnumber": "5",
+        "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
         "id": "8cd79a2381b3cea3090214389a463914e3f18f1f",
@@ -6911,7 +6870,7 @@
         "originalpremieredate": "2019-08-29T04:00:00.000Z",
         "pubdate": "2019-08-29T04:00:00.000Z",
         "expdate": "2019-09-09T08:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2207081_007_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2207081_008_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "unauth",
@@ -8364,7 +8323,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011533",
+        "airingid": "RADS1008021900011553",
         "seasonnumber": "5",
         "seasonitemnumber": "19",
         "seriesid": "10000000000",
@@ -8405,7 +8364,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011553",
+        "airingid": "RADS1008021900011533",
         "seasonnumber": "5",
         "seasonitemnumber": "19",
         "seriesid": "10000000000",
@@ -11972,7 +11931,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011548",
+        "airingid": "RADS1008021900011534",
         "seasonnumber": "5",
         "seasonitemnumber": "3",
         "seriesid": "10000000000",
@@ -12013,7 +11972,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011534",
+        "airingid": "RADS1008021900011548",
         "seasonnumber": "5",
         "seasonitemnumber": "3",
         "seriesid": "10000000000",
