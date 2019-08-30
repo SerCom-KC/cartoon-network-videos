@@ -1,6 +1,6 @@
 [
     {
-        "airingid": "RADS1008021900011538",
+        "airingid": "RADS1008021900011545",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "10000000000",
@@ -41,7 +41,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011545",
+        "airingid": "RADS1008021900011538",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "10000000000",
@@ -697,7 +697,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011536",
+        "airingid": "RADS1008021900011555",
         "seasonnumber": "5",
         "seasonitemnumber": "6",
         "seriesid": "10000000000",
@@ -738,7 +738,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011555",
+        "airingid": "RADS1008021900011536",
         "seasonnumber": "5",
         "seasonitemnumber": "6",
         "seriesid": "10000000000",
@@ -1765,14 +1765,14 @@
     {
         "airingid": "RADS1008301900017554",
         "seasonnumber": "1",
-        "seasonitemnumber": "",
+        "seasonitemnumber": "1",
         "seriesid": "10000000000",
         "id": "1f21d1bb2226f8edba182d42df6aa5fd2e377913",
         "collectionid": "",
         "seofriendlyurl": "/video/power-players/unboxing-part-1-episode.html",
-        "seasonepisodenumber": "",
+        "seasonepisodenumber": "1",
         "title": "Unboxing Part 1",
-        "episodenumber": "",
+        "episodenumber": "1",
         "type": "fullepisode",
         "active": true,
         "description": "Axel ventures into his uncle's strictly off-limits basement lab in hopes of fixing a broken toy and ends up unleashing living ones instead: the renegade Madcap and a whole team of superpowered toys dedicated to stopping him!",
@@ -1786,7 +1786,7 @@
         "originalpremieredate": "2019-08-30T04:00:00.000Z",
         "pubdate": "2019-08-30T04:00:00.000Z",
         "expdate": "2020-08-30T03:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2129669_001_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2129669_003_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "unauth",
@@ -1886,7 +1886,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011550",
+        "airingid": "RADS1008021900011531",
         "seasonnumber": "5",
         "seasonitemnumber": "5",
         "seriesid": "10000000000",
@@ -1927,7 +1927,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011531",
+        "airingid": "RADS1008021900011550",
         "seasonnumber": "5",
         "seasonitemnumber": "5",
         "seriesid": "10000000000",
@@ -2296,7 +2296,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011535",
+        "airingid": "RADS1008021900011576",
         "seasonnumber": "5",
         "seasonitemnumber": "14",
         "seriesid": "10000000000",
@@ -2337,7 +2337,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011576",
+        "airingid": "RADS1008021900011535",
         "seasonnumber": "5",
         "seasonitemnumber": "14",
         "seriesid": "10000000000",
@@ -2974,7 +2974,7 @@
         "seriesname": "Unlocked",
         "originalpremieredate": "2019-03-09T14:00:00.000Z",
         "pubdate": "2019-08-29T09:00:00.000Z",
-        "expdate": "2019-09-03T08:59:00.000Z",
+        "expdate": "2019-09-09T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2182744_002_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -2987,7 +2987,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1552140000000",
         "pubdateasmilliseconds": "1567069200000",
-        "expdateasmilliseconds": "1567501140000",
+        "expdateasmilliseconds": "1568019540000",
         "mediaid": "37ce9c7d3d5eb6b36251114447d19df3a4e9b3ec",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": true
@@ -8181,7 +8181,7 @@
         "seriesname": "Unlocked",
         "originalpremieredate": "2019-03-16T13:00:00.000Z",
         "pubdate": "2019-08-29T09:00:00.000Z",
-        "expdate": "2019-09-03T08:59:00.000Z",
+        "expdate": "2019-09-10T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2182745_007_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -8194,7 +8194,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1552741200000",
         "pubdateasmilliseconds": "1567069200000",
-        "expdateasmilliseconds": "1567501140000",
+        "expdateasmilliseconds": "1568105940000",
         "mediaid": "a38ee3385c3eeb4b9e562cb2e6a438e0fbd35d1f",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": true
@@ -8243,14 +8243,14 @@
     {
         "airingid": "RADS1008301900017555",
         "seasonnumber": "1",
-        "seasonitemnumber": "",
+        "seasonitemnumber": "2",
         "seriesid": "10000000000",
         "id": "a4f6ef51d750f41dd48db6b80ea2097045035085",
         "collectionid": "",
         "seofriendlyurl": "/video/power-players/unboxing-part-2-episode.html",
-        "seasonepisodenumber": "",
+        "seasonepisodenumber": "2",
         "title": "Unboxing Part 2",
-        "episodenumber": "",
+        "episodenumber": "2",
         "type": "fullepisode",
         "active": true,
         "description": "Axel discovers that he can transform into a toy and teams up with his new team of toys to stop Madcap from stealing a Minergy battery.",
@@ -8264,7 +8264,7 @@
         "originalpremieredate": "2019-08-30T04:00:00.000Z",
         "pubdate": "2019-08-30T04:00:00.000Z",
         "expdate": "2020-08-30T03:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2129670_008_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2129670_003_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "unauth",
@@ -8673,7 +8673,7 @@
         "seriesname": "Unlocked",
         "originalpremieredate": "2019-03-02T14:00:00.000Z",
         "pubdate": "2019-08-29T09:00:00.000Z",
-        "expdate": "2019-09-03T08:59:00.000Z",
+        "expdate": "2019-09-10T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141736_004_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -8686,7 +8686,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1551535200000",
         "pubdateasmilliseconds": "1567069200000",
-        "expdateasmilliseconds": "1567501140000",
+        "expdateasmilliseconds": "1568105940000",
         "mediaid": "ac3e58900f77764ec7ad81bdec84cd6b89746266",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": true
@@ -10559,7 +10559,7 @@
         "seriesname": "Unlocked",
         "originalpremieredate": "2019-02-23T14:00:00.000Z",
         "pubdate": "2019-08-29T09:00:00.000Z",
-        "expdate": "2019-09-03T08:59:00.000Z",
+        "expdate": "2019-09-10T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2182742_004_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -10572,7 +10572,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1550930400000",
         "pubdateasmilliseconds": "1567069200000",
-        "expdateasmilliseconds": "1567501140000",
+        "expdateasmilliseconds": "1568105940000",
         "mediaid": "d6f450a2eb1c16f9e901270c4187d888ed253b41",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": true
