@@ -1,6 +1,6 @@
 [
     {
-        "airingid": "RADS1008021900011545",
+        "airingid": "RADS1008021900011538",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "10000000000",
@@ -41,7 +41,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011538",
+        "airingid": "RADS1008021900011545",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "10000000000",
@@ -1355,14 +1355,14 @@
     {
         "airingid": "RADS1008191900014030",
         "seasonnumber": "2",
-        "seasonitemnumber": "201",
+        "seasonitemnumber": "1",
         "seriesid": "10000000000",
         "id": "1abda00d0b7954e1b6966026340f7ceec5a28f61",
         "collectionid": "",
         "seofriendlyurl": "/video/transformers-cyberverse/sea-of-tranquility-part-1-episode.html",
-        "seasonepisodenumber": "201",
+        "seasonepisodenumber": "1",
         "title": "Sea of Tranquility Part 1",
-        "episodenumber": "201",
+        "episodenumber": "1",
         "type": "fullepisode",
         "active": true,
         "description": "Optimus Prime and the Autobots battle Megatron and the Deceptions on Earth's Moon.",
@@ -1927,7 +1927,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011550",
+        "airingid": "RADS1008021900011531",
         "seasonnumber": "5",
         "seasonitemnumber": "5",
         "seriesid": "10000000000",
@@ -1968,7 +1968,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011531",
+        "airingid": "RADS1008021900011550",
         "seasonnumber": "5",
         "seasonitemnumber": "5",
         "seriesid": "10000000000",
@@ -5330,7 +5330,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011554",
+        "airingid": "RADS1008021900011540",
         "seasonnumber": "5",
         "seasonitemnumber": "9",
         "seriesid": "10000000000",
@@ -5371,7 +5371,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011540",
+        "airingid": "RADS1008021900011554",
         "seasonnumber": "5",
         "seasonitemnumber": "9",
         "seriesid": "10000000000",
@@ -5904,7 +5904,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011557",
+        "airingid": "RADS1008021900011537",
         "seasonnumber": "5",
         "seasonitemnumber": "21",
         "seriesid": "10000000000",
@@ -5945,7 +5945,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011537",
+        "airingid": "RADS1008021900011557",
         "seasonnumber": "5",
         "seasonitemnumber": "21",
         "seriesid": "10000000000",
@@ -6111,14 +6111,14 @@
     {
         "airingid": "RADS1008191900014023",
         "seasonnumber": "2",
-        "seasonitemnumber": "",
+        "seasonitemnumber": "2",
         "seriesid": "10000000000",
         "id": "7e5c0b3105f10bc1dd8aed8afa22e28ccb954968",
         "collectionid": "",
         "seofriendlyurl": "/video/transformers-cyberverse/sea-of-tranquility-part-2-episode.html",
-        "seasonepisodenumber": "",
+        "seasonepisodenumber": "2",
         "title": "Sea of Tranquility Part 2",
-        "episodenumber": "",
+        "episodenumber": "2",
         "type": "fullepisode",
         "active": true,
         "description": "The Autobots struggle to stop the Decepticon's planet-cracking weapon as it targets Earth.",
@@ -6132,7 +6132,7 @@
         "originalpremieredate": "2019-08-30T09:00:00.000Z",
         "pubdate": "2019-08-30T09:00:00.000Z",
         "expdate": "2020-08-30T08:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2207545_002_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2207545_010_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "unauth",
@@ -8610,7 +8610,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011553",
+        "airingid": "RADS1008021900011533",
         "seasonnumber": "5",
         "seasonitemnumber": "19",
         "seriesid": "10000000000",
@@ -8651,7 +8651,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011533",
+        "airingid": "RADS1008021900011553",
         "seasonnumber": "5",
         "seasonitemnumber": "19",
         "seriesid": "10000000000",
@@ -12218,7 +12218,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011548",
+        "airingid": "RADS1008021900011534",
         "seasonnumber": "5",
         "seasonitemnumber": "3",
         "seriesid": "10000000000",
@@ -12259,7 +12259,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011534",
+        "airingid": "RADS1008021900011548",
         "seasonnumber": "5",
         "seasonitemnumber": "3",
         "seriesid": "10000000000",
