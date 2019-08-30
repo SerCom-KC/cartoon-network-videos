@@ -924,7 +924,7 @@
         "seriesname": "Unikitty",
         "originalpremieredate": "2019-02-04T22:45:00.000Z",
         "pubdate": "2019-07-08T08:59:00.000Z",
-        "expdate": "2020-01-01T04:59:59.000Z",
+        "expdate": "2019-09-03T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2174702_004_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -937,7 +937,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1549320300000",
         "pubdateasmilliseconds": "1562576340000",
-        "expdateasmilliseconds": "1577854799000",
+        "expdateasmilliseconds": "1567501200000",
         "mediaid": "6f439c23ca63d3369a7ffd97179c61039eb7b257",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
