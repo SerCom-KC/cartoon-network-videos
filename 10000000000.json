@@ -697,7 +697,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011555",
+        "airingid": "RADS1008021900011536",
         "seasonnumber": "5",
         "seasonitemnumber": "6",
         "seriesid": "10000000000",
@@ -738,7 +738,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011536",
+        "airingid": "RADS1008021900011555",
         "seasonnumber": "5",
         "seasonitemnumber": "6",
         "seriesid": "10000000000",
@@ -1845,7 +1845,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011531",
+        "airingid": "RADS1008021900011550",
         "seasonnumber": "5",
         "seasonitemnumber": "5",
         "seriesid": "10000000000",
@@ -1886,7 +1886,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011550",
+        "airingid": "RADS1008021900011531",
         "seasonnumber": "5",
         "seasonitemnumber": "5",
         "seriesid": "10000000000",
@@ -8632,7 +8632,7 @@
         "seriesname": "Unlocked",
         "originalpremieredate": "2019-03-31T10:30:00.000Z",
         "pubdate": "2019-08-29T09:00:00.000Z",
-        "expdate": "2019-09-03T08:59:00.000Z",
+        "expdate": "2019-09-10T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2117442_003_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -8645,7 +8645,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1554028200000",
         "pubdateasmilliseconds": "1567069200000",
-        "expdateasmilliseconds": "1567501140000",
+        "expdateasmilliseconds": "1568105940000",
         "mediaid": "ad91dfce3b01ac222715d0144565c9b647ba3fdf",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": true
@@ -11849,7 +11849,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011534",
+        "airingid": "RADS1008021900011548",
         "seasonnumber": "5",
         "seasonitemnumber": "3",
         "seriesid": "10000000000",
@@ -11890,7 +11890,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011548",
+        "airingid": "RADS1008021900011534",
         "seasonnumber": "5",
         "seasonitemnumber": "3",
         "seriesid": "10000000000",
