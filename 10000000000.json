@@ -1,6 +1,6 @@
 [
     {
-        "airingid": "RADS1008021900011545",
+        "airingid": "RADS1008021900011538",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "10000000000",
@@ -41,7 +41,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011538",
+        "airingid": "RADS1008021900011545",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
         "seriesid": "10000000000",
@@ -615,7 +615,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011555",
+        "airingid": "RADS1008021900011536",
         "seasonnumber": "5",
         "seasonitemnumber": "6",
         "seriesid": "10000000000",
@@ -656,7 +656,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011536",
+        "airingid": "RADS1008021900011555",
         "seasonnumber": "5",
         "seasonitemnumber": "6",
         "seriesid": "10000000000",
@@ -1435,6 +1435,47 @@
         "ismultipropertycollection": true
     },
     {
+        "airingid": "RADS1008051900011914",
+        "seasonnumber": "2",
+        "seasonitemnumber": "2",
+        "seriesid": "10000000000",
+        "id": "1c77e807ca63468dfa6536244b9fc0f5e80ad95a",
+        "collectionid": "",
+        "seofriendlyurl": "/video/bakugan/in-the-wildcall-me-old-brakken-episode.html",
+        "seasonepisodenumber": "2",
+        "title": "In the Wild/Call Me Old Brakken",
+        "episodenumber": "2",
+        "type": "fullepisode",
+        "active": true,
+        "description": "In the Wild: The AO are invited to a video-stars conference, but when the chartered jet goes down, the AO must give over to their wild sides to survive!/Call Me Old Brakken: Lord Brakken is the ultimate AO super-fan, but his zeal takes a dark turn when he looks to prove that he is their superior in battle.",
+        "duration": 1351,
+        "freewheelid": "cn-2203694",
+        "isclip": false,
+        "typesort": "1",
+        "tvratingcode": "TV-Y7-FV",
+        "seriestitleid": "10000000000",
+        "seriesname": "Unlocked",
+        "originalpremieredate": "2019-08-11T11:00:00.000Z",
+        "pubdate": "2019-09-01T09:00:00.000Z",
+        "expdate": "2019-09-15T08:59:00.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2203694_005_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "unauth",
+        "titleid": "2203694",
+        "titletype": "Episode",
+        "bannertext": "",
+        "originalseriesid": "2170837",
+        "originalseriesname": "Bakugan: Battle Planet",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1565521200000",
+        "pubdateasmilliseconds": "1567328400000",
+        "expdateasmilliseconds": "1568537940000",
+        "mediaid": "1c77e807ca63468dfa6536244b9fc0f5e80ad95a",
+        "isunlockedfullepisode": true,
+        "ismultipropertycollection": true
+    },
+    {
         "airingid": "RADS1007181900007351",
         "seasonnumber": "3",
         "seasonitemnumber": "6",
@@ -1804,7 +1845,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011531",
+        "airingid": "RADS1008021900011550",
         "seasonnumber": "5",
         "seasonitemnumber": "5",
         "seriesid": "10000000000",
@@ -1845,7 +1886,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011550",
+        "airingid": "RADS1008021900011531",
         "seasonnumber": "5",
         "seasonitemnumber": "5",
         "seriesid": "10000000000",
@@ -2173,7 +2214,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011576",
+        "airingid": "RADS1008021900011535",
         "seasonnumber": "5",
         "seasonitemnumber": "14",
         "seriesid": "10000000000",
@@ -2214,7 +2255,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011535",
+        "airingid": "RADS1008021900011576",
         "seasonnumber": "5",
         "seasonitemnumber": "14",
         "seriesid": "10000000000",
@@ -6068,6 +6109,47 @@
         "ismultipropertycollection": true
     },
     {
+        "airingid": "RADS1008301900017594",
+        "seasonnumber": "3",
+        "seasonitemnumber": "12",
+        "seriesid": "10000000000",
+        "id": "89fd3cac172fad6b549a20ad98b0546b1fed76c0",
+        "collectionid": "",
+        "seofriendlyurl": "/video/ok-ko/radical-rescue-episode.html",
+        "seasonepisodenumber": "12",
+        "title": "Radical Rescue",
+        "episodenumber": "12",
+        "type": "fullepisode",
+        "active": true,
+        "description": "Rad is forced to reconsider his identity when KO starts taking on some of his traits.",
+        "duration": 686,
+        "freewheelid": "cn-2192346",
+        "isclip": false,
+        "typesort": "1",
+        "tvratingcode": "TV-Y7-FV",
+        "seriestitleid": "10000000000",
+        "seriesname": "Unlocked",
+        "originalpremieredate": "2019-08-11T20:45:00.000Z",
+        "pubdate": "2019-09-01T09:00:00.000Z",
+        "expdate": "2019-09-15T08:59:00.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2192346_009_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "unauth",
+        "titleid": "2192346",
+        "titletype": "Episode",
+        "bannertext": "",
+        "originalseriesid": "2079533",
+        "originalseriesname": "OK K.O.!",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1565556300000",
+        "pubdateasmilliseconds": "1567328400000",
+        "expdateasmilliseconds": "1568537940000",
+        "mediaid": "89fd3cac172fad6b549a20ad98b0546b1fed76c0",
+        "isunlockedfullepisode": true,
+        "ismultipropertycollection": true
+    },
+    {
         "airingid": "RADS1007291900010028",
         "seasonnumber": "3",
         "seasonitemnumber": "27",
@@ -7462,7 +7544,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011553",
+        "airingid": "RADS1008021900011533",
         "seasonnumber": "5",
         "seasonitemnumber": "19",
         "seriesid": "10000000000",
@@ -7503,7 +7585,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1008021900011533",
+        "airingid": "RADS1008021900011553",
         "seasonnumber": "5",
         "seasonitemnumber": "19",
         "seriesid": "10000000000",
