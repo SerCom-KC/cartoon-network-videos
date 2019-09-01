@@ -2,7 +2,7 @@
   "airingid": "RADS1008171800027110",
   "seasonnumber": "1",
   "seasonitemnumber": "1",
-  "seriesid": "2167202",
+  "seriesid": "10000000000",
   "id": "9adcb92b217aa9e746f3b7fff5066f4a6470c0ad",
   "collectionid": "",
   "seofriendlyurl": "/video/transformers-cyberverse/fractured-part-1-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2167202",
-  "seriesname": "Transformers Cyberverse",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-08-27T04:00:00.000Z",
   "pubdate": "2018-08-27T04:00:00.000Z",
   "expdate": "2019-09-01T03:59:59.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2171224",
   "titletype": "Element",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2167202",
   "originalseriesname": "Transformers Cyberverse",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567310399000",
   "mediaid": "9adcb92b217aa9e746f3b7fff5066f4a6470c0ad",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

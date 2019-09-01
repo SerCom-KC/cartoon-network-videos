@@ -2,7 +2,7 @@
   "airingid": "RADS1011281800048199",
   "seasonnumber": "1",
   "seasonitemnumber": "30",
-  "seriesid": "2167202",
+  "seriesid": "10000000000",
   "id": "9a9b675d91090223c98bb12abfec886b49771c61",
   "collectionid": "",
   "seofriendlyurl": "/video/transformers-cyberverse/king-of-the-dinosaurs-part-2-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2167202",
-  "seriesname": "Transformers Cyberverse",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-12-07T05:00:00.000Z",
   "pubdate": "2018-12-07T05:00:00.000Z",
   "expdate": "2019-09-01T03:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2171300",
   "titletype": "Element",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2167202",
   "originalseriesname": "Transformers Cyberverse",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567310340000",
   "mediaid": "9a9b675d91090223c98bb12abfec886b49771c61",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

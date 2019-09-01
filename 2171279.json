@@ -2,7 +2,7 @@
   "airingid": "RADS1010291800041889",
   "seasonnumber": "1",
   "seasonitemnumber": "21",
-  "seriesid": "2167202",
+  "seriesid": "10000000000",
   "id": "66e77e876241143d264cb4662c2c31b1046ba6c0",
   "collectionid": "",
   "seofriendlyurl": "/video/transformers-cyberverse/sabotage-part-1-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2167202",
-  "seriesname": "Transformers Cyberverse",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-11-09T05:00:00.000Z",
   "pubdate": "2018-11-09T05:00:00.000Z",
   "expdate": "2019-09-01T03:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2171279",
   "titletype": "Element",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2167202",
   "originalseriesname": "Transformers Cyberverse",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567310340000",
   "mediaid": "66e77e876241143d264cb4662c2c31b1046ba6c0",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

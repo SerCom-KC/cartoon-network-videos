@@ -2,7 +2,7 @@
   "airingid": "RADS1012041800050270",
   "seasonnumber": "1",
   "seasonitemnumber": "33",
-  "seriesid": "2167202",
+  "seriesid": "10000000000",
   "id": "8c947e62fe49ffafb9eaf1c108be43c75579c34c",
   "collectionid": "",
   "seofriendlyurl": "/video/transformers-cyberverse/awaken-sleeping-giants-part-1-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2167202",
-  "seriesname": "Transformers Cyberverse",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-12-21T05:00:00.000Z",
   "pubdate": "2018-12-21T05:00:00.000Z",
   "expdate": "2019-09-01T03:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2171309",
   "titletype": "Element",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2167202",
   "originalseriesname": "Transformers Cyberverse",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567310340000",
   "mediaid": "8c947e62fe49ffafb9eaf1c108be43c75579c34c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1010051800035517",
   "seasonnumber": "1",
   "seasonitemnumber": "16",
-  "seriesid": "2167202",
+  "seriesid": "10000000000",
   "id": "ed24a65973d0daf87217ceacb9e79494da050ad3",
   "collectionid": "",
   "seofriendlyurl": "/video/transformers-cyberverse/terminal-velocity-part-2-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2167202",
-  "seriesname": "Transformers Cyberverse",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-10-19T04:00:00.000Z",
   "pubdate": "2018-10-19T04:00:00.000Z",
   "expdate": "2019-09-01T03:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2171265",
   "titletype": "Element",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2167202",
   "originalseriesname": "Transformers Cyberverse",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567310340000",
   "mediaid": "ed24a65973d0daf87217ceacb9e79494da050ad3",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1010091800036199",
   "seasonnumber": "1",
   "seasonitemnumber": "17",
-  "seriesid": "2167202",
+  "seriesid": "10000000000",
   "id": "cbc04346fb7103d14f3168023f7c8b02a59c83a1",
   "collectionid": "",
   "seofriendlyurl": "/video/transformers-cyberverse/shadowstriker-part-1-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2167202",
-  "seriesname": "Transformers Cyberverse",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-10-26T04:00:00.000Z",
   "pubdate": "2018-10-26T04:00:00.000Z",
   "expdate": "2019-09-01T03:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2171269",
   "titletype": "Element",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2167202",
   "originalseriesname": "Transformers Cyberverse",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567310340000",
   "mediaid": "cbc04346fb7103d14f3168023f7c8b02a59c83a1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
