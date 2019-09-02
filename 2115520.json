@@ -2,7 +2,7 @@
   "airingid": "RADS1008021900011345",
   "seasonnumber": "5",
   "seasonitemnumber": "10",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "e2e8ace0f20b4e9a08ef545fdd3bcee279caabab",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/kevin-party-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2017-12-30T00:30:00.000Z",
   "pubdate": "2019-08-26T08:59:00.000Z",
   "expdate": "2019-09-02T22:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2115520",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2011404",
   "originalseriesname": "Steven Universe",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1567465140000",
   "mediaid": "e2e8ace0f20b4e9a08ef545fdd3bcee279caabab",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
