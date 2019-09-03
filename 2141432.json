@@ -2,7 +2,7 @@
   "airingid": "RADS1008291900017401",
   "seasonnumber": "3",
   "seasonitemnumber": "2",
-  "seriesid": "2085313",
+  "seriesid": "10000000000",
   "id": "994ab45e4d7580a375f515cb6b7b3174ffcb7cdc",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/this-one-goes-to-11-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2085313",
-  "seriesname": "Ben 10",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-02-23T17:15:00.000Z",
   "pubdate": "2019-09-03T09:00:00.000Z",
   "expdate": "2019-09-10T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2141432",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2085313",
   "originalseriesname": "Ben 10",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1568105940000",
   "mediaid": "994ab45e4d7580a375f515cb6b7b3174ffcb7cdc",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

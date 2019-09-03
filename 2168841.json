@@ -2,7 +2,7 @@
   "airingid": "RADS1008301900017688",
   "seasonnumber": "2",
   "seasonitemnumber": "2",
-  "seriesid": "2130773",
+  "seriesid": "10000000000",
   "id": "f272bb6b778426b9848aeb3e8763beaaafbb5d19",
   "collectionid": "",
   "seofriendlyurl": "/video/unikitty/tooth-trouble-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2130773",
-  "seriesname": "Unikitty",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-02-05T22:30:00.000Z",
   "pubdate": "2019-09-03T09:00:00.000Z",
   "expdate": "2019-09-10T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2168841",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2130773",
   "originalseriesname": "Unikitty",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1568105940000",
   "mediaid": "f272bb6b778426b9848aeb3e8763beaaafbb5d19",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
