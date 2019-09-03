@@ -3385,7 +3385,7 @@
         "originalpremieredate": "2016-09-01T23:00:00.000Z",
         "pubdate": "2019-09-03T09:00:00.000Z",
         "expdate": "2019-09-10T08:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2083870_009_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2083870_010_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "unauth",
@@ -8324,7 +8324,7 @@
     },
     {
         "airingid": "RADS1008121900012987",
-        "seasonnumber": "5",
+        "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
         "id": "fceba219ab83b0c700c942de796189056041b551",
