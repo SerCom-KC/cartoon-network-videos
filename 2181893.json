@@ -432,7 +432,7 @@
         "seriesname": "Mao Mao",
         "originalpremieredate": "2019-07-01T22:28:00.000Z",
         "pubdate": "2019-08-12T09:00:00.000Z",
-        "expdate": "2020-07-02T03:59:59.000Z",
+        "expdate": "2019-09-10T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2181895_007_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -445,7 +445,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1562020080000",
         "pubdateasmilliseconds": "1565600400000",
-        "expdateasmilliseconds": "1593662399000",
+        "expdateasmilliseconds": "1568106000000",
         "mediaid": "b6953fdea6d968f0859be53d4d1dd0a1c1b0761d",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
