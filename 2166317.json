@@ -2,7 +2,7 @@
   "airingid": "RADS1008291900017256",
   "seasonnumber": "3",
   "seasonitemnumber": "33",
-  "seriesid": "2064567",
+  "seriesid": "10000000000",
   "id": "8747090b2bf2a6733f616028ec4d8ff4a4f874b7",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/watch-it-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2064567",
-  "seriesname": "Powerpuff Girls",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-05-05T20:30:00.000Z",
   "pubdate": "2019-09-03T09:00:00.000Z",
   "expdate": "2019-09-10T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2166317",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1568105940000",
   "mediaid": "8747090b2bf2a6733f616028ec4d8ff4a4f874b7",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }

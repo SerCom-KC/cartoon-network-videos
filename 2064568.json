@@ -2,7 +2,7 @@
   "airingid": "RADS1008291900017281",
   "seasonnumber": "1",
   "seasonitemnumber": "2",
-  "seriesid": "2064567",
+  "seriesid": "10000000000",
   "id": "13639a97c47c00a6deab5cb94fc40faedf375708",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/princess-buttercup-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2064567",
-  "seriesname": "Powerpuff Girls",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2016-04-04T22:00:00.000Z",
   "pubdate": "2019-09-03T09:00:00.000Z",
   "expdate": "2019-09-10T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2064568",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1568105940000",
   "mediaid": "13639a97c47c00a6deab5cb94fc40faedf375708",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
