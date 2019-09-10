@@ -2,7 +2,7 @@
   "airingid": "RADS1008291900017506",
   "seasonnumber": "1",
   "seasonitemnumber": "31",
-  "seriesid": "10000000000",
+  "seriesid": "2132940",
   "id": "3b4154fd858cbbe28f1fbff037732aac71d5d845",
   "collectionid": "",
   "seofriendlyurl": "/video/craig-of-the-creek/the-takeout-mission-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2132940",
+  "seriesname": "Craig of the Creek",
   "originalpremieredate": "2018-11-06T22:00:00.000Z",
   "pubdate": "2019-09-03T09:00:00.000Z",
   "expdate": "2019-09-10T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2167594",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2132940",
   "originalseriesname": "Craig of the Creek",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1568105940000",
   "mediaid": "3b4154fd858cbbe28f1fbff037732aac71d5d845",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

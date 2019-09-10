@@ -2,7 +2,7 @@
   "airingid": "RADS1008011900011104",
   "seasonnumber": "1",
   "seasonitemnumber": "27",
-  "seriesid": "10000000000",
+  "seriesid": "2141710",
   "id": "d6f450a2eb1c16f9e901270c4187d888ed253b41",
   "collectionid": "",
   "seofriendlyurl": "/video/total-dramarama/all-up-in-your-drill-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2141710",
+  "seriesname": "Total Dramarama",
   "originalpremieredate": "2019-02-23T14:00:00.000Z",
   "pubdate": "2019-08-29T09:00:00.000Z",
   "expdate": "2019-09-10T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2182742",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2141710",
   "originalseriesname": "Total Dramarama",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1568105940000",
   "mediaid": "d6f450a2eb1c16f9e901270c4187d888ed253b41",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

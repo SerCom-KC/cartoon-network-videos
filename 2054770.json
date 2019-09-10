@@ -2,7 +2,7 @@
   "airingid": "RADS1008291900017267",
   "seasonnumber": "3",
   "seasonitemnumber": "3",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "a27340af67380efb0eb9792005250978567953a0",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/dignity-of-teeth-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2015-08-13T22:00:00.000Z",
   "pubdate": "2019-09-03T09:00:00.000Z",
   "expdate": "2019-09-10T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2054770",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2000349",
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1568105940000",
   "mediaid": "a27340af67380efb0eb9792005250978567953a0",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

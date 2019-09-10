@@ -2,7 +2,7 @@
   "airingid": "RADS1008011900011110",
   "seasonnumber": "1",
   "seasonitemnumber": "30",
-  "seriesid": "10000000000",
+  "seriesid": "2141710",
   "id": "a38ee3385c3eeb4b9e562cb2e6a438e0fbd35d1f",
   "collectionid": "",
   "seofriendlyurl": "/video/total-dramarama/gum-and-gummer-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2141710",
+  "seriesname": "Total Dramarama",
   "originalpremieredate": "2019-03-16T13:00:00.000Z",
   "pubdate": "2019-08-29T09:00:00.000Z",
   "expdate": "2019-09-10T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2182745",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2141710",
   "originalseriesname": "Total Dramarama",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1568105940000",
   "mediaid": "a38ee3385c3eeb4b9e562cb2e6a438e0fbd35d1f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1008291900017241",
   "seasonnumber": "4",
   "seasonitemnumber": "11",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "9f591f605e368172576ccd06cc832465d53edeb2",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/movie-night-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2017-02-10T23:00:00.000Z",
   "pubdate": "2019-09-03T09:00:00.000Z",
   "expdate": "2019-09-10T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2109208",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2000349",
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1568105940000",
   "mediaid": "9f591f605e368172576ccd06cc832465d53edeb2",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
