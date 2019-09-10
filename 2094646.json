@@ -2,7 +2,7 @@
   "airingid": "RADS1009041900018889",
   "seasonnumber": "2",
   "seasonitemnumber": "2",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "122fb602fe68c2a7707b6cf51f96de0f548a8ac1",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/green-wing-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2017-03-11T00:45:00.000Z",
   "pubdate": "2019-09-10T09:00:00.000Z",
   "expdate": "2019-09-17T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2094646",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1568710740000",
   "mediaid": "122fb602fe68c2a7707b6cf51f96de0f548a8ac1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
