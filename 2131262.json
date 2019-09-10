@@ -2,7 +2,7 @@
   "airingid": "RADS1009041900018845",
   "seasonnumber": "6",
   "seasonitemnumber": "2",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "5097ed27202ce61b04647a988452d2dcf33f2f56",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-lady-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2018-01-05T23:00:00.000Z",
   "pubdate": "2019-09-10T09:00:00.000Z",
   "expdate": "2019-09-17T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2131262",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "835928",
   "originalseriesname": "Gumball",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1568710740000",
   "mediaid": "5097ed27202ce61b04647a988452d2dcf33f2f56",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
