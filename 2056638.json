@@ -23,12 +23,12 @@
   "pubdate": "2019-09-03T04:00:00.000Z",
   "expdate": "2019-09-27T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2056638_003_640x360.jpg",
-  "authtype": "auth",
+  "authtype": "unauth",
   "webflags": "",
-  "tags": "",
+  "tags": "unauth",
   "titleid": "2056638",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2012957",
   "originalseriesname": "Clarence",
   "hasparent": false,
@@ -36,6 +36,6 @@
   "pubdateasmilliseconds": "1567483200000",
   "expdateasmilliseconds": "1569574740000",
   "mediaid": "5dc0a591987b557dcffc9f938e3938c2405a366d",
-  "isunlockedfullepisode": false,
+  "isunlockedfullepisode": true,
   "ismultipropertycollection": false
 }
