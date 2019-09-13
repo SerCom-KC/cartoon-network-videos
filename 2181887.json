@@ -2,7 +2,7 @@
   "airingid": "RADS1008011900010818",
   "seasonnumber": "1",
   "seasonitemnumber": "39",
-  "seriesid": "10000000000",
+  "seriesid": "2131007",
   "id": "fd66efc088d9d583e1239dd26af4d7ebda4ef99d",
   "collectionid": "",
   "seofriendlyurl": "/video/summer-camp-island/spell-crushers-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2131007",
+  "seriesname": "Summer Camp Island",
   "originalpremieredate": "2019-07-21T16:30:00.000Z",
   "pubdate": "2019-08-30T09:00:00.000Z",
   "expdate": "2019-09-13T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2181887",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2131007",
   "originalseriesname": "Summer Camp Island",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1568365140000",
   "mediaid": "fd66efc088d9d583e1239dd26af4d7ebda4ef99d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

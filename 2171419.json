@@ -2,7 +2,7 @@
   "airingid": "RADS1008011900010816",
   "seasonnumber": "1",
   "seasonitemnumber": "38",
-  "seriesid": "10000000000",
+  "seriesid": "2131007",
   "id": "2819acd73a420395f46ffae3106ff93067b4130f",
   "collectionid": "",
   "seofriendlyurl": "/video/summer-camp-island/twelve-angry-hedgehogs-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2131007",
+  "seriesname": "Summer Camp Island",
   "originalpremieredate": "2019-07-21T16:15:00.000Z",
   "pubdate": "2019-08-30T09:00:00.000Z",
   "expdate": "2019-09-13T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2171419",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2131007",
   "originalseriesname": "Summer Camp Island",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1568365140000",
   "mediaid": "2819acd73a420395f46ffae3106ff93067b4130f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
