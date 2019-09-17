@@ -2,7 +2,7 @@
   "airingid": "RADS1009041900018879",
   "seasonnumber": "1",
   "seasonitemnumber": "7",
-  "seriesid": "2064567",
+  "seriesid": "10000000000",
   "id": "7418d5516bc111afe3da8f2e084f77559769d2be",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/bye-bye-bellum-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2064567",
-  "seriesname": "Powerpuff Girls",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2016-04-11T22:00:00.000Z",
   "pubdate": "2019-09-10T09:00:00.000Z",
   "expdate": "2019-09-17T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2064572",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1568710740000",
   "mediaid": "7418d5516bc111afe3da8f2e084f77559769d2be",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
