@@ -2,7 +2,7 @@
   "airingid": "RADS1009041900018883",
   "seasonnumber": "4",
   "seasonitemnumber": "15",
-  "seriesid": "2000349",
+  "seriesid": "10000000000",
   "id": "63849f64fec786c5882aa7a394479a4d3b63838a",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/titan-saving-time-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2000349",
-  "seriesname": "Teen Titans Go!",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2017-03-10T23:00:00.000Z",
   "pubdate": "2019-09-10T09:00:00.000Z",
   "expdate": "2019-09-20T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2113919",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2000349",
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1568969940000",
   "mediaid": "63849f64fec786c5882aa7a394479a4d3b63838a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
