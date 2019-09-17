@@ -2,7 +2,7 @@
   "airingid": "RADS1009091900019501",
   "seasonnumber": "2",
   "seasonitemnumber": "4",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "914e0ce16d7f1f401293fe6a06ccc054a11fe04c",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/splitsville-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2017-03-24T23:45:00.000Z",
   "pubdate": "2019-09-17T09:00:00.000Z",
   "expdate": "2019-09-27T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2094648",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1569574740000",
   "mediaid": "914e0ce16d7f1f401293fe6a06ccc054a11fe04c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

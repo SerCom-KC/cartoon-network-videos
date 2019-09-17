@@ -2,7 +2,7 @@
   "airingid": "RADS1009091900019507",
   "seasonnumber": "2",
   "seasonitemnumber": "16",
-  "seriesid": "10000000000",
+  "seriesid": "2064567",
   "id": "54e113e50f6fb1578f76299f76761eceb69191e2",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/memory-lane-of-pain-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2064567",
+  "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2017-07-16T21:30:00.000Z",
   "pubdate": "2019-09-17T09:00:00.000Z",
   "expdate": "2019-09-27T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2107899",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1569574740000",
   "mediaid": "54e113e50f6fb1578f76299f76761eceb69191e2",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
