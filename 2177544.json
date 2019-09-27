@@ -23,12 +23,12 @@
   "pubdate": "2019-09-17T08:59:00.000Z",
   "expdate": "2020-03-30T03:59:59.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2177544_007_640x360.jpg",
-  "authtype": "unauth",
+  "authtype": "auth",
   "webflags": "",
-  "tags": "unauth",
+  "tags": "",
   "titleid": "2177544",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2177542",
   "originalseriesname": "DC Super Hero Girls",
   "hasparent": false,
@@ -36,6 +36,6 @@
   "pubdateasmilliseconds": "1568710740000",
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "6a2b52bc59f2aafa4b718744020b9b8ae4f16077",
-  "isunlockedfullepisode": true,
+  "isunlockedfullepisode": false,
   "ismultipropertycollection": false
 }
