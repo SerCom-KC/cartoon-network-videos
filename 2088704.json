@@ -2,7 +2,7 @@
   "airingid": "RADS1009091900019506",
   "seasonnumber": "5",
   "seasonitemnumber": "24",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "498571775ecc5b315b3d17f307da7544919d65da",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/exquisite-grandpa-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2017-06-30T20:30:00.000Z",
   "pubdate": "2019-09-17T09:00:00.000Z",
   "expdate": "2019-09-27T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088704",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1569574740000",
   "mediaid": "498571775ecc5b315b3d17f307da7544919d65da",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
