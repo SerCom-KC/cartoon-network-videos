@@ -2,7 +2,7 @@
   "airingid": "RADS1009111900019719",
   "seasonnumber": "1",
   "seasonitemnumber": "18",
-  "seriesid": "2181893",
+  "seriesid": "10000000000",
   "id": "9c287fcd2f6fb1691a4e71a127a43a8ae42c901d",
   "collectionid": "",
   "seofriendlyurl": "/video/mao-mao/legend-of-torbaclaun-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2181893",
-  "seriesname": "Mao Mao",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-09-07T14:15:00.000Z",
   "pubdate": "2019-09-28T08:59:00.000Z",
   "expdate": "2019-10-12T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2192344",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2181893",
   "originalseriesname": "Mao Mao",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1570870740000",
   "mediaid": "9c287fcd2f6fb1691a4e71a127a43a8ae42c901d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
