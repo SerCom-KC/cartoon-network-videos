@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1009111900019740",
+  "airingid": "RADS1009111900019741",
   "seasonnumber": "3",
   "seasonitemnumber": "4",
   "seriesid": "2079533",
@@ -20,8 +20,8 @@
   "seriestitleid": "2079533",
   "seriesname": "OK K.O.!",
   "originalpremieredate": "2019-07-14T20:45:00.000Z",
-  "pubdate": "2019-09-23T08:59:00.000Z",
-  "expdate": "2019-09-28T08:59:00.000Z",
+  "pubdate": "2019-09-28T08:59:00.000Z",
+  "expdate": "2019-10-01T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2187596_005_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "OK K.O.!",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1563137100000",
-  "pubdateasmilliseconds": "1569229140000",
-  "expdateasmilliseconds": "1569661140000",
+  "pubdateasmilliseconds": "1569661140000",
+  "expdateasmilliseconds": "1569920340000",
   "mediaid": "4ed4a316545ce867db6839339277f185f7a5c290",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
