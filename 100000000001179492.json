@@ -6789,7 +6789,7 @@
         "pubdate": "2019-09-30T04:00:59.000Z",
         "expdate": "2019-10-07T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2196278_004_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "webflags": "",
         "tags": "espanol",
         "titleid": "2196278",
