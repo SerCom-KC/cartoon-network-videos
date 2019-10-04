@@ -1353,7 +1353,7 @@
         "ismultipropertycollection": true
     },
     {
-        "airingid": "RADS1009201900022299",
+        "airingid": "RADS1009201900022307",
         "seasonnumber": "1",
         "seasonitemnumber": "1",
         "seriesid": "1000000000038665",
@@ -1374,10 +1374,10 @@
         "seriestitleid": "1000000000038665",
         "seriesname": "Halloween Specials",
         "originalpremieredate": "2017-10-27T22:15:00.000Z",
-        "pubdate": "2019-09-27T09:00:00.000Z",
-        "expdate": "2019-10-04T08:59:00.000Z",
+        "pubdate": "2019-10-04T08:59:00.000Z",
+        "expdate": "2020-01-01T04:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2132596_008_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "webflags": "",
         "tags": "halloween",
         "titleid": "2132596",
@@ -1387,8 +1387,8 @@
         "originalseriesname": "Unikitty",
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1509142500000",
-        "pubdateasmilliseconds": "1569574800000",
-        "expdateasmilliseconds": "1570179540000",
+        "pubdateasmilliseconds": "1570179540000",
+        "expdateasmilliseconds": "1577854799000",
         "mediaid": "f6f71d3efb9bdb98fa8c69abc6f438842b7b9e5c",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true
