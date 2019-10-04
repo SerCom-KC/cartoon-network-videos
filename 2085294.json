@@ -23,12 +23,12 @@
   "pubdate": "2019-10-04T09:00:00.000Z",
   "expdate": "2019-10-11T08:59:04.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2085294_010_640x360.jpg",
-  "authtype": "auth",
+  "authtype": "unauth",
   "webflags": "",
-  "tags": "",
+  "tags": "unauth",
   "titleid": "2085294",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -36,6 +36,6 @@
   "pubdateasmilliseconds": "1570179600000",
   "expdateasmilliseconds": "1570784344000",
   "mediaid": "ee98283c9253afe9cd9b96c8dddc3b82f368e7ca",
-  "isunlockedfullepisode": false,
+  "isunlockedfullepisode": true,
   "ismultipropertycollection": false
 }
