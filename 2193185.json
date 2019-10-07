@@ -23,9 +23,9 @@
   "pubdate": "2019-10-04T09:00:00.000Z",
   "expdate": "2019-10-11T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193185_010_640x360.jpg",
-  "authtype": "auth",
+  "authtype": "unauth",
   "webflags": "",
-  "tags": "espanol|victor and valentino en espanol|vic and val espanol - halloween",
+  "tags": "espanol|victor and valentino en espanol|vic and val espanol - halloween|unauth",
   "titleid": "2193185",
   "titletype": "Episode",
   "bannertext": "LATEST EPISODE",
@@ -36,6 +36,6 @@
   "pubdateasmilliseconds": "1570179600000",
   "expdateasmilliseconds": "1570784340000",
   "mediaid": "3ae82be92d3ecd9d6b31e23de666aec1e3d12277",
-  "isunlockedfullepisode": false,
+  "isunlockedfullepisode": true,
   "ismultipropertycollection": false
 }
