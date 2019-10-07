@@ -2,7 +2,7 @@
   "airingid": "RADS1009201900022228",
   "seasonnumber": "1",
   "seasonitemnumber": "6",
-  "seriesid": "2141710",
+  "seriesid": "10000000000",
   "id": "0ee01074d3014f82a726921b9c7fc9509e356588",
   "collectionid": "",
   "seofriendlyurl": "/video/total-dramarama/aquarium-for-a-dream-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2141710",
-  "seriesname": "Total Dramarama",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-09-08T13:15:00.000Z",
   "pubdate": "2019-09-27T09:00:00.000Z",
   "expdate": "2019-10-07T08:59:14.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2141716",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2141710",
   "originalseriesname": "Total Dramarama",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1570438754000",
   "mediaid": "0ee01074d3014f82a726921b9c7fc9509e356588",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
