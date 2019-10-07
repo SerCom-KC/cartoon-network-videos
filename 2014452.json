@@ -2,7 +2,7 @@
   "airingid": "RADS1009201900021705",
   "seasonnumber": "1",
   "seasonitemnumber": "13",
-  "seriesid": "10000000000",
+  "seriesid": "2012957",
   "id": "167b7dcc76fb42ecd99b51d122996d887405401c",
   "collectionid": "",
   "seofriendlyurl": "/video/clarence/man-of-the-house-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2012957",
+  "seriesname": "Clarence",
   "originalpremieredate": "2014-07-17T22:45:00.000Z",
   "pubdate": "2019-09-27T09:00:00.000Z",
   "expdate": "2019-10-07T08:59:29.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2014452",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2012957",
   "originalseriesname": "Clarence",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1570438769000",
   "mediaid": "167b7dcc76fb42ecd99b51d122996d887405401c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
