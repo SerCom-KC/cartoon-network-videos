@@ -3,7 +3,7 @@
   "seasonnumber": "2",
   "seasonitemnumber": "10",
   "seriesid": "2170837",
-  "id": "d865df619cab3d9fe1e8500f2b07ddc610fc1341",
+  "id": "95efe020ffc45f77f34cde797c2da7440f9accd3",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/the-mask-of-pridethe-graveyard-of-courage-episode.html",
   "seasonepisodenumber": "10",
@@ -21,7 +21,7 @@
   "seriesname": "Bakugan: Battle Planet",
   "originalpremieredate": "2019-10-13T11:00:00.000Z",
   "pubdate": "2019-09-06T09:00:00.000Z",
-  "expdate": "2019-11-01T08:59:57.000Z",
+  "expdate": "2019-11-03T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2203702_006_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -34,8 +34,8 @@
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1570964400000",
   "pubdateasmilliseconds": "1567760400000",
-  "expdateasmilliseconds": "1572598797000",
-  "mediaid": "d865df619cab3d9fe1e8500f2b07ddc610fc1341",
+  "expdateasmilliseconds": "1572775140000",
+  "mediaid": "95efe020ffc45f77f34cde797c2da7440f9accd3",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
 }

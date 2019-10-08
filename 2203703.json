@@ -3,7 +3,7 @@
   "seasonnumber": "2",
   "seasonitemnumber": "11",
   "seriesid": "2170837",
-  "id": "e627db039205e43db03ceee40c0268c9b892d608",
+  "id": "f79aa035e6632c9e8fabac7438173eae07c69c9c",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/vestroia-episode.html",
   "seasonepisodenumber": "11",
@@ -21,7 +21,7 @@
   "seriesname": "Bakugan: Battle Planet",
   "originalpremieredate": "2019-10-20T11:00:00.000Z",
   "pubdate": "2019-09-06T09:00:00.000Z",
-  "expdate": "2019-11-01T08:59:57.000Z",
+  "expdate": "2019-11-10T09:59:57.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2203703_007_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -34,8 +34,8 @@
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1571569200000",
   "pubdateasmilliseconds": "1567760400000",
-  "expdateasmilliseconds": "1572598797000",
-  "mediaid": "e627db039205e43db03ceee40c0268c9b892d608",
+  "expdateasmilliseconds": "1573379997000",
+  "mediaid": "f79aa035e6632c9e8fabac7438173eae07c69c9c",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
 }
