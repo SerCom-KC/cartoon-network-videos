@@ -2,7 +2,7 @@
   "airingid": "RADS1009251900023312",
   "seasonnumber": "3",
   "seasonitemnumber": "9",
-  "seriesid": "2064567",
+  "seriesid": "10000000000",
   "id": "80339dd8e938ba2f01dcbf6b542ed9641b503969",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/blundercup-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2064567",
-  "seriesname": "Powerpuff Girls",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2018-06-16T20:00:00.000Z",
   "pubdate": "2019-10-04T09:00:00.000Z",
   "expdate": "2019-10-11T08:59:04.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2145457",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2064567",
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1570784344000",
   "mediaid": "80339dd8e938ba2f01dcbf6b542ed9641b503969",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
