@@ -2,7 +2,7 @@
   "airingid": "RADS1009251900023523",
   "seasonnumber": "3",
   "seasonitemnumber": "2",
-  "seriesid": "10000000000",
+  "seriesid": "2056641",
   "id": "9c835a3ba8d30a2972bf87cb113ffbe3da336a92",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/anger-management-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2056641",
+  "seriesname": "We Bare Bears",
   "originalpremieredate": "2017-04-05T23:00:00.000Z",
   "pubdate": "2019-10-04T09:00:00.000Z",
   "expdate": "2019-10-11T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088719",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1570784340000",
   "mediaid": "9c835a3ba8d30a2972bf87cb113ffbe3da336a92",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
