@@ -2,7 +2,7 @@
   "airingid": "RADS1010011900024831",
   "seasonnumber": "1",
   "seasonitemnumber": "7",
-  "seriesid": "10000000000",
+  "seriesid": "2117352",
   "id": "7351d480ca419cae15f8abfeeb35e36cfee1bb5c",
   "collectionid": "",
   "seofriendlyurl": "/video/mega-man/nice-on-ice-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2117352",
+  "seriesname": "Mega Man",
   "originalpremieredate": "2018-08-26T10:30:00.000Z",
   "pubdate": "2019-10-07T09:00:00.000Z",
   "expdate": "2019-10-14T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2117359",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2117352",
   "originalseriesname": "Mega Man",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1571043540000",
   "mediaid": "7351d480ca419cae15f8abfeeb35e36cfee1bb5c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
