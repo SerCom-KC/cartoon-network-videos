@@ -2,7 +2,7 @@
   "airingid": "RADS1010041900025638",
   "seasonnumber": "1",
   "seasonitemnumber": "25",
-  "seriesid": "2181893",
+  "seriesid": "10000000000",
   "id": "d2668decf24fbd232363e330969db8609673b1ac",
   "collectionid": "",
   "seofriendlyurl": "/video/mao-mao/sugar-berry-fever-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2181893",
-  "seriesname": "Mao Mao",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-09-28T14:00:00.000Z",
   "pubdate": "2019-10-19T08:59:00.000Z",
   "expdate": "2019-11-02T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2195429",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2181893",
   "originalseriesname": "Mao Mao",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1572685140000",
   "mediaid": "d2668decf24fbd232363e330969db8609673b1ac",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
