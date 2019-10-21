@@ -2,7 +2,7 @@
   "airingid": "RADS1010041900025722",
   "seasonnumber": "1",
   "seasonitemnumber": "51",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "e3f140b206d5c40b887b4aa33ea7cc18bfcc6e05",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/wasteland-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2015-02-26T22:30:00.000Z",
   "pubdate": "2019-10-18T09:00:00.000Z",
   "expdate": "2019-10-25T08:59:18.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2046371",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2007332",
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1571993958000",
   "mediaid": "e3f140b206d5c40b887b4aa33ea7cc18bfcc6e05",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
