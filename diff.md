@@ -3,8 +3,23 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: October 22, 2019 at 01:00:14 EDT_
+_Last Update: October 22, 2019 at 05:00:13 EDT_
 ## Video added
-No videos were added.
+### 2062619
+**Adventure Time S07E12 - Stakes Part 7: Checkmate**  
+TV-PG 🔓 11:28  
+⌛ November 1, 2019 at 04:59:00 EDT  
+[Open in app](https://tinyurl.com/y4v6g6eo) or on the web: https://www.cartoonnetwork.com/video/adventure-time/stakes-part-7-checkmate-episode.html  
+seriesid=`757073` titleid=`2062619` mediaid=`4d6af1f54f28dd64c763ee01fcd4b99aeb93e3dc`  
+_On the eve of battle, Marceline's archenemy comes to her with a strange proposal._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2062619_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062619_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062619_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062619_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062619_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062619_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062619_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062619_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062619_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062619_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062619_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062619_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062619_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062619_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062619_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062619_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062619_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062619_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062619_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062619_010_640x360.jpg" height="144px" /></a>
+### 2061415
+**Adventure Time S07E13 - Stakes Part 8: The Dark Cloud**  
+TV-PG 🔓 11:28  
+⌛ November 1, 2019 at 04:59:00 EDT  
+[Open in app](https://tinyurl.com/y6qggs72) or on the web: https://www.cartoonnetwork.com/video/adventure-time/stakes-part-8-the-dark-cloud-episode.html  
+seriesid=`757073` titleid=`2061415` mediaid=`63fd4c3a30722c47ec2e9b6b2c6f4c8ea000a2b8`  
+_The final confrontation! Who will survive?_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2061415_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2061415_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2061415_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2061415_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2061415_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2061415_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2061415_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2061415_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2061415_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2061415_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2061415_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2061415_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2061415_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2061415_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2061415_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2061415_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2061415_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2061415_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2061415_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2061415_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.
