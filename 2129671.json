@@ -2,7 +2,7 @@
   "airingid": "RADS1010081900026475",
   "seasonnumber": "1",
   "seasonitemnumber": "3",
-  "seriesid": "10000000000",
+  "seriesid": "2129657",
   "id": "9b9e4f3d68b653ab34222d9cfa92bcca1ed560f8",
   "collectionid": "",
   "seofriendlyurl": "/video/power-players/attack-of-thermometron-9000-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2129657",
+  "seriesname": "Power Players",
   "originalpremieredate": "2019-09-28T16:30:00.000Z",
   "pubdate": "2019-10-19T09:00:00.000Z",
   "expdate": "2019-11-02T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2129671",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2129657",
   "originalseriesname": "Power Players",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1572685140000",
   "mediaid": "9b9e4f3d68b653ab34222d9cfa92bcca1ed560f8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

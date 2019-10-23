@@ -2,7 +2,7 @@
   "airingid": "RADS1010081900026477",
   "seasonnumber": "1",
   "seasonitemnumber": "4",
-  "seriesid": "10000000000",
+  "seriesid": "2129657",
   "id": "0ac82ba1e281e29befd3495bf8e4d18273aa28f9",
   "collectionid": "",
   "seofriendlyurl": "/video/power-players/the-dynamo-dynamic-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2129657",
+  "seriesname": "Power Players",
   "originalpremieredate": "2019-09-28T16:45:00.000Z",
   "pubdate": "2019-10-19T09:00:00.000Z",
   "expdate": "2019-11-02T08:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2129672",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2129657",
   "originalseriesname": "Power Players",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1572685140000",
   "mediaid": "0ac82ba1e281e29befd3495bf8e4d18273aa28f9",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

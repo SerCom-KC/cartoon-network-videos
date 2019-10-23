@@ -2,7 +2,7 @@
   "airingid": "RADS1008301900017554",
   "seasonnumber": "1",
   "seasonitemnumber": "1",
-  "seriesid": "10000000000",
+  "seriesid": "2129657",
   "id": "1f21d1bb2226f8edba182d42df6aa5fd2e377913",
   "collectionid": "",
   "seofriendlyurl": "/video/power-players/unboxing-part-1-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2129657",
+  "seriesname": "Power Players",
   "originalpremieredate": "2019-08-30T04:00:00.000Z",
   "pubdate": "2019-08-30T04:00:00.000Z",
   "expdate": "2020-08-30T03:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2129669",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2129657",
   "originalseriesname": "Power Players",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1598759940000",
   "mediaid": "1f21d1bb2226f8edba182d42df6aa5fd2e377913",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
