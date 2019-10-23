@@ -2277,7 +2277,7 @@
         "seriesname": "Steven Universe",
         "originalpremieredate": "2019-09-02T22:00:00.000Z",
         "pubdate": "2019-09-03T22:00:00.000Z",
-        "expdate": "2019-10-25T18:50:00.000Z",
+        "expdate": "2019-10-25T12:50:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2191376_005_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -2290,7 +2290,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1567461600000",
         "pubdateasmilliseconds": "1567548000000",
-        "expdateasmilliseconds": "1572029400000",
+        "expdateasmilliseconds": "1572007800000",
         "mediaid": "bd141801b2ea9d064f4da8ca91fa845b9573b41a",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
