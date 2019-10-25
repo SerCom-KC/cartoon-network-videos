@@ -2,7 +2,7 @@
   "airingid": "RADS1010041900025765",
   "seasonnumber": "3",
   "seasonitemnumber": "11",
-  "seriesid": "10000000000",
+  "seriesid": "2056641",
   "id": "39928c4c8972a1d4b45e59e33340f4285d9129ab",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/the-demon-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2056641",
+  "seriesname": "We Bare Bears",
   "originalpremieredate": "2017-04-20T23:00:00.000Z",
   "pubdate": "2019-10-18T08:59:00.000Z",
   "expdate": "2019-10-25T08:58:01.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2088720",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2056641",
   "originalseriesname": "We Bare Bears",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1571993881000",
   "mediaid": "39928c4c8972a1d4b45e59e33340f4285d9129ab",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
