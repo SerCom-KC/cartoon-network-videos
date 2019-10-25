@@ -2,7 +2,7 @@
   "airingid": "RADS1010041900025686",
   "seasonnumber": "2",
   "seasonitemnumber": "22",
-  "seriesid": "2079533",
+  "seriesid": "10000000000",
   "id": "41605d60971b94fe83b9918d0336613b3fe5fdbb",
   "collectionid": "",
   "seofriendlyurl": "/video/ok-ko/carolquest-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2079533",
-  "seriesname": "OK K.O.!",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2019-05-12T20:45:00.000Z",
   "pubdate": "2019-10-18T09:00:00.000Z",
   "expdate": "2019-10-25T08:59:06.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2162794",
   "titletype": "Episode",
-  "bannertext": "UNLOCKED",
+  "bannertext": "",
   "originalseriesid": "2079533",
   "originalseriesname": "OK K.O.!",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1571993946000",
   "mediaid": "41605d60971b94fe83b9918d0336613b3fe5fdbb",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": true
 }
