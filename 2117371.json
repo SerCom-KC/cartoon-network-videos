@@ -2,7 +2,7 @@
   "airingid": "RADS1010041900025665",
   "seasonnumber": "1",
   "seasonitemnumber": "19",
-  "seriesid": "10000000000",
+  "seriesid": "2117352",
   "id": "3da049166933cea97ceb07a9b47be33ec19486c5",
   "collectionid": "",
   "seofriendlyurl": "/video/mega-man/lightfall-part-1-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2117352",
+  "seriesname": "Mega Man",
   "originalpremieredate": "2018-10-07T10:30:00.000Z",
   "pubdate": "2019-10-18T09:01:00.000Z",
   "expdate": "2019-10-25T09:00:29.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2117371",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2117352",
   "originalseriesname": "Mega Man",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1571994029000",
   "mediaid": "3da049166933cea97ceb07a9b47be33ec19486c5",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }

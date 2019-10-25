@@ -2,7 +2,7 @@
   "airingid": "RADS1010041900025662",
   "seasonnumber": "1",
   "seasonitemnumber": "16",
-  "seriesid": "10000000000",
+  "seriesid": "2117352",
   "id": "d8a56cbe9531865fe1deb64b26054e646f262a19",
   "collectionid": "",
   "seofriendlyurl": "/video/mega-man/power-cycle-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2117352",
+  "seriesname": "Mega Man",
   "originalpremieredate": "2018-09-23T10:30:00.000Z",
   "pubdate": "2019-10-18T09:01:00.000Z",
   "expdate": "2019-10-25T09:00:29.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2117368",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2117352",
   "originalseriesname": "Mega Man",
   "hasparent": false,
@@ -37,5 +37,5 @@
   "expdateasmilliseconds": "1571994029000",
   "mediaid": "d8a56cbe9531865fe1deb64b26054e646f262a19",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": false
 }
