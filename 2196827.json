@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1009111900019690",
+  "airingid": "RADS1010071900026422",
   "seasonnumber": "1",
   "seasonitemnumber": "27",
   "seriesid": "2181893",
@@ -20,8 +20,8 @@
   "seriestitleid": "2181893",
   "seriesname": "Mao Mao",
   "originalpremieredate": "2019-10-05T14:00:00.000Z",
-  "pubdate": "2019-09-20T09:00:00.000Z",
-  "expdate": "2019-10-26T08:59:00.000Z",
+  "pubdate": "2019-10-26T09:00:00.000Z",
+  "expdate": "2020-07-02T03:59:59.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2196827_001_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,8 +33,8 @@
   "originalseriesname": "Mao Mao",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1570284000000",
-  "pubdateasmilliseconds": "1568970000000",
-  "expdateasmilliseconds": "1572080340000",
+  "pubdateasmilliseconds": "1572080400000",
+  "expdateasmilliseconds": "1593662399000",
   "mediaid": "0fc19bfafec6484e3240cf7b8f8836ff426c7e8c",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
