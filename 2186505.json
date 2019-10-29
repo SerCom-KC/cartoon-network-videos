@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Concerned about Puppycorn's propensity to hurt himself constantly, the gang places him into Richard's old Safety Suit. The suit does indeed keep him safe, but when Puppycorn purposefully puts himself in danger the suit goes into lock down, and won't allow him to move. Now the gang must figure out a way to get him out of the Safety Suit.",
-  "duration": 670,
+  "duration": 671,
   "freewheelid": "cn-2186505",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "a3d12d66c0b65d6bb9ce3c69c01228f70d0730c6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "KO's inner monologue tells us how even a mundane everyday activity is another step in his journey to being a great hero.",
-  "duration": 119,
+  "duration": 120,
   "freewheelid": "cn-2091032",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "d1bc813473a2cfd318551a58c2bca4db6de17db5",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }

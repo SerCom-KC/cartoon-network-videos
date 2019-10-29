@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After receiving a super-exclusive ticket to Adrenaland, Ben leaves behind Grandpa Max and Gwen to enjoy the perks of being the parks only attendant, but when he learns he's not alone, our hero must now contend with the only kid who could afford the price of admission: Billy Billions!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2168268",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1573293540000",
   "mediaid": "5d8f832eba0c1b2b697669e05bfd9a17f546b848",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

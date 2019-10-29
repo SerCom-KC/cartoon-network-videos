@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Titans put on a show but Robin warns that the performance must be boring or else they'll wake up the wolves.",
-  "duration": 664,
+  "duration": 665,
   "freewheelid": "cn-2196164",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "5741a3eae4be84b82766ce7f5bb2fca8dd994566",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

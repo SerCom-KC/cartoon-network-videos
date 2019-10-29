@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Girls Night Out Crew decide to stay in and have a slumber party but an unknown alien threat descends on Jump City.",
-  "duration": 624,
+  "duration": 625,
   "freewheelid": "cn-2196353",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "430dc2aaebf258e8faf36e9d8d545c418d37f173",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

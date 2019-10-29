@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Lost in Transylberia, the Warriors come to a haunted house for help and meet a young ghost lady inside that wants to spend the rest of her afterlife with Prohyas!",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2089135",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598776000",
   "mediaid": "bb50d7ca11ee2096ef5e96a31f4bdab6d5c9660b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

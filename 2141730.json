@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Noah tries to rescue the chocolates Owen forgot outside.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2141730",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598763000",
   "mediaid": "c1a89f5c9c91a31f0d3481816a0d3a43f34cfa0d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "In Regular Show's sixth installment of \"Terror Tales,\" the guys gather in the house on the Dome and tell scary Halloween stories just like ol' times, only this Halloween, the stories have an extra terrifying, science fiction twist.",
-  "duration": 1340,
+  "duration": 1341,
   "freewheelid": "cn-2088600",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "2b444066bb1e6628b861c331b3d93e48f8c3d7f1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

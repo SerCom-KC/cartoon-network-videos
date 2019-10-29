@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Diana Prince is a distant underdog when she enters a pie-eating contest against Barry Allen and Doris Zeul.",
-  "duration": 172,
+  "duration": 173,
   "freewheelid": "cn-2193732",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585472340000",
   "mediaid": "00f585f3fef1fd23c31b79c277058b4f51cb73ec",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

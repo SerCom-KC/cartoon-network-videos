@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Oscar pretends to be a talking pair of pajamas named \"Jimjams\" to make his friend Pajamas happy.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2133726",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1593316799000",
   "mediaid": "01cddd72110af9201e4633c57b0d141fe1da6712",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

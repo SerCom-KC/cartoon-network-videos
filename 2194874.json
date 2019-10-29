@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Dendy tries to update KO's Video Channel for him, but has trouble finding something to post.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2194874",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "3e3e5a5ea1adb82c5057efe173c759972c64e346",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }

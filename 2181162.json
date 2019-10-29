@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang are at the local laundromat cleaning their clothes, when Unikitty finds Batman's uniform mixed in with her clothes.  Intoxicated by the coolness of it, Unikitty takes on the persona of Batman and begins to fight crime.  When she accidentally causes Master Frown to step up his crime game, she will need the help of her friends, dressed as Robin, to stop him.",
-  "duration": 674,
+  "duration": 675,
   "freewheelid": "cn-2181162",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "addacae5374896c7c46e23641b9e58fc65faf89a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

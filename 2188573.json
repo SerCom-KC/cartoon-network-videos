@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Thinking it's a way to reconnect with her father, Raven enters a beauty pageant.",
-  "duration": 618,
+  "duration": 619,
   "freewheelid": "cn-2188573",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "a66a96517bf8a6127808573a518886d95362d854",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

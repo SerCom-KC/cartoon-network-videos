@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Robin gets amnesia and starts thinking that Hawkman is his mother.",
-  "duration": 639,
+  "duration": 640,
   "freewheelid": "cn-2196355",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "773f556be78caf09af4e57426f020b7b9df24c49",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

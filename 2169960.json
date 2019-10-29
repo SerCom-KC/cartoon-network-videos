@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang is planning a surprise for Puppycorn, so they spell things out when talking so he won't find out. Desperate to know what they're saying, Puppycorn finds a magic book that he thinks will help him learn to spell, but unbeknownst to him, it's teaching him how to cast spells! Will Puppycorn realize that knowledge is power and some secrets are kept for a reason?",
-  "duration": 670,
+  "duration": 671,
   "freewheelid": "cn-2169960",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598800000",
   "mediaid": "42c071ecb9d981a471b79d45c8da87104fb25ec6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

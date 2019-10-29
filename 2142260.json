@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Susie holds the annual talent show that has the rest of the campers competing to win.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2142260",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "e8473ef356f8ac606b2be2d94d097be6846bc4a2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

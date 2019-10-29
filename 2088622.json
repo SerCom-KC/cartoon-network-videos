@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Water balloon fights, warring factions and the risk of jail time, everything is on the line when Clarence and friends play the biggest game of capture the flag yet! Everyone wants to take home the crown, and the power to control the neighborhood's juice boxes.",
-  "duration": 1349,
+  "duration": 1350,
   "freewheelid": "cn-2088622",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "d3ccfc841287b98a6c5566597994574e8feeaf47",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

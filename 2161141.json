@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "While Lloyd and the rebels celebrate their successful strike against Emperor Garmadon, in the Realm of Oni and Dragon, the Ninja dare an elaborate escape from the clutches of Iron Baron and his Dragon Hunters.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2161141",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1629863999000",
   "mediaid": "a77e2e1b4c3e59eea328cd7470ec511b44c8a11d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

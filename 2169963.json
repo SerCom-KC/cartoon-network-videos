@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After their spaceship explodes, Unikitty and the gang float helplessly through space. As they try to formulate a plan that will get them home safe, they flash back to how each of them is responsible for their ship being destroyed. Will they make it home, and more importantly who will be to blame if they don't.",
-  "duration": 674,
+  "duration": 675,
   "freewheelid": "cn-2169963",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "b47548d12523fb9e65feeaf63426943e42c8603c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

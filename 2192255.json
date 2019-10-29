@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Having just moved to the boring Metropolis suburbs, Batgirl is thrilled when she intercepts a call from Batman asking for help. But before she can stop a visiting Gotham villain, she'll have to sneak past her dad, Police Commissioner Gordon.",
-  "duration": 681,
+  "duration": 682,
   "freewheelid": "cn-2192255",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "a1586bc1069dfeb7ea34649931299daae93b8580",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

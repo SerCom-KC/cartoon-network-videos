@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Dawn Before Dusk, Part 1: The AO meet Benton Dusk discovering that their quiet little corner of the world is about to become much, much larger./Dawn Before Dusk, Part 2: Benton Dusk reveals that the AO have been indentified as persons of interest by powerful corporations including Philomena Dusk's AAAnimus.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2170850",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "68b9e0b7619db7e612716057758e26a557d5bf65",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

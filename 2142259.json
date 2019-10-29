@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The campers get magical powers from the witches supply of magic ice cream.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2142259",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "8427aee8d34ebbbc6893c75411ed39e8079ff590",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

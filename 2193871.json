@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The boys forget to get Chata a gift for Abuela Day and in a panicked move, they pretend that the bongo drums they borrowed from Xochi are for her. Knowing they have to return the drums, Victor & Valentino pretend to be burglars to steal the bongos back.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2193871",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1573293540000",
   "mediaid": "004c6c0a05f588201eb66445711eed1f1cf36fb6",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

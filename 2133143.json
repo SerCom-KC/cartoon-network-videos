@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "OK K.O.! Let's Be Heroes character designer, Julia Srednicki, and art director, John Pham, show you how to draw Enid.",
-  "duration": 63,
+  "duration": 64,
   "freewheelid": "cn-2133143",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "45d6c1c08543631c48dbb61d71015376a4a4cfe8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }

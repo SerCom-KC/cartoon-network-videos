@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Flonk hires the Warriors to make Witch Way change his brother Helmut from a frog back to human.",
-  "duration": 680,
+  "duration": 681,
   "freewheelid": "cn-2160691",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598776000",
   "mediaid": "b098618ca37b247de78f3297bc3c1c3a43bc3fc7",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Clarence starts to play around with his home video camera, he becomes increasingly drawn into the world of filmmaking. From talking toys, to real actors, to documentary subjects, Clarence is determined to find the right style to tell his story!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088659",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854740000",
   "mediaid": "f254de60f434e97f30c27b5f8f626d01ed13cea9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

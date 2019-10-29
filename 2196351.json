@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "So she isn't left out of inside jokes, the Titans time travel to past adventures and insert Bumblebee into their memories.",
-  "duration": 622,
+  "duration": 623,
   "freewheelid": "cn-2196351",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "be6641f9f4039f2a64a3c92330a67d40ab6e2abe",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

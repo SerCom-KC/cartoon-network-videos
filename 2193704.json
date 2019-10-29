@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "When his fishbowl breaks, Garth embarks on a frantic search through Metropolis to find water for his ailing goldfish.",
-  "duration": 167,
+  "duration": 168,
   "freewheelid": "cn-2193704",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1583744340000",
   "mediaid": "f2269ecb8f4034792585bd8f2b2d470f5c15d75c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

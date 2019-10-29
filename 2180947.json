@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After Vic loses a wrestling match, V&V journey to the underworld to seek advice from their uncle, a famous wrestler named El Toro.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2180947",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598800000",
   "mediaid": "a03761884dff923a6289045fbc9c99739f3da49e",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

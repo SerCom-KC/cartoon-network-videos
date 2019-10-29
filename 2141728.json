@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Duncan is determined to stop the musical duo Bananas & Cheese from coming to the daycare.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2141728",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598763000",
   "mediaid": "812cd63125be6a6a826893b0d40d5fcfb038152b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Chad realizes his lazy habits might be rubbing off on Clarence, he decides to participate in the Aberdale Marathon. However, the athletic Chad doesn't know the first thing about being a runner, and must enlist the help of Clarence to train!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088648",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854740000",
   "mediaid": "fd894154f46da3a8cbe375af43a77a6560de3c05",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

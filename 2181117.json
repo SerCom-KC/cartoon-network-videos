@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When six ordinary girls meet and discover that they each have extraordinary powers, they decide to join forces to take on one of Metropolis's most sinister villains.\n",
-  "duration": 645,
+  "duration": 646,
   "freewheelid": "cn-2181117",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "e572f8a15ed15622429f16cefe4d9df4a1a1527f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

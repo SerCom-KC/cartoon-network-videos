@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Pieces of Mr. Reese's past are revealed when his old partner on the police force, Officer Moody, visits Aberdale Elementary.\n",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088631",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854740000",
   "mediaid": "6470bf455b37e60b3194e31ca4b624b3c264e724",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

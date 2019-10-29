@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When the Joker traps Batman, the Justice League decides against their better judgment to allow Riddler, who is trying to go straight, to help them track him down.",
-  "duration": 675,
+  "duration": 676,
   "freewheelid": "cn-2085517",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598771000",
   "mediaid": "3065a427e0ede5a2cd777ed5fbfec1d8512a7bfd",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

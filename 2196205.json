@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Vic & Val are in awe of the new magician in town, but things go awry when they agree to help him out with a new trick - despite Chata's wishes.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2196205",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1573293577000",
   "mediaid": "8f1fa2fa4a6eed7cb1ff67f93a58988d80a0e8e4",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

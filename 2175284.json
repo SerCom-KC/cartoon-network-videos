@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ramona invites Hedgehog and Oscar to participate in a special holiday ritual.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2175284",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1592884799000",
   "mediaid": "fbac33a35114135a63e161acedae3409e6b4f662",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

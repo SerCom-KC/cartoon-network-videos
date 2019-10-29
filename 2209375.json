@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Did you know the DC Super Hero Girls aren't the only super heroes at Metropolis High? Meet Steve Trevor, the leader of the pack. Although the only thing \"super\" about him is that Wonder Woman is crazy for him.",
-  "duration": 94,
+  "duration": 95,
   "freewheelid": "cn-2209375",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585472340000",
   "mediaid": "d951ebc12aa329e20a0b3a5ba021d3bb41faa5a4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

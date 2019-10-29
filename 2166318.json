@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The campers must battle ghosts of their own creation after their scary stories mysteriously come true.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2166318",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1573207140000",
   "mediaid": "09d4d1c405d3a857b8a3b9f3003087b3d91dfb22",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

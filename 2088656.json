@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mary buys a new trampoline for the family, but an accident lands her on the couch for a while. Determined to fight the boredom of being stuck indoors, she discovers her neighbor may be hiding something exciting.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088656",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854740000",
   "mediaid": "4a0cb51820fae068349600be6f3ccb521aadf48d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

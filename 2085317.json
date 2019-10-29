@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "While winning big on a Sumo Slammers video game, Ben gets the idea to win a wrestling match for real until an intimidating wrestler named Iron Kyle decides to make it a true challenge.",
-  "duration": 693,
+  "duration": 694,
   "freewheelid": "cn-2085317",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "c1dcb802db433e1df95a4772c3d2289bf907c108",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

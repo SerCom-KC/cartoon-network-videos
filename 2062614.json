@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After Mr. Reese discovers his precious car smeared with meatball sauce, he pulls out his officer's cap and enlists Clarence to help his investigation to nab the culprit.",
-  "duration": 684,
+  "duration": 685,
   "freewheelid": "cn-2062614",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "b5556729f7cee55a8192a38ac1a29c442216ec4b",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

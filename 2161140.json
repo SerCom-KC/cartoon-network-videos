@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Lloyd must find his voice as he leads a small resistance to capture the airwaves in Ninjago City. Meanwhile in the First Realm, Iron Baron takes the Ninja on a dragon hunt.",
-  "duration": 1320,
+  "duration": 1321,
   "freewheelid": "cn-2161140",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1629863999000",
   "mediaid": "ef92d43378d9cc44b5477931f6dd56107d7d9f60",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

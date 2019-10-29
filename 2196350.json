@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Needing a hero with shrinking powers, but forgetting about Bumblebee, Robin invites The Atom to join their fight against the Brain.",
-  "duration": 659,
+  "duration": 660,
   "freewheelid": "cn-2196350",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "3bfb54dd2197da2798ef27b4b2325d3de0e54d83",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

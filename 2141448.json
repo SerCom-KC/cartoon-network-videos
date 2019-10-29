@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Oscar and Hedgehog befriend a ghost who can't remember who he is.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2141448",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598781000",
   "mediaid": "ddd5d9a075b9721a4a126c8abde83bf9772e52f4",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

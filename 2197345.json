@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Bao Bao returns, and the King makes him his pet, Mao Mao must rescue his ex-partner.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2197345",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1573293588000",
   "mediaid": "a1ab60f150f4d6e3070062124848415d875e8131",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

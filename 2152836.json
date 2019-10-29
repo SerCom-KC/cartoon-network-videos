@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Unikitty and the gang bring home a tiny creature they name Pet Pet, but Richard won't let them keep it if they can't prove they are responsible owners. But when Pet Pet runs away, Unikitty must pretend to be Pet Pet until they can find him, or Richard will never let them have Pet Pet (or any pet) ever again! Will Unikitty survive pet training, or finally admit responsibility is a lot harder than she thought?",
-  "duration": 669,
+  "duration": 670,
   "freewheelid": "cn-2152836",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "8bc8e1dded59da5401f1f652733ec3a50a3f4012",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

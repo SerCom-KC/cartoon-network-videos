@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Oscar and Hedgehog must learn to exist without each other when they are put on different teams during a scavenger hunt.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2166820",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1592884799000",
   "mediaid": "95c614a7364fdf941703a56ff0c8c2543932110a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

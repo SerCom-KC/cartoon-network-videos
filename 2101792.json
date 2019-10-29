@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "KO and Dendy watch some clouds.",
-  "duration": 119,
+  "duration": 120,
   "freewheelid": "cn-2101792",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "01553cc5ef09ec512976f2d9038f223cf60a1113",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After not receiving participation medals, the Titans must demonstrate what they learned at camp.",
-  "duration": 650,
+  "duration": 651,
   "freewheelid": "cn-2196347",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "013d1a3c1cba63867f98d33e441669861b2b7157",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

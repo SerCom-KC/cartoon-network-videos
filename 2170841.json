@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Local Heroes: After the AO cause accidental destruction Dan's parents question whether the kids should be allowed to keep their Bakugan./Pegatrix: Lia disagrees with her new Bakugan Pegatrix on battle techniques but during a fierce fight Lia must rely on Pegatrix's battle savy.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2170841",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "bbe45474f6c63cd8fccbcf302b8ad7e9e6d1de0b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

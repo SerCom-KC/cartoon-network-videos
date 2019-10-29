@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Clarence is convinced he has the power to manipulate time he vows to only use his abilities for good. However, a day at school puts his morals to the test when he's given the ultimate choice to help his friends or pause time in the name of fun.",
-  "duration": 684,
+  "duration": 685,
   "freewheelid": "cn-2065511",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "8385b942e15911490aaf0d7abf4914a37afe393a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

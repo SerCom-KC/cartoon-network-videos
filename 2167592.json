@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After saving a State University Alumni ribbon cutting ceremony, Ben becomes the guest of honor at the upcoming Gala, but when the cirque entertainment turns out be Zombozo, in disguise, Ben must not only defeat the evil clown but his mysterious new sidekick, Pirouette!",
-  "duration": 675,
+  "duration": 676,
   "freewheelid": "cn-2167592",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572685140000",
   "mediaid": "82a1fe38e7e6be46cb415759dd829d68cc2213f7",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

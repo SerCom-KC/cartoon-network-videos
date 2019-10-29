@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "KO makes a documentary of a day in the life of his karate master mom, Carol.",
-  "duration": 123,
+  "duration": 124,
   "freewheelid": "cn-2086516",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "1ef2925f00e568204d631dfee34129ce38298f61",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }

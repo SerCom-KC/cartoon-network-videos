@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben, Gwen and Max revisit their favorite amusement park, renovated and re-branded as AdrenaWORLD! Unfortunately, the new management is Zombozo and his trio of new henchmen! He's got a plan to hypnotize everyone in the park to form a criminal army. Ben has to set aside his desire to ride every ride in the park and make things right.",
-  "duration": 694,
+  "duration": 695,
   "freewheelid": "cn-2088592",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "2f72935fd413e1de81327e0255d6213961c1b08f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

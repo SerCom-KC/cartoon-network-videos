@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Lloyd turns the tables on Harumi to take his father's power away, and the Ninja learn what it takes to be a Dragon Hunter.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2161144",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1629863999000",
   "mediaid": "4d7e16405d51795833feccb77d7221023e290685",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

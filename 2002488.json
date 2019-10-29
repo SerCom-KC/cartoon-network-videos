@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Raven eats a bad meatball that causes tentacles to spring from her teeth and devour the other Titans.",
-  "duration": 664,
+  "duration": 665,
   "freewheelid": "cn-2002488",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "7cd34436d7650cee02d3f3051a20164d2be49845",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

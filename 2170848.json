@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Home on the Run: We are introduced to Shun's mysterious backstory, his relationship with his industrialist father and desire for a closer knit family./Top Slot: Dan and Shun butt heads on how best to make the AO a real team amidst growing threats including the mysterious Shargo Ronin.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2170848",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "c8b1e612857681a703e0463f12af5ed8f8369a60",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

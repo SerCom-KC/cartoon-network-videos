@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben is more interested in a marathon of his favorite cartoon show, \"Xingo\", but when Ben goes Upgrade to get a better signal, the titular Xingo leaps from his animated dimension to ours, bringing mad chaos with him!",
-  "duration": 694,
+  "duration": 695,
   "freewheelid": "cn-2088584",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "307b3589398e691372d3fc3d01d95fca30d1ab32",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

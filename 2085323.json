@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben, Gwen, and Max go on a tour of the impervious Fort Knox, but when Dr. Animo sicks a hungry ani-mutate on the Fort, Ben must stop it before it gobbles up the nation's monitory standard!",
-  "duration": 694,
+  "duration": 695,
   "freewheelid": "cn-2085323",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "7ef9cc49189246d61f106ef2e5d223c711694ebb",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

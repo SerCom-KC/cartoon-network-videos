@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben, Gwen, and Max stop by the graveyard set of Gwen's favorite TV show, The Unalivers, but when Ben discovers its lead, Michael Morningstar, is an energy vampire he goes alien to show the world the real star of the show: Heatblast.\n",
-  "duration": 693,
+  "duration": 694,
   "freewheelid": "cn-2088594",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "5ab802f31e2f62fb3c562dd8c8e65e14d33539d6",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

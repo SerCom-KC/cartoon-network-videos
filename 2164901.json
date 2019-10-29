@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Tulip, a headstrong 13-year-old girl, finds a mysterious train where every car contains its own universe.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2164901",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "5359bbb0dbfab6b238577d095b7807c82cc1f8e6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

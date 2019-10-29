@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Tulip takes a risk trusting an old foe.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2171413",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "03d885e8a9198d3b1492d7ac1cc3b3fc66c55b35",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

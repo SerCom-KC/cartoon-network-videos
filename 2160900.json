@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Unikitty and Hawkodile are \"lost at sea\", stranded on a raft together. Hawkodile sees this as an opportunity to show Unikitty that he's prepared for anything with his expertly-honed survival skills, but to his shock, all of his plans keep falling apart, while Unikitty's silly \"it'll all work out, let's have fun\" approach is somehow working great! Will Hawkodile manage to let go of his overpreparedness to save them both, or will Unikitty whimsical fun be their doom?",
-  "duration": 674,
+  "duration": 675,
   "freewheelid": "cn-2160900",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "9cec605a659598ed0e908ac17ef8b848974475d9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

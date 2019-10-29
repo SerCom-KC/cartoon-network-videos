@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After Clarence and Sumo cause a power outage in Sumo's family home, they're sent off in the hot desert with Sumo's older brother to retrieve a generator part. Will they survive the trek or will Sumo's sibling rivalry boil over?",
-  "duration": 685,
+  "duration": 686,
   "freewheelid": "cn-2065518",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "f148801ce6fa4c721ed564b8d18a3da8be3f5978",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

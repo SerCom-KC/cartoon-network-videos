@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "One-One provides a peek into daily life in the Tiny Wizard Car.",
-  "duration": 121,
+  "duration": 122,
   "freewheelid": "cn-2211755",
   "isclip": false,
   "typesort": "2",
@@ -36,5 +36,7 @@
   "expdateasmilliseconds": "1609408740000",
   "mediaid": "0ed2e8834602d2ef4330a30fa24966fb34a58353",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

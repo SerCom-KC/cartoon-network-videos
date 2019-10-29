@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Origin of Species, Part 1: Dan meets his partner Bakugan Drago for the first time and we learn about the incident that happened on Earth twelve years ago./Origin of Species, Part 2: Dan and friends win the Bakugan Battle, firmly establishing the Awesome Ones as our heroes and Bakugan Brawlers.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2170838",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "ddf31fdee70cf133b7a2de17cc46555e5358589b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

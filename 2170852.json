@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "All Jungled Up: Still lost in Vestroia the AO experience mind altering effects of the nearby Core Cell and come face to face with the Bakuzon monster Tiko./Outer Demons: The AO find the doorway out of Vestroia only to learn they have entered a mirror world of their own imagining created by the Core Cell.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2170852",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "8935fc24bd13f7c04992a5863c87a38d551c704a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

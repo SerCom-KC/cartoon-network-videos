@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Clarence is in disbelief when he learns his best friend Belson has a new girlfriend named Pipi. But when he observes their less than romantic behavior, he decides that he needs to teach them the ways of love to help keep their fling afloat!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088660",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "cd95576aa6131da2f8958593c6addee468a2e5df",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

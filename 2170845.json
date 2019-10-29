@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mr. Moon: Wynton finds a new Bakugan who proves difficult to control but things get more complicated when Col. Tripp seizes control of Trox./What's Wrong with Dan: With \"Dan\" behaving strangely toward the AO Lightning sniffs out the truth- an impostor!",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2170845",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "f1c64408be57be8a6af77e23a34b7b67240ec7d3",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

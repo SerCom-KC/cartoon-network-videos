@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Bumblebee offers to help Robin with his leadership skills by teaching him how to act like a queen bee.",
-  "duration": 664,
+  "duration": 665,
   "freewheelid": "cn-2196349",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "b399250aa291f858f18597157f3b05b20a7275d1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

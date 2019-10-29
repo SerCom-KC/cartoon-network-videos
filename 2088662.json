@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Clarence spends a day outside with his toy RC Car, which he names Carla. Eventually convinced Carla has a mind of her own, he decides to follow her to new adventures. Will Clarence's car chase get in the way of Jeff and Sumo's plans for the day?",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088662",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854740000",
   "mediaid": "2071a8d2aecfdb04279c8dd122d8cf575c0c1d41",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben approaches Geezer Bob about doing a little yard work to earn spending money, but when Ben goes Upgrade to transform the lawnmower into a super fast mowing machine, he accidentally draws the ire of Bob's gnome-neighbors, the tiny, terrifyingly tenacious Billy-Bob Goblins.",
-  "duration": 694,
+  "duration": 695,
   "freewheelid": "cn-2086226",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "eb4a576f7d11ee38b25f4288609e1b49341e6e7f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

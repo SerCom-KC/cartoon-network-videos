@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "It's Lazy Sunday, and Unikitty and Puppycorn are having such an amazing time hanging out on the couch, they never want to move! Richard insists they have chores to do, but they're unwilling to let Lazy Sunday end. The two go to ridiculous lengths to never leave the comfort of their sofa, rowing it across the castle and like a ship and conscripting their friends to abandon their chores and join Lazy Sunday… no matter how dangerous and impossible it might become!",
-  "duration": 672,
+  "duration": 673,
   "freewheelid": "cn-2160418",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "3416b25a819945d283cdd8f6a64f6caf4646c6bc",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

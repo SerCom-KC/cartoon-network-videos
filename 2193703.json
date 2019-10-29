@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "When they can't agree on a show to watch, Harleen Quinzel and Pam Isley end up in a super battle over the remote.",
-  "duration": 168,
+  "duration": 169,
   "freewheelid": "cn-2193703",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585472340000",
   "mediaid": "40c49154144ab878a6b44b61236d09845598bb50",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

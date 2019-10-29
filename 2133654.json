@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Prohyas becomes obsessed with riding an uncooperative goat to get over a mountain.",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2133654",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598776000",
   "mediaid": "ea23e8bba1442abcdfcf951dd36cf28b91ba5aa7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

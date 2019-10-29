@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Emperor Garmadon has taken control of Ninjago City where Lloyd retreats to the shadows. Meanwhile, the other Ninja and Young Wu are shipwrecked in the Realm of Oni & Dragon and find they are not alone.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2161138",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1629863999000",
   "mediaid": "5a4ff0428112856a39f5394fefe1e37bb7679a47",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

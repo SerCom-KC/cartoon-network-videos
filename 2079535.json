@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "KO breaks something near and dear to Enid!",
-  "duration": 119,
+  "duration": 120,
   "freewheelid": "cn-2079535",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "47cbf6432fd92be87868b700135e38cad7542a5c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }

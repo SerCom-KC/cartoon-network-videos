@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Gorilla Grodd takes control over Titano, the giant ape, the only person who seems to be able to override his control is the medical worker who nursed him as a chimp. She's now known as Harley Quinn.",
-  "duration": 674,
+  "duration": 675,
   "freewheelid": "cn-2084376",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598771000",
   "mediaid": "ed7709b270418dd65ecf2cd49187ee30b9cd06e1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

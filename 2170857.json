@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Tripped Up: Dan and Wynton stumble on both a possible hidden location of the Mind Core Cell and Colonel Tripp who wants the energy source for himself./Power Tripp: After a falling out with Dan, Wynton is mind-controlled by Tripp who stages an attack to ignite a war between Brawlers and the Military.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2170857",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "943da3ae05c8b3a6d6a18705c91ad15e5a13a1a1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

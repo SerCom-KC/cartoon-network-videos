@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Unikitty and the gang have crashed on a fabulous island. It's really nice and no one wants to leave until Richard convinces them that they need to return to the Kingdom and deal with their responsibilities. Unfortunately every attempt to escape the island is sabotaged. Now they must find the culprit to ensure their return home.",
-  "duration": 674,
+  "duration": 675,
   "freewheelid": "cn-2186504",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "ecfb7a36350e8714925e632e5ca0e4adfe335f19",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

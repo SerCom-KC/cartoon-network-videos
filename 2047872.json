@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Strange things start happening when Uncle Grandpa installs a moon roof in the RV.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2047872",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "24dd03b12613b6a782dba6bb64273a6659ecf7d2",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

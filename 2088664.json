@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Clarence realizes Sumo has made a new group of friends at his new school, he becomes jealous and confused. Will Clarence accept a school life void of Sumo, or scheme his way into making their friendship work?",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088664",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "1c8b32d3a1df16e6bd5cd3cbbee48fea239ddf03",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

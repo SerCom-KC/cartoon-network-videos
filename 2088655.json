@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Clarence's neighbor Gale recruits him to dog sit for her, he knows it will be a breeze, being the self-proclaimed \"Dog King,\" Clarence knows all there is to know about pups. Nevertheless, Gale's dog proves to be a little more challenging than he expects!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088655",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854740000",
   "mediaid": "671c25eb74be3e0e25d3409bba8c4dcc8547d2df",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

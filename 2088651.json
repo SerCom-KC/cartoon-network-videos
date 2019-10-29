@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Jeff realizes Sumo's new classes have been rubbing off on Sumo, he attempts to further foster this newfound intellectual Sumo! But will Clarence's lowbrow antics reverse Jeff's hard work?\n",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088651",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "ea53f2ec5061e018860c59a94d6431c69606240c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

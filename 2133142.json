@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "OK K.O.! Let's Be Heroes character designer, Julia Srednicki, and art director, John Pham, show you how to draw Rad.",
-  "duration": 63,
+  "duration": 64,
   "freewheelid": "cn-2133142",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "6c1a5d438cb0004f5158f83672f2dccaef62bb50",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }

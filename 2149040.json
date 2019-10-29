@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Unikitty keeps losing at video games to her little brother Puppycorn, so she acquires a super-powered video game controller from Dr. Fox to help. To her surprise, it actually controls other people, and the castle goes into lockdown like a real-world video game! At first it seems fun, but will she learn that life isn't a game?\n",
-  "duration": 668,
+  "duration": 669,
   "freewheelid": "cn-2149040",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "3508f6a4ff5858ba126941296bc3ab386f30807a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

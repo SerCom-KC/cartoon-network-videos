@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Titans follow their heart with songs devoted to their greatest relationships: Beast Boy & Raven, Cyborg & Jinx and the Titans & Food.",
-  "duration": 627,
+  "duration": 628,
   "freewheelid": "cn-2164916",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "1acfe5e3d912c87a54b195d3040e4a263084fc26",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Karen Beecher needs to get to class to preserve her perfect attendance but can't get out of her malfunctioning Bumblebee suit.",
-  "duration": 166,
+  "duration": 167,
   "freewheelid": "cn-2193706",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1583812799000",
   "mediaid": "f9d608e98e8025006316ebc918d5616998780b53",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Unikingdom's throwing a kingdom-wide dance, a fun event where everyone dresses up and busts a move. Everyone's excited... except for Richard, who's terrified to let loose and feel his inner groove. Unikitty knows Rick needs to express himself but can she and the others convince him to break out of his shell with some minor robotic body enhancements?\n",
-  "duration": 668,
+  "duration": 669,
   "freewheelid": "cn-2167725",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577798640000",
   "mediaid": "3b9b334c1ab924b3a154b99aa941d553e043fdfc",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

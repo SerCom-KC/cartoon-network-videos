@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Titans give Robin advice to guide him through his camp romance with Wonder Girl.",
-  "duration": 664,
+  "duration": 665,
   "freewheelid": "cn-2188586",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "23cffe59fdf5cd68ff18e7b6347153bcca384ae2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

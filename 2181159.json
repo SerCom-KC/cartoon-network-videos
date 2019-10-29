@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Sadness levels have hit an all-time low in Frowntown. In an attempt to cheer up the citizens of the town, Unikitty and the gang load a rainbow into a tanker truck with the intention of releasing it over Frowntown. Now they must avoid the marauding Master Frown in his monster truck, to succeed.",
-  "duration": 664,
+  "duration": 665,
   "freewheelid": "cn-2181159",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "7f91d0c0304f2b41d61e542a972c51fc7d961727",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

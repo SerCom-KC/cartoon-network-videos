@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Sing along to this pinata song written by Simon Panrucker.",
-  "duration": 88,
+  "duration": 89,
   "freewheelid": "cn-2141831",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "2efc3e868259beff111532447004fe0d181ca823",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

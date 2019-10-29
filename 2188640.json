@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The moon is bored of taking the nightshift, since everyone's always asleep. So Unikitty leads the gang in putting on an over-the-top late night talk show to keep the moon occupied.",
-  "duration": 669,
+  "duration": 670,
   "freewheelid": "cn-2188640",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "2bd60fabae7c48df906657ad7e996948ca28205f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

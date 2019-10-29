@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When KO tags along with his mom to work, he discovers the convenience store next door is his key to becoming a great hero.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2090647",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "b75fae1b4d26dfbd333eb7a590c7fe1f59ac1c3b",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }

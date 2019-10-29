@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Dr. Fox is proud to unveil her new ultimate combat machine and take it into an underground scientist fighting ring. But Hawkodile's jealous of Dr. Fox's fighting bot that's supposedly a better puncher than him and declares he can beat anything it can. To prove his point, he dresses up in spare robot parts and enters himself secretly in the bot battle. With Unikitty as his fighting coach, can Hawkodile survive the tourney, prove he's tougher than a machine, and avoid the scrap yard?\n",
-  "duration": 660,
+  "duration": 661,
   "freewheelid": "cn-2164838",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "725285dfd10d0dae886e5531cca1d87661358893",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

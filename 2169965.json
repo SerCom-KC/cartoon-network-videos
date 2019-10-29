@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Titans team up with Shazam in order to defeat the evil Mr. Mind.",
-  "duration": 656,
+  "duration": 657,
   "freewheelid": "cn-2169965",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "0c1003917339a3755a94739487747f6b91babcca",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

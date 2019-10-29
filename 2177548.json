@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Babs loves her job at fast food restaurant Burrito Bucket, but her boss, who's fed up with her chronic lateness and bad case of scatterbrain, would love any excuse to fire her. When a bank robbery breaks out right across the street from work, Babs is torn between her role as a superhero and dutiful Burrito Bucket employee. Will she be able to save the day and keep her job all in the nick of time?",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2177548",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540740000",
   "mediaid": "f092c7532aed4fb0599b4e6695cd66a623a5e989",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

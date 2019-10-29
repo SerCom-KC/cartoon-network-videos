@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After Uncle Grandpa's Haunted House spirals out of control, the gang must save the teenagers stuck inside.  ",
-  "duration": 685,
+  "duration": 686,
   "freewheelid": "cn-2018716",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "124e6611e2899433334576ed9b78a3b28f3d1a26",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

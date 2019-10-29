@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "As Lloyd unmasks Mystake for who she truly is, Emperor Garmadon embraces Harumi as his daughter of darkness. Meanwhile, Wu holds onto faith as he leads his friends into dangerous Oni territory in the hope of finding Firstbourne's nest",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2161143",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1629863999000",
   "mediaid": "b98a0715e2f8ef6dca1f5467e585246020df4fab",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "It's Titans West vs Titans East as the two teams compete for who gets Bumblebee.",
-  "duration": 646,
+  "duration": 647,
   "freewheelid": "cn-2196356",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "3e213bc3994cc9c826ea11306905f320cffc2953",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Dr. Fox's robot helpers go on strike, so Unikitty and Puppycorn volunteer to be her lab rats, er, research assistants in a bold new experiment rocketing them into space! But as the mission grows more dangerous, Dr. Fox is forced to choose between the scientific breakthrough of her dreams and ever seeing her friends again!",
-  "duration": 636,
+  "duration": 637,
   "freewheelid": "cn-2155549",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "15fd5b97b50ef3b9fc703f38035dcd29e9b897b7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

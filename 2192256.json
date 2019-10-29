@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Diana Prince is absolutely crushing it in every single aspect of life as a student at Metropolis High, until someone shows up who threatens to throw her off her game for good.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2192256",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "f05c6594390f5a0a2a8d912fd69254ea9c4181cc",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

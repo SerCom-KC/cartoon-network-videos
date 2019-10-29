@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "During a tour of historic Oldeville Ben finds a rare Sumo Slammers card, but when Billy Billions comes to claim the same card Ben has to battle Billy's high-tech drones which have hijacked the Rust Bucket!",
-  "duration": 693,
+  "duration": 694,
   "freewheelid": "cn-2085321",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "cedb398735736289dfc56a75856367ee37337470",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben hops into the Rustbuggy for a driving lesson along the sand dunes of Cape Cod, but he takes a freaky switchback turn when the Rustbuggy is mutated into a motor-monster by Bootleg, another alien transformation of Kevin 11, with powers similar to Upgrade!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2161249",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "636130f6829342bca0ed3fe77aa8dd462d78af34",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

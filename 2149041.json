@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Puppycorn uses a wishing well and it doesn't come true, Unikitty is shocked to discover the reason: all the wishes made over the years can't be granted because they're trapped at the bottom of the well (it's a dumb system.) She frees them to bring joy to the town… only to discover that they've gone a little bad after years trapped in a dark hole. Soon, they wish it would end!\n",
-  "duration": 670,
+  "duration": 671,
   "freewheelid": "cn-2149041",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "799dfdd535f35eba1adbec2f9852806e4fd69498",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

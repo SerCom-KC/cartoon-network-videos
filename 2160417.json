@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Unikitty and Puppycorn are invited to Master Frown and Brock's apartment for a dinner party. But the two roommates are butting heads, and are anything but on the same page. Can Unikitty help Brock and Master Frown get back in harmony before the dinner party is ruined? Will Puppycorn figure out which door is the bathroom?",
-  "duration": 672,
+  "duration": 673,
   "freewheelid": "cn-2160417",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "a7373f3a7564f8899c4311533f9b68456c335f46",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

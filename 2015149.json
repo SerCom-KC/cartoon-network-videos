@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Titans try vegetarianism, but learn that not everyone is cut out for that lifestyle.",
-  "duration": 650,
+  "duration": 651,
   "freewheelid": "cn-2015149",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "2211cf06fa41a7b0e34ea3d5a2048dac566c1e39",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

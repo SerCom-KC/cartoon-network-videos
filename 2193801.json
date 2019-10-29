@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A pleasant weekend goes awry when a monster attacks.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2193801",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "65dfbdcec970d60122535e190c502a83d3fede51",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Unikitty and her friends have an exciting day at their favorite amusement park/carnival boardwalk but Frown and Brock are there to ruin their good times and drive everyone out! The park owner warns Unikitty that if attendance keeps dropping the pier ​will close forever! Can the friends take charge, save the park, and find out Master Frown's secret ​motives? What a roller coaster of emotions!",
-  "duration": 1328,
+  "duration": 1329,
   "freewheelid": "cn-2181156",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "8019c4cf199f75ee282aca7e180da1bfc446e063",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

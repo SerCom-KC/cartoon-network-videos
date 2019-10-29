@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Kara Danvers sets out for picture day at school in a nice dress but the heroing she must do along the way leaves her looking more punk than pretty.",
-  "duration": 167,
+  "duration": 168,
   "freewheelid": "cn-2193697",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1583812799000",
   "mediaid": "aaac0903c784b329065332c3f5582ad614d2c15f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

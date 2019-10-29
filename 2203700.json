@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Bakuzoned!: Strata's return is much more than a simple rematch when he's been infected by a strange ooze and the AO are in danger of the same fate./The Golden Secret: Using Strata's gauntlet, the AO think they've found a way through the labyrinth, but soon discover trusting the enemy is not always best.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2203700",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572775140000",
   "mediaid": "0a913b071c6d943852ae3a5f993a3c2cc3df26eb",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

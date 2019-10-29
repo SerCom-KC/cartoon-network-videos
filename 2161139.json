@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cole and Young Wu attempt to free their friends, who have been taken captive by a tribe of Dragon Hunters. Meanwhile in Ninjago, Lloyd is reunited with some old friends who may prove valuable allies against Emperor Garmadon.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2161139",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1629863999000",
   "mediaid": "fcd12228f73fabebb644dea4cebecaee8125e859",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

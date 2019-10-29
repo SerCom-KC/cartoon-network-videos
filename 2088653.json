@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After Clarence accidentally knocks Belson's new video game down a storm drain, Belson enters the large underground sewer tunnel to retrieve it. When Belson doesn't return, Clarence must decide whether or not to go in after him.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088653",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854740000",
   "mediaid": "92a9443d42a37f734a39ace92248f7b040cee14c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

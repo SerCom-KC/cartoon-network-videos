@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Iron Baron forces Wu to retrieve the Dragon Armor, things don't go as planned. In Ninjago, Lloyd can only endure so much as he holds onto hope for the Ninjas' return.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2161146",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1629863999000",
   "mediaid": "d1f97aa3d64fecb0ac680e95edf6f4533c5b4d8b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

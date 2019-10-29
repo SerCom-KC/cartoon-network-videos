@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Chelsea accidentally lets her pet cat Crumbles out, the cat goes missing! Reluctant to ask for help, she struggles to find the cat before anyone realizes it's gone. It's up to cat whisperer Clarence to interject and find Crumbles, whether Chelsea wants his help or not!",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2088628",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854740000",
   "mediaid": "50053c9896c741c626dfc56082d455c0db79b0c6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

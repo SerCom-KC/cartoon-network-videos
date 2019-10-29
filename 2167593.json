@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "During a drag race, Ben hopes to stay neck and neck with Vin Ethanol and La Grange as XLR8, but when his watch keeps shorting out, our hero must get creative if he is to keep up with his fast and furious foes!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2167593",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572685140000",
   "mediaid": "2a28da0896ad21db1f9039898e186c63dffca2a2",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

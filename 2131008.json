@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Oscar learns that he can earn merit badges that unlock prizes.\n",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2131008",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1593316740000",
   "mediaid": "6977e0b0de97c3328e2e3b3e55d67b5c6383e5fb",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

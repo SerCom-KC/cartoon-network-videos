@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "While Ben, Gwen, and Max hike to a waterfall, the Bugg Brothers are back with a plan to duplicate Diamondhead; but when their cloning ray gun fires on Max instead, multiplying him endlessly, Gwen and Ben must round up all the Maxes while also fighting off the Bugg Brothers.",
-  "duration": 694,
+  "duration": 695,
   "freewheelid": "cn-2088591",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "9e58ca75e20b86a6e89fdad7d89718a398260594",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Barbara Minerva is super-jealous of  \"little Miss Perfect\" Diana Prince. But when she uses an ancient artifact from her dad's collection to place a curse on Diana, it turns out that Diana's not the one who's cursed. It's Barbara.",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2177546",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "5f1c81956c7553abb11db5ae84a0223d7b728cb0",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

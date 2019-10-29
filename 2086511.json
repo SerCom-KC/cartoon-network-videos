@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When a wizard cos player gets his hands on a real, magical wand at Comic Con, Ben enlists Gwen to help stop Hex from retrieving it by tricking the wicked warlock into thinking she is a powerful magic-wielder in her own right: the one and only Lucky Girl!",
-  "duration": 695,
+  "duration": 696,
   "freewheelid": "cn-2086511",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "39811ba2c029da0ddaf613d3dcc040919d33768e",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

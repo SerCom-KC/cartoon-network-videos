@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Robin tries to tell some Greek myths but the other Titans give their own fractured versions instead.",
-  "duration": 702,
+  "duration": 703,
   "freewheelid": "cn-2188577",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "5820abbb85a6d8b0ca118dcb53f4516e95c042ed",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

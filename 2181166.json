@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When the Big Game is threatened the Titans must infiltrate the football stadium and stop the attack.",
-  "duration": 660,
+  "duration": 661,
   "freewheelid": "cn-2181166",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "8bdd91944fadcce833b2492b39d5fa4f676fb3d3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

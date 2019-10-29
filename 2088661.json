@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Clarence submits a short story into a creative writing contest, and he's overjoyed when he learns he's accepted as a finalist! But when Jeff finds out Clarence has to attend a formal dinner, he fixates on transforming the messy Clarence into a proper gentleman.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088661",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "65aa0dbcc19a918f6c59b583f5658bb1245879f2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

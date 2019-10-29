@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Ninja finally return home and unite to stop Emperor Garmadon, forcing Lloyd to make a decision that will forever change Ninjago.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2161147",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1629863999000",
   "mediaid": "c9b761a9f4a1cc96ea6fd5c82425b011415909ea",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

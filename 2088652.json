@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Clarence feels the call of the wild - and decides to live a new life, free of the hustle and bustle of the modern world. Recruiting a few friends, Clarence sets out to find a new place to live his feral life, but quickly realizes he lacks some basic survival skills.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088652",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854740000",
   "mediaid": "33c004215004db7c93e84c6b7480c183397f26ad",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

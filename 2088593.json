@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben and his arch-enemy Billy Billions clash in a duel for supremacy at the world's largest Laser Tag Park, LASER TOWN. But, when Billy inadvertently ignites a robot rebellion, and the lasers are set from tag to disintegrate, their childish game escalates into a full blown war! The two foes find that they must set aside their petty differences and team up in order to make it out alive, let alone save the day!",
-  "duration": 695,
+  "duration": 696,
   "freewheelid": "cn-2088593",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "993d6080ae79c9db317b1f0081c07f4ed20bb968",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

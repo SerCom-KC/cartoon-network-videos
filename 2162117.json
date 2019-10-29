@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Enid is faced with a choice when her old friends from Ghoul School show up.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2162117",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "77bd62fc4733275b293d79140276d7e1f6050132",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "KO, Enid and Rad team up with an unlikely ally to take on an unlikely foe.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2160693",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598797000",
   "mediaid": "1eaa94079e7316f200552f9e731b4165a1185f18",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }

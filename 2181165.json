@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Starfire dreams of becoming a successful business alien princess and joins a cookie-selling organization to learn the proper skills.",
-  "duration": 634,
+  "duration": 635,
   "freewheelid": "cn-2181165",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "e5d3679f1a5e0504a387c40b451e1af5abb37955",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

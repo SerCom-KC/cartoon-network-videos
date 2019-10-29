@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A Real Steal: Dan embarks on a solo adventure to outdo Magnus's new team of Bakugan Brawlers and winds up having to be saved by them instead./Lightning Unleashed: Lightning uncovers the Mind Core Cell buried beneath the Earth and battles Stata the Hunter in an effort to protect its secret.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2170858",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "86f171560617631d11a4e3c4d797b6f9a0037957",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

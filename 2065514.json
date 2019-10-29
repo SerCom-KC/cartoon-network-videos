@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Clarence, Jeff and Sumo investigate a high school party down the street, which they mistake for an alien invasion.",
-  "duration": 684,
+  "duration": 685,
   "freewheelid": "cn-2065514",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "21f2376348512e5e2476f2c74c62a5309008c51b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Barbara Gordon and Harleen Quinzel both covet the same rare comic book, but don't want to let it come between them. Batgirl and Harley Quinn, on the other hand.",
-  "duration": 207,
+  "duration": 208,
   "freewheelid": "cn-2193740",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585472340000",
   "mediaid": "4602462a22bd993e94dd6c392e68ab5828c967df",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

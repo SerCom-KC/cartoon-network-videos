@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Shun Shine: The AO want to evolve their Bakugan like Dan did with Drago but only Shun finds a way by tapping into the energy of the Mind Core Cell./Ronin Son: When Shun's cousin Masato Kazami claims Hydorous as his intellectual property the AO must battle to keep their friend by their side.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2170855",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "98f883fc626560106f3ce7b31315d018f0c265cf",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

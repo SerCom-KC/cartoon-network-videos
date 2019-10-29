@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Get to know the new Super Hero Girl - Batgirl/Barbara Gordon - starring in the new DC Super Hero Girls series on Cartoon Network!",
-  "duration": 103,
+  "duration": 104,
   "freewheelid": "cn-2193714",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596790740000",
   "mediaid": "52ee115d963c65d23501417d2f7acecb23cb2a34",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

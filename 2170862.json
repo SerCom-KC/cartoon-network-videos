@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Hostile Take Over: After more unsuccessful attempts to harness Core Cell energy the AO must battle their own Bakugan with AAAnimus tech in order to save them./The Big Bounce: The AO confront Philomena with concerns about her control over the Core Cell energy and are fired in the most unceremonious of manners.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2170862",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "1617b173dc936d0b0f392f00233358bdc6fb34f0",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

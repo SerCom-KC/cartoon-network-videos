@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After receiving a galactic crime alert the Titans take off for an epic space adventure. The Titans have to stop Darkseid's latest scheme but the excitement of the space adventure might be too much for Robin to handle.",
-  "duration": 1248,
+  "duration": 1249,
   "freewheelid": "cn-2181164",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "16bc1948ef51f63e41b57097c652c2b3f8c3498f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

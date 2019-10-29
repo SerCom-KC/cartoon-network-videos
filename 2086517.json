@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "KO uses his fighting skills to open every barrel and crate in the warehouse.",
-  "duration": 120,
+  "duration": 121,
   "freewheelid": "cn-2086517",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "b1afc7f72063244b54855e08bea14d1ff2a57b1a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }

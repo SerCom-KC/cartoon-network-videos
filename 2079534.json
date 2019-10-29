@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "KO learns a new power move, the slide kick!",
-  "duration": 119,
+  "duration": 120,
   "freewheelid": "cn-2079534",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "86cd38066fa6c041db45cbea2280bfbd119f956d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }

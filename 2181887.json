@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Hedgehog tries to get over a crush so she can regain her focus on magic.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2181887",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1592884799000",
   "mediaid": "fd66efc088d9d583e1239dd26af4d7ebda4ef99d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

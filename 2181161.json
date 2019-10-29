@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When the Score creeper traps Unikitty and the gang in his laser tag arena the gang must defeat the house team or be imprisoned forever.",
-  "duration": 669,
+  "duration": 670,
   "freewheelid": "cn-2181161",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "c95c36910c974ec1a8d1859278310938512b681a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

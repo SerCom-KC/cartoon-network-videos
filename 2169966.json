@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Robin takes the Titans on an educational trip to the Grand Canyon.",
-  "duration": 636,
+  "duration": 637,
   "freewheelid": "cn-2169966",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "9eeee1901f00c8c72cac53e1b2fdcdc332112e6b",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

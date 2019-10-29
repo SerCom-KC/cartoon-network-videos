@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When the kingdom runs out of inspiration, Unikitty takes it on herself to re-inspire the citizens with a riveting game of kickball where she and the gang form a ragtag team of underdogs, who are supposed to win a miraculous unexpected victory against Master Frown, Brock & The Doom Lords. But when the Doom Lords end up stinking at kickball, and the people are uninspired by the good guys' easy victory, Unikitty switches things up and joins the real ragtag team, The Doom Lords, to help lead them to a victory that finally inspires the kingdom.",
-  "duration": 662,
+  "duration": 663,
   "freewheelid": "cn-2186507",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "56eafa6f1b5ca261d448f1ef95e7994e9120817e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

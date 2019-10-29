@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Ben (and Gwen!) attempt to stay up all night for Adrenaland, the only theme park open 24/7, he not only fails to utilize his alien powers to stay awake, but his \"sleep-alien-ing\" causes disaster after disaster that Gwen must fix before things get way out of hand.",
-  "duration": 694,
+  "duration": 695,
   "freewheelid": "cn-2085318",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "3705f81035734e3a60eb08947ae81cd7b47ae9f7",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Oscar, hedgehog and the other campers are excited to take a trip to the non-magical town of Heartforde.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2170252",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598800000",
   "mediaid": "7aa9f5d4265f1e50859ddf2cdddb5300ece72bab",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

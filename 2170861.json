@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "High Flying Hostiles: While escorting the Mind Core Cell to AAAnimus Campus, the AO are attacked by Masato Kazami and his Body Guards./Backfire Brawl: Philomena's attempt to refocus the Mind Core Cell's power backfires and the AO must fight their fellow employees inside the AAAnimus Campus.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2170861",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "6f8cce630315fa70e11af343bc667749c3ba76ab",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

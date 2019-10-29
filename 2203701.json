@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Bakugan Breakers: Magnus's new team of Bakugan Brawlers overhear Lightning's warnings of a sick Core Cell and decide to capture the dog to find its location./The Awful Ones: Magnus heads into the Labyrinth to claim the Fortus Core Cell for his own, but comes in direct contact with the evil versions of the AO.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2203701",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1573379940000",
   "mediaid": "da74df467675bd0a89630a60009ad37b846fb0fb",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Lloyd and his team plot to take control of the Oni Titan. Meanwhile in the First Realm, the Ninja fall into Iron Baron's clutches and an old master returns.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2161145",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1629863999000",
   "mediaid": "0c09fe4446eb6a305de9da1d06b7d30d9fa8d901",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

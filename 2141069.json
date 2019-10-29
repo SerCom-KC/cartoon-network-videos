@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When a giant monster attacks the Unikingdom, the gang fights back with Dr. Fox's awesome new secret weapon: a massive mega robot! But after the threat is contained, Unikitty doesn't want to stop using the  awesome robot, so she finds excuses for them to use it for everything, no matter how pointless. But what if the greatest threat to the kingdom turns out to be them?",
-  "duration": 674,
+  "duration": 675,
   "freewheelid": "cn-2141069",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "ca415538adb2e131acaaf3b90579e63b05483e25",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

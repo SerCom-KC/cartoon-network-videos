@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang enters an unfinished train car and tries to fix it.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2171411",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "24ac6dfc1ac71bd7e21879b0c4ee05ae2eff4a0d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

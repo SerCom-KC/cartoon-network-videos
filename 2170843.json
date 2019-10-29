@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Dog Daze: Lightning discovers a new Bakugan, Artulean, leading to an unhealthy rivalry with Howlkor./In Focus: While Lia's newswoman mom does an expose on the AO Strata the Hunter tries to capture Hydorous.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2170843",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "3cc70ec81738195873bdafbb27fc621bce675957",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

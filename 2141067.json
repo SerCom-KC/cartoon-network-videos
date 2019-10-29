@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Master Frown's head is stuck on Unikitty's butt, she vows to help him get his own body back, but first, she has to attend to her nice princess duties! But sharing a body with Master Frown can get pretty complicated, especially when Master Frown has his own agenda.",
-  "duration": 674,
+  "duration": 675,
   "freewheelid": "cn-2141067",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "cfffe217124e519bf7dbe3c3a5e67a2762659648",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Kara Danvers's competitive nature kicks into high gear when she can't get a single prize at the games on the pier, while Barbara Gordon seems to win with ease.",
-  "duration": 176,
+  "duration": 177,
   "freewheelid": "cn-2193742",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585472340000",
   "mediaid": "ea1ee262e718ad9e26821a4a7072a49b8a79397e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

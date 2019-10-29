@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Tabes's lunch gets stolen, Tabes launches a full investigation to find the culprit.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088713",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "1930cd76bbcdc3ae12a3e8ef5bcf0de8dc70ec5b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

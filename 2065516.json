@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Clarence enlists the help of his eccentric neighbor Larry to take the trio out for ice cream and the ride of their lives!",
-  "duration": 685,
+  "duration": 686,
   "freewheelid": "cn-2065516",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "f17641d0079416e66a803f7f60903bb2a2b617b6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

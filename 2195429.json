@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mao Mao tries to hide his love of cobbler.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2195429",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572685140000",
   "mediaid": "d2668decf24fbd232363e330969db8609673b1ac",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

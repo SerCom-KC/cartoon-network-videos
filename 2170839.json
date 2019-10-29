@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Burger Run: When the local Burger Joint is being threatened by a rogue Bakugan, Dan steps up to save the day and the burgers!/Monkey See, Monkey Don't: The AO stop neighborhood kids from copycat behavior (namely, using their Bakugan for frivolous reasons).",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2170839",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "34fcaf213e7233248372128022a24d51cad8ffd8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

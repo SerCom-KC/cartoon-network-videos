@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "OK K.O.! Let's Be Heroes character designer, Julia Srednicki, and art director, John Pham, show you how to draw Dendy.",
-  "duration": 63,
+  "duration": 64,
   "freewheelid": "cn-2133144",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "df5b73af571bb55e69f5ba99880c670be128fddf",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }

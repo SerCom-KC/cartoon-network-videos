@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Unikitty discovers Puppycorn's only other friend is a boring old rock. Encouraged to \"make more friends,\" Puppycorn just can't find someone he clicks with, until he takes her advice and decides to literally make a new friend out of the best parts of his friends. This won't go well.",
-  "duration": 674,
+  "duration": 675,
   "freewheelid": "cn-2132593",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "fd85c747b0fc4c16f0042a47830f9a55de841783",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

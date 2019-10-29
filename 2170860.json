@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Career Opportunities: After defeating Magnus the AO get an offer of employment from a surprising source Philomena Dusk!/Punch the Clock: During a commercial to celebrate their joining the AAAnimus team Dan and the AO rebel before they sellout.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2170860",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "dc48a1b7e2a149af627a8e949e024e2499671c5f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

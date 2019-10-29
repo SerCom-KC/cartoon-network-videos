@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Batgirl's worlds collide when her best friend from Gotham City moves to Metropolis. Meanwhile, Catwoman is making some new friends of her own.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2196860",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "b1f9f63561059b3a8439ec01c0161eb0c89b9dc1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

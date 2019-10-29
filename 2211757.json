@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "One-One wants answers from a familiar salesman.",
-  "duration": 123,
+  "duration": 124,
   "freewheelid": "cn-2211757",
   "isclip": false,
   "typesort": "2",
@@ -36,5 +36,7 @@
   "expdateasmilliseconds": "1609408740000",
   "mediaid": "f8517bf8e227056a73a166fbaa33fa995d4b342a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

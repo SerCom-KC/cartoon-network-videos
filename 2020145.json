@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven goes to the lighthouse to watch scary movies with Ronaldo, Lars and Sadie.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2020145",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "109dc14afdd159116612266575b28721c30e249f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

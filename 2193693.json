@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Kara Danvers needs to stop a villain but her super-girl costume is in the wash!",
-  "duration": 147,
+  "duration": 148,
   "freewheelid": "cn-2193693",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585472340000",
   "mediaid": "f4953714c5baa512615cc6fb42e8e97542fd7290",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Oscar must get Hedgehog a special sandwich in order to save their friendship.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2164906",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598800000",
   "mediaid": "e4532b849a94cd417cc455d16035c4adfc36cd33",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

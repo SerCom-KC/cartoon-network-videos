@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When he isn't invited to Beast Boy's birthday party, Robin throws his own party, with special guest Bob Uecker.",
-  "duration": 655,
+  "duration": 656,
   "freewheelid": "cn-2174719",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854800000",
   "mediaid": "48b68ef4b69682e17fda24625619956672110643",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

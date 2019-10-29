@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cyborg and Beast Boy face off about which is better, burgers or burritos.",
-  "duration": 664,
+  "duration": 665,
   "freewheelid": "cn-2002492",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "9d64fcf88b7a58c6400b607d1aca7078a7dea96d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

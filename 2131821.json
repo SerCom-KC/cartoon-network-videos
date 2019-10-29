@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Alice lures Oscar and his monster friends for a tea party, but only to turn the monsters into cute babies.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2131821",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1593316799000",
   "mediaid": "f7e7256b840c3fbdf5a309318075a0effadd7fd3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Prohyas grows a new Magisword from a tiny seed, but doesn't know that his Carnivorous Plant Magisword is a menace to Lyvsherian society until its too late!",
-  "duration": 680,
+  "duration": 681,
   "freewheelid": "cn-2089144",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598776000",
   "mediaid": "742ce89ccd54b1d44ccd3a0baa3405301e03e9a7",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

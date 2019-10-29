@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "In this Halloween adventure, Clarence uses a special jack-o-lantern to enter the world of people's dreams. He discovers that something mysterious is causing his friends to have nightmares, and Clarence needs to stop it!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088654",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854740000",
   "mediaid": "927145aea82fd2212e366dced9894a520333ff53",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
