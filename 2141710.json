@@ -13,7 +13,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Owen and Beth try to save an ant hill that Courtney and Leshawna want to destroy.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141720",
         "isclip": false,
         "typesort": "1",
@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "0637062acd50216aa1b09b66c4414ff81c6b20fd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008011900011095",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1572598800000",
         "mediaid": "0b0a0c3a1fd45e08d6caa7a80eb19ce4121a0817",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022236",
@@ -95,7 +99,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Gwen tries to convince Chef to tell the class the truth about their pet goldfish.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141716",
         "isclip": false,
         "typesort": "1",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "0ee01074d3014f82a726921b9c7fc9509e356588",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010041900025708",
@@ -136,7 +142,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Izzy wants to play a superhero game and is willing to do whatever it takes to get the others to see it through.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141722",
         "isclip": false,
         "typesort": "1",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "17a85cb5e20c85e15e18df8d06d09a70ef7df0e8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010041900025709",
@@ -177,7 +185,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Gwen refuses to be pressured into choosing an ice cream flavor that she does not want.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141724",
         "isclip": false,
         "typesort": "1",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "1b33c7a7e53bbe99635d4a25681d03cfc04edbfb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026393",
@@ -218,7 +228,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Owen forms a special bond with Duncan after having loads of fun with him during their timeouts.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141726",
         "isclip": false,
         "typesort": "1",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1572598763000",
         "mediaid": "1d4a58f1a3fe083636c6141f7f77933272b33182",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008011900011093",
@@ -259,7 +271,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Leshawna creates a paint balloon fight to decide who gets to come with her to an amusement park.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141731",
         "isclip": false,
         "typesort": "1",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1572598800000",
         "mediaid": "300507d493f3036ecc75acc868e433a805d7fa7a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008011900011109",
@@ -300,7 +314,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Gwen accidentally brings a pink stuffed pony she loves to daycare and spends the day denying it's hers.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2182744",
         "isclip": false,
         "typesort": "1",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1599623999000",
         "mediaid": "37ce9c7d3d5eb6b36251114447d19df3a4e9b3ec",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009101900019572",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "3e3ac9e6367ba32fe1a13edbbcc9e58b9cde51bd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009051900018952",
@@ -382,7 +400,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Chef loses the last page of the story-time book, Gwen takes over and creates a monster that all the kids start to believe in.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2182749",
         "isclip": false,
         "typesort": "1",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "4a4ae760740e172db29381fbe6c6dfc60b20364d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010041900025707",
@@ -423,7 +443,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After Owen gets ripped off at the ice cream truck, the kids unite to right that wrong.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141721",
         "isclip": false,
         "typesort": "1",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "52eda987ef4604670a2074d4eb3d918f36a2ca58",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009051900018957",
@@ -464,7 +486,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Beth refuses to believe that the adorable goo creature she's created out of slime is consuming the kids until she and Gwen are the only two left in class.",
-        "duration": 642,
+        "duration": 643,
         "freewheelid": "cn-2182750",
         "isclip": false,
         "typesort": "1",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "5b8b994d18ebcfe7352700f03171cb4d48786b56",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010011900024847",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "688e3be3e9145989784f5980987502a1617c2db6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026395",
@@ -546,7 +572,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Owen fears he's about to lose his BFF Noah to a gifted military school.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141729",
         "isclip": false,
         "typesort": "1",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1572598763000",
         "mediaid": "7bb5a972bf5b252c873c63415c09b053007e805b",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026396",
@@ -587,7 +615,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Duncan is determined to stop the musical duo Bananas & Cheese from coming to the daycare.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141728",
         "isclip": false,
         "typesort": "1",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1572598763000",
         "mediaid": "812cd63125be6a6a826893b0d40d5fcfb038152b",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010011900024846",
@@ -628,7 +658,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Owen hides a walkie-talkie inside his chili dog, Harold believes it's an alien here to destroy Earth.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141717",
         "isclip": false,
         "typesort": "1",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "813084b52ad21a82c7d973f007be14fc9ae17828",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009051900018954",
@@ -669,7 +701,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Chef struggles to maintain his sanity when the kids continue to blame a stuffed rabbit named Hoppy for everything they do wrong.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2182752",
         "isclip": false,
         "typesort": "1",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "85fe2f6bdcd136cc520a4b6835fd48a0b5b1584e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026394",
@@ -710,7 +744,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Bridgette gets the hiccups and becomes desperate to get rid of them.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141727",
         "isclip": false,
         "typesort": "1",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1572598763000",
         "mediaid": "8a6a93d6fbd9cb51405afb88910ec0b1505e93c2",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010011900024844",
@@ -751,7 +787,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Chef is happy he orders pizza for the kids, this gives Owen & Jude the idea to create a fake secret admirer for Chef.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141712",
         "isclip": false,
         "typesort": "1",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "9172fb6cb83afb352ac471b5d003b73a5d6da2a4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009101900019580",
@@ -792,7 +830,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A class camping trip turns into a treasure hunt while Harold is determined to catch Bigfoot and keep everyone safe.",
-        "duration": 1243,
+        "duration": 1244,
         "freewheelid": "cn-2195438",
         "isclip": false,
         "typesort": "1",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "919ab559deb0363f6b3f6f3bd9071d4cf65f6117",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022233",
@@ -833,7 +873,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After seeing Leshawna enjoying a sick day at home with ice cream and TV, Duncan convinces the other kids try to get sick too.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141715",
         "isclip": false,
         "typesort": "1",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "93c107f2aa6dc0b9479099aff4ba1d96fb26e9f8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008301900017627",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "9b51e1dccdd625e89c0553641bd4ea729e65600a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022237",
@@ -915,7 +959,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Courtney refuses to share her valuable collectors item toy with her classmates.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141719",
         "isclip": false,
         "typesort": "1",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "9d39230c2abab9b5aef47bc66422c0d002e1ee59",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008011900011111",
@@ -956,7 +1002,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Beth gets her gum stuck in Leshawna's hair and has to get it out - without Leshawna finding out it's there.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2182745",
         "isclip": false,
         "typesort": "1",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1599623999000",
         "mediaid": "a38ee3385c3eeb4b9e562cb2e6a438e0fbd35d1f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009101900019576",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "a6d6cbe8bff665b3582a2b53f4163130f17d0fa5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008011900011099",
@@ -1038,7 +1088,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Owen and Noah unwittingly become cookie moguls and must hide the secret ingredient, which is Owen's spit from licking the sprinkles off the cookies.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141734",
         "isclip": false,
         "typesort": "1",
@@ -1063,7 +1113,9 @@
         "expdateasmilliseconds": "1572598800000",
         "mediaid": "a912d4b26921b2ab5c76213123598c2d9624c018",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022234",
@@ -1079,7 +1131,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Duncan, Leshawna and Jude all want corner pieces of Izzy's Birthday Cake\u2026 But are they prepared to go to any length to get one?",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141718",
         "isclip": false,
         "typesort": "1",
@@ -1104,7 +1156,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "a99ba3ba52a36f9970accd56333d2343c42a33dd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008011900011107",
@@ -1145,7 +1199,9 @@
         "expdateasmilliseconds": "1599623940000",
         "mediaid": "ac3e58900f77764ec7ad81bdec84cd6b89746266",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009051900018950",
@@ -1161,7 +1217,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Chef tells Beth he won't buy the new super amazing toy she wants because they already have plenty to play with, she goes on a mission to get rid of their toys.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2182748",
         "isclip": false,
         "typesort": "1",
@@ -1186,7 +1242,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "b6c5e7525fca562eb105ae9a04328004b208445c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026392",
@@ -1202,7 +1260,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Noah tries to rescue the chocolates Owen forgot outside.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141730",
         "isclip": false,
         "typesort": "1",
@@ -1227,7 +1285,9 @@
         "expdateasmilliseconds": "1572598763000",
         "mediaid": "c1a89f5c9c91a31f0d3481816a0d3a43f34cfa0d",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009101900019574",
@@ -1268,7 +1328,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "c6aaa7308e24bf882cffb3bbd0f62c815b811d44",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010041900025706",
@@ -1284,7 +1346,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Harold's world is turned upside down when Beth becomes the class ninja.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141725",
         "isclip": false,
         "typesort": "1",
@@ -1309,7 +1371,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "d630e0d5c71358ebbc60e311950f2a928e7b76d0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008011900011105",
@@ -1325,7 +1389,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Duncan stages a small coup to oust Courtney as their official class firefighter so that he can wear the shiny firefighter helmet - until he smells smoke in the classroom and begs her to take her job back.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2182742",
         "isclip": false,
         "typesort": "1",
@@ -1350,7 +1414,9 @@
         "expdateasmilliseconds": "1599623999000",
         "mediaid": "d6f450a2eb1c16f9e901270c4187d888ed253b41",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009101900019578",
@@ -1366,7 +1432,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A terrified Duncan, who's afraid of lightning, learns it's even harder to break back into school than it was to break out when he finally escapes and finds himself in a dark alley with Izzy during a thunderstorm.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2182754",
         "isclip": false,
         "typesort": "1",
@@ -1391,7 +1457,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "dfb275bcaf5ff50aeea84a80b349bd72c4cf6dee",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009051900018948",
@@ -1407,7 +1475,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Beth and Leshawna try to one-up each other with fake injuries as they compete for the attention and sympathy of the other kids at daycare.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2182747",
         "isclip": false,
         "typesort": "1",
@@ -1432,7 +1500,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "dfda6d85cd7457d124e2b64fe5f379f30483319e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008011900011101",
@@ -1473,7 +1543,9 @@
         "expdateasmilliseconds": "1572598800000",
         "mediaid": "e22ec0a2e87ef797d3660abf705744fe981c6d15",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010011900024845",
@@ -1514,7 +1586,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "e4d5f863f849ca059ef1ff061a5ec8045eb8b58f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008011900011103",
@@ -1555,7 +1629,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "e74c4c18cc0b9eb7a78a38c4617ff07d01ba061b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010041900025705",
@@ -1571,7 +1647,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Duncan goes on a mission to scare Courtney during a field trip to the museum.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141723",
         "isclip": false,
         "typesort": "1",
@@ -1596,7 +1672,9 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "e85e996d04429894b702386e4e8d4d4355954e5a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008011900011097",
@@ -1612,7 +1690,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Courtney must go all day without correcting her friends which is hard because they do everything wrong!",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141733",
         "isclip": false,
         "typesort": "1",
@@ -1637,7 +1715,9 @@
         "expdateasmilliseconds": "1572598800000",
         "mediaid": "f2c7a707b6b0f4a33d590aabeae27098b229b371",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010011900024848",
@@ -1653,7 +1733,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After befriending a chicken with a bad attitude at a petting zoo, Jude is followed back to school by the chicken. He defends the bad bird's behavior until he can defend it no longer.",
-        "duration": 641,
+        "duration": 642,
         "freewheelid": "cn-2141714",
         "isclip": false,
         "typesort": "1",
@@ -1678,6 +1758,8 @@
         "expdateasmilliseconds": "1599019199000",
         "mediaid": "f9f1a1233889aa717fe886e6bc51c6191bbc0a91",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]

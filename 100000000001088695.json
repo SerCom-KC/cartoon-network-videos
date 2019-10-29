@@ -13,7 +13,7 @@
         "type": "short",
         "active": true,
         "description": "Teri's playful J-pop song.",
-        "duration": 45,
+        "duration": 46,
         "freewheelid": "cn-2141772",
         "isclip": false,
         "typesort": "2",
@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "005ae4f0b393527543dd0690d061e1fb19f76aa7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018021",
@@ -54,7 +56,7 @@
         "type": "short",
         "active": true,
         "description": "Fed up with never getting presents from Santa, the Titans head to the north pole to take themselves off the Naughty List by any means necessary.",
-        "duration": 121,
+        "duration": 122,
         "freewheelid": "cn-2142218",
         "isclip": false,
         "typesort": "2",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "03cb732a13881a2a79c2937e2769eb7dc9ac8449",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018024",
@@ -95,7 +99,7 @@
         "type": "short",
         "active": true,
         "description": "Cyborg, Starfire and Beast Boy go to Cool School to keep up with Raven and Rose Wilson.",
-        "duration": 113,
+        "duration": 114,
         "freewheelid": "cn-2141349",
         "isclip": false,
         "typesort": "2",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "13793b2c9cc26c97216244f9b509a911511c8708",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070017",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "1610a7b6377e42fa0d33c80ae8c43285fa1a471e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070011",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "175d2f41ad021ba1791caa637c752782a08b1a96",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008121900012986",
@@ -218,7 +228,7 @@
         "type": "short",
         "active": true,
         "description": ": The official music video for \"True Kinda Love\" by Estelle feat. Zach Callison from Steven Universe The Movie.",
-        "duration": 159,
+        "duration": 160,
         "freewheelid": "cn-2207076",
         "isclip": false,
         "typesort": "2",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1578218340000",
         "mediaid": "1a2ec48d9f0f8027e7ba3f5059a481602c0d4bda",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073425",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "20baca998a349de162610d4174b1c7fcb541124c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018020",
@@ -300,7 +314,7 @@
         "type": "short",
         "active": true,
         "description": "The Titans go back to school.",
-        "duration": 75,
+        "duration": 76,
         "freewheelid": "cn-2142226",
         "isclip": false,
         "typesort": "2",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "25f35b7389cf3e12c3f3a34c4a489a3fe932e2d8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073431",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "2bb9bff3e70c5d3b5dfdf8d094dfce1d1bb81d7c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065050",
@@ -382,7 +400,7 @@
         "type": "short",
         "active": true,
         "description": "Sing along to this pinata song written by Simon Panrucker.",
-        "duration": 88,
+        "duration": 89,
         "freewheelid": "cn-2141831",
         "isclip": false,
         "typesort": "2",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "2efc3e868259beff111532447004fe0d181ca823",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018014",
@@ -423,7 +443,7 @@
         "type": "short",
         "active": true,
         "description": "It's Beast Boy's birthday! But will the other Titans remember?\n",
-        "duration": 152,
+        "duration": 153,
         "freewheelid": "cn-2141345",
         "isclip": false,
         "typesort": "2",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "3055dc0a4eb5dc1fa582dff9236c990d689d670b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017346",
@@ -464,7 +486,7 @@
         "type": "short",
         "active": true,
         "description": "Banana fails dramatically.",
-        "duration": 26,
+        "duration": 27,
         "freewheelid": "cn-2141777",
         "isclip": false,
         "typesort": "2",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "397677246369382e06709855338f71c9b6989722",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073432",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "39fd4ffe599a94e07ec7407f3c7570faea51dd1c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073461",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "3e26bc7efda1f8068d8e4cc06a961e626601af3a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018023",
@@ -587,7 +615,7 @@
         "type": "short",
         "active": true,
         "description": "Mash-up of all the best Titans identities.",
-        "duration": 93,
+        "duration": 94,
         "freewheelid": "cn-2140633",
         "isclip": false,
         "typesort": "2",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "400980f7d4cbb7e0487156b005f5f49ae0bb76d6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018031",
@@ -628,7 +658,7 @@
         "type": "short",
         "active": true,
         "description": "Beast Boy starts making tons of cash thanks to a pyramid scheme and convinces the other Titans to join in.\n",
-        "duration": 72,
+        "duration": 73,
         "freewheelid": "cn-2141348",
         "isclip": false,
         "typesort": "2",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "44bcd1635305fdc9ef6efec738379524f20157b9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017997",
@@ -669,7 +701,7 @@
         "type": "short",
         "active": true,
         "description": "Tired of Robin's bland cooking, the other Titans try their hand at spicing up their food.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2141344",
         "isclip": false,
         "typesort": "2",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "4d1f11f679108869ab3fd306523e35f5dd3f38fb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017350",
@@ -710,7 +744,7 @@
         "type": "short",
         "active": true,
         "description": "Join the citizens of Elmore for a song and dance spectacular.",
-        "duration": 118,
+        "duration": 119,
         "freewheelid": "cn-2141770",
         "isclip": false,
         "typesort": "2",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "4ef193aff4b3a18e4e1ba05e1ceb835cb419ffc3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070001",
@@ -751,7 +787,7 @@
         "type": "short",
         "active": true,
         "description": "Dr. Gross sings a song about how the islands were started.",
-        "duration": 75,
+        "duration": 76,
         "freewheelid": "cn-2171053",
         "isclip": false,
         "typesort": "2",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "4fcc0f2ba3fc47f2ccd6a43a6a430b9e5ff9a34c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017347",
@@ -792,7 +830,7 @@
         "type": "short",
         "active": true,
         "description": "Principal Brown serenades Miss Simian with a reluctant cameo from Larry.",
-        "duration": 107,
+        "duration": 108,
         "freewheelid": "cn-2141775",
         "isclip": false,
         "typesort": "2",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "51952b24b37e7fab1751a8c13404169c7a6a37d9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073436",
@@ -833,7 +873,7 @@
         "type": "short",
         "active": true,
         "description": "Music and lyrics by Rebecca Sugar and Jeff Liu. Additional music by Aivi Tran and Steven Velema. Performed by Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz and Shelby Rabara.",
-        "duration": 175,
+        "duration": 176,
         "freewheelid": "cn-2132167",
         "isclip": false,
         "typesort": "2",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "51ada0d840a3210e1738c23e38f9ca931aaf864c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044740",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "53f8f0a8800d1d08bc2cf3f3e40b7cd744420b6e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073459",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "5a6148334289491b7db61d3b9d6a79f7d4b9beba",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044729",
@@ -956,7 +1002,7 @@
         "type": "short",
         "active": true,
         "description": "Robin performs a patriotic song.",
-        "duration": 65,
+        "duration": 66,
         "freewheelid": "cn-2187320",
         "isclip": false,
         "typesort": "2",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "5fdfe53dafcbc032b7698bc30e6e3eda7772c63f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071085",
@@ -997,7 +1045,7 @@
         "type": "short",
         "active": true,
         "description": "The Powerpuff Girls rock out!",
-        "duration": 158,
+        "duration": 159,
         "freewheelid": "cn-2141834",
         "isclip": false,
         "typesort": "2",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "61b76ae2ba9b511c426b52680879408af764a250",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018016",
@@ -1038,7 +1088,7 @@
         "type": "short",
         "active": true,
         "description": "The Titans learn that the bathroom is a magical, wondrous world.",
-        "duration": 111,
+        "duration": 112,
         "freewheelid": "cn-2142219",
         "isclip": false,
         "typesort": "2",
@@ -1063,7 +1113,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "646d211ba646d53b3c7b13f9a78c5aad408d61ca",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017999",
@@ -1079,7 +1131,7 @@
         "type": "short",
         "active": true,
         "description": "Raven makes a deal with Death.\n",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2141346",
         "isclip": false,
         "typesort": "2",
@@ -1104,7 +1156,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "655f923d1e194b999a306f86e3f0cb6486d41290",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017992",
@@ -1120,7 +1174,7 @@
         "type": "short",
         "active": true,
         "description": "Robin's mask doesn't just conceal his secret identity, it hides a terrible secret!",
-        "duration": 121,
+        "duration": 122,
         "freewheelid": "cn-2142220",
         "isclip": false,
         "typesort": "2",
@@ -1145,7 +1199,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "661065e753c026f75de3d294b9d9c9fc2012547e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017990",
@@ -1186,7 +1242,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6959d092ee7afa3292c40a7775050d721daacc2e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073456",
@@ -1227,7 +1285,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6a5b4a9700bf7c5c9f1f3db8b2458af5b431141c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018033",
@@ -1243,7 +1303,7 @@
         "type": "short",
         "active": true,
         "description": "The Titans are on a mission to find the missing hour from Daylight Saving Time.",
-        "duration": 53,
+        "duration": 54,
         "freewheelid": "cn-2142225",
         "isclip": false,
         "typesort": "2",
@@ -1268,7 +1328,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6aa6820e804d6af57a27cf606295a3e2e18ad9e9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017344",
@@ -1284,7 +1346,7 @@
         "type": "short",
         "active": true,
         "description": "The Billy Pharham rap.",
-        "duration": 53,
+        "duration": 54,
         "freewheelid": "cn-2141771",
         "isclip": false,
         "typesort": "2",
@@ -1309,7 +1371,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "6eae9c1fb92ba6ebd7c0503a90b7c72fc2ddc0b0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018041",
@@ -1325,7 +1389,7 @@
         "type": "short",
         "active": true,
         "description": "Starfire and her pet fish sing a catchy tune as they enjoy a night on the town! Good luck not getting this song stuck in your head!",
-        "duration": 69,
+        "duration": 70,
         "freewheelid": "cn-2141254",
         "isclip": false,
         "typesort": "2",
@@ -1350,7 +1414,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "767b9a5220a0f8779a8e135560dab9e6a5a0aafd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073453",
@@ -1366,7 +1432,7 @@
         "type": "short",
         "active": true,
         "description": "Music and lyrics by Rebecca Sugar. Additional music by Aivi Tran, Steven Velema, and Patti Rudisill. Performed by Zach Callison.",
-        "duration": 147,
+        "duration": 148,
         "freewheelid": "cn-2132165",
         "isclip": false,
         "typesort": "2",
@@ -1391,7 +1457,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "79567c4588a7e2a44ba38b4b05f7684bde5b43f7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052864",
@@ -1432,7 +1500,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "802709f40db28f1ca282fd889345686bbc0fea25",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044738",
@@ -1473,7 +1543,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "81039da3fa73830de8cdeabd5d17ef354aedd743",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044734",
@@ -1514,7 +1586,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "8bf7d5cb069f726213d2e291b6060418756be71a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018005",
@@ -1530,7 +1604,7 @@
         "type": "short",
         "active": true,
         "description": "Beast Boy wishes to become a leprechaun, who is obsessed with gold.",
-        "duration": 43,
+        "duration": 44,
         "freewheelid": "cn-2142224",
         "isclip": false,
         "typesort": "2",
@@ -1555,7 +1629,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "8c4efc2d429b8b0d4bd59ccd1102d48d25ef0683",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044731",
@@ -1596,7 +1672,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "8e0a13c646d5395ff40ddfea2a0383e81b14fb62",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070322",
@@ -1612,7 +1690,7 @@
         "type": "short",
         "active": true,
         "description": "A song about Marceline written by Casey James Basichis.",
-        "duration": 91,
+        "duration": 92,
         "freewheelid": "cn-2141826",
         "isclip": false,
         "typesort": "2",
@@ -1637,7 +1715,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "9270266621ad3c4220cd56b7770d69982ede52c5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017348",
@@ -1653,7 +1733,7 @@
         "type": "short",
         "active": true,
         "description": "Richard's food ballad.",
-        "duration": 75,
+        "duration": 76,
         "freewheelid": "cn-2141773",
         "isclip": false,
         "typesort": "2",
@@ -1678,7 +1758,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "9b9b3e86118b34c3c2ec31b773c8fe598521105b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017998",
@@ -1694,7 +1776,7 @@
         "type": "short",
         "active": true,
         "description": "Mash-up of the best Beast Boy songs.",
-        "duration": 66,
+        "duration": 67,
         "freewheelid": "cn-2140632",
         "isclip": false,
         "typesort": "2",
@@ -1719,7 +1801,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a5a631023ed3fd3d7a058777202f71d5c1799295",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073422",
@@ -1735,7 +1819,7 @@
         "type": "short",
         "active": true,
         "description": "Music and lyrics by Rebecca Sugar. Additional music by Aivi Tran and Steven Velema. Performed by Deedee Magno Hall.",
-        "duration": 196,
+        "duration": 197,
         "freewheelid": "cn-2132169",
         "isclip": false,
         "typesort": "2",
@@ -1760,7 +1844,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a79b852fe7f244b1e460532b05118a1a1a72184d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018039",
@@ -1776,7 +1862,7 @@
         "type": "short",
         "active": true,
         "description": "When Beast Boy's head starts to rattle, Robin suggests that he should find a hobby so that his brain will stop shrinking. Beast Boy and his brain agree to take up gardening.",
-        "duration": 68,
+        "duration": 69,
         "freewheelid": "cn-2142223",
         "isclip": false,
         "typesort": "2",
@@ -1801,7 +1887,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a7be299cc1231da5c278cd424bf33f95e70952a3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044741",
@@ -1817,7 +1905,7 @@
         "type": "short",
         "active": true,
         "description": "Song sung by Santa to Robin.",
-        "duration": 57,
+        "duration": 58,
         "freewheelid": "cn-2187325",
         "isclip": false,
         "typesort": "2",
@@ -1842,7 +1930,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "ab90c2664122c81d5a51db206f421fdfb1fba506",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073429",
@@ -1883,7 +1973,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b02e9e24ce914751472c02c5b16bc5ad75ea2643",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017991",
@@ -1924,7 +2016,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b0845a16091f578d51ca69f75c7331747f113a93",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070000",
@@ -1940,7 +2034,7 @@
         "type": "short",
         "active": true,
         "description": "Marceline performs a new song at her solo concert!",
-        "duration": 70,
+        "duration": 71,
         "freewheelid": "cn-2171052",
         "isclip": false,
         "typesort": "2",
@@ -1965,7 +2059,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b6dfbffb9bc1ef7b6963e93ab192d08ec098233d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073466",
@@ -2006,7 +2102,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "bc4d0292be01ace566191a13195f63360f8402cd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017994",
@@ -2047,7 +2145,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "bcccaf6491bc5755c5d53dc617f4ffd86c8d0402",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073426",
@@ -2088,7 +2188,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "bd5ee2596b286a8186026b8b9a0076b295a9574b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018018",
@@ -2104,7 +2206,7 @@
         "type": "short",
         "active": true,
         "description": "When he transforms into \"Fleshy Guy,\" Cyborg discovers the joy and pain of being human.",
-        "duration": 111,
+        "duration": 112,
         "freewheelid": "cn-2142221",
         "isclip": false,
         "typesort": "2",
@@ -2129,7 +2231,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "c6e6f91e543c9bd4ef2d527295c4cfc70f7af4ca",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073469",
@@ -2170,7 +2274,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "cccebaa855dc8c30468ab9dcd13c395368165e06",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044736",
@@ -2211,7 +2317,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "ce3137a484b29b51b535da93b74e98076c2a5593",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073455",
@@ -2252,7 +2360,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d31dae0bebfd1ef6ad718bc91cfeae5b48f019a4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017986",
@@ -2268,7 +2378,7 @@
         "type": "short",
         "active": true,
         "description": "Robin tries to teach The Titans to respect money, but he ends up bee-ing the one who learns the lesson.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2142222",
         "isclip": false,
         "typesort": "2",
@@ -2293,7 +2403,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d381dd928347544331029c48310e3c4584cbee12",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017987",
@@ -2309,7 +2421,7 @@
         "type": "short",
         "active": true,
         "description": "The Titans (except Beast Boy) are cursed on St. Patrick's Day and must travel to the end of the rainbow for the cure.",
-        "duration": 56,
+        "duration": 57,
         "freewheelid": "cn-2142217",
         "isclip": false,
         "typesort": "2",
@@ -2334,7 +2446,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e63252f0ecb311119e13f79afba3631ffc681760",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017982",
@@ -2350,7 +2464,7 @@
         "type": "short",
         "active": true,
         "description": "When Robin gets frustrated with the Titans' disobedience he turns to...puppets.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2141343",
         "isclip": false,
         "typesort": "2",
@@ -2375,7 +2489,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e89676002f70b82c929f4c7b66b4672c39211d04",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073420",
@@ -2416,7 +2532,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ea01ea6a393a9fd4976f7d947a6774998062e4a1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017978",
@@ -2457,7 +2575,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ed9743024828c94f590c26e0f876a382fb00a7a2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044745",
@@ -2498,7 +2618,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "f1c5202ff3749dd9bb355ae4e69e62156e896c94",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073463",
@@ -2539,7 +2661,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "f3a8d5501be74595e9a29e892f57bcbffab3805d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017345",
@@ -2555,7 +2679,7 @@
         "type": "short",
         "active": true,
         "description": "Pluto feels left out.",
-        "duration": 104,
+        "duration": 105,
         "freewheelid": "cn-2141776",
         "isclip": false,
         "typesort": "2",
@@ -2580,7 +2704,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "fe6eb946fa1360f37150796c13313abab56918bc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044744",
@@ -2621,7 +2747,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "fe96898c08aa20083c6fb9ab7c8b5d3be35cf8d1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017977",
@@ -2637,7 +2765,7 @@
         "type": "short",
         "active": true,
         "description": "Mash-up of Beast Boy's animals.",
-        "duration": 65,
+        "duration": 66,
         "freewheelid": "cn-2140634",
         "isclip": false,
         "typesort": "2",
@@ -2662,6 +2790,8 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ffc201a8c2ca1dc07e15c8e0d02c805b580195cf",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]

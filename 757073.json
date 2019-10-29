@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "02b35cfb4cb5e0183fd536cafade103b2a0727b9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070331",
@@ -54,7 +56,7 @@
         "type": "short",
         "active": true,
         "description": "Finn and Jake follow a frog carrying a crown across spring, summer, fall, and winter.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2084963",
         "isclip": false,
         "typesort": "2",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "07860e5b8804b1bced65365fbee899692761eca2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070333",
@@ -95,7 +99,7 @@
         "type": "short",
         "active": true,
         "description": "Finn and Jake help Princess Bubblegum battle a plague.",
-        "duration": 169,
+        "duration": 170,
         "freewheelid": "cn-2055466",
         "isclip": false,
         "typesort": "2",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "0ce2ff6b4d23d0a86b02530398b6860c72d70bf7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070017",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "1610a7b6377e42fa0d33c80ae8c43285fa1a471e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070011",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "175d2f41ad021ba1791caa637c752782a08b1a96",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070002",
@@ -218,7 +228,7 @@
         "type": "short",
         "active": true,
         "description": "From a tiny gumball, to ruler of the Candy Kingdom, and now a great Warrior Princess! Not to mention those fun outfits! Check out the evolution of Princess Bubblegum throughout 10 years of Adventure Time!",
-        "duration": 373,
+        "duration": 374,
         "freewheelid": "cn-2171361",
         "isclip": false,
         "typesort": "2",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "1a7559be8f76a44eb10abe13cfa211f1349de3aa",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070014",
@@ -259,7 +271,7 @@
         "type": "short",
         "active": true,
         "description": "Bringing you another Adventure Time slow jam, it's Marceline and Ice King.",
-        "duration": 123,
+        "duration": 124,
         "freewheelid": "cn-2171054",
         "isclip": false,
         "typesort": "2",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "1b96c8ce53f287a33b0cd409c9ed15b0f82d94cd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021641",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "2122fc7e6d685539a88cb41a79d343502744bd3c",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070004",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "21926c86d5dab722edc00221d313d4bdddeb3f80",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070307",
@@ -382,7 +400,7 @@
         "type": "short",
         "active": true,
         "description": "Finn and Jake follow a frog carrying a crown across spring, summer, fall, and winter.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2084965",
         "isclip": false,
         "typesort": "2",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "22b4c03bae5c1a1925f257882de434422bfb4591",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021621",
@@ -423,7 +443,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Finn & Jake receive an invitation to a masquerade dinner banquet from Count Creepystein.",
-        "duration": 702,
+        "duration": 703,
         "freewheelid": "cn-842874",
         "isclip": false,
         "typesort": "1",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "31dd29b1bfa5481019ddaac4af531d8307278191",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070308",
@@ -464,7 +486,7 @@
         "type": "short",
         "active": true,
         "description": "Death tries to make a mixtape for his girlfriend, Life.",
-        "duration": 169,
+        "duration": 170,
         "freewheelid": "cn-2055467",
         "isclip": false,
         "typesort": "2",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "41b2cb68ef65a1b1e5ca8cd2f6a0f74be9f9582a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070330",
@@ -505,7 +529,7 @@
         "type": "short",
         "active": true,
         "description": "Finn and Jake follow a frog carrying a crown across spring, summer, fall, and winter.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2084961",
         "isclip": false,
         "typesort": "2",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "48b813c6690bb95926d4d8a8b17d52dcada08cc7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021643",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "4d6af1f54f28dd64c763ee01fcd4b99aeb93e3dc",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070001",
@@ -587,7 +615,7 @@
         "type": "short",
         "active": true,
         "description": "Dr. Gross sings a song about how the islands were started.",
-        "duration": 75,
+        "duration": 76,
         "freewheelid": "cn-2171053",
         "isclip": false,
         "typesort": "2",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "4fcc0f2ba3fc47f2ccd6a43a6a430b9e5ff9a34c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070320",
@@ -628,7 +658,7 @@
         "type": "short",
         "active": true,
         "description": "Finn and Jake follow a frog carrying a crown across spring, summer, fall, and winter.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2084964",
         "isclip": false,
         "typesort": "2",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "5577f069fb8f638f9d8668bd4d0143730d1fbe6a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021646",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "63fd4c3a30722c47ec2e9b6b2c6f4c8ea000a2b8",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070006",
@@ -710,7 +744,7 @@
         "type": "short",
         "active": true,
         "description": "996 years ago, a man named Simon Petrikov met a little girl named Marceline at the end of the Great Mushroom War, and they became great friends.",
-        "duration": 371,
+        "duration": 372,
         "freewheelid": "cn-2171360",
         "isclip": false,
         "typesort": "2",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6c1e4bafd3835a438c03a2c51d7c7afc57233ba4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021647",
@@ -751,7 +787,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Lumpy Space Princess's parents have come to ask Finn and Jake to find their daughter and convince her to come home.",
-        "duration": 701,
+        "duration": 702,
         "freewheelid": "cn-830964",
         "isclip": false,
         "typesort": "1",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "7160f27a2dea2429cf803863486c8ef11ab1ae43",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021649",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "77c17a42b01c7f1ea888cc1fc99b4230f57476b6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021639",
@@ -833,7 +873,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Marceline is on a top-secret mission tracking Maja the Sky Witch. But when she loses the witch's trail, Marceline turns to Princess Bubblegum for help.",
-        "duration": 701,
+        "duration": 702,
         "freewheelid": "cn-977605",
         "isclip": false,
         "typesort": "1",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "7dbe8ebebca4a13f4c3de1af430510558baf6eab",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070010",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "80fc1caea98714d6429cbe0d4a169be7e257ea49",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070322",
@@ -915,7 +959,7 @@
         "type": "short",
         "active": true,
         "description": "A song about Marceline written by Casey James Basichis.",
-        "duration": 91,
+        "duration": 92,
         "freewheelid": "cn-2141826",
         "isclip": false,
         "typesort": "2",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "9270266621ad3c4220cd56b7770d69982ede52c5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021624",
@@ -956,7 +1002,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Finn & Jake hunt for a shadowy predator and Marceline asks Princess Bubblegum for a huge favor.",
-        "duration": 688,
+        "duration": 689,
         "freewheelid": "cn-2056614",
         "isclip": false,
         "typesort": "1",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1572598775000",
         "mediaid": "94115dd27678cc94881afaf2c8e831f462947a98",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070018",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "957c1c8bd79f8417f0f05f569f6c199b5a76b78f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021623",
@@ -1038,7 +1088,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "As the sun rises on her last day, Marceline recalls her long extraordinary life.",
-        "duration": 688,
+        "duration": 689,
         "freewheelid": "cn-2061412",
         "isclip": false,
         "typesort": "1",
@@ -1063,7 +1113,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "9642aeaf125b61d378df0b7cb4c5e3ad9a7fd569",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070020",
@@ -1104,7 +1156,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a1fc10995319de3f9975abd5ff9519de8dbc7f08",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070317",
@@ -1120,7 +1174,7 @@
         "type": "short",
         "active": true,
         "description": "Ice King and Marceline are hungry for a snack.",
-        "duration": 169,
+        "duration": 170,
         "freewheelid": "cn-2055468",
         "isclip": false,
         "typesort": "2",
@@ -1145,7 +1199,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a20b81bd073d6c8d9f60338afd2485c43517c21f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070316",
@@ -1161,7 +1217,7 @@
         "type": "short",
         "active": true,
         "description": "Finn and Jake follow a frog carrying a crown across spring, summer, fall, and winter.",
-        "duration": 120,
+        "duration": 121,
         "freewheelid": "cn-2084962",
         "isclip": false,
         "typesort": "2",
@@ -1186,7 +1242,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b64a23b1fabb51556459573cfcbbe238df3f0272",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070000",
@@ -1202,7 +1260,7 @@
         "type": "short",
         "active": true,
         "description": "Marceline performs a new song at her solo concert!",
-        "duration": 70,
+        "duration": 71,
         "freewheelid": "cn-2171052",
         "isclip": false,
         "typesort": "2",
@@ -1227,7 +1285,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b6dfbffb9bc1ef7b6963e93ab192d08ec098233d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021622",
@@ -1243,7 +1303,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Against Marceline's wishes, Finn conjures her father, the Lord of Evil, and attempts to reconcile their rocky relationship. But when the Lord of Evil discovers his daughter has turned the family axe into a bass guitar, he takes it from her and starts sucking up all the souls in Ooo!  Now, Finn must find a way to stop the Lord of Evil and get Marceline's guitar back.",
-        "duration": 700,
+        "duration": 701,
         "freewheelid": "cn-812762",
         "isclip": false,
         "typesort": "1",
@@ -1268,7 +1328,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "ccdc1efe0773f98f31a13a1a17b8ee26b66f9c8e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070008",
@@ -1309,7 +1371,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d67dc8460412d53cbe415379619530e7f77bb9bc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002251900070312",
@@ -1325,7 +1389,7 @@
         "type": "short",
         "active": true,
         "description": "BMO wages war against a rat in the tree house, and Finn and Jake get sick.",
-        "duration": 170,
+        "duration": 171,
         "freewheelid": "cn-2055465",
         "isclip": false,
         "typesort": "2",
@@ -1350,7 +1414,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e94573e0c6e275743d30412aa21f5435900808db",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021648",
@@ -1391,6 +1457,8 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "f76735431b481e836a25d9f6b23a7a88d2bc3158",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]

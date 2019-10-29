@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "08fb8e5970ea0eb12d11c9f36ef8bb9997562e6b",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010081900026441",
@@ -54,7 +56,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Bakuzoned!: Strata's return is much more than a simple rematch when he's been infected by a strange ooze and the AO are in danger of the same fate./The Golden Secret: Using Strata's gauntlet, the AO think they've found a way through the labyrinth, but soon discover trusting the enemy is not always best.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2203700",
         "isclip": false,
         "typesort": "1",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1572775140000",
         "mediaid": "0a913b071c6d943852ae3a5f993a3c2cc3df26eb",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009061900019103",
@@ -95,7 +99,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Two Sides of the Coin: The AO and Magnus take parallel tracks to retrieve the same piece of data, one that promises a breakthrough in the Bakugan phenomenon./The Race for Gold: When the AO seek out a mythical, lost Bakugan, they get more than they bargained for when Magnus is on the trail of this new discovery, too.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2203696",
         "isclip": false,
         "typesort": "1",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "0b7404a042cd701a0cb62ec62ea4cf7ced407cc2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001071900059161",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "146fed82a42c39478200d262ac8827cdbba29c14",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001567",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "14b53bb614bc7d3d8b73776752c857299bca5276",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001560",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "14f188130f638625ad7b77aaaabd7593d0e8b13c",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012131800051309",
@@ -259,7 +271,7 @@
         "type": "short",
         "active": true,
         "description": "Dan introduces us Lightning's Bakugan Partner Artulean, letting us know what makes his abilities so special.",
-        "duration": 90,
+        "duration": 91,
         "freewheelid": "cn-2188313",
         "isclip": false,
         "typesort": "2",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1577095140000",
         "mediaid": "1545be2015f13bfb3aa3662de3ef8d390edfdb6c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001251900062463",
@@ -300,7 +314,7 @@
         "type": "short",
         "active": true,
         "description": "The Magnus Bakugan engage in a no rules game of \"Capture the Flag.\"",
-        "duration": 99,
+        "duration": 100,
         "freewheelid": "cn-2188523",
         "isclip": false,
         "typesort": "2",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "15615a2bb0373ba049c28ec513d03066dc3186b3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005281900094864",
@@ -341,7 +357,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Hostile Take Over: After more unsuccessful attempts to harness Core Cell energy the AO must battle their own Bakugan with AAAnimus tech in order to save them./The Big Bounce: The AO confront Philomena with concerns about her control over the Core Cell energy and are fired in the most unceremonious of manners.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170862",
         "isclip": false,
         "typesort": "1",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "1617b173dc936d0b0f392f00233358bdc6fb34f0",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008061900012268",
@@ -382,7 +400,7 @@
         "type": "short",
         "active": true,
         "description": "When Artulean's prank on Howlkor causes him to laugh so hard he gets the hiccups, the Bakugan hound exacts his revenge with some questionable \"cures\" on his Darkus kin.",
-        "duration": 102,
+        "duration": 103,
         "freewheelid": "cn-2191504",
         "isclip": false,
         "typesort": "2",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "1628e4548f8c8201d4f6aa8979da910d9196a9c8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008061900012264",
@@ -423,7 +443,7 @@
         "type": "short",
         "active": true,
         "description": "Skill and strategy may not be the only factors in determining the winner of this Sumo-style Bakugames' Brawl.",
-        "duration": 105,
+        "duration": 106,
         "freewheelid": "cn-2191499",
         "isclip": false,
         "typesort": "2",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "175330b69124649b0d094584d0454ffc692fe7ca",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008051900011915",
@@ -464,7 +486,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "In the Wild: The AO are invited to a video-stars conference, but when the chartered jet goes down, the AO must give over to their wild sides to survive!/Call Me Old Brakken: Lord Brakken is the ultimate AO super-fan, but his zeal takes a dark turn when he looks to prove that he is their superior in battle.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2203694",
         "isclip": false,
         "typesort": "1",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "1c77e807ca63468dfa6536244b9fc0f5e80ad95a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004291900087373",
@@ -505,7 +529,7 @@
         "type": "short",
         "active": true,
         "description": "When the Bakugan have trouble falling asleep there is only one cure: a Bedtime Brawl!",
-        "duration": 105,
+        "duration": 106,
         "freewheelid": "cn-2188337",
         "isclip": false,
         "typesort": "2",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1577077140000",
         "mediaid": "1d2ff78f55073ea614a2582ed3f361dc131199d5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012131800051297",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1577095140000",
         "mediaid": "2089c39892653183bf3a46b589703e26a3b69f68",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004291900087377",
@@ -587,7 +615,7 @@
         "type": "short",
         "active": true,
         "description": "Trox has a bad tooth and his Bakugan friends try to help him remove it.",
-        "duration": 93,
+        "duration": 94,
         "freewheelid": "cn-2188338",
         "isclip": false,
         "typesort": "2",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1577077140000",
         "mediaid": "24d625ae25eea61e9af11f54d89a535060bcab3f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001561",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "2515e31d10bc012e5053320c85939f4264a00b70",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001571",
@@ -669,7 +701,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Matter of Mind: Drago leads the Bakugan against the threat of Tiko to protect a powerful energy source called the Core Cell./Core Cell: The AO defend the Core Cell from an attack by Tiko and in a last ditch effort to save it Dan manages to evolve Drago into his L2 form.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170853",
         "isclip": false,
         "typesort": "1",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "253fd3c81c1fe29fb421173549b99166a01b0617",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001251900062464",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "25d87b9fd6875ca8b2b4721aea111be3d90166ef",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008051900011913",
@@ -751,7 +787,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Forbidden Isle: The AO travel to a remote island in search of a Core Cell, but instead they find the Bakugan known as Kelion, which soon bonds with Dan./New World Orders: The AO discover a small group of kids and Bakugan being used as laborers against their will, but freeing them is only half the problem.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2203693",
         "isclip": false,
         "typesort": "1",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "2d873f7ad2ab4b7d6ccff36992d51ea05434cff9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001251900062465",
@@ -792,7 +830,7 @@
         "type": "short",
         "active": true,
         "description": "The Awesome Ones Bakugan try to rescue Trox who is caught on a wild ride on Lia's camera drone.",
-        "duration": 97,
+        "duration": 98,
         "freewheelid": "cn-2188525",
         "isclip": false,
         "typesort": "2",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "2d96039fc3a0357e03c9948c841cd5e3772402df",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001541",
@@ -833,7 +873,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Burger Run: When the local Burger Joint is being threatened by a rogue Bakugan, Dan steps up to save the day and the burgers!/Monkey See, Monkey Don't: The AO stop neighborhood kids from copycat behavior (namely, using their Bakugan for frivolous reasons).",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170839",
         "isclip": false,
         "typesort": "1",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "34fcaf213e7233248372128022a24d51cad8ffd8",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012131800051305",
@@ -874,7 +916,7 @@
         "type": "short",
         "active": true,
         "description": "Dan introduces us and lets us why Cyndeous chose Dan to be his human partner. He also tells us why Cyndeous is a great warrior.",
-        "duration": 95,
+        "duration": 96,
         "freewheelid": "cn-2188311",
         "isclip": false,
         "typesort": "2",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1577095140000",
         "mediaid": "378f498e0a149a708e43e655dc871680a156342a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008061900012257",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "389a8c5c8efc140e0ca852e5b4cfef26ca1f289f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008061900012265",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "39e64d7f93f18c1b208292bca21e9c7d5dbb249c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001549",
@@ -997,7 +1045,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Dog Daze: Lightning discovers a new Bakugan, Artulean, leading to an unhealthy rivalry with Howlkor./In Focus: While Lia's newswoman mom does an expose on the AO Strata the Hunter tries to capture Hydorous.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170843",
         "isclip": false,
         "typesort": "1",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "3cc70ec81738195873bdafbb27fc621bce675957",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008061900012261",
@@ -1038,7 +1088,7 @@
         "type": "short",
         "active": true,
         "description": "In the thrilling conclusion to the first Bakugames' event, not only is the winner determined, but also which Bakugan Faction is eliminated from the competition!",
-        "duration": 98,
+        "duration": 99,
         "freewheelid": "cn-2191495",
         "isclip": false,
         "typesort": "2",
@@ -1063,7 +1113,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "40fd315e0b3772d5069b826bc6b7a32c25a93d24",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008061900012258",
@@ -1079,7 +1131,7 @@
         "type": "short",
         "active": true,
         "description": "The opening event of the Bakugames comes with a surprise twist for all the Factions.",
-        "duration": 138,
+        "duration": 139,
         "freewheelid": "cn-2191493",
         "isclip": false,
         "typesort": "2",
@@ -1104,7 +1156,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "4badafb0afa65dff7a46bb96d83827283c81337f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012131800051303",
@@ -1120,7 +1174,7 @@
         "type": "short",
         "active": true,
         "description": "Magnus tells us why he thinks his two headed Bakugan Nillious is the dangerous creature to mess with.",
-        "duration": 98,
+        "duration": 99,
         "freewheelid": "cn-2188310",
         "isclip": false,
         "typesort": "2",
@@ -1145,7 +1199,9 @@
         "expdateasmilliseconds": "1577095140000",
         "mediaid": "515735e382c04f4e769039b875c2b0ba697005f5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001569",
@@ -1186,7 +1242,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "58105146dc8a1c880a50ed905d8e7b3f8dd02064",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012131800051300",
@@ -1227,7 +1285,9 @@
         "expdateasmilliseconds": "1577095140000",
         "mediaid": "5927d0323b9b9b8bc61cab611ccac6f2915a3a81",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010011900024811",
@@ -1243,7 +1303,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A Devil on Your Shoulder: Near giving up, Magnus gains new strength and insight on the AO's mission to find Core Cells that will eventually lead him down a dark hole./Vestral Visions: Drago's sickness leads Dan to a revelation that there is an ailing Core Cell and if they can't find a cure, the planet itself may falter.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2203699",
         "isclip": false,
         "typesort": "1",
@@ -1268,7 +1328,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "59ff6d58b7d478ab494c604a6c9881778c75f416",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010011900024809",
@@ -1284,7 +1346,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A Door Closes, A Door Opens: Shun must stand up to his father, expose his cousin and protect his friends before Masato destroys everyone on Ichiro's island!/Kazami's Gambit: When Magnus looks to steal the Dimensional Doorway, Shun and Ichiro must make peace while the AO stop the Doorway from destroying them all.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2203698",
         "isclip": false,
         "typesort": "1",
@@ -1309,7 +1371,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "5a1be0ed92ebdc45a4cf4919c1989f3161819bc0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001547",
@@ -1350,7 +1414,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "5d49da6c3bdbd8337e045137dbc28754e3f808a6",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001559",
@@ -1366,7 +1432,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Dawn Before Dusk, Part 1: The AO meet Benton Dusk discovering that their quiet little corner of the world is about to become much, much larger./Dawn Before Dusk, Part 2: Benton Dusk reveals that the AO have been indentified as persons of interest by powerful corporations including Philomena Dusk's AAAnimus.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170850",
         "isclip": false,
         "typesort": "1",
@@ -1391,7 +1457,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "68b9e0b7619db7e612716057758e26a557d5bf65",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005281900094980",
@@ -1432,7 +1500,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "69c39713b886fbec9ac1b85f08f1e7ca29131971",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004291900087375",
@@ -1448,7 +1518,7 @@
         "type": "short",
         "active": true,
         "description": "Bakugan square off in a dodge ball game with a Bakugan spin.",
-        "duration": 96,
+        "duration": 97,
         "freewheelid": "cn-2188340",
         "isclip": false,
         "typesort": "2",
@@ -1473,7 +1543,9 @@
         "expdateasmilliseconds": "1577077140000",
         "mediaid": "6f095408c116d3e100eabfae8bdc99cdbec16431",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004261900086902",
@@ -1489,7 +1561,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "High Flying Hostiles: While escorting the Mind Core Cell to AAAnimus Campus, the AO are attacked by Masato Kazami and his Body Guards./Backfire Brawl: Philomena's attempt to refocus the Mind Core Cell's power backfires and the AO must fight their fellow employees inside the AAAnimus Campus.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170861",
         "isclip": false,
         "typesort": "1",
@@ -1514,7 +1586,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "6f8cce630315fa70e11af343bc667749c3ba76ab",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008061900012259",
@@ -1555,7 +1629,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "71edbe5edbf3f5e86ff7655980bc235762cd1485",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001251900062457",
@@ -1571,7 +1647,7 @@
         "type": "short",
         "active": true,
         "description": "Trox pranks Gorthion, only to have the tables turn on him.",
-        "duration": 96,
+        "duration": 97,
         "freewheelid": "cn-2188335",
         "isclip": false,
         "typesort": "2",
@@ -1596,7 +1672,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "7df9904fc51ce1090d210f2b38d0c818a7616d3b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001071900059162",
@@ -1637,7 +1715,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "83c2f7bbf2378cdbfb97df710aa5a838fe37bbb6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008061900012267",
@@ -1653,7 +1733,7 @@
         "type": "short",
         "active": true,
         "description": "Bakugan Factions must pull out all the stops to avoid elimination as the \"Keep the Brawl Rolling\" challenge continues.",
-        "duration": 98,
+        "duration": 99,
         "freewheelid": "cn-2191494",
         "isclip": false,
         "typesort": "2",
@@ -1678,7 +1758,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "85919342baa4de1c9790c223549c98b957e59d99",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004291900087343",
@@ -1694,7 +1776,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A Real Steal: Dan embarks on a solo adventure to outdo Magnus's new team of Bakugan Brawlers and winds up having to be saved by them instead./Lightning Unleashed: Lightning uncovers the Mind Core Cell buried beneath the Earth and battles Stata the Hunter in an effort to protect its secret.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170858",
         "isclip": false,
         "typesort": "1",
@@ -1719,7 +1801,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "86f171560617631d11a4e3c4d797b6f9a0037957",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004291900087371",
@@ -1735,7 +1819,7 @@
         "type": "short",
         "active": true,
         "description": "When turtonium rolls under the couch in small ball form the other Bakugan attempt rescues using their Special Abilities.",
-        "duration": 103,
+        "duration": 104,
         "freewheelid": "cn-2188344",
         "isclip": false,
         "typesort": "2",
@@ -1760,7 +1844,9 @@
         "expdateasmilliseconds": "1577077140000",
         "mediaid": "88a816ecfeeb4e815552570b0b61fed5118e413c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001556",
@@ -1776,7 +1862,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "All Jungled Up: Still lost in Vestroia the AO experience mind altering effects of the nearby Core Cell and come face to face with the Bakuzon monster Tiko./Outer Demons: The AO find the doorway out of Vestroia only to learn they have entered a mirror world of their own imagining created by the Core Cell.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170852",
         "isclip": false,
         "typesort": "1",
@@ -1801,7 +1887,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "8935fc24bd13f7c04992a5863c87a38d551c704a",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001539",
@@ -1842,7 +1930,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "89378b7cb97da87d2b7aa4340e124ee0733201d6",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004291900087376",
@@ -1858,7 +1948,7 @@
         "type": "short",
         "active": true,
         "description": "The other Bakugan use their Special Abilities to prep for a Dragonoid SURPRISE PARTY but in the end the surprise is on them.",
-        "duration": 98,
+        "duration": 99,
         "freewheelid": "cn-2188341",
         "isclip": false,
         "typesort": "2",
@@ -1883,7 +1973,9 @@
         "expdateasmilliseconds": "1577077140000",
         "mediaid": "8ba92294e83739142e2dc8be24ad89712fb986a2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004291900087351",
@@ -1899,7 +1991,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Throw Down: Lightning reveals his discovery of the Mind Core Cell but the AO arrive only to discover that Magnus has already beaten them to it./Brawl for It All: With both team's Bakugan knocked into a hibernation state by the Mind Core Cell only Dan and Magnus remain locked in a brawl for it all!",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170859",
         "isclip": false,
         "typesort": "1",
@@ -1924,7 +2016,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "8d4da033ec820054d04f064e39243080961eba35",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001548",
@@ -1940,7 +2034,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Exit: The AO compete with a rival Brawling team for ViewTube hits leading to a \"winner take all\" brawl./The Lost and the Cost: Everett Ray, a promotor, tries to get the AO to join an official league for Bakugan Battling.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170844",
         "isclip": false,
         "typesort": "1",
@@ -1965,7 +2059,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "8fdffb4b241bbf63f8d9dd6e2e06be6f62be59e1",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004291900087374",
@@ -2006,7 +2102,9 @@
         "expdateasmilliseconds": "1577077140000",
         "mediaid": "93d3d3cc42822bca6d3f1d4f919f2ba3d516edea",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004291900087372",
@@ -2022,7 +2120,7 @@
         "type": "short",
         "active": true,
         "description": "The Bakugans' Special Abilities make a BURPING CONTEST epic.",
-        "duration": 103,
+        "duration": 104,
         "freewheelid": "cn-2188342",
         "isclip": false,
         "typesort": "2",
@@ -2047,7 +2145,9 @@
         "expdateasmilliseconds": "1577077140000",
         "mediaid": "93fe2018f5d228998c337a404800e4f4a5c322d6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001570",
@@ -2063,7 +2163,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Tripped Up: Dan and Wynton stumble on both a possible hidden location of the Mind Core Cell and Colonel Tripp who wants the energy source for himself./Power Tripp: After a falling out with Dan, Wynton is mind-controlled by Tripp who stages an attack to ignite a war between Brawlers and the Military.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170857",
         "isclip": false,
         "typesort": "1",
@@ -2088,7 +2188,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "943da3ae05c8b3a6d6a18705c91ad15e5a13a1a1",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001251900062459",
@@ -2129,7 +2231,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "9558fdb77da02e37ce60c0aa713ee43a6fc04f33",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029149",
@@ -2145,7 +2249,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Mask of Pride: Driven by revenge, Magnus decides to go back into the labyrinth, face the AO and claim the Fortus Core Cell energy for himself./The Graveyard of Courage: Super charged by the Fortus Core Cell, Magnus wages war on the AO only to discover his newfound power has a price attached.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2203702",
         "isclip": false,
         "typesort": "1",
@@ -2170,7 +2274,9 @@
         "expdateasmilliseconds": "1572775140000",
         "mediaid": "95efe020ffc45f77f34cde797c2da7440f9accd3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001568",
@@ -2186,7 +2292,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Shun Shine: The AO want to evolve their Bakugan like Dan did with Drago but only Shun finds a way by tapping into the energy of the Mind Core Cell./Ronin Son: When Shun's cousin Masato Kazami claims Hydorous as his intellectual property the AO must battle to keep their friend by their side.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170855",
         "isclip": false,
         "typesort": "1",
@@ -2211,7 +2317,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "98f883fc626560106f3ce7b31315d018f0c265cf",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001251900062458",
@@ -2252,7 +2360,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "9d857669421e7047a544bf1fbe0fe21eab6e9ec4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009111900019708",
@@ -2268,7 +2378,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Seek and Hide: Sent to investigate a Japanese island by Benton Dusk, the AO discover a hidden facility conducting experiments that affect The Hide./Family First: Trapped by his father, Shun is forced to battle his own friends, revealing dark secrets about the Kazami family and Masato's experiments.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2203697",
         "isclip": false,
         "typesort": "1",
@@ -2293,7 +2403,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "a453d4466c89129f1ae999459c9b99bf99fc5077",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001071900059163",
@@ -2334,7 +2446,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "a846cde44730a0a1c4cca99e9c117cdcfd987620",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008061900012263",
@@ -2350,7 +2464,7 @@
         "type": "short",
         "active": true,
         "description": "When the music stops, the Brawls begin for these Bakugan.",
-        "duration": 89,
+        "duration": 90,
         "freewheelid": "cn-2191503",
         "isclip": false,
         "typesort": "2",
@@ -2375,7 +2489,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "ab0d450064e6d0c4df33e9fdbf1cab15a20640ff",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001071900059168",
@@ -2391,7 +2507,7 @@
         "type": "short",
         "active": true,
         "description": "Drago's cold halts a battle with Gorthion but inadvertently defeats Nillious.",
-        "duration": 97,
+        "duration": 98,
         "freewheelid": "cn-2188513",
         "isclip": false,
         "typesort": "2",
@@ -2416,7 +2532,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "ac6d583a21a4fe754b449b2aa834903425c49e46",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001071900059160",
@@ -2457,7 +2575,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "b191f5e127435a512a1d6174811766e4e115538a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019807",
@@ -2473,7 +2593,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Hide Matrix and Seek: The AO go undercover to try and pass as citizens of Lord Brakken, but quickly discover that even minor celebrity makes anonymity impossible./Or Forever Hold Your Peace: The AO seek to rescue Lia from an arranged marriage with Lord Brakken only to discover she just made a major discovery for the Bakugan!",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2203695",
         "isclip": false,
         "typesort": "1",
@@ -2498,7 +2618,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "b3296d37aee4d12a64cff912b765da621a8a469e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001537",
@@ -2514,7 +2636,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Local Heroes: After the AO cause accidental destruction Dan's parents question whether the kids should be allowed to keep their Bakugan./Pegatrix: Lia disagrees with her new Bakugan Pegatrix on battle techniques but during a fierce fight Lia must rely on Pegatrix's battle savy.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170841",
         "isclip": false,
         "typesort": "1",
@@ -2539,7 +2661,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "bbe45474f6c63cd8fccbcf302b8ad7e9e6d1de0b",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001071900059167",
@@ -2580,7 +2704,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "beb3c001f7327996420b0e5dbe45bedbd33f1ed3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001555",
@@ -2596,7 +2722,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Home on the Run: We are introduced to Shun's mysterious backstory, his relationship with his industrialist father and desire for a closer knit family./Top Slot: Dan and Shun butt heads on how best to make the AO a real team amidst growing threats including the mysterious Shargo Ronin.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170848",
         "isclip": false,
         "typesort": "1",
@@ -2621,7 +2747,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "c8b1e612857681a703e0463f12af5ed8f8369a60",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001251900062460",
@@ -2637,7 +2765,7 @@
         "type": "short",
         "active": true,
         "description": "Evil Bakugan felled ultimately by Dan's smelly gym socks.",
-        "duration": 100,
+        "duration": 101,
         "freewheelid": "cn-2188514",
         "isclip": false,
         "typesort": "2",
@@ -2662,7 +2790,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "cb65920dd3aff82d1ce282b2d608870f7642c34e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012131800051292",
@@ -2703,7 +2833,9 @@
         "expdateasmilliseconds": "1577095140000",
         "mediaid": "cbd4e30fca6c969f9d051b13ae6e91deecf2a9c6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008061900012266",
@@ -2744,7 +2876,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "ce94259baa3c32fb98e7ad2e1d90f0d25598908b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001071900059165",
@@ -2785,7 +2919,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "cedcbfe894178142465a5957167e1726e88852f9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008061900012260",
@@ -2826,7 +2962,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "cfa8e2cc54d5c7e42e818d195cefab9b5a731085",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029151",
@@ -2842,7 +2980,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Too Much: The Hide Matrix goes crazy and a simple AO training mission turns into a complicated rampage that brings down Studio D./Who Are You?: After the loss of their HQ, the AO is a little off, but in talking to Benton Dusk, they learn a new sense of purpose for their team.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2203704",
         "isclip": false,
         "typesort": "1",
@@ -2867,7 +3005,9 @@
         "expdateasmilliseconds": "1573984740000",
         "mediaid": "d1af8b51233f1f266a979a1807960271e5328dde",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008061900012262",
@@ -2883,7 +3023,7 @@
         "type": "short",
         "active": true,
         "description": "Bakugame Brawling takes on a whole new dimension in the preliminary showdowns high above Dan's backyard.",
-        "duration": 113,
+        "duration": 114,
         "freewheelid": "cn-2191496",
         "isclip": false,
         "typesort": "2",
@@ -2908,7 +3048,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "da19d3b5c3050fc5a7e0ac040acd13642a8ce47d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010081900026443",
@@ -2924,7 +3066,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Bakugan Breakers: Magnus's new team of Bakugan Brawlers overhear Lightning's warnings of a sick Core Cell and decide to capture the dog to find its location./The Awful Ones: Magnus heads into the Labyrinth to claim the Fortus Core Cell for his own, but comes in direct contact with the evil versions of the AO.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2203701",
         "isclip": false,
         "typesort": "1",
@@ -2949,7 +3091,9 @@
         "expdateasmilliseconds": "1573379940000",
         "mediaid": "da74df467675bd0a89630a60009ad37b846fb0fb",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004241900084771",
@@ -2965,7 +3109,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Career Opportunities: After defeating Magnus the AO get an offer of employment from a surprising source Philomena Dusk!/Punch the Clock: During a commercial to celebrate their joining the AAAnimus team Dan and the AO rebel before they sellout.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170860",
         "isclip": false,
         "typesort": "1",
@@ -2990,7 +3134,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "dc48a1b7e2a149af627a8e949e024e2499671c5f",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001071900059164",
@@ -3031,7 +3177,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "dc95770b856d31856275d39a9058d292fa8fb547",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001538",
@@ -3047,7 +3195,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Origin of Species, Part 1: Dan meets his partner Bakugan Drago for the first time and we learn about the incident that happened on Earth twelve years ago./Origin of Species, Part 2: Dan and friends win the Bakugan Battle, firmly establishing the Awesome Ones as our heroes and Bakugan Brawlers.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170838",
         "isclip": false,
         "typesort": "1",
@@ -3072,7 +3220,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "ddf31fdee70cf133b7a2de17cc46555e5358589b",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001251900062461",
@@ -3113,7 +3263,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "e2197b562d016cd994342685ddea55d6c95ec714",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004291900087370",
@@ -3154,7 +3306,9 @@
         "expdateasmilliseconds": "1577077140000",
         "mediaid": "e3a1ed1cc6855c20b968884f1c7ce997fdf7be0f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001251900062462",
@@ -3195,7 +3349,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "eedf31d47936f43e556590747fd7e541fa7b3e0f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012131800051299",
@@ -3211,7 +3367,7 @@
         "type": "short",
         "active": true,
         "description": "Shun tells us about his main Bakugan Hydorous and what makes him such a formidable cobatant.",
-        "duration": 99,
+        "duration": 100,
         "freewheelid": "cn-2188308",
         "isclip": false,
         "typesort": "2",
@@ -3236,7 +3392,9 @@
         "expdateasmilliseconds": "1577095140000",
         "mediaid": "f0ead6d5096cab9334621c1bd9a6c559047a700a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001551",
@@ -3252,7 +3410,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Mr. Moon: Wynton finds a new Bakugan who proves difficult to control but things get more complicated when Col. Tripp seizes control of Trox./What's Wrong with Dan: With \"Dan\" behaving strangely toward the AO Lightning sniffs out the truth- an impostor!",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2170845",
         "isclip": false,
         "typesort": "1",
@@ -3277,7 +3435,9 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "f1c64408be57be8a6af77e23a34b7b67240ec7d3",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012131800051291",
@@ -3318,7 +3478,9 @@
         "expdateasmilliseconds": "1577095140000",
         "mediaid": "f20ea94aaaac3dcb4dcd181a8d3929fc6abab30a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1001071900059166",
@@ -3359,7 +3521,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "f2ac599a392cd8863db9d6fe101e7d39e71162de",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029150",
@@ -3375,7 +3539,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Vestroia, Part 1: The AO discover the only way to stop Magnus, and possibly save him, involves shutting down the infected Fortus Core Cell./Vestroia, Part 2: The AO must decide whether or not to help Benton Dusk destroy the infected Fortus Core Cell, risking the destruction of their own Bakugan.",
-        "duration": 1351,
+        "duration": 1352,
         "freewheelid": "cn-2203703",
         "isclip": false,
         "typesort": "1",
@@ -3400,7 +3564,9 @@
         "expdateasmilliseconds": "1573379940000",
         "mediaid": "f79aa035e6632c9e8fabac7438173eae07c69c9c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012131800051295",
@@ -3416,7 +3582,7 @@
         "type": "short",
         "active": true,
         "description": "Lia let's us know about Gorthian the Bakugan special abilities and beyond his strength why she loves brawling with him on her side.",
-        "duration": 79,
+        "duration": 80,
         "freewheelid": "cn-2188306",
         "isclip": false,
         "typesort": "2",
@@ -3441,7 +3607,9 @@
         "expdateasmilliseconds": "1577095140000",
         "mediaid": "fab8801b369a0449b0aa8107a905abf288fc55e6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012131800051307",
@@ -3482,7 +3650,9 @@
         "expdateasmilliseconds": "1577095140000",
         "mediaid": "facae98e16a4c4b3aa489c5042c777a3525c947c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001540",
@@ -3523,6 +3693,8 @@
         "expdateasmilliseconds": "1577163599000",
         "mediaid": "fe9a53740973632fbfef6f40f8708a3edb8146d2",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]
