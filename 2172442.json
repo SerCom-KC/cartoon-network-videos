@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando una caries obliga a Ben a ir al dentista, su día empeora aún más cuando el malévolo mago Hex usa un atrapasueños para materializar los miedos de nuestro héroe y los transporta con él a un lugar pesadillesco.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172442",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "8e5a90cc2f78ec601bd91bfb98981336bcbf4a18",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Vic & Val are forced to go to Guillermo's boring birthday party, they devise a scheme to leave early, but end up discovering that the party is way cooler than they thought.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2193870",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "d531a270321b53b66c3903ac87e552bb892a4778",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

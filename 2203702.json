@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Mask of Pride: Driven by revenge, Magnus decides to go back into the labyrinth, face the AO and claim the Fortus Core Cell energy for himself./The Graveyard of Courage: Super charged by the Fortus Core Cell, Magnus wages war on the AO only to discover his newfound power has a price attached.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2203702",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572775140000",
   "mediaid": "95efe020ffc45f77f34cde797c2da7440f9accd3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

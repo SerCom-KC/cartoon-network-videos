@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Dark Ominous clouds blow in from the East, bringing Thunder and Lightning with them: two forces of nature made flesh into the form of costumed super-teens. The stormy brothers aren't evil. They're just looking for a good time.",
-  "duration": 1297,
+  "duration": 1298,
   "freewheelid": "cn-444992",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "559d511cccfbba9c919e2e1f5a697ce494fd7881",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

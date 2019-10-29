@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven filma un documental que sigue los pasos de una banda local mientras consiguen su primer gran oportunidad.",
-  "duration": 691,
+  "duration": 692,
   "freewheelid": "cn-2166785",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "2aa83921d564e58d547225fe8874e5519975af99",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

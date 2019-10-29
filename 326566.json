@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Paste Makes Waste: When Buttercup's taunting turns paste-eating classmate Elmer Sglue into a destructive Paste Monster, she gets out of a sticky situation by doing something against her tough nature, apologizing./Ice Sore: During a heat wave, Blossom discovers that she has a new power: ice breath. But when she doesn't use her new gift wisely, she gets a chilly reception from her sisters.",
-  "duration": 1360,
+  "duration": 1361,
   "freewheelid": "cn-326566",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "215d254fe98e138417c178194e71821945aef383",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

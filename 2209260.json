@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Buscando a la mítica bestia Hodag, la pandilla de Misterios S.A. encuentra algo mucho más valioso: ila cuarta pieza del Disco Planisférico!",
-  "duration": 1349,
+  "duration": 1350,
   "freewheelid": "cn-2209260",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "74f4fccf887e1d65bef9fe2b72a4ba20df14bb24",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

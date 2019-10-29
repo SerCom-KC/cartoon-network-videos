@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Un dinosaurio gigante, \"El Oloroso\", cobra vida e irrumpe violentamente en un museo de Centroamérica.",
-  "duration": 1273,
+  "duration": 1274,
   "freewheelid": "cn-2208644",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "b05cd6877374aa53273fd0a236d320c12de4fc1e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

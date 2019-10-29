@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los ninjas corres a salvar a Lloyd. Un Lord Garmadon más poderoso que nunca, crea una enorme estatua para ayudarlo a gobernar Ninjago y a derrotar a los ninjas.",
-  "duration": 1321,
+  "duration": 1322,
   "freewheelid": "cn-2163611",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1618545599000",
   "mediaid": "5a69167b8f69fa0a460694e32220bf9357e6a739",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

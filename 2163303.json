@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A Hawkodile lo atrapa la policía de acción por trabajar como guardaespaldas sin licencia de acción. No puede proteger el reino ni hacer nada radical hasta tener la licencia, ipero la prueba en el Departamento de Caos y Violencia es para los nerds! Obligado a quitarse los guantes, Hawkodile lucha por vivir una vida sin golpes, por lo que Unikitty promete ayudar a su amigo a contener su impulso de entrar en acción y a estudiar para la prueba. Pero la prueba consiste en algo más de lo que parece.",
-  "duration": 673,
+  "duration": 674,
   "freewheelid": "cn-2163303",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "ac40b65da9d2e1df0c084beef2bf1b4900837987",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The stars are aligned. The sun is in eclipse. All of Slade's labors are about to reach fruition and the Titans are about to face their greatest challenge ever. But is there really any hope of preventing the end of the world?",
-  "duration": 1378,
+  "duration": 1379,
   "freewheelid": "cn-547530",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "8e3542d945b447dee7c1b8bc165b321f40f1fc6a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

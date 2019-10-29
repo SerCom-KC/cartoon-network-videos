@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando el juguete favorito de Perricornio desaparece, Unikitty y Halcondrilo se unen para localizar al ladrón, ial estilo socios policías! Pero cuando las cosas se ponen difíciles y el caso no se resuelve, ya no es solo su sociedad la que está en juego, sino también su amistad.",
-  "duration": 650,
+  "duration": 651,
   "freewheelid": "cn-2196750",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "f74b73370e9b941d9ebe63f5b1da9d3837749404",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

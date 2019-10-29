@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mientras Max intenta llevar a Ben y Gwen al Monumento de las Cuatro Esquinas antes del atardecer, un banco de niebla siniestra envuelve la carretera y obliga a Max a conducir a la velocidad de un caracol. Pero una vez que Fogg cobra vida y ataca el Rust Bucket, el equipo Tennyson debe trabajar unido si se quieren llegar sanos y salvos.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172459",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "d919cb8ec2763fa97f41590ac96d2b7df5bb5116",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

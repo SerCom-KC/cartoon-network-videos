@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los Fantásticos conocen a Benton Dusk y descubren que su pequeño mundo está a punto de volverse mucho más grande.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205845",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "93dff4226eb2aba5e9bcf0f2ac84eb6a46edb968",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

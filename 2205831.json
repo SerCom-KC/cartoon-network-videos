@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Lightning descubre un nuevo Bakugan, Artulean, y eso desata una fuerte rivalidad entre él y Howlkor.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205831",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "6907f788b8a7e0e840aca714acf3008b22dede98",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

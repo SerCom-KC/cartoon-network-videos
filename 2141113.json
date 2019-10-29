@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Funshine's jokes unwittingly hurt the feelings of a strange Rock Giant. Disturbed from its slumber, the usually benign creature inadvertently creates havoc for the Whiffles until Funshine calms it by apologizing.",
-  "duration": 661,
+  "duration": 662,
   "freewheelid": "cn-2141113",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577872740000",
   "mediaid": "1ae20646a2bbd1214dfa2861343155e05dba03ce",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

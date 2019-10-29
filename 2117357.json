@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A misunderstanding between Mega Man and Rush ends in the robo-pup running away from home, only to be reunited and reconciled during a confrontation with Wave Man.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117357",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596081599000",
   "mediaid": "8311c07b3d99ecc31ecc928697d32eefb19e4dd7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

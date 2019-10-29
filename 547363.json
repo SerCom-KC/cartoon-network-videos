@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Titans' Forth of July festivities are cut short when Mad Mod crashes the party declaring the American Revolution a Hoax and reclaiming the city for Jolly Old England. And if that wasn't enough, old Mod uses his high-tech cane to steal Robin's youth making King Moddie young again while Robin turns into a withered, dried-up old man. Can the remaining Teen Titans come up with a plan to take back their city and save their leader?",
-  "duration": 1372,
+  "duration": 1373,
   "freewheelid": "cn-547363",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "907e395d43b50f6eb856011386b22c03ed3938ab",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

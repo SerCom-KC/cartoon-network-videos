@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "BMO wages war against a rat in the tree house, and Finn and Jake get sick.",
-  "duration": 170,
+  "duration": 171,
   "freewheelid": "cn-2055465",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "e94573e0c6e275743d30412aa21f5435900808db",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

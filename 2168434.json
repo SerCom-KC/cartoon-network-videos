@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Panda se embarca en una misión para devolverle a la chica de sus sueños el teléfono que perdió.",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2168434",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1595822399000",
   "mediaid": "bc36cd5098c9fedfd16d658f61ff11e0008aba02",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

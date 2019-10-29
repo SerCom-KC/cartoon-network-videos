@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "La pandilla está planeando una sorpresa para Puppycorn, así que deletrean las cosas cuando hablan para que él no se entere. Desesperado por saber lo que dicen, Puppycorn encuentra un libro mágico que cree que lo ayudará a aprender a deletrear, ipero sin saberlo, el libro le enseña a lanzar hechizos! ¿Se dará cuenta Puppycorn de que el conocimiento es poder, y de que algunos secretos se guardan por una razón?",
-  "duration": 669,
+  "duration": 670,
   "freewheelid": "cn-2163322",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598800000",
   "mediaid": "6cba908d72538a52b44307e28ac1e35c50868ff3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

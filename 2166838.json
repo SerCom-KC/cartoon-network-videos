@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Vic & Val want to sneak out to a secret fireworks show but are thwarted when their new babysitter, Xochi, outsmarts them at every turn.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2166838",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "40420ecfc6aea29bdc7aac3d3b903f1ed2fe9d64",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

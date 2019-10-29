@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Sin querer, Owen y Noah se convierten en magnates de las galletas y deben ocultar el ingrediente secreto, que es la saliva que deja Owen al lamerse las chispas.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2199652",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598800000",
   "mediaid": "fe25f4e3f75268d58cf4663cb34119101d0a5aca",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "De paseo por Yellowstone, Ben descubre el plan del rápido y furioso LaGrange para encontrar un tesoro enterrado bajo el parque nacional. Pero con una ayudita del géiser Viejo Fiel, Overflow logra empapar los sueños de LaGrange.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2153916",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572580799000",
   "mediaid": "2cbb91ded76cea8229bc40a08db4e36d5fd9db6f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

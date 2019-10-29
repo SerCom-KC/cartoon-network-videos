@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mientras visitan a las Chicas Hechizo en un castillo de Transilvania, la pandilla encuentra a un vampiro de verdad.",
-  "duration": 1272,
+  "duration": 1273,
   "freewheelid": "cn-2208662",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "a105c5c82e7af20152d0832a91e995ff4401db23",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando un paso elevado colapsa sobre la autopista, el equipo Tennyson queda varado en un embotellamiento junto con Simon Sez y familia. Pero cuando Ben y Simon se alían para enfrentar juntos al atasco, Simon solo consigue que las cosas sean mucho, pero mucho peores.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2191240",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1609477199000",
   "mediaid": "251c068a8023a494c21e15fce2a613a4e866aa99",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben, Gwen y el Abuelo Max llegan a un parque nacional nativo americano para conocer los plintos de Ayasha, una antigua formación rocosa parecida a la de Stonehenge. Pero cuando llega el siniestro hechicero Hex, iBen debe luchar contra una bestia que Hex hizo mágicamente con rocas enormes!",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2191236",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1609477199000",
   "mediaid": "5e36f32ddd5058f4215a0af3f3792c44c3acc08d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

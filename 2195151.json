@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Después de hacerse amigo de un pollo con mala actitud en un zoológico de contacto, este lo sigue de regreso a la escuela. Él defiende la mala conducta del ave hasta que ya no puede seguir haciéndolo.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2195151",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1588823999000",
   "mediaid": "6af638a081b538bf9cbb56567a08a285c9c11bcc",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

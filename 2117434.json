@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Suna and Ashley's science project turns into a hungry blob monster, Mega Man must team up with Wood Man to shut down the experiment gone wrong before it devours the city!",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117434",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596081599000",
   "mediaid": "637b2f9b67baa87092aa89c8ca546c337dc9c5fc",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

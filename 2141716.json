@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Gwen tries to convince Chef to tell the class the truth about their pet goldfish.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2141716",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1599019199000",
   "mediaid": "0ee01074d3014f82a726921b9c7fc9509e356588",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Abordo del SS Pettigrew en su último viaje, Ben debe luchar no solo contra el mareo sino también contra Vapor Smythe, que se propone usar a sus criaturas mecánicas para hundir el barco moderno que remplaza al vapor... iy a sus pasajeros!",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172438",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "2873fa954f5049ceae1ca45d11666780449e0578",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

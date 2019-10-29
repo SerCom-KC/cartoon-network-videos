@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Marceline is on a top-secret mission tracking Maja the Sky Witch. But when she loses the witch's trail, Marceline turns to Princess Bubblegum for help.",
-  "duration": 701,
+  "duration": 702,
   "freewheelid": "cn-977605",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "7dbe8ebebca4a13f4c3de1af430510558baf6eab",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cyborg is mysteriously thrown into the distant past and lands in the middle of a barbarian village that needs his help. But with the nearest charging station 5,000 years in the future, Cyborg has no way to recharge and his power supply is dwindling. Can Cyborg get back to his own time before time runs out?",
-  "duration": 1371,
+  "duration": 1372,
   "freewheelid": "cn-547518",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "5d0e61281cc0a0d21d24662a48abffdbc0c2e329",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

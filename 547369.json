@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Part two of the finale containing the final showdown between Cyborg and Brother Blood, and the creation of a new branch of the Titans' team. Titans East, a new tower in a new city with five new members: Aqualad, Bumblebee, Speedy and a pair of high-speed twins known as Mas y Menos.",
-  "duration": 1358,
+  "duration": 1359,
   "freewheelid": "cn-547369",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "918884ae017b0f287c4460f9beb291d1ed5f54c1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

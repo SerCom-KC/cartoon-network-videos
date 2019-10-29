@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "La pandilla acompaña a un pingüino de vuelta hasta su hogar en la Antártida y descubren una criatura marina que arrastra a sus víctimas hacia un destino fatal.",
-  "duration": 1274,
+  "duration": 1275,
   "freewheelid": "cn-2208667",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "028170d9dd47db6422d1711c7170c703f541b58d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

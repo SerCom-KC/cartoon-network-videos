@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Falafel decides to pack up and leave the city, Apple and Onion have to convince him to stay or they'll have to leave too.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2142247",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "e603b777c4144104b2a6492f62031727928f3303",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

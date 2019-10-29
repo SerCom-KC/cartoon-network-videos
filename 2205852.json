@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los Fantásticos defienden la Célula Núcleo de un ataque de Tiko, y en el último intento de Dan por salvarla, él y Drago logran liberar un nuevo poder.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205852",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "370dc465b5115d06a5132efb8b4793e5194608db",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

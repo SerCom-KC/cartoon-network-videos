@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mientras pasean por el Parque Nacional Geyser Gulch, el trío Tennyson descubre un generador a vapor de Steam Smyth y debe apagarlo antes de que sobrecargue la red eléctrica o, peor, icause un terremoto masivo que destruya el parque entero!",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172449",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "f455aba57b2165b1b5dc3393e178d3a07d4a19ad",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

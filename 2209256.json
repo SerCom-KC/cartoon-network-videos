@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "La pandilla está dividida y Cueva Cristal está acechada por un malvado hombre-bebé llamado \"Bufón Llorón\". El alcalde convoca a Misterios S.A. para que regrese.",
-  "duration": 1356,
+  "duration": 1357,
   "freewheelid": "cn-2209256",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "7b3185288fbd28a96c9f5342c5d7959fdc795100",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

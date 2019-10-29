@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Brother Blood is back. And this time, it's personal. Cyborg learns Blood stole his blueprints and the villain is using Cyborg's technology to create a doomsday device. Can Cyborg take charge of the team and lead a mission to stop his arch-enemy? Or will he even get the chance?",
-  "duration": 1373,
+  "duration": 1374,
   "freewheelid": "cn-547364",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "576c1fb8031fe5bf9d8de710e45d7a39dd3f0fd3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

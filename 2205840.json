@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Un críptico correo electrónico lleva a Los Fantásticos en busca de un Bakugan desaparecido, pero pronto se dan cuenta de que el correo era una prueba de un misterioso benefactor.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205840",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "94781072daa4629994b4b778c5945af5eab4ec47",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

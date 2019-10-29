@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Duncan stages a small coup to oust Courtney as their official class firefighter so that he can wear the shiny firefighter helmet - until he smells smoke in the classroom and begs her to take her job back.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2182742",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1599623999000",
   "mediaid": "d6f450a2eb1c16f9e901270c4187d888ed253b41",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

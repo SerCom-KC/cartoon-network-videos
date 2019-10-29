@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Dr. Gross sings a song about how the islands were started.",
-  "duration": 75,
+  "duration": 76,
   "freewheelid": "cn-2171053",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "4fcc0f2ba3fc47f2ccd6a43a6a430b9e5ff9a34c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

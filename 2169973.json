@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "El cuartel general de la resistencia es irrumpido y Lloyd lucha por no ser capturado. Mientras tanto, los Ninjas son capturados por Heavy-Metal, pero encuentran un aliado improbable.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2169973",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "cfc9cc01c358385596fba14a8725ef8551341262",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

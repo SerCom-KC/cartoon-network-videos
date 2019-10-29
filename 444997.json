@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Slade sends a team of robotic commandos to steal a high-tech chip. The Titans stop the robbery but Starfire nearly gets hurt in the process. Robin becomes more determined than ever to find out who Slade is and what he's planning.",
-  "duration": 1292,
+  "duration": 1293,
   "freewheelid": "cn-444997",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "1393018b047590bd02e19c98c37b66e4a7eb39f7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

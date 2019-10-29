@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Daphne compra una máscara decorativa, supuestamente maldita, en el Barrio Chino, y es secuestrada. El resto de la pandilla sigue la pista de los secuestradores hasta el templo del malvado Zen Tuo, que parece tener el templo embrujado y quiere librarse de los chicos.",
-  "duration": 1309,
+  "duration": 1310,
   "freewheelid": "cn-2208634",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "31e76422e8844e434f5b35af6e7de8b7765e43da",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Apple and Onion want to become this week's \"Most Fun People\".",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2193153",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601197140000",
   "mediaid": "bb002209c5d393d2aa6c8f04cda2525b9e1153bd",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "iEs la noche del estreno en el Festival de Cine de Unireino! Todo el mundo está entusiasmado por ver lo que hicieron los amigos, especialmente Richard, que se considera el máximo experto en cine y no puede esperar a destrozar todas las películas de los demás. Pero después de interpretar el papel del crítico, ¿será la película de Rick una obra maestra o un fracaso?",
-  "duration": 660,
+  "duration": 661,
   "freewheelid": "cn-2163305",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "4553e3b0bc92912c37ebeb2fb3b65e62490f88ae",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

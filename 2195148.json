@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Chef le confisca la mega-bola a Owen y la guarda en su oficina. Duncan, viendo una oportunidad para conseguir ayuda escapando de la guardaería, lidera un equipo de fuga por los conductos del aire acondicionado para recuperarla.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2195148",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1588823999000",
   "mediaid": "3813e5fa6bf953d411ef88530660127c82d388e1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

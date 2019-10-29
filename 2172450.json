@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando Gwen se inscribe en un concurso de comer panqueques en el mundialmente famoso Palacio de los Panqueques, Ben encuentra a los Bugg Bros. y debe detenerlos antes de que puedan obtener una provisión infinita del elemento que les da vida a sus creaciones: los panqueques del Palacio del Panqueque.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172450",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "195766d2bb15875f5e09f1432001f951ae7136b4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

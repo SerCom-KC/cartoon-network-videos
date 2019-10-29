@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Vic accidentally loses one of Val's prized coins Val makes a deal with a mysterious antiques collector to replace it, but the deal has terrible consequences.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2178249",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598800000",
   "mediaid": "c8179d844590e2ea0c7c4a6286cd493b6558b654",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

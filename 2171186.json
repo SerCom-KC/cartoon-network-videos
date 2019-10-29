@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "La manta de Pepper desaparece en una pijamada en la cabaña.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2171186",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "2af3c0b04c8590495c8de2d147643b8da60903a3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

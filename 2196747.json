@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "En un esfuerzo por demostrarle a Master Frown que no es una tirana, Unikitty acuerda celebrar una elección para ver quién será la nueva princesa del Unireino. En una situación sorpresiva, Master Frown toma una ventaja temprana en las encuestas. Unikitty descubre que Frown gana porque está haciendo trampa. ¿Recurrirá Unikitty a sus propios trucos sucios para ganar las elecciones o permanecerá fiel a sí misma y seguirá tratando de ganar gracias a su amabilidad?",
-  "duration": 673,
+  "duration": 674,
   "freewheelid": "cn-2196747",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "8e1dd52f5948fcb926ca623ec2d9b55b512de93f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

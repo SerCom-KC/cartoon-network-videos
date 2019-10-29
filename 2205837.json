@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "La aparición de un nuevo campo Bakugan hace que los chicos del pueblo corran a buscar a sus propios Bakugan. Pero cuando el campo es contaminado, Lia debe salvarlos a todos.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205837",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "e1cf43892b925d07e83838423b0a13a02dbe35ba",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

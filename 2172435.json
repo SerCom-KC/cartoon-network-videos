@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "De excursión en Cabo Cañaveral, el trío Tennyson presencia el lanzamiento inaugural de una nave espacial experimental, pero cuando Vilgax comanda la nave, Ben debe impedir que el villano use el transbordador como arma antes de que la cuenta regresiva llegue a cero.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172435",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "350eaa39cb729e47f6ee8e9422a438cf11b90f6f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

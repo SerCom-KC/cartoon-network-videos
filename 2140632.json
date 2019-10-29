@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Mash-up of the best Beast Boy songs.",
-  "duration": 66,
+  "duration": 67,
   "freewheelid": "cn-2140632",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "a5a631023ed3fd3d7a058777202f71d5c1799295",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

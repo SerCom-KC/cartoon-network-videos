@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After months of fighting the Brotherhood of Evil around the globe, the Teen Titans are finally back home. But a walk through the city reveals things are no longer as they remembered. And while Beast Boy wants everything to be just like it was in the past, he has to face the fact that in life things change.",
-  "duration": 1374,
+  "duration": 1375,
   "freewheelid": "cn-622770",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "361c069dcf1a6e14607410c1230105fcded57a25",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

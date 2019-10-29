@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Shaggy es la víctima de un maleficio que lo transforma cada noche mientras duerme en un monstruo gigante.",
-  "duration": 1272,
+  "duration": 1273,
   "freewheelid": "cn-2208659",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "9615bafec8f74f200a92dd6f7a0be41bf6c64b24",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Share fears she's losing her ability as a problem-solver and peacemaker when she can't calm a squabble between a group of Whiffles and a flower bed of Perturbed Petunias. Cheer discovers it's not Share's fault; the Petunias are being secretly manipulated by Bluster's rumor-mongering.",
-  "duration": 661,
+  "duration": 662,
   "freewheelid": "cn-2141111",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577872740000",
   "mediaid": "a4df86db98d39043d4a929a274a6605b0dbedb2b",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

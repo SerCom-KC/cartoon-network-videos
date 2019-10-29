@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Cyborg was a fully human athlete, he loved trying to do more than he thought he could do. He always gave 110%. But now that his muscles are mechanical, Cyborg's limitations are built in. No matter how much he tries, 100% is all he's got.",
-  "duration": 1308,
+  "duration": 1309,
   "freewheelid": "cn-539101",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "cf8f4a1499ff0c7d8c962d68b250dca71e50dcf0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

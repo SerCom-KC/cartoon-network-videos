@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "As the sun rises on her last day, Marceline recalls her long extraordinary life.",
-  "duration": 688,
+  "duration": 689,
   "freewheelid": "cn-2061412",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "9642aeaf125b61d378df0b7cb4c5e3ad9a7fd569",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

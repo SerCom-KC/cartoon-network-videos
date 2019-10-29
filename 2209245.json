@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando la ciudad entera es presa del hechizo de amor de Afrodita, Scooby-Doo y el recién escapado de prisión profesor Pericles, deben salvar a la pandilla y a la ciudad.",
-  "duration": 1242,
+  "duration": 1243,
   "freewheelid": "cn-2209245",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "f059f0e497b0a6c22bbc863bec4da1d66feecd27",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

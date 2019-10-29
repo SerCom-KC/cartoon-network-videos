@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "La pandilla viaja a Nuevo México y encuentra un antiguo y legendario pájaro gigante que se lleva a los lugareños hasta su misteriosa guarida.",
-  "duration": 1270,
+  "duration": 1271,
   "freewheelid": "cn-2208664",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "df0893f689f6977b29c374cf8dde1fe4da6c0ce9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

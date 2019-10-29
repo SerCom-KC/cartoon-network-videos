@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "As everyone celebrates Valentino for growing his first facial hair, a jealous Vic resorts to magical methods to grow a mustache and compete for attention.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2181890",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "0a0d0e9ebbffa118d105d3d5e314a5d4b3ba858c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

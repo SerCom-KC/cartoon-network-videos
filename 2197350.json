@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Vic & Val take over a forest hill and build an epic waterslide, disturbing the plants and animals that normally inhabit it. But when a Nagual (a human with the power to transform into animals) transforms Vic into a chicken and Val into a donkey, they learn to sympathize with the animals and understand the world a bit more.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2197350",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1573898363000",
   "mediaid": "15a2e11657b692f3caade4599edf0e5147482c4b",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

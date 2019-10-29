@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Titans meet Terra. Gifted with earth-moving abilities, Terra can make rocks fly, mountains crumble and the ground tremble beneath her feet. It seems like she might make a great addition to the team. But Terra has a secret, a terrible secret.",
-  "duration": 1293,
+  "duration": 1294,
   "freewheelid": "cn-539089",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "b18c4d2c4948b26e300083e51a8b4442d4b8c40f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

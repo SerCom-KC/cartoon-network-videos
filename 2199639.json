@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Después de que a Owen lo engañan en un camión de helados, los niños se unen para solucionarlo.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2199639",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1588823999000",
   "mediaid": "d0d3e19f546904043d29737e9d0c285037986448",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben y Gwen pasan el día como voluntarios en Repto Ranch y se enfrentan cara a cara con el Rey Koil. Pero necesitan superar rápidamente su miedo a las serpientes si quieren rescatar a las criaturas liberadas y derrotar al serpenteante villano.",
-  "duration": 677,
+  "duration": 678,
   "freewheelid": "cn-2172453",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "ed28b4e742476265aec57ee9de913821e46adeb7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

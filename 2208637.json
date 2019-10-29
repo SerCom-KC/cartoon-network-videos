@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "La pandilla de Misterio S.A. se pierde camino a un festival de rock y la camioneta se queda casi sin gasolina. Un granjero les recomienda tomar el camino largo, pues el corto los llevaría a una mansión embrujada. Los chicos entran en la mansión en busca de una cubeta de agua para el radiador de la camioneta, pero se encuentran con un espectro sin cabeza que intenta expulsarlos de la casa.",
-  "duration": 1306,
+  "duration": 1307,
   "freewheelid": "cn-2208637",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "1aa0a4e1b7a71342a711c77ec4c403ce19a85ffd",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

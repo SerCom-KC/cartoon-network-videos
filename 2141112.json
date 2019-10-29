@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Cheer makes some simple mistakes, she begins to lose confidence in her piloting skills and herself. The self-doubt becomes so severe, she decides to step away from her role as pilot of the Cloudseeker. But the Team needs her, the Whiffles need her, and she must regain her self-confidence so they can stop Bluster's latest nefarious scheme.",
-  "duration": 661,
+  "duration": 662,
   "freewheelid": "cn-2141112",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577872740000",
   "mediaid": "853636ab48e0bb96dfa188fea96ce93816dec680",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

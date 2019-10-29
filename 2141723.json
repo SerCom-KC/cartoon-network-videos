@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Duncan goes on a mission to scare Courtney during a field trip to the museum.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2141723",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1599019199000",
   "mediaid": "e85e996d04429894b702386e4e8d4d4355954e5a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

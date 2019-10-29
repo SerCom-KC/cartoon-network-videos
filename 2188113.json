@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Charlie cuenta algunas historias de miedo protagonizadas por los Osos y sus amigos.",
-  "duration": 1352,
+  "duration": 1353,
   "freewheelid": "cn-2188113",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1595822399000",
   "mediaid": "673ebd7063bad5862c18de59c2f4172cc0d81580",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

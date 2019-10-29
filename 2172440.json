@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben descubre que Vilgax se ha unido a los Weatherheads para obligarlo a entregar el Omnitrix. Ahora no solo deberá superar sus dudas, sino también aceptar sus nuevos poderes, si es que quiere derrotar a sus enemigos.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172440",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "ba1019cb2ca398552d6a70c0a0c7080f1c2376d7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

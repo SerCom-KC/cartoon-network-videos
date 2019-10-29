@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cole y Wu Joven intentan liberar a sus amigos, que han sido capturados por una tribu de Cazadores de Dragones. Mientras tanto en Ninjago, Lloyd se reúne con unos viejos amigos que quizás sean aliados valiosos contra el Emperador Garmadon.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2169970",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "c4ae3e972f2be3c79fbea0dc1a517ef8eb3ff41c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben y Gwen se enfrentan en una guerra de avioncitos de papel sumamente competitiva. Pero cuando unos drones con tecnología alienígena bombardean el Rustbucket, los primos deben trabajar juntos para derribar el ataque aéreo y descubrir quién está detrás de eso: iVilgax, el conquistador extraterrestre!",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172447",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "baa34174c017cd327426eb9fafb4f8be6f8a47e7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

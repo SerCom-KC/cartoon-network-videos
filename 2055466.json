@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Finn and Jake help Princess Bubblegum battle a plague.",
-  "duration": 169,
+  "duration": 170,
   "freewheelid": "cn-2055466",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "0ce2ff6b4d23d0a86b02530398b6860c72d70bf7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

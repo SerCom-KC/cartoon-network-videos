@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "En su paseo a Adrenaworld West, Ben toma un desvío por una selva y descubre que lo persigue el malvado Tim Buktu. iNuestro héroe debe ser más listo que el villano si quiere llegar al parque de diversiones con vida!",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172448",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "b5a03002291bcbd4ca36c118c15054465e4f9cda",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

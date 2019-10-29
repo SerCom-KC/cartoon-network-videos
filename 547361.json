@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ever since the Titans' final confrontation with Slade, Robin has been haunted by one question: is Slade really gone? And when Cinderblock breaks out of jail, Robin finally gets his answer. He sees Slade. Robin goes after him fiercely determined to stop his nemesis once and for all. But when Robin learns Slade is planning to trigger a massive earthquake, it looks like there might be no stopping him this time. Will Robin stop Slade from destroying the city? Or is there more to Slade's plan than meets the eye?",
-  "duration": 1357,
+  "duration": 1358,
   "freewheelid": "cn-547361",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "ffa311d767379e4fb145d390557e7dedf2046c55",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

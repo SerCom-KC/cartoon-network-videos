@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los Fantásticos le enseñan a unos chicos del vecindario a no imitar a los demás. Por ejemplo, a quienes utilizan a sus Bakugan con fines frívolos.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205824",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "23020f6541fb00f18a5c7e20a1698d804c064b93",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

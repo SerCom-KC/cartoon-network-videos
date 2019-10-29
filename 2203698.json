@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A Door Closes, A Door Opens: Shun must stand up to his father, expose his cousin and protect his friends before Masato destroys everyone on Ichiro's island!/Kazami's Gambit: When Magnus looks to steal the Dimensional Doorway, Shun and Ichiro must make peace while the AO stop the Doorway from destroying them all.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2203698",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "5a1be0ed92ebdc45a4cf4919c1989f3161819bc0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

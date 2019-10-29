@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "It's Beast Boy's birthday! But will the other Titans remember?\n",
-  "duration": 152,
+  "duration": 153,
   "freewheelid": "cn-2141345",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "3055dc0a4eb5dc1fa582dff9236c990d689d670b",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

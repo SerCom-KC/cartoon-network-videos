@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Puppycorn quiere impresionar a sus amigos patinadores con sus habilidades fantásticas, el problema es que no tiene ninguna. Con la esperanza de aumentar su confianza, Unikitty y la pandilla se ponen los trajes invisibles de la Dra. Fox para ayudarlo secretamente a realizar movimientos imposibles. Pero hacen su trabajo demasiado bien y el \"patinador profesional\" Puppycorn está invitado a mostrar sus habilidades en una peligrosa competencia de escenas de riesgo. ¿Hasta dónde llegará la pandilla para ayudar al cachorro a realizar sus sueños inalcanzables e increíbles?",
-  "duration": 665,
+  "duration": 666,
   "freewheelid": "cn-2163312",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "5a9a390962ed58aede6110409a8c09913d8003c5",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

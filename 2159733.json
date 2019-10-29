@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "iK.O., Rad y Enid rompen por accidente una de las preciadas posesiones del Sr. Gar!",
-  "duration": 689,
+  "duration": 690,
   "freewheelid": "cn-2159733",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "cca97d33e8d664f81675b608d5fb44a41cd339c2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

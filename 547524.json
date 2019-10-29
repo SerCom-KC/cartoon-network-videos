@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "An exciting battle on a distant space station ends with a tremendous explosion that blows the T-Ship apart and sends the Titans flying off in five different directions to crash land on a strange alien world. Will our five shipwrecked heroes ever be able to get back together and find their way home?",
-  "duration": 1377,
+  "duration": 1378,
   "freewheelid": "cn-547524",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "6ebccfbba78d3588a5f98fe4e235f857ec14bc5d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

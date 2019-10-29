@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Un extraño robot parece acechar un parque de diversiones abandonado. Los chicos van a investigar pero terminan defendiéndose entre sí del humanoide, que se comporta de un modo muy raro.",
-  "duration": 1315,
+  "duration": 1316,
   "freewheelid": "cn-2208623",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "e5afa246f69bb9414d27eaef08d523cfd283d326",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

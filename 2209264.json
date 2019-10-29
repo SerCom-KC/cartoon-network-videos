@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando un alocado y fantasmal juez puritano llamado Hebediah Grimm atemoriza a los jóvenes de Cueva Cristal en la Calle de los Enamorados, la pandilla de Misterios S.A. toma cartas en el asunto.",
-  "duration": 1349,
+  "duration": 1350,
   "freewheelid": "cn-2209264",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "f085110324c2de98a03cd8283716f8385dcbc99c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

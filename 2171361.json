@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "From a tiny gumball, to ruler of the Candy Kingdom, and now a great Warrior Princess! Not to mention those fun outfits! Check out the evolution of Princess Bubblegum throughout 10 years of Adventure Time!",
-  "duration": 373,
+  "duration": 374,
   "freewheelid": "cn-2171361",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "1a7559be8f76a44eb10abe13cfa211f1349de3aa",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

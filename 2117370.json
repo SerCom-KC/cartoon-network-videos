@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mega Man accidentally awakens Wood Man, who thinks it's still the Hard Age, sets off on a path of destruction toward Silicon City.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117370",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596081599000",
   "mediaid": "aab662dd6e6375fa026ca6239971e303f8369c08",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

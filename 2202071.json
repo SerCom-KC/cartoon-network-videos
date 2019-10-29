@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los Titanes montan un espectáculo, pero Robin les advierte que la actuación debe ser aburrida o despertarán a los lobos.",
-  "duration": 664,
+  "duration": 665,
   "freewheelid": "cn-2202071",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "2a36685283be8de2a602c9e774a40ffa0d8bacef",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

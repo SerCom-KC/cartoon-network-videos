@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Al volver de una excursión de pesca, los chicos de Misterio S.A. se topan con el enigma de una bruja y un zombi que, según el mito del lugar, acechan el campo.",
-  "duration": 1317,
+  "duration": 1318,
   "freewheelid": "cn-2208628",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "02d1e3e0c10199ba278a51d5b7906673f083caff",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "When turtonium rolls under the couch in small ball form the other Bakugan attempt rescues using their Special Abilities.",
-  "duration": 103,
+  "duration": 104,
   "freewheelid": "cn-2188344",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "88a816ecfeeb4e815552570b0b61fed5118e413c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

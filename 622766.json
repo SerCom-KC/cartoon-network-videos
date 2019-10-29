@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Robin's most prized possession is stolen by the hip hot-rodder Ding Dong Daddy. To get it back, they're going to have to beat him in a cross-country road race. But with Ding Dong Daddy making the rules and a few unexpected rivals joining in the competition, it's anyone's guess who will cross the finish line first!",
-  "duration": 1360,
+  "duration": 1361,
   "freewheelid": "cn-622766",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "62a1ae5062e93f261c4413fad3c05209400c873d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

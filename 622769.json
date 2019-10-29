@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "All seems lost for young heroes across the globe. They have been spread far and wide, their lines of communication have been severed and one by one the Brotherhood of Evil takes them down. But as The Brain claims his victory is assured, one brave hero manages to slip thorough the Brotherhood of Evil's grasp: Beast Boy.",
-  "duration": 1374,
+  "duration": 1375,
   "freewheelid": "cn-622769",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "ba36cf73359392bb2d61719cdb2338c2fd17cfdb",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

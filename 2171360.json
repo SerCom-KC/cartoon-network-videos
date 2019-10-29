@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "996 years ago, a man named Simon Petrikov met a little girl named Marceline at the end of the Great Mushroom War, and they became great friends.",
-  "duration": 371,
+  "duration": 372,
   "freewheelid": "cn-2171360",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "6c1e4bafd3835a438c03a2c51d7c7afc57233ba4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

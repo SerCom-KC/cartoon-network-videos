@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los niveles de tristeza han alcanzado un máximo histórico en Ciudad Frown. En un intento por animar a los ciudadanos, Unikitty y la banda cargan un arco iris en un camión cisterna, con la intención de soltarlo sobre Ciudad Frown. Ahora, para tener éxito, deben evitar a Master Frown, que merodea la zona en su camión gigantesco.",
-  "duration": 664,
+  "duration": 665,
   "freewheelid": "cn-2196760",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577872740000",
   "mediaid": "e6f8a2045d67f42e72c1e7f6a5d56c28ac47dcb6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Durante una comida familiar en un campamento forestal, Charmcaster usa su magia para cambiar de lugar con Gwen, pero cuando Ben descubre a \"Charmcaster\" husmeando, ataca, sin darse cuenta de que en realidad es su hechizada prima.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2191245",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1609477199000",
   "mediaid": "5a20419b9f587ff4ef67d6e2361e428bf013df12",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

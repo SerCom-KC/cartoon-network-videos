@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "El supuesto fantasma de un hombre lobo arruina el campamento de la pandilla de Misterio S.A. Los chicos persiguen al hombre lobo, que acecha el molino del lugar y sus alrededores, con la esperanza de resolver el enigma de su aparición.",
-  "duration": 1316,
+  "duration": 1317,
   "freewheelid": "cn-2208639",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "3fa1e63a1a0a6235768ede75b8e4654b46b8f073",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

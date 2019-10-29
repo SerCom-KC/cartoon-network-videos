@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Craig descubre un montón de insectos bajo una roca y decide construirles una ciudad.",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2191208",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1599191999000",
   "mediaid": "12a8d197d71830ab9f86472df79cafc16f2a5929",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

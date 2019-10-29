@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Unikitty llega a la conclusión de que todo el mundo sería mucho más feliz si pensara como ella, iy tal vez pueda lograrlo con la ayuda de la Dra. Fox! Unikitty copia sus ondas cerebrales en todos sus amigos y los Unikittyfica, para que todos puedan ser siempre positivos. Pero pronto, Unikitty se da cuenta de que puede haber un exceso de \"buena princesa\".",
-  "duration": 671,
+  "duration": 672,
   "freewheelid": "cn-2163304",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "b87583f8788cd3f93dae5145223af3c94eae0b53",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "La Máquina del Misterio está embrujada y comienza a amenazar a la pandilla.",
-  "duration": 1274,
+  "duration": 1275,
   "freewheelid": "cn-2208646",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "2cbc4263187cc7cf1ed98be8a7e40765f54f426a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

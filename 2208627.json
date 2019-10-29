@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Unos profesores de arqueología le muestran a la pandilla la última adquisición de su universidad: la momia de Ankha, un antiguo faraón egipcio que echó un maleficio sobre aquel que profanara su tumba.",
-  "duration": 1313,
+  "duration": 1314,
   "freewheelid": "cn-2208627",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "c3260b4bfa55a226714a9f99a005c794b7ea7910",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

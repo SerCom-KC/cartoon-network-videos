@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "La casi desaparición de Zane a manos del Señor \"E\" obliga a los ninjas a huir a bordo del Bounty, donde descubren que una tramisión que Zane interceptó puede revelar la ubicación oculta del \"Silencioso\".",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2163606",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1618545599000",
   "mediaid": "1d3c88c401a2e2e4dcc918ad7bedbce8681f366f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

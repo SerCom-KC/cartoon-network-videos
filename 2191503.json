@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "When the music stops, the Brawls begin for these Bakugan.",
-  "duration": 89,
+  "duration": 90,
   "freewheelid": "cn-2191503",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "ab0d450064e6d0c4df33e9fdbf1cab15a20640ff",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

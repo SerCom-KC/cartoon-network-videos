@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Con sus nuevas Omni-Mejoras, Ben intenta salvar una ciudad de un repentino alud. Pero su heroísmo dura poco, porque llega Vilgax a advertirlo de las consecuencias del misterioso alien del Omnitrix.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172439",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "38e6bf5a1b31332e105c191c2cd615a9ce190a47",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando Ben recibe demasiada publicidad por sus travesuras alienígenas en Fort Knox, Gwen se pone celosa, se siente poco apreciada, y busca aliviar su dolor con helado. Pero cuando Charmcaster la confronta con la intención de vengar a Michael Morningstar, Gwen debe demostrarse a sí misma que es un miembro digno del equipo Tennyson si quiere sobrevivir.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172460",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "2b65afb4fef17d493d82120dd51db17c867360f0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

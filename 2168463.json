@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Pardo presenta la precuela de su película de Crowbar Jones a Nom Nom, con la esperanza de que acepte actuar en la película.",
-  "duration": 677,
+  "duration": 678,
   "freewheelid": "cn-2168463",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1595822399000",
   "mediaid": "131aa516948ba2f243eebb39d8cc87f53de2850d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

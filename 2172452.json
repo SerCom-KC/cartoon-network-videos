@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando los Tennyson se van del Festival Frozen Man, Lord Decibel ocupa el escenario central para amenazar a los asistentes y crear una avalancha si no pagan el rescate que pide. iBen se ve superado por su rival y debe salir de su zona de confort para salvar al festival de su entrometido enemigo!",
-  "duration": 677,
+  "duration": 678,
   "freewheelid": "cn-2172452",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "42d4efefd40999991b345e00a52207cd49b705c8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

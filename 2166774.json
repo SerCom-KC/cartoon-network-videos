@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1575349199000",
   "mediaid": "37725394442379d4397cf41e8e2443a7405a9661",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

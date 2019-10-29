@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Bakugan square off in a dodge ball game with a Bakugan spin.",
-  "duration": 96,
+  "duration": 97,
   "freewheelid": "cn-2188340",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "6f095408c116d3e100eabfae8bdc99cdbec16431",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

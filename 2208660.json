@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "La pandilla intenta evitar que un gusano de arena gigante cause estragos en el Enduro Slam 5000, una carrera fuera de pistas.",
-  "duration": 1273,
+  "duration": 1274,
   "freewheelid": "cn-2208660",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "b314179bbadd632678500d09b2d3c327fcf4f035",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

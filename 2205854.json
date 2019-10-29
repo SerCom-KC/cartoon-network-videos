@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Después de derrotar a Strata, Los Fantásticos se dan cuenta de que no volvieron solos, sino con un Bakugan parecido a un panda que les dará muchos problemas.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205854",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "b850f662c52f100ff556583a79e4467e42b062b8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

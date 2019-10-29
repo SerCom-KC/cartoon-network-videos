@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "En el sótano de una mansión embrujada, la pandilla encuentra un extraño espejo con mente propia.",
-  "duration": 1329,
+  "duration": 1330,
   "freewheelid": "cn-2209276",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "aeb3dfd5ab74cdafd39e0e03eb6df06eb864d9f9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

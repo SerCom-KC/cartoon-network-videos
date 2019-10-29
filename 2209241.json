@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Después de que la pandilla de Misterio S.A. se separa, los chicos deciden seguir con su vida y visitar una universidad cercana, pero se ven obligados a retrasar sus planes cuando una misteriosa criatura llamada Char Gar Gothakon aterroriza el lugar con sus gritos, que destruyen todo a su paso.",
-  "duration": 1341,
+  "duration": 1342,
   "freewheelid": "cn-2209241",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "0a23ed76176672c52110c383001daf69e550e158",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

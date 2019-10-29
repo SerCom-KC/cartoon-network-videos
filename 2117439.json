@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mega Man must assist Blasto Woman in a heist to stop a powerful EMP emitter from falling into the wrong hands.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117439",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596081599000",
   "mediaid": "44021c10f13686805cf634da900da552131079a0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Vic doesn't pick Val for his soccer team, Val vows to win with his own squad. But when his team doesn't match up, he resorts to supernatural means to win.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2160703",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "691001d156942d0fa5fa8030d81a4346a0f16277",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

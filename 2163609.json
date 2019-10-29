@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los ninjas recurren al comisionado de la policía de Ninjago en un esfuerzo por ayudar a salvar a Lloyd y frustrar los esfuerzos de Harumi de resucitar al malvado Lord Garmadon.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2163609",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1618545599000",
   "mediaid": "fb3387588f04e5ae30e68079ca43b5e54a7167b4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

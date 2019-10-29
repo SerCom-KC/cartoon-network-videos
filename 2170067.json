@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "JP ensucia su última ropa limpia y debe ponerse su mejor ropa de domingo para ir al arroyo.",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2170067",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "50f30cc38ba070e8cd3a80ebe0ef7dafa9b1392d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

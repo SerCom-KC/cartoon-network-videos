@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Beth gets her gum stuck in Leshawna's hair and has to get it out - without Leshawna finding out it's there.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2182745",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1599623999000",
   "mediaid": "a38ee3385c3eeb4b9e562cb2e6a438e0fbd35d1f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

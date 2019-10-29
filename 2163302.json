@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Unikitty y Puppycorn están invitados al apartamento de Master Frown y Brock para una cena. Pero los dos compañeros de casa no logran ponerse de acuerdo absolutamente en nada. ¿Puede Unikitty ayudar a Brock y al Master Frown a volver a estar en armonía antes de que la cena sea un desastre? ¿Y descubrirá Puppycorn cuál es la puerta del baño?",
-  "duration": 672,
+  "duration": 673,
   "freewheelid": "cn-2163302",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "e74ec062bab3a699c6151b82091c0ec7340302f7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

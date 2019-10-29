@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Hay una fiesta de pijamas en el castillo, y Unikitty y Perricornio quieren quedarse despiertos toda la noche, porque creen que algo mágico debe suceder si te quedas despierto el tiempo suficiente. Al principio, los amigos están dispuestos a quedarse despiertos toda la noche. Pero cuando comienzan a quedarse dormidos de a uno, ia Unikitty le preocupa que no lo logren! ¿Hasta dónde llegarán ella y su hermano para mantenerse despiertos, y descubrirán la razón secreta por la que se supone que la gente debe irse a la cama cuando aparece El Arenero?",
-  "duration": 670,
+  "duration": 671,
   "freewheelid": "cn-2196748",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "f962d88adbf4dc7e7c2a70ce19bd82d969c7c981",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

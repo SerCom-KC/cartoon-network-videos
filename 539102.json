@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Raven doesn't do fear. Or at least, that's what she wants you to think. But when a ghostly, unknown force starts hunting down the Titans one by one, Titans' Tower turns into a house of horrors and even Raven gets rattled.",
-  "duration": 1312,
+  "duration": 1313,
   "freewheelid": "cn-539102",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "862bf999337913981cd8d1f459bbc662ca7d492b",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

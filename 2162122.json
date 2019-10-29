@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "While searching for a hidden skate park, V and V happen upon a tribe of wild kids, who live in a society without rules or adults.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2162122",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "6074ac04eb33bff06ce4261de1d14e1825fd1fe8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Estás viendo el programa de noticias del Unireino Super Good Morning Time Action Information Show, un programa de noticias variadas realizado (mal) por Unikitty y la banda: Hawkodile se encarga del clima, Puppycorn habla deportes, a pesar de no saber ninguna de las reglas, la Dra. Fox tiene un divertido segmento de cocina científica que sale mal, y Richard quiere que el programa deje de emitirse. Unikitty tiene un reportaje contundente y una gran primicia después de la pausa, isi el estudio sobrevive tanto tiempo!",
-  "duration": 669,
+  "duration": 670,
   "freewheelid": "cn-2163309",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "502ce1ab969f5ef64cbc66516bca593bdc91c768",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

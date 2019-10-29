@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mientras Lloyd y los rebeldes celebran su exitoso golpe contra el Emperador Garmadon, en el Reino de Oni y Dragón, los Ninjas se aventuran con un elaborado escape de las garras del Barón de Hierro y sus Cazadores de Dragones.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2169972",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "d95a6b04c0fd1c1120f89c3290fd8756a04c539d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

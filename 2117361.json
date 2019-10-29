@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Aki must set aside a petty rivalry with Bert Wily in order to stop Chemistry Man from wreaking havoc at Silicon Central's Field Day.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117361",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596081599000",
   "mediaid": "26642f04650d137d2c38f6a1c70a68864c97550e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

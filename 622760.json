@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "While in the Arctic Circle, the Teen Titans once again take on Dr. Light. And when an accident sends the Titans through the ice, they discover a new exotic Underworld and two new superheroes, Kole and her caveman sidekick Gnarrk.",
-  "duration": 1359,
+  "duration": 1360,
   "freewheelid": "cn-622760",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "c565ceb91470c27b1d5e99f4b3b2c226dbce9b2c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

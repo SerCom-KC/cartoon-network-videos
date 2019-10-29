@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Fed up with never getting presents from Santa, the Titans head to the north pole to take themselves off the Naughty List by any means necessary.",
-  "duration": 121,
+  "duration": 122,
   "freewheelid": "cn-2142218",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "03cb732a13881a2a79c2937e2769eb7dc9ac8449",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

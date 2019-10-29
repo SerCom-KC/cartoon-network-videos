@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "El doctor de Nom Nom le ordena tomarse unas vacaciones. Pero debe viajar con un compañero incompatible con él: Pardo.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2168461",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1595822399000",
   "mediaid": "3cb2b5687bdfcff71702759ee986ebab6a1e7020",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

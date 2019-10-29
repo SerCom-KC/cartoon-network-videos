@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Unikitty y la pandilla traen a casa a una pequeña criatura a la que llaman Pet Pet, pero Richard no les permite quedársela si no pueden demostrar que son dueños responsables. Cuando Pet Pet se escapa, Unikitty debe fingir ser la mascota hasta que puedan encontrarlo, io Richard nunca les dejará tener a Pet Pet (o a cualquier mascota) de nuevo! ¿Sobrevivirá Unikitty al entrenamiento de mascotas, o terminará admitiendo que la responsabilidad es mucho más difícil de lo que pensaba?",
-  "duration": 669,
+  "duration": 670,
   "freewheelid": "cn-2163301",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "bebd46f9bc530041ec30263421e5a7aff62e6553",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

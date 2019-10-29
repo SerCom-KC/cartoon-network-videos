@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Victor & Valentino gain a newfound respect for cleanliness after Chata's house traps them inside its labyrinth of ancient, magical walls.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2166837",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "504800614ff698f8dd30f438f04cba7c6b4f9e5f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

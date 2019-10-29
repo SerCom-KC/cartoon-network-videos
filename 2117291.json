@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A Ben le encargan la tarea de limpiar la Chatarra, pero cuando, engañado por los viles villanos Fly Guys, permite que se lo roben, debe perseguirlos antes de que fabriquen una larva monstruosa imparable con un objetivo claro: destruir Las Vegas.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2117291",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572580799000",
   "mediaid": "041af81aa6c83e1dc5eb040046cf8b590ed13010",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

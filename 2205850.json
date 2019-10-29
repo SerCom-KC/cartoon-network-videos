@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los Fantásticos encuentran la forma de salir de Vestroia, pero descubren que en realidad están en un mundo paralelo.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205850",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "390954cfabea35568a3b86681f3bc30c57c3afbd",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

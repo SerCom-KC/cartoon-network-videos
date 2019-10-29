@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Finn and Jake follow a frog carrying a crown across spring, summer, fall, and winter.",
-  "duration": 120,
+  "duration": 121,
   "freewheelid": "cn-2084962",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "b64a23b1fabb51556459573cfcbbe238df3f0272",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

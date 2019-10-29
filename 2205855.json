@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mientras los Fantásticos intentan evolucionar a sus Bakugan como lo hizo Dan con Drago, el primo de Shun, Masato, llega a la ciudad para llevarlo de regreso a Japón.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205855",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "640ebab15c22de70d1d0fcacb604c35986aaadd6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

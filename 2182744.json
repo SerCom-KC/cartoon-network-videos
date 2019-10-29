@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Gwen accidentally brings a pink stuffed pony she loves to daycare and spends the day denying it's hers.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2182744",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1599623999000",
   "mediaid": "37ce9c7d3d5eb6b36251114447d19df3a4e9b3ec",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Dibble helps Grumpy work on his latest invention, a device to stop Bluster's bad vibe plow. Dibble's endless high spirits and sense of fun wear on Grumpy, until he finally says she can't work with him anymore. It's only later that Grumpy understands he needs Dibble's free-spirit inventiveness and creative energy.",
-  "duration": 661,
+  "duration": 662,
   "freewheelid": "cn-2141120",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "9cb48a162ebaa0e2af669dcd0e346d030663e3bd",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

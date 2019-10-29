@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After replicating Cut Man's powers, Mega Man goes on a perfectionist spree, putting him on a collision course with Cut Man himself, whose latest stint as a hairdresser hasn't helped him overcome his own compulsions.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117437",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596081599000",
   "mediaid": "fc9110d2e1cb2c32a3f992e26e6f9cb00bb14b73",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

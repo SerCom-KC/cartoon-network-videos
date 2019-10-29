@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando un sindicato de criminals desconocido amenaza a la Familia Real, los ninjas son llamados de nuevo a la acción y deben proteger a la princesa real y un artefacto legendario que puede tener poderes sobrenaturales.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2163602",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1618545599000",
   "mediaid": "97930543bb9870f2d922a302f14c908baaff9177",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

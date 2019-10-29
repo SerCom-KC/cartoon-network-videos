@@ -12,7 +12,7 @@
   "type": "movie",
   "active": true,
   "description": "Funshine, Share, Cheer and the rest of the bears organize a sharing festival until it is threatened by a powerful wind.",
-  "duration": 4063,
+  "duration": 4064,
   "freewheelid": "cn-2028472",
   "isclip": false,
   "typesort": "3",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572580799000",
   "mediaid": "b4d89c5ff553b4a9dbcdc46900a804f8bec5c5c6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

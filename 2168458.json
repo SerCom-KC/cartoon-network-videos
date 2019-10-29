@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los Osos participan de un programa de juegos para hermanos contra los ex mejores amigos de Panda: Tom y sus compañeros de casa.",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2168458",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1595822399000",
   "mediaid": "d28c52f7d33d152cf586e015205c98b22810adf0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Un supuesto Fantasma de Cera interrumpe el concurso de baile del programa de TV de Johhny Sands, en el que compiten Fred, Daphne, Shaggy y Scooby-Doo. La pandilla sigue al fantasma hasta el museo de cera de la ciudad en busca de pistas para resolver el enigma antes de que el espectro cause más problemas.",
-  "duration": 1316,
+  "duration": 1317,
   "freewheelid": "cn-2208640",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "5b73ba1876fffbdc973a961782a9ad32dac2e35e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

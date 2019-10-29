@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Lord Obsidian unites the Robot Masters against Mega Man and his family for an epic showdown at the Lighthouse.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117452",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596081599000",
   "mediaid": "347879fc7581e0341f1b8c3bbd9cbbd5691f932d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Robin wrecks the R-Cycle while pursuing a thug named Johnny Rancid, he winds up with his arm in a cast and doubt in himself. He gets a helpful visit from his Number One Fan: a short weirdo from another dimension known as Larry the Titan!",
-  "duration": 1301,
+  "duration": 1302,
   "freewheelid": "cn-539098",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "dcce7795493ffc3cbc7e1b6aa8c37bf53e0c0954",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

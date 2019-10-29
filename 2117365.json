@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Ice Man decides to be a hero, Mega Man, influenced by Ice Man's literalness, steps down from the hero biz until a true crisis snaps him out of it.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117365",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596081599000",
   "mediaid": "6466890c4cc1d1f1a22f07333cac171fb00c8313",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando el Barón de Hierro obliga a Wu a tomar la Armadura de Dragón, las cosas no salen como se planearon. En Ninjago, hay un límite de lo que Lloyd puede soportar mientras se aferra a la esperanza del regreso de los Ninjas.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2169977",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "8e83d058889c6cf497b8e1fb45a801f4f96f2540",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

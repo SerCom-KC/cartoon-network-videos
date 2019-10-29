@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Al volver a casa del cine, Shaggy y Scooby-Doo descubren una antigua armadura llamada \"Caballero Negro\" en el asiento del conductor de una camioneta, y la pandilla la lleva el museo local.",
-  "duration": 1313,
+  "duration": 1314,
   "freewheelid": "cn-2208616",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "5378050d98be1a240ed34777729f9d6b30938a84",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

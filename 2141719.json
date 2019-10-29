@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Courtney refuses to share her valuable collectors item toy with her classmates.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2141719",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1599019199000",
   "mediaid": "9d39230c2abab9b5aef47bc66422c0d002e1ee59",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

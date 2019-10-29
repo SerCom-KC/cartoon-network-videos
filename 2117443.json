@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mega Man must battle Wood Man for the fate of the Corpse Flower, a rare and noxious bloom that's stinking up all of Silicon City.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117443",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596686399000",
   "mediaid": "41a1651e0846b70ea818b983c9adb2c91e95d76b",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

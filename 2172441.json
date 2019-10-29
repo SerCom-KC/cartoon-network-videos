@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Frustrado su intento de conseguir una foto con cada mascota de vidriera, Ben y Gwen se escabullen de noche para tomarse su foto con el tótem del oso de madera... iy descubren que él y las demás mascotas cobraron vida!",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172441",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "a88cb190fdcdac2a8e0350e56d872705b517ba56",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

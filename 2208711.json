@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Shaggy compite en un torneo de mini-golf que está siendo atacado por un payaso metálico gigante.",
-  "duration": 1272,
+  "duration": 1273,
   "freewheelid": "cn-2208711",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "b2ca9ff64f4e2747ababa4e21b33f4170fb56ced",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

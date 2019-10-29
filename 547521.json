@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Beast Boy has only one real dream in life to someday, somehow own a moped. When Robin won't buy him one and Cyborg won't build him one, Beast Boy has only one way to make his dream come true. He has to get a job. But can vegetarian Beast Boy survive working at the Mega Meaty Meat fast food restaurant?",
-  "duration": 1374,
+  "duration": 1375,
   "freewheelid": "cn-547521",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "c7b46264369bb739423f8fefa98eb2ddd05015b9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

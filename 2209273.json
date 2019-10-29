@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Una famosa banda cuyos miembros murieron en un accidente aéreo en Crystal Cove regresa para aterrar a la ciudad en el trigésimo aniversario de su muerte.",
-  "duration": 1331,
+  "duration": 1332,
   "freewheelid": "cn-2209273",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "64b22f8bfdc59aac46a618b90d7b76a77ab00f19",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

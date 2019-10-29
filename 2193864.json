@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Vic gets double-crossed during a water balloon fight, he goes on a revenge mission to find out who was responsible.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2193864",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "0ad9b9bde4395bc9caad372339f89e51f50fe2df",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

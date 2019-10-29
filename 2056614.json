@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Finn & Jake hunt for a shadowy predator and Marceline asks Princess Bubblegum for a huge favor.",
-  "duration": 688,
+  "duration": 689,
   "freewheelid": "cn-2056614",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598775000",
   "mediaid": "94115dd27678cc94881afaf2c8e831f462947a98",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

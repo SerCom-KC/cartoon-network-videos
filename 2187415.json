@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Chico Bestia debe aprender a dejar de lado sus costumbres de andar de fiesta para criar a su pollito.",
-  "duration": 637,
+  "duration": 638,
   "freewheelid": "cn-2187415",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "c478047af3b76263d7eec10e3c4bca2d50c3bba0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

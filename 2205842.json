@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Entre diversas amenazas, como el misterioso Shargo Ronin, Dan y Shun no pueden acordar la mejor forma de convertir a Los Fantásticos en un verdadero equipo.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205842",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "f2e3cb7d95ece92578a46f20c69da508806e0886",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

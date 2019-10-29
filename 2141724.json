@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Gwen refuses to be pressured into choosing an ice cream flavor that she does not want.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2141724",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1599019199000",
   "mediaid": "1b33c7a7e53bbe99635d4a25681d03cfc04edbfb",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

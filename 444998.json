@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Teen Titans awake to find themselves captured prisoners of Mad Mod. Miffed at the way the Titans disrespect their elders and interfere with the toils of hard working criminals, Mad Mod has decided to teach the teens a lesson.",
-  "duration": 1291,
+  "duration": 1292,
   "freewheelid": "cn-444998",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "5966d48061548e3ff22747e3392e4d28180c74d2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

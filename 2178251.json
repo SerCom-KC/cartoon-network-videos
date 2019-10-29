@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After being told by Chata that they can't get a pet, Vic & Val adopt a wild lizard, unaware of its magical properties, and decide to keep it secret from Chata.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2178251",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "eec52f3eaecc7471d17790987afe4acc79999f06",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "El trío Tennyson excava fósiles de dinosaurio, pero Ben no sabe que Vilgax y el Dr. Animal se complotaron para robar ADN alien del Omnitrix, pero, una vez extraído el ADN, Vilgax traiciona a su cómplice. Ahora Ben debe aliarse con el malvado doctor si quiere tener la oportunidad de derrotar al gran villano. Pero ¿puede confiar en el Dr. Animal?",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172444",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "638b11cb015be99a8d719e0a62121587485f781d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

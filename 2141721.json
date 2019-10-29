@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After Owen gets ripped off at the ice cream truck, the kids unite to right that wrong.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2141721",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1599019199000",
   "mediaid": "52eda987ef4604670a2074d4eb3d918f36a2ca58",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

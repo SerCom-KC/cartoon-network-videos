@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los Fantásticos resuelven la misteriosa desaparición del Bakugan de un niño, y conocen a un cazador de Bakugan llamado Strata.",
-  "duration": 699,
+  "duration": 700,
   "freewheelid": "cn-2205830",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "9125f484620434a73bbb2b7132a8462dec3bbd32",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

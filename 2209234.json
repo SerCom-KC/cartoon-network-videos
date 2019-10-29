@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Una criatura llamada Qué Horrífico está convirtiendo en monstruos a todos los niños de Cueva Cristal, y aterrorizando a todos los adultos de la ciudad.",
-  "duration": 1342,
+  "duration": 1343,
   "freewheelid": "cn-2209234",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "0d8baa9e3acaef73b4e02aa46be833ad51b8448c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

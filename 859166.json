@@ -12,7 +12,7 @@
   "type": "movie",
   "active": true,
   "description": "Four very different high school teenagers battle trolls, ghouls and a dark leader of them named Maldark in a video game that goes haywire and releases the battle into the real world.",
-  "duration": 4086,
+  "duration": 4087,
   "freewheelid": "cn-859166",
   "isclip": false,
   "typesort": "3",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "bf732130a13acd49de772df22899945a134cb917",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

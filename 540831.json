@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Someone is defacing all the posters and statues of Townsville with make-up. Can the girls stop this makeover takeover or will they get the blush off?",
-  "duration": 1268,
+  "duration": 1269,
   "freewheelid": "cn-540831",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598771000",
   "mediaid": "1b22bb22fc1525d43f2d5d5e8c548c2575bd9e33",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The discovery of an ancient, lost gateway leads the Care Bears on a rescue mission in the Silver Lining, a realm of natural wonders and comical creatures in the clouds beyond the borders of Care-A-Lot. While there, new discoveries expand the mission, challenging Cheer, Grumpy, and the mission team to grow beyond their present abilities and help the denizens of the Silver Lining.",
-  "duration": 1321,
+  "duration": 1322,
   "freewheelid": "cn-2141110",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577872740000",
   "mediaid": "34311469c8b105b851bd4e9a03839476cc98c700",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

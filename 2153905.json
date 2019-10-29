@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando Ben (iy Gwen!) intenta quedarse despierto toda la noche para ir a Adrenaland -el único parque temático abierto las 24 horas, los siete días de la semana- no solo es incapaz de utilizar sus poderes alienígenas para lograr su objetivo, sino que además su estado de adormecimiento alienígena provoca un desastre tras otro, y Gwen debe arreglar las cosas antes de que todo se salga de control.",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2153905",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572580799000",
   "mediaid": "6492a2f283f0ada27546850bcb81cba8c50eccc6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

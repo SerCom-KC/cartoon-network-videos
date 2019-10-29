@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "The opening event of the Bakugames comes with a surprise twist for all the Factions.",
-  "duration": 138,
+  "duration": 139,
   "freewheelid": "cn-2191493",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "4badafb0afa65dff7a46bb96d83827283c81337f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

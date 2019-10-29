@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Dan conoce a su pareja Bakugan, Drago, por primera vez y nos enteramos del \"incidente\" que ocurrió en la Tierra hace doce años.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205821",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "a1af8b0d3c71df36aade5246477d83b0153a4865",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

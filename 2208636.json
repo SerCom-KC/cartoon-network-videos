@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Pescando, Shaggy atrapa un antiguo cavernícola congelado en un cubo de hielo. Los chicos llevan al cavernícola a Oceanolandia, el acuario del lugar. Cuando regresan al acuario por la noche para recuperar la caña de pescar de  Shaggy, descubren que el hielo se derritió y que el cavernícola parece estar vivo y pasearse por todas partes.",
-  "duration": 1308,
+  "duration": 1309,
   "freewheelid": "cn-2208636",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "e41d94fc56484c3ddcec2db80aaff8a06b835dea",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

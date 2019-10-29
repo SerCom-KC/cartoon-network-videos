@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When an alien probe shows up to haul Starfire away, Starfire has no idea why it came. And when Starfire's sister, Blackfire, shows up to visit, Starfire just wishes she would leave. Blackfire's wild, cool and hip, everything Starfire's not.",
-  "duration": 1294,
+  "duration": 1295,
   "freewheelid": "cn-444974",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "9dcde2d1794a73e951530316ad32b23974dfec0f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

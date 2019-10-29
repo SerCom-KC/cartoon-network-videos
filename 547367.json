@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Amazing Mumbo is up to his old tricks. And when the Titans try to stop the madcap, magician in mid-performance, Mumbo pulls a fast one. With a wave of his wand, he sucks the Titans into his hat, where our heroes discover a strange, magical world of weirdness. But in this world, Mumbo's holding all the cards. In a poof of magic, he changes the Titans into animals and takes away their powers. Can the Titanimals find their way out of the hat before Mubmo makes them disappear forever?",
-  "duration": 1380,
+  "duration": 1381,
   "freewheelid": "cn-547367",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "25a592501ee293083359a646d13ad2cb716d1319",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Vic and Val do a sloppy job cleaning up in Maria Theresa's attic, they accidentally set off a time loop, trapping them in an endless series of chores forever! They must figure out how to stop the loop and return time back to normal.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2195437",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572685140000",
   "mediaid": "34df093026aa1a246a620401b1d460d50ecb5b14",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

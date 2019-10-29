@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "The Titans learn that the bathroom is a magical, wondrous world.",
-  "duration": 111,
+  "duration": 112,
   "freewheelid": "cn-2142219",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "646d211ba646d53b3c7b13f9a78c5aad408d61ca",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

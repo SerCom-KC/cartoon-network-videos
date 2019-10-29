@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mega Man and Suna must overcome a sibling dispute over what to do on their day off in order to stop Fire Man from overheating the city.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117358",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596081599000",
   "mediaid": "8ef5f9a76fcc4084e814822868b94eecb7c3768d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Bakugan Factions must pull out all the stops to avoid elimination as the \"Keep the Brawl Rolling\" challenge continues.",
-  "duration": 98,
+  "duration": 99,
   "freewheelid": "cn-2191494",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "85919342baa4de1c9790c223549c98b957e59d99",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

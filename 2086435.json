@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Hands of Time blackmail Kai and Nya into using their combined elemental powers to retrieve the fourth and final Time Blade from the Boiling Sea with the promise the siblings can use its reversal power to save the quickly-fading Master Wu. Meanwhile, the Ninja and Cyrus Borg get unexpected help from Samurai X as they attempt to destroy the Hands of Time's time-travelling snake mech before it's operational. ",
-  "duration": 1322,
+  "duration": 1321,
   "freewheelid": "cn-2086435",
   "isclip": false,
   "typesort": "1",
@@ -37,7 +37,5 @@
   "expdateasmilliseconds": "1589515199000",
   "mediaid": "dfb77ccb2869dd7fab08108d88f07dfdf01819ba",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
-  "clipsonly": false,
-  "includeshortform": false
+  "ismultipropertycollection": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mientras visita un museo espacial, la emoción de Ben se multiplica cuando se entera de que están examinando en el laboratorio unas \"cosas espaciales\" que acaban de descubrir. Pero cuando esa cosa viscosa cobra vida y comienza a replicar a nuestro héroe con su capacidad de cambiar de forma, Ben debe buscar en su interior si quiere detener el caso de identidad equivocada.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172455",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "f4bb5d0a0f891c2e55e92e21b9a476d2793a545f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

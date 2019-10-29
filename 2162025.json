@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los Ninja descubren un nuevo enemigo en medio de ellos.",
-  "duration": 1321,
+  "duration": 1322,
   "freewheelid": "cn-2162025",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1588305599000",
   "mediaid": "90da10f31201f6b917afd9c082460741e141fd36",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

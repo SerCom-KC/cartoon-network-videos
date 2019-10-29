@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Jay, Kai and Zane remember some of Ninjago's most fearsome creatures in order to help Cole defend the cave from an unidentified monster.",
-  "duration": 661,
+  "duration": 660,
   "freewheelid": "cn-2141279",
   "isclip": false,
   "typesort": "1",
@@ -37,7 +37,5 @@
   "expdateasmilliseconds": "1588219140000",
   "mediaid": "37b938c7289be76ea0db3e49ade630bc51b34792",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
-  "clipsonly": false,
-  "includeshortform": false
+  "ismultipropertycollection": false
 }

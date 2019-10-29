@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando la chef célebre favorita de Cueva Cristal tiene un accidente en la cocina, se desatan extraños incidentes.",
-  "duration": 1350,
+  "duration": 1351,
   "freewheelid": "cn-2209274",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "211f4d043a0dcc0ecc28b3aba83242b35933a301",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

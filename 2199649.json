@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Leshawna inventa una pelea con globos llenos de pintura para ver quién va al parque de diversiones con ella.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2199649",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598800000",
   "mediaid": "2dc37f1cd00ff42065900e55890b493bc0149487",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

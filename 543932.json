@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "It's the old west and Mojo the Kid has robbed the first bank ever and forced the sheriff out of town and it is up to the Steamypuff Girls to save the day at a high-noon showdown.",
-  "duration": 1309,
+  "duration": 1310,
   "freewheelid": "cn-543932",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "3dc0af4c6baa66c7b9ce844acde20baf7f5365c3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

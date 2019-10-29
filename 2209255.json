@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los chicos van en busca del tesoro escondido de Cueva Cristal pero \"el Fenómeno\" los detiene.",
-  "duration": 1355,
+  "duration": 1356,
   "freewheelid": "cn-2209255",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "8a800772ecbb9c75edbacb1de1c9bb9b6b518a52",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

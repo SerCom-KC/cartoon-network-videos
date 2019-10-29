@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Against Marceline's wishes, Finn conjures her father, the Lord of Evil, and attempts to reconcile their rocky relationship. But when the Lord of Evil discovers his daughter has turned the family axe into a bass guitar, he takes it from her and starts sucking up all the souls in Ooo!  Now, Finn must find a way to stop the Lord of Evil and get Marceline's guitar back.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-812762",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "ccdc1efe0773f98f31a13a1a17b8ee26b66f9c8e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

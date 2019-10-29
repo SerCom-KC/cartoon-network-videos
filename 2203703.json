@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Vestroia, Part 1: The AO discover the only way to stop Magnus, and possibly save him, involves shutting down the infected Fortus Core Cell./Vestroia, Part 2: The AO must decide whether or not to help Benton Dusk destroy the infected Fortus Core Cell, risking the destruction of their own Bakugan.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2203703",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1573379940000",
   "mediaid": "f79aa035e6632c9e8fabac7438173eae07c69c9c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

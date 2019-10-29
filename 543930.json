@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "That's Not My Baby!: The girls save a baby from a monster attacking Townsville but can't find the mother. Can these three superheroes manage to take care of one little baby?/Simian Says: When the Narrator is mysteriously bound and gagged, Mojo Jojo takes over his job, ordering the girls to steal for him all around Townsville.",
-  "duration": 1368,
+  "duration": 1369,
   "freewheelid": "cn-543930",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "801fb7ec6d06c6c93c57963866bf7f5f6b33638f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

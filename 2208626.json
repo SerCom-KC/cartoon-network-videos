@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Durante un viaje, la pandilla visita un antiguo castillo, traído \"piedra por piedra\" de Transilvania. Pero, cuando entran, descubren que parece haber tres monstruos: un vampiro, un hombre lobo y un monstruo de Frankenstein.",
-  "duration": 1315,
+  "duration": 1316,
   "freewheelid": "cn-2208626",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "7b5906a51f734823ddd4c93da943bc0e16eda919",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

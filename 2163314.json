@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando Unikitty tiene un pequeño incidente automovilístico con Master Frown, iél insiste en llevar el tema a juicio! Frown está encantado: no hay nada peor que un tribunal viejo y aburrido, y está ansioso por someter a Unikitty a esa experiencia. A Unikitty le gusta hacer las cosas bien, pero el juicio se realizará en la corte de Unikitty, ique es tan absurda y divertida que se convierte en la peor pesadilla de Frown! ¿Master Frown logrará contagiar a Unikitty con su negatividad? ¿O será él quien termine castigado por las payasadas legales?",
-  "duration": 674,
+  "duration": 675,
   "freewheelid": "cn-2163314",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "791d7f6964866830b6c176b1876b1d44634a6e3a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

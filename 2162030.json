@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los secretos se revelan cuando Nya se enfrenta al impostor Samurai X, Kai persigue la verdad sobre sus padres y los otros Ninja buscan desesperadamente localizar y rescatar al Maestro Wu.",
-  "duration": 1321,
+  "duration": 1322,
   "freewheelid": "cn-2162030",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1588305599000",
   "mediaid": "e8964d1253a127f3994809626e180d31548bd850",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

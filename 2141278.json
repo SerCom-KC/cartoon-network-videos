@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A riddle requires the Ninja to consider the powers and history of the Elemental Masters. Meanwhile, Nya struggles to keep the power on in the Samurai X Cave.",
-  "duration": 661,
+  "duration": 660,
   "freewheelid": "cn-2141278",
   "isclip": false,
   "typesort": "1",
@@ -37,7 +37,5 @@
   "expdateasmilliseconds": "1588219140000",
   "mediaid": "46ce13d0aafecfc85eabf193dc33f314356307c7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
-  "clipsonly": false,
-  "includeshortform": false
+  "ismultipropertycollection": false
 }

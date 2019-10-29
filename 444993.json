@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A day of fun in the park is cut short when Cyborg suddenly freezes like a statue. His power cell is dying. While the problem is easily fixed with a new battery, Cyborg is reminded he's not completely human.",
-  "duration": 1289,
+  "duration": 1290,
   "freewheelid": "cn-444993",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "ae5271e0e7d8bb0cb4cc2531631cc8e2ca636ab0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

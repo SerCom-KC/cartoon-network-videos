@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Vic accidently unleashes the lord of mischief from an ancient relic, V and V have to work together to trap it back inside.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2160702",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "404e782f8384a3324f1c998215a43ba74fb63c6e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

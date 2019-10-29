@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando una serie de secuestros de perros alarma a Buck Masters, un entrenador de perros galardonados, el grupo ofrece usar a Scooby-Doo como señuelo para atrapar a los secuestradores. Pero el plan sale demasiado bien: secuestran a Scooby, y el grupo averigua que los secuestradores siguen las ordenes de un hechicero espectral.",
-  "duration": 1313,
+  "duration": 1314,
   "freewheelid": "cn-2208620",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "e3a4500b033890da4e9309251f44bb8994e65fd1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

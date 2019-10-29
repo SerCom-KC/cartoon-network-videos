@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Seis cachorros son secuestrados del concurso canino por un monstruo y Scooby y la pandilla deben rescatarlos.",
-  "duration": 1268,
+  "duration": 1269,
   "freewheelid": "cn-2208661",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "eab2041bde27eb1948058164fc3d6f8372a41e47",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

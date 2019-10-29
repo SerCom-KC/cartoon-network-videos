@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Osamu Kazami viene para llevarse a su hijo Shun a casa y se encuentra con un obstáculo que no había contemplado.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205844",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "7e5851ad9dcacf0b66bae9e01e3c899c06a85429",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los juguetes cobran vida en el centro comercial de la zona y la pandilla se queda despierta toda la noche para investigar.",
-  "duration": 1271,
+  "duration": 1272,
   "freewheelid": "cn-2208651",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "5d2007363cbe6242682602c8b6458de87cad3002",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

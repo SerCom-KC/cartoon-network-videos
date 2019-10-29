@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Forbidden Isle: The AO travel to a remote island in search of a Core Cell, but instead they find the Bakugan known as Kelion, which soon bonds with Dan./New World Orders: The AO discover a small group of kids and Bakugan being used as laborers against their will, but freeing them is only half the problem.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2203693",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "2d873f7ad2ab4b7d6ccff36992d51ea05434cff9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

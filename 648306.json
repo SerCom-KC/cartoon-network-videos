@@ -12,7 +12,7 @@
   "type": "movie",
   "active": true,
   "description": "The Kids Next Door face an evil more eviller than Father threatens to turn kids and adults into hideously wrinklified Senior Citizombies! To fight this menace, the Kids Next Door are forced to recommission their greatest operative, Numbuh Zero!",
-  "duration": 4175,
+  "duration": 4176,
   "freewheelid": "cn-648306",
   "isclip": false,
   "typesort": "3",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "0ca6e6b73dd8c8173890c892837abd1528f6d8f5",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

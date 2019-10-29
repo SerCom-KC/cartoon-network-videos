@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Dos monstruos gigantes, bautizados Humungonautas por el sheriff Stone, atacan Cueva Cristal.",
-  "duration": 1350,
+  "duration": 1351,
   "freewheelid": "cn-2209238",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "9567a0f4475f531831f2d6fbf35b62c503af971a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

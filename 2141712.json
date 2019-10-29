@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Chef is happy he orders pizza for the kids, this gives Owen & Jude the idea to create a fake secret admirer for Chef.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2141712",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1599019199000",
   "mediaid": "9172fb6cb83afb352ac471b5d003b73a5d6da2a4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

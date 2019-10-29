@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mega Man must stop Hypno Woman from turning the students and teachers at Silicon Central into her mindless drones.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117356",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596081599000",
   "mediaid": "3b7160c133de490acaa163fd153831f7df6a8a3e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "La pandilla recibe una encomienda del señor E. que contiene un nuevo bolso hecho en Gatorsburgo.",
-  "duration": 1382,
+  "duration": 1383,
   "freewheelid": "cn-2209231",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "84d56507f09bd5f277192e1b66406e6991180ff1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

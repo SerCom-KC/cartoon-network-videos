@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The mysterious Lord Obsidian calls Mega Man a traitor to robots and challenges him to a duel. An overconfident Mega Man is humbled by this mysterious new villain.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117371",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596081599000",
   "mediaid": "3da049166933cea97ceb07a9b47be33ec19486c5",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

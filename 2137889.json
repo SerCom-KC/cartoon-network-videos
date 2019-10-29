@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Apple is challenged to a fight by a grumpy Cheesesteak, so he and Onion go on a quest to find the source of Cheesesteak's grumpiness.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2137889",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "55c5eba68b54642a6418c2ae434f8e624ac2c5b0",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Too Much: The Hide Matrix goes crazy and a simple AO training mission turns into a complicated rampage that brings down Studio D./Who Are You?: After the loss of their HQ, the AO is a little off, but in talking to Benton Dusk, they learn a new sense of purpose for their team.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2203704",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1573984740000",
   "mediaid": "d1af8b51233f1f266a979a1807960271e5328dde",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

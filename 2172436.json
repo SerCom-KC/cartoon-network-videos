@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Tras toparse con una adorable criatura, híbrido de gato, perro y conejo, Ben no hace caso al consejo del abuelo Max y se lleva al animal a escondidas al Chatarra. Pero pronto empiezan los problemas porque ila creación del Dr. Animal lo delata!",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172436",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "e4c875b8a2bdad61d2d2008cd594186ac1f9bdc5",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

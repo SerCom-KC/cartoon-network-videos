@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "As NinjaGo City rebuilds, Faith arrives with a dire warning: the Oni have returned and are destroying the realms, one by one. NinjaGo must prepare, and Lloyd must face the possibility that to defeat this foe, he may need the help of another enemy. / Having freed Lord Garmadon from Kryptarium Prison, the ninja are beset by doubts, particularly Lloyd. Lord Garmadon and Lloyd journey into the cloud of darkness in an effort to stop the Oni. / The Oni in NinjaGo City are stronger than anyone could have imagined, and the ninja must risk a daring rescue of Lloyd and Garmadon. Though there is still a slight hope, one ninja will pay a terrible price./The ninja race back to the Monastery of Spinjitzu. This is the last stand. The final battle against the Oni is now. Will their joined Spinjitzu powers defeat the Oni for good or tear apart Ninjago itself?",
-  "duration": 4974,
+  "duration": 4973,
   "freewheelid": "cn-2194651",
   "isclip": false,
   "typesort": "1",
@@ -37,7 +37,5 @@
   "expdateasmilliseconds": "1597118399000",
   "mediaid": "1b8e4fce95596b4c0ed87ba43a1c900f96ab13b8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
-  "clipsonly": false,
-  "includeshortform": false
+  "ismultipropertycollection": false
 }

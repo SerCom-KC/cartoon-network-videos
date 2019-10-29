@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Mash-up of Beast Boy's animals.",
-  "duration": 65,
+  "duration": 66,
   "freewheelid": "cn-2140634",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "ffc201a8c2ca1dc07e15c8e0d02c805b580195cf",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

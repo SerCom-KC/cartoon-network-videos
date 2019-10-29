@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Erizo y Max descubren una escuela diminuta cuando, por accidente, un experimento científico los encoge.",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2171179",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "d833645d5a15ad42b5cd5781efc56ee7fa936eef",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

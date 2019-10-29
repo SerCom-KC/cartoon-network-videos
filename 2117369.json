@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mega Man teams up with his crush, Ashley Adderley, to solve a series of science riddles left by Chemical Man, who's plotting to turn all the city's metal into rubber.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117369",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596081599000",
   "mediaid": "091924acf10d94db577d45257bd96ddeb4c27a80",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

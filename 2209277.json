@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Nuestros héroes permiten que los hipnoticen para poder entrar al mundo de los sueños.",
-  "duration": 1332,
+  "duration": 1333,
   "freewheelid": "cn-2209277",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "fb45c002b5d3e9f4b456eb861e519379ff890810",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

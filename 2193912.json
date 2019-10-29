@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Raven les da nuevos superpoderes a los Titanes, pero a ellos les cuesta adaptarse.",
-  "duration": 642,
+  "duration": 643,
   "freewheelid": "cn-2193912",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "93ae6094e7bb2ae1f04fe9432e765ea9f4ab7fdc",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

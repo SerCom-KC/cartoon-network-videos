@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando seis chicas comunes y corrientes descubren que cada una tiene un poder extraordinario diferente, deciden unir fuerzas para derrotar a algunos de los villanos más siniestros de Metrópolis en la parte 4 del episodio estreno.",
-  "duration": 778,
+  "duration": 779,
   "freewheelid": "cn-2197586",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "e1d748d5a924095ded5f4144737c1b794555b893",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Lia no concuerda con las técnicas de Pegatrix, pero durante una intensa batalla, debe aprender a confiar en los conocimientos de su Bakugan.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205828",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "2797a17349e0a01b46d93c0c0bf3fcf14c9eb319",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

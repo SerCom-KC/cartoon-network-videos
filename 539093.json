@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Criminal Killer Moth threatens to destroy the city unless Robin takes his daughter Kitten to her junior prom. While the Titans are scouring the city in the search of Moth's hideout, Robin has no choice but to go along with the villain's demand.",
-  "duration": 1293,
+  "duration": 1294,
   "freewheelid": "cn-539093",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "5030eadfb513421f1f20682f7bac536ed52f910d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Para ganar una pizza, los Osos bebé jugan baloncesto contra una pandilla variada de niños.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2168443",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1595822399000",
   "mediaid": "fd361598afb4fa62b94f74c5a879e8fd23d71de1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

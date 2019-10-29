@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "En un encuentro de intercambio local, Ben se interesa en un coleccionable de Luchadores de Sumo. Pero cuando Kevin se apodera del objeto, nuestro héroe debe superar el arma secreta de Kevin para recuperarlo: iun 11º extraterrestre!",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2191256",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1609477199000",
   "mediaid": "48f0c4a033b0b607a245511a7033ca69b6cb9ef5",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

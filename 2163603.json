@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A raíz de un cruel ataque al Palacio, Los Hijos de Garmadon roban la segunda Máscara Oni, y los ninjas invitan a la Princesa Real, Harumi, a su improvisada familia.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2163603",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1618545599000",
   "mediaid": "187ac2785b9760fcc1bd4d7e3deb659207d2cb42",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

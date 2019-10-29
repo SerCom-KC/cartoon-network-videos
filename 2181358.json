@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los ositos van a la escuela para escapar de sus vidas agitadas.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2181358",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1595822399000",
   "mediaid": "1a4e65455164148b63276bfb330f7698bb6e3fe2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

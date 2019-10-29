@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando la reportera Verónica Venegas, madre de Lia, hace un reportaje acerca de Los Fantásticos, Strata El Cazador intenta capturar a Hydorous.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205832",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "14fb783541a6e17b95d26c188e3d3d6bb936f00c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

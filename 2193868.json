@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Vic & Val go on a hot air balloon trip with Sal and compete to be his favorite, but things go awry when they try to use the magical Nazca Lines to their advantage.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2193868",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "3f74d16d48e2f5f92fcdaae0dd48fc70b5f2363e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

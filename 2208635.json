@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Un fantasmagórico zombi al que se ha visto robar bancos de noche en la ciudad, interrumpe un baile estudiantil en una granja. La pandilla busca pistas en el bosque y en el campo. Mientras el zombi los persigue, encuentran a un viejo ermitaño loco que quiere hospedarlos en su casa y a un pollito recién nacido que llega a la conclusión de que Scooby-Doo es su madre.",
-  "duration": 1308,
+  "duration": 1309,
   "freewheelid": "cn-2208635",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "31d8448e04184411adb61c4d467e0469b338cb6c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

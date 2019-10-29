@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mega Man and Dr. Light must set aside a father-son disagreement to stop Drill Man from taking revenge on his own overbearing father.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117446",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1595995199000",
   "mediaid": "a1a106519f7b8723d81a9eae163f52bd23873c62",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

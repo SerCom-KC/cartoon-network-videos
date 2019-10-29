@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Custody Battle: Mojo discovers the Rowdyruff Boys are back and is determined to show them that he is a more evil dad than Him./The City of Nutsville: The squirrels of Townsville are chirping mad! But when Bubbles loses her ability to speak a squirrel, the girls don't know how to calm the rodents down.",
-  "duration": 1362,
+  "duration": 1363,
   "freewheelid": "cn-543928",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598771000",
   "mediaid": "880a9e8b8e44535cd766e4c1947d45d120326e75",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

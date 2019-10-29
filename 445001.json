@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "With no signs of Robin since Slade's Chronoton Detonator turned out to be a fake, the four remaining Teen Titans search the city for their missing leader. But their search is cut short when the Titan signal alerts them to a new villain in town. And when they arrive on the scene at a high-tech defense lab, they are shocked to discover this new villain is none other than Robin himself wearing a sinister new Slade insignia villain costume.",
-  "duration": 1169,
+  "duration": 1170,
   "freewheelid": "cn-445001",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "c1ec447a3ae3f6807d649936d2c2dcd3e0ee54f3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

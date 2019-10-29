@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Unikitty se enorgullece de ser la campeona del Día de la escondida. Pero cuando encuentra a todos en el reino excepto a Richard, lo busca a toda costa. ¿Seguirá Richard eludiendo a la princesa en su juego favorito y, si es así, cómo lo hará?",
-  "duration": 660,
+  "duration": 661,
   "freewheelid": "cn-2163299",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "308804ef2f39e4fb585b8ae2420e8408ebafad3a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

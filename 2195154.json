@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando Owen oculta un walkie talky dentro de su perro con chile, Harold cree que es un alienígena que vino a destruir la tierra.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2195154",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1588823999000",
   "mediaid": "f397a8c69ec44b1833d7636c6489c097d2d2537c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

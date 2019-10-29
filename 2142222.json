@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Robin tries to teach The Titans to respect money, but he ends up bee-ing the one who learns the lesson.",
-  "duration": 119,
+  "duration": 120,
   "freewheelid": "cn-2142222",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "d381dd928347544331029c48310e3c4584cbee12",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

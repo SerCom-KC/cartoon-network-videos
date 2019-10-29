@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Un alienígena que tiene la capacidad de hacerse más alto intenta evitar que despegue un transbordador espacial.",
-  "duration": 1274,
+  "duration": 1275,
   "freewheelid": "cn-2208643",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "42ff5803f334b199337d9599157f3f70f592579d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

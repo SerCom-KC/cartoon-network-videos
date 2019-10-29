@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A thief from the future called Warp travels back in time to steal an antique. When the Titans show up, the villain tries to escape. In an effort to catch the crook, Starfire is pulled into his Time Vortex and is hurled 20 years into the future.",
-  "duration": 1294,
+  "duration": 1295,
   "freewheelid": "cn-539087",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "7cbfe311807515ebdc36db5a94f77f12a725e8fd",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

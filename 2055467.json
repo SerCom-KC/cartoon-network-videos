@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Death tries to make a mixtape for his girlfriend, Life.",
-  "duration": 169,
+  "duration": 170,
   "freewheelid": "cn-2055467",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "41b2cb68ef65a1b1e5ca8cd2f6a0f74be9f9582a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

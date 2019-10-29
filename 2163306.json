@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Es domingo de pereza, iy Unikitty y Puppycorn la están pasando tan bien en el sofá que no quieren moverse nunca! Richard insiste en que tienen tareas por hacer, pero ellos no están dispuestos a dejar que termine el domingo de pereza. Los dos hacen todo lo posible para no salir nunca de la comodidad de su sofá, remando por el castillo como si estuvieran en un barco y reclutando a sus amigos para que abandonen sus tareas y se unan al domingo de pereza, isin importar qué tan peligroso e imposible puede llegar a ser!",
-  "duration": 672,
+  "duration": 673,
   "freewheelid": "cn-2163306",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "fe8b520c60897eb1bc5af711985061831a186cdc",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

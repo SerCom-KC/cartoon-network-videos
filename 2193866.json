@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Sal stays with Vic & Val, the boys are annoyed by him as their roommate but eventually they learn how cool and magical he is.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2193866",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540800000",
   "mediaid": "bc46e76a7a1bcd6ecebb205109515acf9686600a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

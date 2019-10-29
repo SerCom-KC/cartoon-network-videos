@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los Fantásticos emprenden una misión en el misterioso mundo laberíntico de Vestroia para buscar a Strata El Cazador y liberar a los Bakugan que tiene presos.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205847",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "5358db702feb24232d9596a8811497d30a38c071",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

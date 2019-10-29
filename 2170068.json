@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "En el arroyo se disputa una enorme pelea con globos acuáticos, pero Craig está atrapado en la cena familiar, a menos que pueda escapar.",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2170068",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "4ab6deb715785aafe1d390f96876a8b350864127",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Drago y los otros Bakugan de Los Fantásticos se enfrentan a una nueva y poderosa amenaza, solo para dejarlos preguntándose si todo habrá sido un sueño.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205843",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "df74fddbdc9b2b8dfe2f7bbb087c7fdce8c9e8bd",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Beast Boy begins turning into an angry aggressive Man Beast against his will, can the Titans save themselves from their savage friend?",
-  "duration": 1376,
+  "duration": 1377,
   "freewheelid": "cn-547365",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "e1b763d420cc7116a0f2a0aacce14b8a05bec0cb",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

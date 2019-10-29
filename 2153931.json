@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando Max arrastra a los niños a ver una \"Casa del futuro\" obsoleta construida por su ídolo de la infancia, Ben descubre que Vapor Smythe está ocupado excavando el lugar en busca de un dispositivo poderoso que le permitirá crear armas devastadoras para su guerra en progreso. Solo la devoción de Max por su ídolo de la infancia y la fe de Ben en los sueños puede salvar el mañana...ihoy mismo!",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2153931",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572580799000",
   "mediaid": "dc14962d980e6449ae56449ec285cbce44e8b533",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The final game has begun. While the Titans are spread throughout the globe on one last mission, Brotherhood mastermind, the Brain, makes his move. Robin has a strategy of his own but as all the villains begin taking down all the superheroes all at once, will it be enough to save his friends?",
-  "duration": 1364,
+  "duration": 1365,
   "freewheelid": "cn-622768",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "6f022d366a26b208191a0a3691f1f0a36284a078",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

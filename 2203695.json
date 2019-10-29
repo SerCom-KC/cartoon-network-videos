@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Hide Matrix and Seek: The AO go undercover to try and pass as citizens of Lord Brakken, but quickly discover that even minor celebrity makes anonymity impossible./Or Forever Hold Your Peace: The AO seek to rescue Lia from an arranged marriage with Lord Brakken only to discover she just made a major discovery for the Bakugan!",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2203695",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "b3296d37aee4d12a64cff912b765da621a8a469e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando el Demonio del Cementerio ataca a la pandilla, los chicos evitan hacer el típico \"perfil del villano\", incluso cuando el sospechoso perfecto se encuentra frente a sus ojos.",
-  "duration": 1327,
+  "duration": 1328,
   "freewheelid": "cn-2209262",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "d705a1d70f87bb43bea7683865568c4882831869",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Val crushes on a girl named Matty, who Vic is suspicious of but Val ignores his warnings. When Val goes to dinner at her house she turns into a Matlazihua and he discovers he's what's for dinner!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2193865",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585379759000",
   "mediaid": "92432e11b4ebc63855ece1196b939dd401cbfe9f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

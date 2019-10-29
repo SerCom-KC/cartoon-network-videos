@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Para ganarse la última insignia que le falta de las Chicas Exploradoras, Courtney debe ganarse la amistad de Gwen.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2199653",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598800000",
   "mediaid": "222fd9dcdb6dfb1867941676275ac672043598c8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

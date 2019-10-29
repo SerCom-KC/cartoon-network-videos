@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Him tricks Bubbles into bringing her chalk drawings to life, who then proceed to wreak havoc in Townsville.",
-  "duration": 1144,
+  "duration": 1145,
   "freewheelid": "cn-338474",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "48977c42f997bc8ef76c2aa17f1284a6d89aeba3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

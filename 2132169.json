@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Music and lyrics by Rebecca Sugar. Additional music by Aivi Tran and Steven Velema. Performed by Deedee Magno Hall.",
-  "duration": 196,
+  "duration": 197,
   "freewheelid": "cn-2132169",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "a79b852fe7f244b1e460532b05118a1a1a72184d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Boogie Frights: The Boogie Man creates perpetual night by launching a huge disco ball to block out the sun. While evil creatures are dancing and destroying in the dark, the Powerpuff Girls plot to crash the ball./Abracadaver: Al Lusion, the old-time Townsville magician, pulls off his greatest stunt yet when he comes back from the dead as the zombie Abracadaver to haunt Townsville.",
-  "duration": 1361,
+  "duration": 1362,
   "freewheelid": "cn-326563",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "fc669cb7c596c2ae894d531d5f284119ce402159",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

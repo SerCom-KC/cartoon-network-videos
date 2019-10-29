@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando Lloyd desenmascara y revela la identidad de Mystake, el Emperador Garmadon acepta a Harumi como su hija de la oscuridad. Mientras tanto, Wu se aferra a su fe al llevar a sus amigos hacia territorios Oni peligrosos esperando encontrar el nido de la Primogénita.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2169974",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "f5e5364d421f0699ba012d5b28e4c3781b76f22d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

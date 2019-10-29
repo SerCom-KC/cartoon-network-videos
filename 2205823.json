@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando el Restaurante de Hamburguesas es amenazado por un violento Bakugan, Dan llega para salvar el día...y las hamburguesas.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205823",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "52ef747fd7a31a14d9c1020f2e7af868f8930b01",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Student elections get blown out of proportion (literally) when Air Man lends his support to Aki's rival for class president, Peter Punk.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117364",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596081599000",
   "mediaid": "fb01d6e4db975fcb1947990d0947ad4f68eddb03",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

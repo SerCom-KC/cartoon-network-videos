@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Richard decidió llevar a Unikitty y a la banda a un agradable y relajante viaje de 10 horas por la carretera. Al principio todo el mundo está en contra del viaje, pero pronto empiezan a divertirse. Por desgracia, su idea de diversión no es la de Richard. Pronto, el conductor comienza a sucumbir ante su furia interior al volante. Para colmo de males, los persigue un semirremolque asesino, y su coche ha sido invadido por un extraño autoestopista. ¿Richard perderá la razón o el viaje será un gran éxito?",
-  "duration": 674,
+  "duration": 675,
   "freewheelid": "cn-2163324",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598800000",
   "mediaid": "a49230e8f6a43861aaac8549ab3e9be03174107f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

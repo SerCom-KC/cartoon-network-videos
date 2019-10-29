@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "In the Wild: The AO are invited to a video-stars conference, but when the chartered jet goes down, the AO must give over to their wild sides to survive!/Call Me Old Brakken: Lord Brakken is the ultimate AO super-fan, but his zeal takes a dark turn when he looks to prove that he is their superior in battle.",
-  "duration": 1351,
+  "duration": 1352,
   "freewheelid": "cn-2203694",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577163599000",
   "mediaid": "1c77e807ca63468dfa6536244b9fc0f5e80ad95a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

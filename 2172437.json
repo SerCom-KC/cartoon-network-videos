@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben y Billy Billions se enfrentan por un set de sumo exclusivo que se vende únicamente en el centro comercial más grande del mundo, isolo para descubrir que Simon Sez, de apenas seis años, lo compró primero! Así se desata una batalla dentro de una tienda que parece tenerlo todo excepto una salida fácil de encontrar.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-2172437",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "822d30be7a4501bb9306230fbc5f078294e0fd25",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

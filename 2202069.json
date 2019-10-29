@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los Titanes aconsejan a Robin para guiarlo a través de su romance de campamento con Chica Maravilla.",
-  "duration": 664,
+  "duration": 665,
   "freewheelid": "cn-2202069",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "cecccd06a69e5da81f7819f3b72546d052847584",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

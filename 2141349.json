@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Cyborg, Starfire and Beast Boy go to Cool School to keep up with Raven and Rose Wilson.",
-  "duration": 113,
+  "duration": 114,
   "freewheelid": "cn-2141349",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "13793b2c9cc26c97216244f9b509a911511c8708",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

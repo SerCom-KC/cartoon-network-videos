@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Llegó la época... de disfrutar de un misterio aterrador en este especial temático de Navidad.",
-  "duration": 1311,
+  "duration": 1312,
   "freewheelid": "cn-2208655",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "1fd1919db94b84d8b69fe12ba0de219fcfea42d9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

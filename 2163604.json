@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mientras que la Princesa Harumi se adapta a la vida con los ninjas, Lloyd y Jay buscan respuestas sobre las máscaras Oni, mientras que Cole y Zane intentan infiltrarse en Los Hijos de Garmadon.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2163604",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1618545599000",
   "mediaid": "fea2ccd5f90113b08491adbaa2720b5533f4bbd8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

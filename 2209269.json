@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Dinamita y Fabulman se unen a la pandilla de Misterios S. A. para resolver el misterio de un horrible robot mitad humano mitad dragón que está aterrorizando la ciudad.",
-  "duration": 1326,
+  "duration": 1327,
   "freewheelid": "cn-2209269",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "09afc098903723fa8eeaa78e43253684019e3b90",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

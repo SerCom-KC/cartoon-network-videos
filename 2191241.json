@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "En Biggie Box Japón, Ben espera en una fila épica el lanzamiento de Cyber Luchadores, el último videojuego de Luchadores de Sumo. Pero muy pronto, Ben debe salvar la tienda: no de los clientes ansiosos por comprar el juego sino de Vapor Smythe, ique quiere modernizar un mecanismo gigantesco con sus vandálicos poderes de vapor!",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2191241",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1609477199000",
   "mediaid": "b6ea1b4578cdd192586a7907929346f390a013d6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

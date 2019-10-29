@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando Master Frown le provoca a Unikitty un ataque de ira que se vuelve demasiado destructivo, ella desea que su faceta de Rage Kitty ya no sea parte de ella. Gracias a un nuevo invento de la Dra. Fox, el E-MoteTV, la princesa consigue su deseo: iRage Kitty y Nice Unikitty se dividen en dos! Pero ahora que Unikitty es incapaz de enfadarse, aprende que reprimir la ira nunca es algo bueno.",
-  "duration": 659,
+  "duration": 660,
   "freewheelid": "cn-2163298",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1609477199000",
   "mediaid": "5379716434bdfb89debe4b7e3a5accea1409af68",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

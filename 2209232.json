@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Un misterioso Camión Fantasma que espanta a la gente de las carreteras, aterroriza a Cueva Cristal.",
-  "duration": 1375,
+  "duration": 1376,
   "freewheelid": "cn-2209232",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "966c439de70350df80b55a3cc20a46a050179949",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

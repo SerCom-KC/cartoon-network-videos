@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "A song about Marceline written by Casey James Basichis.",
-  "duration": 91,
+  "duration": 92,
   "freewheelid": "cn-2141826",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "9270266621ad3c4220cd56b7770d69982ede52c5",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

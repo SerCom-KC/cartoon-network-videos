@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mega Man teams up with Bert Wily to take down Drill Man, whose plan to construct hundreds of drill shaped high rises has put Silicon City in both aesthetic and physical danger!",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117433",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596081599000",
   "mediaid": "09b21b3b9243367ccf13cd4aec29b4892c16de8a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

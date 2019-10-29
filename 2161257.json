@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Vic and Val want to go to a friend's pool party on the same day as their grandma's quinceañera, so they use a magical flute that allows them to teleport and attend both at the same time.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2161257",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "19d0d57a803bf3d25e97082687e5e80e3cde23ea",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

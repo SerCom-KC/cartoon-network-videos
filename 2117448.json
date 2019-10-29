@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mega Man tries to stop Elec Man by helping him overcome his destructive habits, but is he being duped in the process?",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117448",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1596081599000",
   "mediaid": "fd045648a6ccaf6868e7073295ac7fa391d2877f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

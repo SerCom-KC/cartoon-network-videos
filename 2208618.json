@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "La pandilla hace una expedición en barco pero se pierde en la niebla y encalla en la Isla Embrujada. Los chicos deciden aventurarse en el castillo abandonado Vázquez en busca de ayuda, pero solo encuentran un fantasma transparente que los asusta y les advierte que abandonen la isla para no volver jamás.",
-  "duration": 1314,
+  "duration": 1315,
   "freewheelid": "cn-2208618",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "25503f5685346396b88e17164115a1f94129829d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

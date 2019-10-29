@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Drago lidera a los Bakugan contra la amenaza de Tiko, para proteger una poderosa fuente de energía.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205851",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "98e33a99221fa326272a0c6d7889e7d249340af3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

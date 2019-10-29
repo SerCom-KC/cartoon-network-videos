@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Los personajes de un videojuego cobran vida y amenazan a la pandilla de Misterios S.A. mientras asisten a una convención.",
-  "duration": 1267,
+  "duration": 1268,
   "freewheelid": "cn-2208716",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "d834011e3cd69f636283b9cec54794edb69c4f88",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A Beth se le atascan los muebles del diorama de Courtney en la nariz y Courtney tiene que recuperarlos antes de que llegue el juez del concurso de dioramas.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2199650",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598800000",
   "mediaid": "443ea4465712cc79fdea0e0f7e9b744df9cbf0f2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

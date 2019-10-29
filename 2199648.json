@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Noah intenta rescatar los chocolates que Owen olvidó afuera.",
-  "duration": 641,
+  "duration": 642,
   "freewheelid": "cn-2199648",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "78d3ccc4bb6add0ae88491602ce165a327c89c7e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

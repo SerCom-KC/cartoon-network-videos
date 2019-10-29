@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "The other Bakugan use their Special Abilities to prep for a Dragonoid SURPRISE PARTY but in the end the surprise is on them.",
-  "duration": 98,
+  "duration": 99,
   "freewheelid": "cn-2188341",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577077140000",
   "mediaid": "8ba92294e83739142e2dc8be24ad89712fb986a2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

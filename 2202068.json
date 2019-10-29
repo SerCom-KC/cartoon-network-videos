@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mientras los Titanes están en el campamento de verano para super héroes, necesitan añadir otro miembro al equipo para ganar la gran carrera de canoas.",
-  "duration": 645,
+  "duration": 646,
   "freewheelid": "cn-2202068",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "898a2316cea8a03f38f35295576e65abad16be58",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

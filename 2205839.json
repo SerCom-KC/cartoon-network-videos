@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Philomena Dusk, de la Corporación AAAnimus, contrata a Magnus y le implanta un dispositivo que aumenta el poder de su Bakugan para derrotar a Dan.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205839",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "9bb1c829c6a04986c62d2ed985e85f9b43971e6a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

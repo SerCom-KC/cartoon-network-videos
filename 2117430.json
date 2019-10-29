@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Elec Man derails the school play by hijacking Silicon Central's power, Aki/Mega Man must use what he has learned onstage to defeat his supercharged foe.",
-  "duration": 666,
+  "duration": 667,
   "freewheelid": "cn-2117430",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598800000",
   "mediaid": "0ebdfa409ed6dba0ff16ce7e1cda88de5d33e53e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

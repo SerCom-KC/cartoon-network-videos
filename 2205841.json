@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Descubriremos el misterioso pasado de Shun, su relación con su padre (un magnate de la industria), y su deseo por tener una familia más unida.",
-  "duration": 700,
+  "duration": 701,
   "freewheelid": "cn-2205841",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601456340000",
   "mediaid": "fd2b4beb063da2220fb29f1ee1db9030fec2688e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

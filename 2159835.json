@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Llegó el Día del Trabajo, y Robin les enseña a los demás Titanes la importancia del trabajo.",
-  "duration": 625,
+  "duration": 626,
   "freewheelid": "cn-2159835",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577872740000",
   "mediaid": "458450fb08b03ae5634be1ba4dfda87c1c4436d1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
