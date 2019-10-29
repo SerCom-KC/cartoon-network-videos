@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A Val le gusta una chica llamada Matty, y Vic sospecha de ella, pero Val ignora sus advertencias. Cuando Val va a su casa a cenar, ella se convierte en una Matlazihua, iy Val descubre que él es la cena!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2204292",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "f9b9fcf3316ef337a2029c012809e3e1e80068d4",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

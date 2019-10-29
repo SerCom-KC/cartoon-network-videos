@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando Vic y Val acompañan a Xochi a un concierto punk, quieren demostrar que son lo suficientemente geniales para salir con ella. Pero en un intento desesperado por tener onda, terminan arruinando el concierto.",
-  "duration": 674,
+  "duration": 675,
   "freewheelid": "cn-2212525",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585472340000",
   "mediaid": "563a88c3bcb58b6c1a457ab37f40a4e59fd17ec9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

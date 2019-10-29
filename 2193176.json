@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando Vic no elige a Val para su equipo de fútbol, Val promete ganar con su propio equipo. Pero cuando su equipo no está a la altura, recurre a medios sobrenaturales para ganar.",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2193176",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "9a23663b727da1402c0470a2a9cf68a9d4316127",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

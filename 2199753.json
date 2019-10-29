@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cuando Vic es traicionado durante una guerra de globos de agua, emprende una vengativa misión para descubrir al responsable.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2199753",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "e70fc69f301a56f90fcd598f89f47a98759d3d05",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Después de que Vic pierde una pelea de lucha libre, V&V viajan al inframundo para buscar el consejo de su tío, un famoso luchador llamado El Toro.",
-  "duration": 682,
+  "duration": 683,
   "freewheelid": "cn-2197800",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "e4b48498257d9aa0ca06cf91123cb7cba510350e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
