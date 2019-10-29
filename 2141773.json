@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Richard's food ballad.",
-  "duration": 75,
+  "duration": 76,
   "freewheelid": "cn-2141773",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574657999000",
   "mediaid": "9b9b3e86118b34c3c2ec31b773c8fe598521105b",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

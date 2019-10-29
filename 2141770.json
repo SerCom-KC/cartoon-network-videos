@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Join the citizens of Elmore for a song and dance spectacular.",
-  "duration": 118,
+  "duration": 119,
   "freewheelid": "cn-2141770",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574657999000",
   "mediaid": "4ef193aff4b3a18e4e1ba05e1ceb835cb419ffc3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

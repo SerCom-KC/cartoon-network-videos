@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Frank has taken Grady's beloved house Spoon. Grady is forced into a dance off to win it back.",
-  "duration": 136,
+  "duration": 137,
   "freewheelid": "cn-2108838",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574657999000",
   "mediaid": "4df13fde7e9bde0c8f008096f801f7c85e9bebe3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

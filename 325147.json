@@ -12,7 +12,7 @@
   "type": "movie",
   "active": true,
   "description": "When Scooby, Scrappy and Shaggy visit a Southern plantation, they end up encountering ghostly peril, hairbreadth escapes and a search for lost treasure.",
-  "duration": 5556,
+  "duration": 5557,
   "freewheelid": "cn-325147",
   "isclip": false,
   "typesort": "3",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095140000",
   "mediaid": "e95e113138cde73ab4f3a0b1ccd002ba31351a86",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": true,
+  "includeshortform": false
 }

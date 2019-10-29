@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Principal Brown serenades Miss Simian with a reluctant cameo from Larry.",
-  "duration": 107,
+  "duration": 108,
   "freewheelid": "cn-2141775",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574657999000",
   "mediaid": "51952b24b37e7fab1751a8c13404169c7a6a37d9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

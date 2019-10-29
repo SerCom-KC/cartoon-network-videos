@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Gumball and Darwin realize that anything they imagine will become real in Puppet World, but all they can think of are Garden Gnomes.",
-  "duration": 42,
+  "duration": 43,
   "freewheelid": "cn-2108835",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574657999000",
   "mediaid": "f0ca90ed1d1b1c74d462c9b7da43499f4b39ded3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

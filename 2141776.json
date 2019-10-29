@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Pluto feels left out.",
-  "duration": 104,
+  "duration": 105,
   "freewheelid": "cn-2141776",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574657999000",
   "mediaid": "fe6eb946fa1360f37150796c13313abab56918bc",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

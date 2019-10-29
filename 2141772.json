@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Teri's playful J-pop song.",
-  "duration": 45,
+  "duration": 46,
   "freewheelid": "cn-2141772",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574657999000",
   "mediaid": "005ae4f0b393527543dd0690d061e1fb19f76aa7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

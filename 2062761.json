@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Mom and Dad struggle to keep hyperactive, toddler-aged Gumball from trashing the house and exhausting them, they decide to buy him a pet. It works, but there's a problem: every goldfish they get him is short-lived, and inevitably ends up being flushed down the toilet.",
-  "duration": 687,
+  "duration": 688,
   "freewheelid": "cn-2062761",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "4beb9d6443cb485bb82c1924a9e4f33aae13f479",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

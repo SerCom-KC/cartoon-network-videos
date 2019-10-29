@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "The Billy Pharham rap.",
-  "duration": 53,
+  "duration": 54,
   "freewheelid": "cn-2141771",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574657999000",
   "mediaid": "6eae9c1fb92ba6ebd7c0503a90b7c72fc2ddc0b0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

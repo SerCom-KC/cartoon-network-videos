@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Gumball and Darwin make friends with classmate Clayton, a compulsive liar who can shape-change!",
-  "duration": 596,
+  "duration": 597,
   "freewheelid": "cn-894323",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "6347004cca37511a26fb213912864413e887ed5f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

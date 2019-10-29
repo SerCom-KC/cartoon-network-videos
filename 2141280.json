@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Ninja confront memories of their greatest villain and ally, Garmadon, before the threat to Zane controls him completely.",
-  "duration": 660,
+  "duration": 661,
   "freewheelid": "cn-2141280",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1588219140000",
   "mediaid": "5e3419fdda088787a67c545168dee751d065c839",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

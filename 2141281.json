@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The final puzzle forces each ninja to question the true meaning of the Green Ninja Prophecy, but success is not what it seems.",
-  "duration": 660,
+  "duration": 661,
   "freewheelid": "cn-2141281",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1588219140000",
   "mediaid": "4129ea38050e992eef4dede4d1a9bd50f6b5ed8e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

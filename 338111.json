@@ -12,7 +12,7 @@
   "type": "movie",
   "active": true,
   "description": "Late one night in the desert, the Mystery Machine van breaks down after it is forced off the road by what appears to be a UFO. Locals confirm the sighting, telling the gang about a nearby government project searching for extraterrestrial intelligence. While waiting for the van to be repaired, Scooby and Shaggy are abducted by 8-foot green aliens. They awaken from the frightening experience back out in the desert with a beautiful free-lance photographer named Crystal and her dog, Amber. Together, they uncover the secret of the aliens, falling in love in the process.",
-  "duration": 4021,
+  "duration": 4022,
   "freewheelid": "cn-338111",
   "isclip": false,
   "typesort": "3",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1575107980000",
   "mediaid": "c7914e64aadf512f28ab6c07c16a564db0960596",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": true,
+  "includeshortform": false
 }

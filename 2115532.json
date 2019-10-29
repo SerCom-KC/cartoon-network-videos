@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "From a high-speed police chase to the inside scoop on Daisy the Donkey, Channel 6 Elmore News has all the top hard-hitting local stories. Experienced newscaster Kip Schlezinger is the man to bring you the latest news, sports and weather, even when there is absolutely nothing to report.",
-  "duration": 104,
+  "duration": 105,
   "freewheelid": "cn-2115532",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574657999000",
   "mediaid": "cb52739a01fb0a822b65a50611aa357161cdaf1c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

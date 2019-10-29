@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Nya digitizes Jay and uploads him into Zane's mind.  Jay reviews memories of the Ninja's various motorcycles, mechs and planes in order to solve the vehicle themed puzzle.",
-  "duration": 660,
+  "duration": 661,
   "freewheelid": "cn-2141274",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1588219140000",
   "mediaid": "9f6f0799eebaa2bab89955771cb75ff704a555d4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
