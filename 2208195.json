@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Bumblebee searches for any information his fellow Autobots might have regarding a strange creature he saw on the Moon.",
-  "duration": 314,
+  "duration": 315,
   "freewheelid": "cn-2208195",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1599987540000",
   "mediaid": "722060dff890007f6b3da1f456750ab6406af668",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

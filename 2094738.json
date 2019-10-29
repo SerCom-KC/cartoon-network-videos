@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Ben and Max get into an argument, Ben goes Heatblast to blow off steam against Max's wishes; but once Dr. Animo spots him and subsequently turns Max into a chicken, it's up to Ben to right his wrong if he is to save his Grandpa and stop Dr. Animo.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2094738",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "859f286d1c8aeb5feb3a43323bfd08697451bfd8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

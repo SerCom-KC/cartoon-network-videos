@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "As the Tennyson trio dig up dinosaur fossils in the Badlands, Ben is unaware that Vilgax and Dr. Amino have teamed up to steal alien DNA from within the Omnitrix, but once extracted, Vilgax double crosses his fellow villain. Ben must now join forces with the evil doctor to have a chance to defeat the big baddie, but can Dr. Amino be trusted?",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2094719",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "cc6f24e7ba99c5c58cd89458611c2fc0242c4809",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

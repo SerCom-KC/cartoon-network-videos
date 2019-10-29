@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Grizz screens an epic amateur movie he just made for a focus group. But when he notices people are leaving he must figure out ways to keep the audience engaged.",
-  "duration": 677,
+  "duration": 678,
   "freewheelid": "cn-2088708",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577768400000",
   "mediaid": "59879a97f894ea4a88ca1cbeace31e25ba5c959a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

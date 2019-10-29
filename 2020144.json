@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven and Amethyst try out life on the road.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2020144",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572512373000",
   "mediaid": "ddb12a9e5a287f89d6d8e8153817aa3948210d02",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

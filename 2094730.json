@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "While touring a space museum, Ben's excitement multiplies when he learns that recently discovered space stuff is being examined inside the museum's lab. Once the stuff comes to life and the shape-shifting goo replicates our hero, Ben must look within if he is to stop the case of mistaken identity.",
-  "duration": 675,
+  "duration": 676,
   "freewheelid": "cn-2094730",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "b463e49d5a8bb756f387b7ee973ef039c32e7e30",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

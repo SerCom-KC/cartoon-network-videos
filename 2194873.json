@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When they think each others' lives are easier, the heroes switch roles.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2194873",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1593662399000",
   "mediaid": "d7c463969ca67840de8fd4fc95b77b259454e433",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

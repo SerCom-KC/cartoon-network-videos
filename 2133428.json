@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Watch the best videos featuring Ben transforming into Cannonbolt starting with Ben, Gwen and Grandpa Max hiking to a waterfall and encountering the Bugg Brothers and their cloning ray gun. Also, learn more about Cannonbolt's Planet and how to draw this explosive alien.",
-  "duration": 2726,
+  "duration": 2727,
   "freewheelid": "cn-2133428",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "f871f5639458e9757bc559b457d4b54540bbd0c0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

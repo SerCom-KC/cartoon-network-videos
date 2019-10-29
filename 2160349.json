@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Bears must complete their Best-Man duties on the day of Darrell's wedding.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2160349",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "7aa445103c580bcfe4d1866eb0a89c91f0f7b17a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

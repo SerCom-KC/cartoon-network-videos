@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Optimus Prime and the Autobots battle Megatron and the Deceptions on Earth's Moon.",
-  "duration": 334,
+  "duration": 335,
   "freewheelid": "cn-2207544",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1598777940000",
   "mediaid": "1abda00d0b7954e1b6966026340f7ceec5a28f61",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

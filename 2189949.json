@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Craig and Stacks help Kelsey become a real author turning her story into a book!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2189949",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854740000",
   "mediaid": "6d6f1b1586ae6ecb144b389551c5bf11b00f8ade",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

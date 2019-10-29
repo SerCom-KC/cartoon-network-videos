@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Megatron and Optimus parley in an attempt to unite against Starscream.",
-  "duration": 322,
+  "duration": 323,
   "freewheelid": "cn-2208204",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1598777940000",
   "mediaid": "0aeaa4c41b92c07ab3ecd393d70dfb7391b81121",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

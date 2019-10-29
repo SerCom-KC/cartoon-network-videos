@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Badgerclops gets huge to destroy a towering monster, but when he refuses to shrink down, the kingdom faces a new terror.",
-  "duration": 677,
+  "duration": 678,
   "freewheelid": "cn-2186684",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1593662399000",
   "mediaid": "99222118b4976d913a6bc44bee640cba4f2464e6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

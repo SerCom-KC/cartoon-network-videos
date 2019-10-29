@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "At Biggie Box Japan, Ben waits in an epic line for the release of the latest Sumo Slammers video game, Cyber Slammers, but Ben must soon save the store— not from game-hungry customers, but from Steam Smythe, who wants to retro-fit a massive mech with steam punk powers!",
-  "duration": 675,
+  "duration": 676,
   "freewheelid": "cn-2158812",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "76267b7acdbdf5957c4e69c1e298f3f0e7d8a9ce",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

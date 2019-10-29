@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ranger Tabes leads a troop of young girls into a cave expedition, and brings Grizz as their cave expert.\n",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088722",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854740000",
   "mediaid": "c2becef214f27d52f277b5dd8aa0758f03a59e86",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Feeling left out, Adorabat wishes Mao Mao and Badgerclops would spend less time with each other and more time with her. When she gets\nwhat she wishes for and accidentally breaks up their friendship, only the secret of their past can bring them back together.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2186683",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1593662399000",
   "mediaid": "1eb2e1fb4731f1e5539560d7d306f50008030038",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

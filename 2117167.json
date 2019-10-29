@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven shoots a documentary that follows a local band as they get their first big break.",
-  "duration": 688,
+  "duration": 689,
   "freewheelid": "cn-2117167",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "a9e763ecaccf5272f6436c270f139e0d55521ad7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

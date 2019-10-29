@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Baby bears reminisce written Brad Breeck and Daniel Chong.",
-  "duration": 101,
+  "duration": 102,
   "freewheelid": "cn-2141837",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "7cad8de06b4632dfa752c86b79d0eb7b8eaf4df3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

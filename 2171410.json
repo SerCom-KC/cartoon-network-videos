@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When a pillar of the Creek community leaves, our trio mourns their loss by remembering the good times.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2171410",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "76135c38f0ee258785f192c068942725f30c51e0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

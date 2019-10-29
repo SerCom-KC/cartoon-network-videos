@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "In Aspen, Colorado, Ben, Gwen, and Grandpa Max are on a hike to find the Forgeti, but when they realize they've stumbled upon Billy Billions own \"Winter in July\" ski resort, Ben must battle Billy, with an assist from the Forgeti itself.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2160689",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1590037145000",
   "mediaid": "679ac8b8f35997c95ddc19d9ff4459c3867e3af9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

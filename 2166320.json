@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "In order to get some sleep, the Bears help an annoying bird find a new mate.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2166320",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "fa4662e6f9447309bf6d7801f6661fd7828d8c95",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Craig decides to keep a lightning bug in a jar, he disrupts the delicate balance of Summer.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2187593",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "055b7a54170a7412e6a0a18cc61ae37695fb5a25",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

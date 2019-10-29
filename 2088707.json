@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Some new neighbors set up camp next to the Bears' cave. Panda and Ice love it, but Grizz thinks they're up to no good.\n",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088707",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "9d7bf695e0b0599827bc8a27837f36b41230fa8e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

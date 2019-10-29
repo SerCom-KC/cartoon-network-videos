@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "After centuries of failing to break their own land-speed records, the Kinecelerans put an end to \"The Slow Age\" by teaming up with the Arburian Pelarotas.",
-  "duration": 119,
+  "duration": 120,
   "freewheelid": "cn-2175361",
   "isclip": false,
   "typesort": "2",
@@ -36,5 +36,7 @@
   "expdateasmilliseconds": "1578391140000",
   "mediaid": "e3889cfd068e7b113d6e230da5b5eccc28b75537",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

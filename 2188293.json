@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Rufus and Reg come to swindle the town, Sheriff Mao Mao teaches them a lesson in justice.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2188293",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1593662399000",
   "mediaid": "adeb191d4d2cecb875805e9080a9cdcd6300308f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

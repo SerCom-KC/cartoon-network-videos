@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven and Amethyst get competitive while training with Pearl.",
-  "duration": 685,
+  "duration": 686,
   "freewheelid": "cn-2065547",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572512373000",
   "mediaid": "bf55481bbf6afd7f07f493cf7e505e051f3bfcc3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

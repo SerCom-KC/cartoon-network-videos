@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Amethyst convinces Steven to take a day off for himself.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2128748",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "28c17f2e9dcbce667156a1034e922d23f1667e4e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

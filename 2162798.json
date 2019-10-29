@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "On Christmas Eve, the Baby Bears defend a video store from getting robbed.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2162798",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "a3fbd1da64adfb823cdafc0ae4d86d8b38250cab",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

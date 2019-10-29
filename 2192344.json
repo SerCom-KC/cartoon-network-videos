@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When the Sweetypies think the mythical Torbaclaun has come to Pure Heart Valley, Mao Mao tries to prove to them that it isn't real.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2192344",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1593662399000",
   "mediaid": "9c287fcd2f6fb1691a4e71a127a43a8ae42c901d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

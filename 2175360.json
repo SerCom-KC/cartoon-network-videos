@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "The Ekoplektoids' amoebic ability to multiply their own cells and subdivide into smaller, denser clones leads to out-of-control overpopulation, forcing them on a space expedition for more space.",
-  "duration": 119,
+  "duration": 120,
   "freewheelid": "cn-2175360",
   "isclip": false,
   "typesort": "2",
@@ -36,5 +36,7 @@
   "expdateasmilliseconds": "1578995940000",
   "mediaid": "41447d13026e8ce2c252fc75b1801ab6a7e831e2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

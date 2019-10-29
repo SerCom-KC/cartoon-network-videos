@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A head Injury turns Mr. Gus into a bumbling fools whose wacky antics make him Uncle Grandpa's coolest friend. No longer the focus of Uncle Grandpa's attention, a jealous Pizza Steve tries to desperately to get back normal. Mr. Gus has to restore social balance in the RV.",
-  "duration": 685,
+  "duration": 686,
   "freewheelid": "cn-2047856",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "b2eedbe5e5356684b7afc9ba0e3ce7cc85e8cc66",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

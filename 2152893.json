@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Craig agrees to help The Sewer Queen map the sewers, but he quickly finds himself in over his head.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2152893",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "b5539fa792f25e671eac5a71584f54bdab2f91d4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Pearl tells a story.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2126736",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "a44ec43d936fa418de13acdab641a858de9b43d9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

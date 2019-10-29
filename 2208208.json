@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Worried about finding a useful position among the Autobots, Cheetor learns how to become an Autobot Scout from Bumblebee.",
-  "duration": 323,
+  "duration": 324,
   "freewheelid": "cn-2208208",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1598777940000",
   "mediaid": "bab2f9fbe77ec03cb1225b10921efc9b8b38ba9f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

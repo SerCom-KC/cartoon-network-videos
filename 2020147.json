@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven has to get Connie home before it snows. ",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2020147",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572512373000",
   "mediaid": "85b3c17070c514c38073e588b7e0b9b7e4df60d2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

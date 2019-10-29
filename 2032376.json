@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A long lost relative of Steven's comes to town to aid him in unlocking the power of his mother's Gem!",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2032376",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572512373000",
   "mediaid": "a34f4b9dfb3609b86235e0b655039a0b82511085",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

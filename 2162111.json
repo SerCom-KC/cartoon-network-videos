@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A terrible curse leaves Craig as the only kid in the creek.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2162111",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598800000",
   "mediaid": "cc42bf6a005e550d3d899837e5eed8d7cdcbed99",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

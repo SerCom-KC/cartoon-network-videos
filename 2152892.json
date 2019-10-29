@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Craig wants to play a popular card game, so he decides to borrow Bernard's vintage and valuable cards.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2152892",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "02494b7db6b10ffbace1a97743b86cf480167399",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

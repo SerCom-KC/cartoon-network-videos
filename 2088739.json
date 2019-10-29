@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "In a flashback to long ago, Charlie has an adventure in the Mexican desert.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088739",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "5a8ffd13ea8d3339f34f6f6971e8b74c632e5e11",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

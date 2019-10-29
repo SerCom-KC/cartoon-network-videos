@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "In order to join the Sons of Garmadon, Zane (aka Snake Jaguar) participates in a deadly motorcycle initiation race.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2141982",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1618545599000",
   "mediaid": "58fa44c4cdf40b3ce24e46c3e8baf8079cccb58d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

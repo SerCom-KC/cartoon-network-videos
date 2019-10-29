@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "While Aspheera pursues revenge on the \"Treacherous Deceiver\" who betrayed her, the ninja make a startling discovery.",
-  "duration": 661,
+  "duration": 662,
   "freewheelid": "cn-2194752",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1592798399000",
   "mediaid": "fff7af2e843ed092f6ed1cc4a6924036df690856",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "An explosive loner and his slacker best friend are waylaid from their journey into legend, only to find that their story is just beginning.",
-  "duration": 677,
+  "duration": 678,
   "freewheelid": "cn-2181894",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1593662399000",
   "mediaid": "f608a3b789a1566efd24d237da1ff6466826a354",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

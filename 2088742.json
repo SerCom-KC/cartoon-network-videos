@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Chloe and Ice Bear drive up north to find the perfect Christmas tree. Meanwhile, Grizz and Panda are in charge of decorating Chloe's house.\n",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088742",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "426bcd1da2b0b80f6e0eb83df0051f08b76ddc41",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

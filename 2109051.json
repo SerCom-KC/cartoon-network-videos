@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven and Lars spend some time together.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2109051",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "2c5e9e1f67ea38a1de44ef49ebe716a8cd9ad9cd",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

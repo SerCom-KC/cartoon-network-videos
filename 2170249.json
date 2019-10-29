@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Baby Bears help a struggling ramen chef perfect her ramen and save her shop.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2170249",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "7cb2d0593d29f85100b5691d78cbd5033be5bd40",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

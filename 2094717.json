@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When a cavity forces Ben to the dentist his day gets even worse when the malevolent magician Hex uses a nearby dream catcher to bring our hero's fears to life and transports them both to a nightmarish dreamscape.  ",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2094717",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "b04aeceff64fc3a50a738d320a9f6420480d541d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

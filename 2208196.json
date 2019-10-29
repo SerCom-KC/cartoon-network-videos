@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Dino-Mode Grimlock careens out-of-control around the Ark after drinking Wheeljack's hyper-fuel.",
-  "duration": 340,
+  "duration": 341,
   "freewheelid": "cn-2208196",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1599987540000",
   "mediaid": "94b6807e54fa053cc271ed88fb5912361e0d5002",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

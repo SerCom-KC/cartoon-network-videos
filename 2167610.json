@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When the Bears go to the dentist, Panda gets braces. But, Panda finds out his braces grant him super abilities and the power goes to his head.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2167610",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "6c930be233a8a8b686d3fa46756b2a7fc91a2a42",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

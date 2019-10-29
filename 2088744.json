@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "To help raise money to save Darrell's store, the Bears use the stack as a taxi through a ride share app.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088744",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "b7798a285f2f17e7c37681a74931a1efc545e0d5",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

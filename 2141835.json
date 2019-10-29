@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Bears just being bears written Brad Breeck and Daniel Chong.",
-  "duration": 114,
+  "duration": 115,
   "freewheelid": "cn-2141835",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "0782f951fa0e0e454a211b3f5cdbe10a1a28f0ad",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

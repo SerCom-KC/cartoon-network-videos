@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Bears are stranded on a subway platform after missing their train. But while waiting, the Bears are challenged with recovering some lost items.\n",
-  "duration": 675,
+  "duration": 676,
   "freewheelid": "cn-2088705",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "7fa3f3a0470fdbe9d00a2945febf52e5ed181cd8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

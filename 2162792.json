@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The kids meet a mysterious kid from the future and try to help him complete his mission.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2162792",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "5cbe792bf49921a750b7ceba6476979e100fa095",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang gets nutty after repeatedly failing to open a mysterious package.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2047815",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "7de1c270adea1775fb2f8a0d454b7af16f0971a9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

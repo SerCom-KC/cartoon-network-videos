@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Baby Bears meet a group of helpless bunnies. When they find out the bunnies live in fear of vicious crows, the Bears decide to become heroes and help out.",
-  "duration": 677,
+  "duration": 678,
   "freewheelid": "cn-2088723",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "8a76cb1459981e5e30240e42ecfda2eefbf79478",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

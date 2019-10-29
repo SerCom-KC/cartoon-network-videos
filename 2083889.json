@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A failing little league team on the brink of giving up gets help from Uncle Grandpa and some Major League Baseball players.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2083889",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "80dd9c6a25fa99655ff8315d875925e66a9ed34e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "On their trip to Adrenaworld West, Ben takes a detour on a jungle cruise and finds himself hunted by the evil Tim Buktu. Our hero must outwit the baddie if he wants to make it off the amusement park ride alive!\n",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2094723",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "2881892a63fa963a41748953662e58a1311b762e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

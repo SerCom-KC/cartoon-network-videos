@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Aspheera arrives at the Monastery of Spinjitzu and confronts Wu, forcing one of the ninja to make a heroic sacrifice.",
-  "duration": 661,
+  "duration": 662,
   "freewheelid": "cn-2194756",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "4bf01596443b7b5f26d992e7f1ff7a868e9733ea",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

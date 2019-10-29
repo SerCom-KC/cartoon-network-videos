@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The circle game wreaks havoc on the Creek, so Craig forms a council to restore order.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2186681",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "df450b89f03e9061c8ca2dcd19549d9dbbfb6582",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

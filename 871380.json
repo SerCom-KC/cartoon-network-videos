@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When their fishing trip in Undertown takes a bizarre twist, Ben, Rook, and Grandpa Max, begin their search for a ship-bottling alien pirate who has captured Magister Patelliday. (Introducing Capt. Cork.)",
-  "duration": 1326,
+  "duration": 1327,
   "freewheelid": "cn-871380",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "f7f1793fa93e4c4a98703e14ce810b1c98c0301c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ice Bear goes on a late-night adventure to rescue his friend, Yana, from some familiar foes.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088730",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "ace3290cb5e6498f81903dea0167c88f5572d788",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

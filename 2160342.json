@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After traveling to Tampa Beach, Florida, Team Tennyson hopes to get some much-needed rest & relaxation, but the tempests without a temper, the Weatherheads, have other plans that Ben must thwart: to build a new beach base!",
-  "duration": 675,
+  "duration": 676,
   "freewheelid": "cn-2160342",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1590037259000",
   "mediaid": "7d19cf8766b91e566ed493675cfbee1fd90a9540",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

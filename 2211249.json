@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Find out how Ben first discovered the Omnitrix, the mysterious watch that turns him into 10 awesome alien heroes!",
-  "duration": 119,
+  "duration": 120,
   "freewheelid": "cn-2211249",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "a44598d236313ff000df3d7a75f4b331b668cedc",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

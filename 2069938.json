@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Baby Bears have an adventure in the sky while aboard a plane to Sweden. But when the baby Bears are forced to sit in different sections of the plan, things get a bit haywire for everyone on board.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2069938",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "684d6ff3c73f00a3cdd74332a272ce8ea351943c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

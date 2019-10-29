@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven thinks he sees something creepy traversing the warp streams and the Gems try to ease his paranoia. ",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2020141",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572512373000",
   "mediaid": "777a89f27adc39fb50f028a72926f292acc42b29",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

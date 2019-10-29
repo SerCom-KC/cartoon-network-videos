@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "In the wake of a vicious attack upon the palace, the Sons of Garmadon steal the second Oni Mask, and the ninja invite the royal princess, Harumi, into their makeshift family.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2141980",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1618545599000",
   "mediaid": "a00254571cfa5fe3a2575c3f90430530a30a02fa",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

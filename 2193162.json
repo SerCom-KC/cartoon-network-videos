@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Worried that his sword is a glorified consolation prize, Mao Mao sets out to prove the worth of his weapon.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2193162",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1593662399000",
   "mediaid": "386cc1cc66bd0b74048b0d5657128dcf4a29d323",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

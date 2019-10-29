@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben thinks he's having 'the perfect day' only to realize he's been put in a dream world by Enoch and the Forever Knights who are after the Omnitrix. Ben's \"dream world\" soon becomes a nightmare world, with Ben forced to live out his ultimate terror...being stuck at school! But with Max and Gwen's help, he's able to vanquish his nightmare foes and re-enter the real world where he takes down  Enoch...only to reveal an even more powerful knight...The Forever King.",
-  "duration": 1353,
+  "duration": 1354,
   "freewheelid": "cn-665002",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "757a72fe2ef95e45728190b65d04bf02c4a7194a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

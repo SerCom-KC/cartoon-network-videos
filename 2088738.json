@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ralph takes over the cave and turns it into a snowy fortress where he reigns as king over the Bears and Charlie.\n",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088738",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "3b7d03a7e4320f3f4161ec8c993a12c4230a5c0e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

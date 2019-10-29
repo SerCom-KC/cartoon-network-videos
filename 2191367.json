@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang struggles to get rid of the King when he joins them as their new deputy-for-a-day!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2191367",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1593662399000",
   "mediaid": "c12ac704fdf19e07bfb51c42c8a396578d0c50a6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

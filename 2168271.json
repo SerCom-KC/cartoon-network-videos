@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "An unusually hot day at the Creek melts all of Kit's ice pops, so Craig helps her find a short cut to her frozen snack supplier before everyone else melts.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2168271",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "f04a6a51a9e43f524d5e7251b2d333db74b4011a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven has a big surprise for the Crystal Gems.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2129748",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "3a832cea6ad1fc3c33da7350b3782c4bfc4758a1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

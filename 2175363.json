@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "In the wake of civil war, the Petrosapiens, Subsapiens, and Antrosapiens unite against a new, unknown adversary invading their home world: the ferocious Fulmini!",
-  "duration": 119,
+  "duration": 120,
   "freewheelid": "cn-2175363",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "c8a17ca56e71f0a2ae236d2c64aabe2966e7748e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

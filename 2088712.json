@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Chloe's professor is too mean to give her any face time to talk over her poor grade. The Bears take things into their own hands to help, causing big trouble for Chloe.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088712",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854740000",
   "mediaid": "78aa3ac9cc2f64efb916e3505ba62beef1630749",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

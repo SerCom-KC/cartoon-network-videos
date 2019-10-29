@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "The Tetramands encounter their greatest and most pungent threat yet— a swarm of Lepidopterrans, whose agile aerobatics and acrid aroma make them a rare match for their formidable four-armed foes!",
-  "duration": 119,
+  "duration": 120,
   "freewheelid": "cn-2175364",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "77cdc510775879b5c774889c8606403518b4fe54",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

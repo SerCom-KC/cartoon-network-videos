@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Bears get pizza at Papa Bear's Pizza Cave and wind up replacing the place's animatronic band. They're such a hit that they go on tour!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2164908",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "82a651313387929ddbcd7d02a4f6e586da3ecfe8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

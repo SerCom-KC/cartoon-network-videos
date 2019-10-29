@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The team tackles a puzzle about technology in Ninjago while the threat to Zane grows graver by the minute.",
-  "duration": 660,
+  "duration": 661,
   "freewheelid": "cn-2141277",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1588219140000",
   "mediaid": "a56215cf6ce4b3a2257b049e4e7e4ca76573d02d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

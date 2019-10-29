@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Garnet and Steven explore the most unlikely timelines in Beach City.\n",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2120455",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "1c24c766560bc06beccad63722ded038d455b024",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

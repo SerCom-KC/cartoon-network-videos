@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Team Tennyson's thrift store shopping is ruined by the latest high-speed heist of LaGrange — who is now aided by a super-fast electromagnetic racing car — and Ben must convince Kevin 11 to help stop the speed demon's globetrotting robbing spree.",
-  "duration": 675,
+  "duration": 676,
   "freewheelid": "cn-2178243",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "5b15aa50d439212ae586ef96c9121c590f909cbc",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

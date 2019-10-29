@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Jessica wanders into an unfamiliar creek, leaving Craig to find her before his Mom notices!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2168269",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "aaf38b6905eec06eb0f9419d32ef74122aa3b23d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

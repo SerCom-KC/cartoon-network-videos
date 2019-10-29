@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "While in Paris, France, Ben catches Zombozo robbing the Louvre, but when Zombozo hypnotizes Ben to remain speechless, Ben must navigate a foreign land like a mime in order to stop the criminal clown and his travelling circus.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2141436",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "87c711db1bcf30a86f9b577e4856a0f34801ea59",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After Ben stumbles upon a video of Cannonbolt ripping up a computer lab on the internet, Team Tennyson must race to State U to find the imposter; but once Ben discovers it is a steam-punk version of his alien that is terrorizing the campus, Ben must take down the man behind the machine, Steam Smythe!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2094739",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "0d8567d319766ac000b0700269aaca32bb8f5618",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

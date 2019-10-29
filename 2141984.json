@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "As Lloyd and Harumi venture deep into Primeval's Eye in search of the third Oni Mask, the ninja attempt to fix the Bounty and make a startling discovery.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2141984",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1618545599000",
   "mediaid": "a20d33eadea42e7af499c5ee066a478e1c45be19",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

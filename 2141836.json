@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Chillin' with a burrito written Brad Breeck and Daniel Chong.",
-  "duration": 106,
+  "duration": 107,
   "freewheelid": "cn-2141836",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "6e5ad00fb802dbbef18e896bb37fb12a73ee6458",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

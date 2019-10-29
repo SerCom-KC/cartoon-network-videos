@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Solving the puzzles releases a new peril for the Ninja to face. Will memories of their greatest victories be enough to defeat it?",
-  "duration": 660,
+  "duration": 661,
   "freewheelid": "cn-2141282",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1588219140000",
   "mediaid": "560d7bf4f9f6ef869308095c53980cfc39ff13ae",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

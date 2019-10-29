@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "Watch the best videos featuring Ben transforming into Diamondhead starting with Ben and his arch enemy Billy Billions clashing in a duel for supremacy at the world's largest Laser Tag Park - LASER TOWN. Also, learn more about Diamondhead's Planet and how to draw this dynamic alien.",
-  "duration": 2670,
+  "duration": 2671,
   "freewheelid": "cn-2133423",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "bfc043e5ca88c0de55664c0137fcee3e004156f6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

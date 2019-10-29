@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After Charlie hurts his foot, The Bears have to sneak him into a hospital for medical assistance.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088717",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "e6313ac5d82f6cabd6416d287f6ac659994405cf",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

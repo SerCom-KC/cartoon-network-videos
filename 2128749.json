@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven shows some city slicker gems how the cowboys lived.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2128749",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "5314e0220aca47e99f95c7834848837e5366b911",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

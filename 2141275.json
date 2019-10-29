@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cole joins Jay and Zane inside the Nindroid to solve a mysterious puzzle by revisiting some of Ninjago's distinctive destinations.",
-  "duration": 660,
+  "duration": 661,
   "freewheelid": "cn-2141275",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1588219140000",
   "mediaid": "1226f56b7ee422be99bc971eb98f55d47ef1057c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven, Amethyst and Peridot try to spruce up the Kindergarten.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2114154",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "b307a67722f2676c0e08dd28ff1f6a32536ab1d1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

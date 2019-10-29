@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The ninja race to save Lloyd, as a more powerful-than-ever Lord Garmadon creates an enormous Colossi to help him rule Ninjago and defeat the ninja.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-2141988",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1618545599000",
   "mediaid": "df51f390c915ed446c091aa5ff24411ce0a408d3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

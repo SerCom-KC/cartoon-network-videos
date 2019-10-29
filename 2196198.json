@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mao Mao goads Orangusnake and the Sky Pirates into becoming truly terrible villains worthy of a legendary hero such as himself.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2196198",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1593662399000",
   "mediaid": "2c7ebf3e7072fa58887a74f5d58a9426bf0fc057",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

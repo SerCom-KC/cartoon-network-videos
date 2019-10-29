@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Ben grows impatient with the snail like pace of gardening, he goes O-E Overflow to pick up the pace and accidentally floods the community garden, but once a giant sink hole appears and frees King Koil and his Kimodo Dragon from below, Ben must quickly right his wrong and capture the baddies if he is to save the coastal city of Bayburgh.",
-  "duration": 675,
+  "duration": 676,
   "freewheelid": "cn-2094743",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "44a7a162ffdf2a6b065461761bee288f1ec2048a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

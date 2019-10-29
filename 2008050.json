@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "",
-  "duration": 1346,
+  "duration": 1347,
   "freewheelid": "cn-2008050",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "daa4fd68e9aa9b67f6bef124265e05d509651526",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

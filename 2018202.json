@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben, Skurd and Rook find themselves caught in an endless time loop as enemies from the future converge on Bellwood.",
-  "duration": 1324,
+  "duration": 1325,
   "freewheelid": "cn-2018202",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "040a449e20898e785f928b4834e0528ab184aa35",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

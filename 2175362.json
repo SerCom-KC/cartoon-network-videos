@@ -12,7 +12,7 @@
   "type": "short",
   "active": true,
   "description": "A Kineceleran delegation visits Pyros to discuss diplomacy and ends up in a heated game of Fireball, the Pyronites' planetary pastime, now kicked up a notch thanks to their speedster guests.",
-  "duration": 119,
+  "duration": 120,
   "freewheelid": "cn-2175362",
   "isclip": false,
   "typesort": "2",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577786340000",
   "mediaid": "c6fa3f029a6ab3b730479ab1ae9862d0ce0df372",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

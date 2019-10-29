@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Tabes deputizes the Bears so they can go to the city and catch a thief.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2160350",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "bbd9518e9d5e3806e3a7861e6f36d5515b1818e2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

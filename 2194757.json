@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Having learned Zane is not dead, Master Wu prepares to go after him, but Lloyd and the other ninja take matters into their own hands and defy their Master.",
-  "duration": 661,
+  "duration": 662,
   "freewheelid": "cn-2194757",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "c52d9be1a195a4a22f10a30278c5b890e0fc57b8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

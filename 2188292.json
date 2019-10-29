@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When a Sweetypie isn't impressed with the sheriff dept's antics, our three heroes try everything to win him over.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2188292",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1593662399000",
   "mediaid": "b1020b4f9a5a0b23730d30d8fb78bb42fb63b580",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": true
 }

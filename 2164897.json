@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A high-speed race with a high-stakes prize may be too much for Craig and his friends.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2164897",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "1c08faa3a9b1c5a864665e067a9332e83172aca3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

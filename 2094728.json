@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben and Gwen spend the day volunteering at Repto Ranch and come face to face with King Koil, but need to quickly overcome their fear of snakes if they are to rescue the released critters and defeat the slithery baddie.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2094728",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "7c3807d0af91508d9e4b89479580e80ecbf51780",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Cheetor's scout training with Bee lands them in the clutches of Starscream who tests an evil experiment on them.",
-  "duration": 331,
+  "duration": 332,
   "freewheelid": "cn-2208209",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1598777940000",
   "mediaid": "fd8f77ce0b4bbcb28080c05edf1ea7fce92ddd69",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

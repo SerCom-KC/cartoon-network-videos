@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Grizz gets cast in a movie about a Grizzly Bear! But Grizz soon realizes the movie's depiction of grizzly bears is not what he had in mind.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2088714",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "aafa2e66575c60ff2afba0820fa35966e13d398a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

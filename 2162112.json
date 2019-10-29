@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Craig's phone gets stuck in Mt. Sycamore, the tallest tree in the creek!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2162112",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598800000",
   "mediaid": "9ae634b8559204e192a6b8a81a58c7349e89bc0a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

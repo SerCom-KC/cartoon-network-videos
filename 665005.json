@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben and Gwen accompany Max to a wedding, which doesn't make Ben particularly happy, especially given the fact he has to wear a tux and learn how to dance. During the wedding it's revealed that the bride's parents are aliens while the groom's family are ex-Plumbers. It turns out the bride's parents are out to sabotage the wedding because of a long lasting feud with the Plumbers, and take action by demonstrating their destructive powers and causing deadly havoc. Ben, Max and Gwen enter the fray and not only save the day, but make sure the ceremony goes on as planned.",
-  "duration": 1364,
+  "duration": 1365,
   "freewheelid": "cn-665005",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "ee7cc44d07dfa84cca9469543541996135d2a21e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Decepticons compete to be the first to bring Megatron Optimus Prime's spark while Hot Rod chases the \"Moon Cheetah.\"",
-  "duration": 353,
+  "duration": 354,
   "freewheelid": "cn-2208200",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1600592340000",
   "mediaid": "0fbe4d31fb88c3bb45153a2fba1979efd366010a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

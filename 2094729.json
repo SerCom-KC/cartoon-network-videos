@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "With the Rustbucket stopped on the Midwest roadside, Ben locks himself inside with his tablet as Max and Gwen enjoy the great outdoors, until Team Tennyson is pulled into a wild Jack-a-Lope chase.",
-  "duration": 675,
+  "duration": 676,
   "freewheelid": "cn-2094729",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577854799000",
   "mediaid": "120d4cafbd5c64e3ab6521cca92cb3d8f2f8e956",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

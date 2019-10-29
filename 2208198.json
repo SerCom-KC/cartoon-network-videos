@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Following the network of GroundBridges left by the Allspark, Optimus and Megatron finally discover the Allspark, and its Guardian, Cheetor.",
-  "duration": 367,
+  "duration": 368,
   "freewheelid": "cn-2208198",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1601197140000",
   "mediaid": "1f7a07550a39da2e73fa63f7492fa8e6982d0d1b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

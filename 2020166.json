@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Time War races towards its dramatic conclusion, with the fate of the entire universe and everything in it since the very beginning of time resting in the hands of the Ben 10.",
-  "duration": 1350,
+  "duration": 1351,
   "freewheelid": "cn-2020166",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572598740000",
   "mediaid": "769950bf344e93b8218ae50fa750a67dea659b9d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
