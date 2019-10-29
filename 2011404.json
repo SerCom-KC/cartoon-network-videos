@@ -13,7 +13,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven goes to the lighthouse to watch scary movies with Ronaldo, Lars and Sadie.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2020145",
         "isclip": false,
         "typesort": "1",
@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "109dc14afdd159116612266575b28721c30e249f",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011391",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "1425bab16b5c5656409db67253cdf26ddc3e8f5b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008121900012986",
@@ -95,7 +99,7 @@
         "type": "short",
         "active": true,
         "description": ": The official music video for \"True Kinda Love\" by Estelle feat. Zach Callison from Steven Universe The Movie.",
-        "duration": 159,
+        "duration": 160,
         "freewheelid": "cn-2207076",
         "isclip": false,
         "typesort": "2",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1578218340000",
         "mediaid": "1a2ec48d9f0f8027e7ba3f5059a481602c0d4bda",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011397",
@@ -136,7 +142,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Garnet and Steven explore the most unlikely timelines in Beach City.\n",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2120455",
         "isclip": false,
         "typesort": "1",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "1c24c766560bc06beccad63722ded038d455b024",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073435",
@@ -177,7 +185,7 @@
         "type": "short",
         "active": true,
         "description": "From the Rubies to the Cluster, catch up on all the highlights from Steven Universe Season 3.\n",
-        "duration": 578,
+        "duration": 579,
         "freewheelid": "cn-2118568",
         "isclip": false,
         "typesort": "2",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "201c60f45ccc9f4870d0ac833668c0ff256e3684",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073425",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "20baca998a349de162610d4174b1c7fcb541124c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073405",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "2435140f1c064ff0bb5061167ab3cdc1bd2438f3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073414",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "284eab805bf0a3921cdfc79c17e96bf089eb24b1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011403",
@@ -341,7 +357,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Amethyst convinces Steven to take a day off for himself.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2128748",
         "isclip": false,
         "typesort": "1",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "28c17f2e9dcbce667156a1034e922d23f1667e4e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073447",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "2b905912a2798c339b8a6301c2e1372e70fd11fc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073431",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "2bb9bff3e70c5d3b5dfdf8d094dfce1d1bb81d7c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011398",
@@ -464,7 +486,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven and Lars spend some time together.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2109051",
         "isclip": false,
         "typesort": "1",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "2c5e9e1f67ea38a1de44ef49ebe716a8cd9ad9cd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011396",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "2d6704b34dbe2af3b1a05b7f5f96b5367ce55097",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009261900023775",
@@ -546,7 +572,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven and Connie sneak into a hospital to recover Rose's Sword.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2034472",
         "isclip": false,
         "typesort": "1",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "2ec21ab51a5c0615821417a60ba72ec2dadb2129",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011390",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "325be6476b3585357cd165e906577291c79fe13a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073432",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "39fd4ffe599a94e07ec7407f3c7570faea51dd1c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011376",
@@ -669,7 +701,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven has a big surprise for the Crystal Gems.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2129748",
         "isclip": false,
         "typesort": "1",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "3a832cea6ad1fc3c33da7350b3782c4bfc4758a1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073461",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "3e26bc7efda1f8068d8e4cc06a961e626601af3a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009261900023772",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "41c8dff304fe086591a7f1a8f17d5f3e0c99003e",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011401",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "4284d21afd760daae4d8d44558c90b9f02688b2d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073408",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "46ba71ef9aa320a0a9af5f10fc32a16a39537f81",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073419",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "4faf9a40176e903ee47fab7beb0e3bd02f8b13a0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011400",
@@ -915,7 +959,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven takes Garnet to meet some of his new friends.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2117166",
         "isclip": false,
         "typesort": "1",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "50de7b223c3856c33cc30cadfa6b090853dd3805",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073436",
@@ -956,7 +1002,7 @@
         "type": "short",
         "active": true,
         "description": "Music and lyrics by Rebecca Sugar and Jeff Liu. Additional music by Aivi Tran and Steven Velema. Performed by Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz and Shelby Rabara.",
-        "duration": 175,
+        "duration": 176,
         "freewheelid": "cn-2132167",
         "isclip": false,
         "typesort": "2",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "51ada0d840a3210e1738c23e38f9ca931aaf864c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011402",
@@ -997,7 +1045,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven shows some city slicker gems how the cowboys lived.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2128749",
         "isclip": false,
         "typesort": "1",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "5314e0220aca47e99f95c7834848837e5366b911",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011381",
@@ -1038,7 +1088,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Stevonnie finds themself alone on an adventure.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2116689",
         "isclip": false,
         "typesort": "1",
@@ -1063,7 +1113,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "54b29ea5f70523924dff5f5cbd9b625d6042ef14",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073450",
@@ -1079,7 +1131,7 @@
         "type": "short",
         "active": true,
         "description": "Steven reacts live to a brand new episode of his favorite cartoon show.",
-        "duration": 210,
+        "duration": 211,
         "freewheelid": "cn-2091143",
         "isclip": false,
         "typesort": "2",
@@ -1104,7 +1156,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "5994c1ae3767f5f68cdc1d5d298c34f0c221aeb3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073459",
@@ -1145,7 +1199,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "5a6148334289491b7db61d3b9d6a79f7d4b9beba",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011389",
@@ -1161,7 +1217,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven finds some unusual new allies.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2107900",
         "isclip": false,
         "typesort": "1",
@@ -1186,7 +1242,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "5be682a395f005f169e93ea2ed8d2998749f4f51",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011383",
@@ -1227,7 +1285,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "5db51387e188647b255be0e87de636321518700f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011393",
@@ -1243,7 +1303,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Ronaldo spots something mysterious on the moon, and Steven goes to investigate.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2117707",
         "isclip": false,
         "typesort": "1",
@@ -1268,7 +1328,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "64c9701ca24efbfb1f7d5cc9aafeaa555acc4f42",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073456",
@@ -1309,7 +1371,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6a5b4a9700bf7c5c9f1f3db8b2458af5b431141c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011386",
@@ -1350,7 +1414,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6cfdc2a203c7e3d97e29aedbef71b4ea7a3cd9b7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021548",
@@ -1366,7 +1432,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven thinks he sees something creepy traversing the warp streams and the Gems try to ease his paranoia. ",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2020141",
         "isclip": false,
         "typesort": "1",
@@ -1391,7 +1457,9 @@
         "expdateasmilliseconds": "1572512373000",
         "mediaid": "777a89f27adc39fb50f028a72926f292acc42b29",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073453",
@@ -1407,7 +1475,7 @@
         "type": "short",
         "active": true,
         "description": "Music and lyrics by Rebecca Sugar. Additional music by Aivi Tran, Steven Velema, and Patti Rudisill. Performed by Zach Callison.",
-        "duration": 147,
+        "duration": 148,
         "freewheelid": "cn-2132165",
         "isclip": false,
         "typesort": "2",
@@ -1432,7 +1500,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "79567c4588a7e2a44ba38b4b05f7684bde5b43f7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011385",
@@ -1473,7 +1543,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "7a9cae1862d709139e4b81057dfe14ad61a940b1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009261900023771",
@@ -1514,7 +1586,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "7f73ee67d8ebce3639aa1cf05dcf3ada74cc0629",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073412",
@@ -1555,7 +1629,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "815c7d159481f8e24887870f5b08f792eb6caa98",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073444",
@@ -1596,7 +1672,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "833adebc488e435351ef67410a2e372e08fe8f87",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073410",
@@ -1612,7 +1690,7 @@
         "type": "short",
         "active": true,
         "description": "Amethyst explains how Gems are made!",
-        "duration": 174,
+        "duration": 175,
         "freewheelid": "cn-2055454",
         "isclip": false,
         "typesort": "2",
@@ -1637,7 +1715,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "855e63c0860568578147bd37d823f35a67749928",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021552",
@@ -1653,7 +1733,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven has to get Connie home before it snows. ",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2020147",
         "isclip": false,
         "typesort": "1",
@@ -1678,7 +1758,9 @@
         "expdateasmilliseconds": "1572512373000",
         "mediaid": "85b3c17070c514c38073e588b7e0b9b7e4df60d2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011399",
@@ -1719,7 +1801,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "86be6787f48b639989709b16603096af9a31d1ab",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011388",
@@ -1735,7 +1819,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Greg and the Gems take Steven on vacation to help him relax.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2114153",
         "isclip": false,
         "typesort": "1",
@@ -1760,7 +1844,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "871ae5374b3a8a95d3814585d1d7bdd46c684140",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011387",
@@ -1776,7 +1862,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven helps Pearl find her phone.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2120456",
         "isclip": false,
         "typesort": "1",
@@ -1801,7 +1887,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "89da6ba27d71c507c80ec209ad3a2c88ef8cc760",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011380",
@@ -1817,7 +1905,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven travels to visit family.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2131009",
         "isclip": false,
         "typesort": "1",
@@ -1842,7 +1930,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "9cba82cf2af99dc7125fd8f2683607c848085cc6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073417",
@@ -1883,7 +1973,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "9e6fd83e16bdcae7c5b3841cdc3157ff6576cd6c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021559",
@@ -1924,7 +2016,9 @@
         "expdateasmilliseconds": "1572512373000",
         "mediaid": "a24a533eda541fb2c144f798e8d7f44012a41342",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021546",
@@ -1940,7 +2034,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A long lost relative of Steven's comes to town to aid him in unlocking the power of his mother's Gem!",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2032376",
         "isclip": false,
         "typesort": "1",
@@ -1965,7 +2059,9 @@
         "expdateasmilliseconds": "1572512373000",
         "mediaid": "a34f4b9dfb3609b86235e0b655039a0b82511085",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011377",
@@ -1981,7 +2077,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Pearl tells a story.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2126736",
         "isclip": false,
         "typesort": "1",
@@ -2006,7 +2102,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a44ec43d936fa418de13acdab641a858de9b43d9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073438",
@@ -2047,7 +2145,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a745061fc8300a4e63c68c529af463099b380239",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073422",
@@ -2063,7 +2163,7 @@
         "type": "short",
         "active": true,
         "description": "Music and lyrics by Rebecca Sugar. Additional music by Aivi Tran and Steven Velema. Performed by Deedee Magno Hall.",
-        "duration": 196,
+        "duration": 197,
         "freewheelid": "cn-2132169",
         "isclip": false,
         "typesort": "2",
@@ -2088,7 +2188,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a79b852fe7f244b1e460532b05118a1a1a72184d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011394",
@@ -2104,7 +2206,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven shoots a documentary that follows a local band as they get their first big break.",
-        "duration": 688,
+        "duration": 689,
         "freewheelid": "cn-2117167",
         "isclip": false,
         "typesort": "1",
@@ -2129,7 +2231,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a9e763ecaccf5272f6436c270f139e0d55521ad7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073429",
@@ -2170,7 +2274,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b02e9e24ce914751472c02c5b16bc5ad75ea2643",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011378",
@@ -2186,7 +2292,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven, Amethyst and Peridot try to spruce up the Kindergarten.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2114154",
         "isclip": false,
         "typesort": "1",
@@ -2211,7 +2317,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b307a67722f2676c0e08dd28ff1f6a32536ab1d1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073466",
@@ -2252,7 +2360,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "bc4d0292be01ace566191a13195f63360f8402cd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029145",
@@ -2293,7 +2403,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "bd141801b2ea9d064f4da8ca91fa845b9573b41a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073426",
@@ -2334,7 +2446,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "bd5ee2596b286a8186026b8b9a0076b295a9574b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021553",
@@ -2350,7 +2464,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven and Amethyst get competitive while training with Pearl.",
-        "duration": 685,
+        "duration": 686,
         "freewheelid": "cn-2065547",
         "isclip": false,
         "typesort": "1",
@@ -2375,7 +2489,9 @@
         "expdateasmilliseconds": "1572512373000",
         "mediaid": "bf55481bbf6afd7f07f493cf7e505e051f3bfcc3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011382",
@@ -2416,7 +2532,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "c15ae28f081c5d7211316a13652dd812c0eb4d3a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073469",
@@ -2457,7 +2575,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "cccebaa855dc8c30468ab9dcd13c395368165e06",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073406",
@@ -2498,7 +2618,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ce125acfb7f6fc7693bccc780406650b34135201",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021556",
@@ -2539,7 +2661,9 @@
         "expdateasmilliseconds": "1572512373000",
         "mediaid": "cf1f41657b56906ab85b5675bc54e9cc33dbe66a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009261900023774",
@@ -2555,7 +2679,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven and the Crystal Gems try to relax with a slumber party.",
-        "duration": 685,
+        "duration": 686,
         "freewheelid": "cn-2034466",
         "isclip": false,
         "typesort": "1",
@@ -2580,7 +2704,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "cf637e15cdac210420268be85c069eb32d32985d",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021557",
@@ -2596,7 +2722,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven struggles to fix his mistakes.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2083886",
         "isclip": false,
         "typesort": "1",
@@ -2621,7 +2747,9 @@
         "expdateasmilliseconds": "1572512373000",
         "mediaid": "d0cd3516f29aae9a35c68b8d5dfe7c0b2a459a8e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073455",
@@ -2662,7 +2790,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d31dae0bebfd1ef6ad718bc91cfeae5b48f019a4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021562",
@@ -2678,7 +2808,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Connie trains with Pearl to be a swordfighter.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2032380",
         "isclip": false,
         "typesort": "1",
@@ -2703,7 +2833,9 @@
         "expdateasmilliseconds": "1572512373000",
         "mediaid": "d409b96cbb05ebd5e382925b123bdac90cbf2661",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073443",
@@ -2719,7 +2851,7 @@
         "type": "short",
         "active": true,
         "description": "Steven reviews a brand new duffel bag from Wacky Sacks Supply Company!  Rate, comment and subscribe!",
-        "duration": 201,
+        "duration": 202,
         "freewheelid": "cn-2055453",
         "isclip": false,
         "typesort": "2",
@@ -2744,7 +2876,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "dd8845f4e1abbefe971d5590b7f70e1d264c57e8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073449",
@@ -2785,7 +2919,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "dd95d9a5444bd16ebfe6dafeb3cd2d5716f55bba",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021544",
@@ -2801,7 +2937,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Steven and Amethyst try out life on the road.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2020144",
         "isclip": false,
         "typesort": "1",
@@ -2826,7 +2962,9 @@
         "expdateasmilliseconds": "1572512373000",
         "mediaid": "ddb12a9e5a287f89d6d8e8153817aa3948210d02",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011395",
@@ -2842,7 +2980,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Lars rises to the occasion.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2115521",
         "isclip": false,
         "typesort": "1",
@@ -2867,7 +3005,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e0247c37e8e4d7f5397a82bf0c2690ae076e6bd2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011392",
@@ -2908,7 +3048,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e2e8ace0f20b4e9a08ef545fdd3bcee279caabab",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073420",
@@ -2949,7 +3091,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ea01ea6a393a9fd4976f7d947a6774998062e4a1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011384",
@@ -2990,7 +3134,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ec41ec4e3e4df2349bfca8768aa5e44d852cfc50",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008021900011379",
@@ -3031,7 +3177,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ed8a1dc66bccc71e8af8d2bb4211c27d01eaa409",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073441",
@@ -3072,7 +3220,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "f0a96875719baa8a00546135bceb7613ec7299ad",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021549",
@@ -3113,7 +3263,9 @@
         "expdateasmilliseconds": "1572512373000",
         "mediaid": "f0fd7763443f2183936f790f5d00dd7f61087a51",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073464",
@@ -3129,7 +3281,7 @@
         "type": "short",
         "active": true,
         "description": "Recap of previous events before Steven learns more about what happened to Rose Quartz.",
-        "duration": 228,
+        "duration": 229,
         "freewheelid": "cn-2120902",
         "isclip": false,
         "typesort": "2",
@@ -3154,7 +3306,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "f142708c24d720b40626c72a655c54bb3b2ca4ec",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003121900073463",
@@ -3195,7 +3349,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "f3a8d5501be74595e9a29e892f57bcbffab3805d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008121900012987",
@@ -3236,6 +3392,8 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "fceba219ab83b0c700c942de796189056041b551",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]

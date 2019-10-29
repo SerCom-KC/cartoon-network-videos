@@ -13,7 +13,7 @@
         "type": "short",
         "active": true,
         "description": "Uncle Grandpa chases his pig through the classic opening title sequence.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2092285",
         "isclip": false,
         "typesort": "2",
@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "0b0cfa6254742fc7190ea53d9b86f2daf6683e0e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004041900078982",
@@ -54,7 +56,7 @@
         "type": "short",
         "active": true,
         "description": "Uncle Grandpa teaches a classroom of Uncle Grandpas how to be Uncle Grandpa.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2092288",
         "isclip": false,
         "typesort": "2",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "0ce17cb7f0b9fc610526cc735d16e227c3897cb2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022246",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "1051c4d863df13661e480f3e48d3951e3c761916",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022250",
@@ -136,7 +142,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After Uncle Grandpa's Haunted House spirals out of control, the gang must save the teenagers stuck inside.  ",
-        "duration": 685,
+        "duration": 686,
         "freewheelid": "cn-2018716",
         "isclip": false,
         "typesort": "1",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "124e6611e2899433334576ed9b78a3b28f3d1a26",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004041900078961",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "1da96a26899a48214ec4e13669258dd4e83fcc69",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022249",
@@ -218,7 +228,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Strange things start happening when Uncle Grandpa installs a moon roof in the RV.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2047872",
         "isclip": false,
         "typesort": "1",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "24dd03b12613b6a782dba6bb64273a6659ecf7d2",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004041900078980",
@@ -259,7 +271,7 @@
         "type": "short",
         "active": true,
         "description": "Uncle Grandpa is making an internet video about unboxing a box.",
-        "duration": 89,
+        "duration": 90,
         "freewheelid": "cn-2096152",
         "isclip": false,
         "typesort": "2",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "2620fe2e58869406a07626bce837ed0942d7dca8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022251",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "303a483bc2acde9c617732c480e9da138cc16da4",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004041900078975",
@@ -341,7 +357,7 @@
         "type": "short",
         "active": true,
         "description": "Dr. Frankenstein's creation is surprisingly very intelligent until Uncle Grandpa arrives.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2092286",
         "isclip": false,
         "typesort": "2",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "3430effbc9a3dedd219566741d42d38a5e83c85b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022243",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "3be8581fce836c8f6a8bbe83be90a37ae0533ba4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004041900078985",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "599ed93b67245497cbed9c9a5b3d375e0f76a6e9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004041900078986",
@@ -464,7 +486,7 @@
         "type": "short",
         "active": true,
         "description": "A behind the scenes look at the cast and crew of Uncle Grandpa.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2096151",
         "isclip": false,
         "typesort": "2",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "664b3084192e1af0c7c0c7fde26572f1669bd961",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022245",
@@ -505,7 +529,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang gets nutty after repeatedly failing to open a mysterious package.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2047815",
         "isclip": false,
         "typesort": "1",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "7de1c270adea1775fb2f8a0d454b7af16f0971a9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022247",
@@ -546,7 +572,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A failing little league team on the brink of giving up gets help from Uncle Grandpa and some Major League Baseball players.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2083889",
         "isclip": false,
         "typesort": "1",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "80dd9c6a25fa99655ff8315d875925e66a9ed34e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004041900078966",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "8276cead1dbe58b8ea4a271df38c6270fd8c41e1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022242",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "8af7052680bb9acadf7245c9de8280c3b6bcfeab",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004041900078976",
@@ -669,7 +701,7 @@
         "type": "short",
         "active": true,
         "description": "In this collection of shorts, Uncle Grandpa and the gang goes on an incredible journey, plays a riveting new game, and get observed for a nature documentary.",
-        "duration": 222,
+        "duration": 223,
         "freewheelid": "cn-2055173",
         "isclip": false,
         "typesort": "2",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "9c4f853be36c86abecd83f57fc3b9bcbb0246720",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004041900078965",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "9f34787b5581a91b6896f16cd726a2560ba7a2f4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022244",
@@ -751,7 +787,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A head Injury turns Mr. Gus into a bumbling fools whose wacky antics make him Uncle Grandpa's coolest friend. No longer the focus of Uncle Grandpa's attention, a jealous Pizza Steve tries to desperately to get back normal. Mr. Gus has to restore social balance in the RV.",
-        "duration": 685,
+        "duration": 686,
         "freewheelid": "cn-2047856",
         "isclip": false,
         "typesort": "1",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "b2eedbe5e5356684b7afc9ba0e3ce7cc85e8cc66",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022248",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "d226de30cae36e03c8cf9c1f47c9d16afe361eca",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004041900078969",
@@ -833,7 +873,7 @@
         "type": "short",
         "active": true,
         "description": "Detective Frankenstein and Officer Tiny Miracle are on the case to help Katie find her stolen bicycle.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2092287",
         "isclip": false,
         "typesort": "2",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e20d0f2517b03f442da3ce2b69469fdfb0da8d54",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004041900078973",
@@ -874,7 +916,7 @@
         "type": "short",
         "active": true,
         "description": "A kid's party is almost ruined, until UG arrives with his special Bounce House.",
-        "duration": 130,
+        "duration": 131,
         "freewheelid": "cn-2055174",
         "isclip": false,
         "typesort": "2",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e86b8db362b02c44d04745131e55daaec2aacfd1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026391",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1572598741000",
         "mediaid": "f0adc7d054eda2f9491949dd5d7df1face82e8ce",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004041900078977",
@@ -956,7 +1002,7 @@
         "type": "short",
         "active": true,
         "description": "Uncle Grandpa discovers a box of lost Uncle Grandpa episodes. The gang decides to watch the video reel.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2092284",
         "isclip": false,
         "typesort": "2",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "f2d41b49dd7c53365625f32b0719e1ced86d9330",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026390",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1572598741000",
         "mediaid": "fbdb8d1df598118df206d5f198c5c2bd660320dc",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004041900078967",
@@ -1038,7 +1088,7 @@
         "type": "short",
         "active": true,
         "description": "Pizza Steve has the crew do his bidding for fear of being transformed by his mind powers.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2096150",
         "isclip": false,
         "typesort": "2",
@@ -1063,6 +1113,8 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "fdb893ca6c9b6cbbd72c2f9787ce7d7a3b257453",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]

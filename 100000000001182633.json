@@ -13,7 +13,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Ben, Skurd and Rook find themselves caught in an endless time loop as enemies from the future converge on Bellwood.",
-        "duration": 1324,
+        "duration": 1325,
         "freewheelid": "cn-2018202",
         "isclip": false,
         "typesort": "1",
@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "040a449e20898e785f928b4834e0528ab184aa35",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021687",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "0743ade9a9c1650d8566238bcbe96ca0265f3d87",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026434",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "0b29a9f64d9143f391c49bf97bf86272a3a6f7e3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021678",
@@ -136,7 +142,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "",
-        "duration": 1347,
+        "duration": 1348,
         "freewheelid": "cn-2008045",
         "isclip": false,
         "typesort": "1",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "14746c9d7efdafc0183ac5f7ff8f9e2263b8a81f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026429",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "2d0e0030fbc5c999664a276a59432cbaef4f0c65",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021686",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "3e90040a5bde596ecd81d40402de0a3c30b6a6a3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021690",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1572598752000",
         "mediaid": "66e6120869b0e94e9617be2cc228dacf265b0c76",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026433",
@@ -300,7 +314,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Ben thinks he's having 'the perfect day' only to realize he's been put in a dream world by Enoch and the Forever Knights who are after the Omnitrix. Ben's \"dream world\" soon becomes a nightmare world, with Ben forced to live out his ultimate terror...being stuck at school! But with Max and Gwen's help, he's able to vanquish his nightmare foes and re-enter the real world where he takes down  Enoch...only to reveal an even more powerful knight...The Forever King.",
-        "duration": 1353,
+        "duration": 1354,
         "freewheelid": "cn-665002",
         "isclip": false,
         "typesort": "1",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "757a72fe2ef95e45728190b65d04bf02c4a7194a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021688",
@@ -341,7 +357,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Time War races towards its dramatic conclusion, with the fate of the entire universe and everything in it since the very beginning of time resting in the hands of the Ben 10.",
-        "duration": 1350,
+        "duration": 1351,
         "freewheelid": "cn-2020166",
         "isclip": false,
         "typesort": "1",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "769950bf344e93b8218ae50fa750a67dea659b9d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026432",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "97ac3cb975fcbae1cbfc81ea121b0095213e8ccf",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021684",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "a9a5f0e642bffa824043d302d8e95bc4a5417ef1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021691",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1572598752000",
         "mediaid": "bde022d7599bff823913b3942ba4405cb195a3bb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021682",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "c0a9569fab6b399476ccfb0351597a2bd0b11fac",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021683",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "cc54daba826b3022ae2ca9d6a8cac786eab7cf95",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021676",
@@ -587,7 +615,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "",
-        "duration": 1346,
+        "duration": 1347,
         "freewheelid": "cn-2008050",
         "isclip": false,
         "typesort": "1",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "daa4fd68e9aa9b67f6bef124265e05d509651526",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021689",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1572598752000",
         "mediaid": "ebc04a8d951665b2d8395639dbf24a9ee27315a5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026431",
@@ -669,7 +701,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Ben and Gwen accompany Max to a wedding, which doesn't make Ben particularly happy, especially given the fact he has to wear a tux and learn how to dance. During the wedding it's revealed that the bride's parents are aliens while the groom's family are ex-Plumbers. It turns out the bride's parents are out to sabotage the wedding because of a long lasting feud with the Plumbers, and take action by demonstrating their destructive powers and causing deadly havoc. Ben, Max and Gwen enter the fray and not only save the day, but make sure the ceremony goes on as planned.",
-        "duration": 1364,
+        "duration": 1365,
         "freewheelid": "cn-665005",
         "isclip": false,
         "typesort": "1",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "ee7cc44d07dfa84cca9469543541996135d2a21e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026430",
@@ -710,7 +744,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When their fishing trip in Undertown takes a bizarre twist, Ben, Rook, and Grandpa Max, begin their search for a ship-bottling alien pirate who has captured Magister Patelliday. (Introducing Capt. Cork.)",
-        "duration": 1326,
+        "duration": 1327,
         "freewheelid": "cn-871380",
         "isclip": false,
         "typesort": "1",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "f7f1793fa93e4c4a98703e14ce810b1c98c0301c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021685",
@@ -776,6 +812,8 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "fa3590f5259c12d7fb58bd2bba9442c8bbf02667",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]

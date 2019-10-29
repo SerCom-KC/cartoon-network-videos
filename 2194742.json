@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "04fde82c5420e6c66596f744661fe971190c3a14",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021765",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1572598800000",
         "mediaid": "16f127b652a8c96be58b00bccc657f86cd2d6642",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021762",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1572598800000",
         "mediaid": "31cafbf5d3eddc380dd339a9ce05dcf9808fb342",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021763",
@@ -136,7 +142,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The ninja team up with a reluctant Clutch Powers to enter a mysterious pyramid where they inadvertently unleash an ancient evil.",
-        "duration": 661,
+        "duration": 662,
         "freewheelid": "cn-2194747",
         "isclip": false,
         "typesort": "1",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1572598800000",
         "mediaid": "392e4ff321138cf097ae47b045ae996276f9e37b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010081900026471",
@@ -177,7 +185,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Aspheera arrives at the Monastery of Spinjitzu and confronts Wu, forcing one of the ninja to make a heroic sacrifice.",
-        "duration": 661,
+        "duration": 662,
         "freewheelid": "cn-2194756",
         "isclip": false,
         "typesort": "1",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "4bf01596443b7b5f26d992e7f1ff7a868e9733ea",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010041900025679",
@@ -218,7 +228,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The ninja find themselves trapped in a pyramid and must escape encroaching lava to warn NINJAGO City of a new Serpentine invasion.",
-        "duration": 661,
+        "duration": 662,
         "freewheelid": "cn-2194749",
         "isclip": false,
         "typesort": "1",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1592798399000",
         "mediaid": "5b50e9a447fb5b0b965971a510efdd1223f3ab5d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010041900025677",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1592798399000",
         "mediaid": "895a20e0f235eb36bc778eb78b6669e26e2e91b9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010081900026467",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "93328fd6ebe80d12e657a2ea1908445b6ee4f7bf",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021761",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1572598800000",
         "mediaid": "9a4273da641c07d1946f13e54ea29a802bf2ce91",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010081900026465",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "9f8480abb41000e64ef078c15b68e29c6f2a372c",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010041900025676",
@@ -423,7 +443,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The ninja rush to the NINJAGO Museum of History to recover a dangerous scroll before it falls into the hands of the Serpentine Sorceress Aspheera.",
-        "duration": 661,
+        "duration": 662,
         "freewheelid": "cn-2194751",
         "isclip": false,
         "typesort": "1",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1592798399000",
         "mediaid": "a54ae9c036e888c09ec56f7c8b4e2cf0562a9acc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010081900026473",
@@ -464,7 +486,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Having learned Zane is not dead, Master Wu prepares to go after him, but Lloyd and the other ninja take matters into their own hands and defy their Master.",
-        "duration": 661,
+        "duration": 662,
         "freewheelid": "cn-2194757",
         "isclip": false,
         "typesort": "1",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "c52d9be1a195a4a22f10a30278c5b890e0fc57b8",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010041900025675",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1592798399000",
         "mediaid": "e6fbc3ca7538b70af3459709d6ac8a1e6e8a952b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021764",
@@ -546,7 +572,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "In the wake of the previous season's victory, the ninja have gone soft and Master Wu must remind them of who they truly are.",
-        "duration": 661,
+        "duration": 662,
         "freewheelid": "cn-2194743",
         "isclip": false,
         "typesort": "1",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1572598800000",
         "mediaid": "f5fc0ebb29e59d3f14b91845feba82effce2bf7e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010041900025678",
@@ -587,7 +615,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "While Aspheera pursues revenge on the \"Treacherous Deceiver\" who betrayed her, the ninja make a startling discovery.",
-        "duration": 661,
+        "duration": 662,
         "freewheelid": "cn-2194752",
         "isclip": false,
         "typesort": "1",
@@ -612,6 +640,8 @@
         "expdateasmilliseconds": "1592798399000",
         "mediaid": "fff7af2e843ed092f6ed1cc4a6924036df690856",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]

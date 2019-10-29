@@ -13,7 +13,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "During medieval times, Team Tennyson must fight to remember that they're not in the past at all, but actually at a Renaissance-esque faire, where \"King Zombozo\" has hypnotized its guests into thinking they live in the past!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2152891",
         "isclip": false,
         "typesort": "1",
@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "0268436fbfba7df2d2b8be43b9123e21e57bdfde",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009031900018005",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1577768400000",
         "mediaid": "02c5747ac412766501d41a84545a9142d05ec854",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052882",
@@ -95,7 +99,7 @@
         "type": "short",
         "active": true,
         "description": "Ben 10 character designer, Chap Yaep, shows you how to draw Grey Matter.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2133116",
         "isclip": false,
         "typesort": "2",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "03e3ffa99614afd86666ee489e2f061965daacfb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052877",
@@ -136,7 +142,7 @@
         "type": "short",
         "active": true,
         "description": "",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2133112",
         "isclip": false,
         "typesort": "2",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "0863d8e96ae5b61b6bdeb60d59576c8be8667c41",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052887",
@@ -177,7 +185,7 @@
         "type": "short",
         "active": true,
         "description": "Petropia is a planet as breathtaking and indestructible as its crystalline inhabitants, the Petropians. Occupied by many factions, a civil war broke out between the Petropians and the war-like Subsapiens from below. Little did they know, a third faction, the Antrosapians, awaited with far more sinister intentions for the kingdom.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2104625",
         "isclip": false,
         "typesort": "2",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "0b6fa9e29fcc12da354ad9db0df8413761032f53",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1007301900010470",
@@ -218,7 +228,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "While chilling at a monastery with a no-noise policy, Ben can't keep quiet and accidentally awakens a dangerous Dragon hidden in a secret chamber below the hallowed halls. A job that might be too much for even Diamondhead to handle.",
-        "duration": 693,
+        "duration": 694,
         "freewheelid": "cn-2088044",
         "isclip": false,
         "typesort": "1",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "0c579441435599ee7bda0013cdbc2e8d158ded77",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079386",
@@ -259,7 +271,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "While on a visit to Cape Canaveral, the Tennyson Trio are present for the inaugural launch of an experimental space plane. When Vilgax commandeers the ship, Ben must stop the baddie from weaponizing the shuttle before the countdown hits zero.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2094710",
         "isclip": false,
         "typesort": "1",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "0d4447e50b00b404bb17d1ff6d33c3f2611c6302",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079435",
@@ -300,7 +314,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After Ben stumbles upon a video of Cannonbolt ripping up a computer lab on the internet, Team Tennyson must race to State U to find the imposter; but once Ben discovers it is a steam-punk version of his alien that is terrorizing the campus, Ben must take down the man behind the machine, Steam Smythe!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2094739",
         "isclip": false,
         "typesort": "1",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "0d8567d319766ac000b0700269aaca32bb8f5618",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1007301900010469",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "0dd1cf724427c8de090fb600258986ecd839001c",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079348",
@@ -382,7 +400,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "While tailgating at a State U. homecoming football game, Ben teams up with Grandpa Max's old college buddies to keep the crazy clown Zombozo from robbing the stadium blind at halftime.",
-        "duration": 694,
+        "duration": 695,
         "freewheelid": "cn-2085315",
         "isclip": false,
         "typesort": "1",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "0e87b5af2223a68eea52b0669d45f6c0d081fef0",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079388",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "111a68905543b11759395467c5d03a7968a09d3f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079434",
@@ -464,7 +486,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "With the Rustbucket stopped on the Midwest roadside, Ben locks himself inside with his tablet as Max and Gwen enjoy the great outdoors, until Team Tennyson is pulled into a wild Jack-a-Lope chase.",
-        "duration": 675,
+        "duration": 676,
         "freewheelid": "cn-2094729",
         "isclip": false,
         "typesort": "1",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "120d4cafbd5c64e3ab6521cca92cb3d8f2f8e956",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079426",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "147dc907d6e5bf6d9d7312c2b17d3299db1335cf",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095203",
@@ -546,7 +572,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Touring Yellowstone, Ben uncovers a plot by the fast & furious LaGrange to find treasure buried below the national park, but with a little help from Old Faithful, Overflow is able to douse LaGrange's dreams.",
-        "duration": 693,
+        "duration": 694,
         "freewheelid": "cn-2085324",
         "isclip": false,
         "typesort": "1",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "14e5bf3ee622a443c301d2196dac15ccdba07c97",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052858",
@@ -587,7 +615,7 @@
         "type": "short",
         "active": true,
         "description": "A reliable power supply is vital to the Galvans' around-the-clock research, so when disaster strikes, or more specifically energy-sapping parasites, these brainy beings must have an even more reliable backup plan for keeping the lights on.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2114145",
         "isclip": false,
         "typesort": "2",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "16a4e5a19d3e7d1f116e09324edafb72668aee06",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095205",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "17af25f71ed8ec5ca3df57a46b279c34a2e78e7d",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008291900017403",
@@ -669,7 +701,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Grandpa Max's engineer buddy Phil Billings gifts Team Tennyson the Omni-Copter, a state of the art flying vehicle that can transport the Rustbucket for overseas adventures, Steam Smythe takes to the skies to ground Ben and company's first test flight; but unbeknownst to our heroes, Smythe was sent to battle Ben's latest alien forms by a mysterious, powerful enemy: the Forever Knight.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2139777",
         "isclip": false,
         "typesort": "1",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "18567865c7421cf60e1db5de760136561c703369",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052844",
@@ -710,7 +744,7 @@
         "type": "short",
         "active": true,
         "description": "The Petrosapien Civil War comes to a crucial turning point as the crystalline Petrosapiens make the hard choice to team up with their warring sub-surface cousins, the Subsapiens, to defeat the monstrous Antrosapiens that dwell near Petropia's dark planetary core.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2114142",
         "isclip": false,
         "typesort": "2",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "194715669b4bcf6d00f1a1416d7ca327468b1ef2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052838",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "1ab7693048eecb260771ccfed314057ea5a92ab1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052894",
@@ -792,7 +830,7 @@
         "type": "short",
         "active": true,
         "description": "Once devoid of natural life, Galvan B. was upgraded seemingly overnight after a Galvan terraform experiment accidentally crashed into the moon's surface. Relive the birth of the Galvanic Mechamorphs as they rise from the impact site and terraform their surroundings into the lush techno-organic moon we see today.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2104630",
         "isclip": false,
         "typesort": "2",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "2351af63351dcd77cf47cf79b298641618e18214",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095175",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "255b147314dd737ce1b673235fdb8892814e5f9d",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001574",
@@ -874,7 +916,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Team Tennyson goes international in the Omni-Copter and the first stop is for a hike in the Scottish Highlands, but the weather isn't just bad, it's foggy, and that means one thing and one thing only: the return of The Fogg!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2141433",
         "isclip": false,
         "typesort": "1",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1577768400000",
         "mediaid": "263187e4301375f08d228df37149c4dadbb5f7ed",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079383",
@@ -915,7 +959,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "With new Omni-Enhancements in tow, Ben looks to save a town from a sudden mudslide, but his heroics are short lived once Vilgax appears to warn our hero about the consequences of the Omnitrix's mysterious new alien.",
-        "duration": 675,
+        "duration": 676,
         "freewheelid": "cn-2128277",
         "isclip": false,
         "typesort": "1",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "26ab1b28b81b06419535ff46c0e89f6b63483d94",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079423",
@@ -956,7 +1002,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "On their trip to Adrenaworld West, Ben takes a detour on a jungle cruise and finds himself hunted by the evil Tim Buktu. Our hero must outwit the baddie if he wants to make it off the amusement park ride alive!\n",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2094723",
         "isclip": false,
         "typesort": "1",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "2881892a63fa963a41748953662e58a1311b762e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001579",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "29b951dd7733d0ae97c10534a48b592664455f7f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025376",
@@ -1063,7 +1113,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "29cd2c5f4319065d8943ef7f7b0e8dafe4dc454f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006111900098706",
@@ -1104,7 +1156,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "2a131326ef784c19a66e9e7a67360ceb3b6015cd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010041900025603",
@@ -1120,7 +1174,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "During a drag race, Ben hopes to stay neck and neck with Vin Ethanol and La Grange as XLR8, but when his watch keeps shorting out, our hero must get creative if he is to keep up with his fast and furious foes!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2167593",
         "isclip": false,
         "typesort": "1",
@@ -1145,7 +1199,9 @@
         "expdateasmilliseconds": "1572685140000",
         "mediaid": "2a28da0896ad21db1f9039898e186c63dffca2a2",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095191",
@@ -1161,7 +1217,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Ben, Gwen and Max revisit their favorite amusement park, renovated and re-branded as AdrenaWORLD! Unfortunately, the new management is Zombozo and his trio of new henchmen! He's got a plan to hypnotize everyone in the park to form a criminal army. Ben has to set aside his desire to ride every ride in the park and make things right.",
-        "duration": 694,
+        "duration": 695,
         "freewheelid": "cn-2088592",
         "isclip": false,
         "typesort": "1",
@@ -1186,7 +1242,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "2f72935fd413e1de81327e0255d6213961c1b08f",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095199",
@@ -1202,7 +1260,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Ben is more interested in a marathon of his favorite cartoon show, \"Xingo\", but when Ben goes Upgrade to get a better signal, the titular Xingo leaps from his animated dimension to ours, bringing mad chaos with him!",
-        "duration": 694,
+        "duration": 695,
         "freewheelid": "cn-2088584",
         "isclip": false,
         "typesort": "1",
@@ -1227,7 +1285,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "307b3589398e691372d3fc3d01d95fca30d1ab32",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079448",
@@ -1268,7 +1328,9 @@
         "expdateasmilliseconds": "1590037205000",
         "mediaid": "326bed0cce7faddaf145dd995b333d147bb0ccce",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079355",
@@ -1309,7 +1371,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "340c8f0cdb8fc791a2e5cd182630cbbc338ddc2b",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1007301900010456",
@@ -1350,7 +1414,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "3536c62a83f1e27a3999af930b4661fde0bbbc3b",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079394",
@@ -1366,7 +1432,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "During a trip to the Lake of the Ozarks, Ben and Gwen squabble over Ben's unnecessary \"half-birthday\" celebration, but when Max gets word of a suspicious rockslide nearby, the cousins must put aside their differences if they are to rescue the trapped miners and uncover who is behind the manmade catastrophe before it's too late: the Bugg Brothers. \n",
-        "duration": 678,
+        "duration": 679,
         "freewheelid": "cn-2094731",
         "isclip": false,
         "typesort": "1",
@@ -1391,7 +1457,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "355fa5f50d9fad4bea7bf40cd4dd06766cf1d475",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095181",
@@ -1407,7 +1475,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Ben (and Gwen!) attempt to stay up all night for Adrenaland, the only theme park open 24/7, he not only fails to utilize his alien powers to stay awake, but his \"sleep-alien-ing\" causes disaster after disaster that Gwen must fix before things get way out of hand.",
-        "duration": 694,
+        "duration": 695,
         "freewheelid": "cn-2085318",
         "isclip": false,
         "typesort": "1",
@@ -1432,7 +1500,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "3705f81035734e3a60eb08947ae81cd7b47ae9f7",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079437",
@@ -1473,7 +1543,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "37f366c45c6b2c0801d454e74807fc5c9c895b0f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025377",
@@ -1489,7 +1561,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When a new Xingo app mysteriously appears on Gwen's tablet, Ben can't help himself and activates it despite his cousin's disapproval, springing a trap that transports Ben in the animated world and Xingo back in the real world. It's the ol' switcheroo!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2171405",
         "isclip": false,
         "typesort": "1",
@@ -1514,7 +1586,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "38a71bbabdafaf71e202959525312eb4d9a2c9e3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025370",
@@ -1555,7 +1629,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "38bd7a6c358ffdbb3210ddc52d04637bdb6fa7e5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079429",
@@ -1596,7 +1672,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "38c46ad43219c8f25326ecfa3a77202df0f4eddd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006111900098707",
@@ -1637,7 +1715,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "391b6dc284bea7aae1ee75ad4b3f7f01d5a673d6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1007301900010471",
@@ -1653,7 +1733,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When a wizard cos player gets his hands on a real, magical wand at Comic Con, Ben enlists Gwen to help stop Hex from retrieving it by tricking the wicked warlock into thinking she is a powerful magic-wielder in her own right: the one and only Lucky Girl!",
-        "duration": 695,
+        "duration": 696,
         "freewheelid": "cn-2086511",
         "isclip": false,
         "typesort": "1",
@@ -1678,7 +1758,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "39811ba2c029da0ddaf613d3dcc040919d33768e",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052847",
@@ -1694,7 +1776,7 @@
         "type": "short",
         "active": true,
         "description": "The Kinecelerans live life at the fastest pace possible, even when they're letting off steam\u2014 hence their supercharged take on what we Earthlings call hockey, where every point is more electrifying than the last!",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2114144",
         "isclip": false,
         "typesort": "2",
@@ -1719,7 +1801,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "3a7c7dbadcfe6f7f0d38fb852721907a3837be67",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079349",
@@ -1760,7 +1844,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "3b83e652a4601d31f56245634284b03199ac216f",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079391",
@@ -1776,7 +1862,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After their attempt to get a photo with every storefront mascot is foiled, Ben and Gwen sneak out at night to get their photo with the wooden bear totem known as \"Yawk\", only to find he and the other mascots have come to life!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2094716",
         "isclip": false,
         "typesort": "1",
@@ -1801,7 +1887,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "3d9330d773fb967771589cf3cb0c477d3e6c195c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008291900017404",
@@ -1842,7 +1930,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "3f4a143718bec6099339f66637a7b00f229bfe2f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025362",
@@ -1858,7 +1948,7 @@
         "type": "short",
         "active": true,
         "description": "The Ekoplektoids' amoebic ability to multiply their own cells and subdivide into smaller, denser clones leads to out-of-control overpopulation, forcing them on a space expedition for more space.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2175360",
         "isclip": false,
         "typesort": "2",
@@ -1882,7 +1972,9 @@
         "expdateasmilliseconds": "1578995940000",
         "mediaid": "41447d13026e8ce2c252fc75b1801ab6a7e831e2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008291900017405",
@@ -1898,7 +1990,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A trip to the South Pole goes upside down when Team Tennyson lands on the North Pole instead, but Ben quickly discovers the culprits: Solar & Polar Twain, magnetically-powered scientists who want to hold the world ransom by threatening to reverse Earth's magnetic poles!",
-        "duration": 675,
+        "duration": 676,
         "freewheelid": "cn-2145394",
         "isclip": false,
         "typesort": "1",
@@ -1923,7 +2015,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "416781236170bf14a5333fdea943e0d49b88b2bf",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079421",
@@ -1964,7 +2058,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "41c0552910b0bfe5194ed83be83d8d6d9524067b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079361",
@@ -2005,7 +2101,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "420124c57c5f4b8a45c95d2e1f4c2fc771740139",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001601",
@@ -2046,7 +2144,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "43717482cd7b0869f1df4211cecd5f3cae97a24f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095173",
@@ -2062,7 +2162,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "During Chefapalooza in the Rocky Mountains, three famous chefs and infamous bad-guys, The Tri-Chefta, hunt down Wildvine in hopes of creating their most exotic dish to date.",
-        "duration": 694,
+        "duration": 695,
         "freewheelid": "cn-2088581",
         "isclip": false,
         "typesort": "1",
@@ -2087,7 +2187,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "43b34642aab22d17c6bb64ba1491f746b6e56039",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079432",
@@ -2103,7 +2205,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Ben grows impatient with the snail like pace of gardening, he goes O-E Overflow to pick up the pace and accidentally floods the community garden, but once a giant sink hole appears and frees King Koil and his Kimodo Dragon from below, Ben must quickly right his wrong and capture the baddies if he is to save the coastal city of Bayburgh.",
-        "duration": 675,
+        "duration": 676,
         "freewheelid": "cn-2094743",
         "isclip": false,
         "typesort": "1",
@@ -2128,7 +2230,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "44a7a162ffdf2a6b065461761bee288f1ec2048a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001603",
@@ -2169,7 +2273,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "49beafd60479fd3fc8f9a92cdd65d41bffdcd6c7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079389",
@@ -2210,7 +2316,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "4a6767a7b3a1b1a2e2b7093cfef525656e989023",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095171",
@@ -2226,7 +2334,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "During a book signing at a medieval castle, Ben must stop Hex from getting his hands on a grimoire that can fuse its user with mythical beasts, creating monstrous hybrids!",
-        "duration": 693,
+        "duration": 694,
         "freewheelid": "cn-2088583",
         "isclip": false,
         "typesort": "1",
@@ -2251,7 +2359,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "4b20b6af21e4dec5ce7a0aded779e9e259048a5e",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025379",
@@ -2292,7 +2402,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "4d46b2f36cbcb289922b7b3d5b01a6244cc01c3b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006111900098708",
@@ -2333,7 +2445,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "4ee810f8c675918bcba959b813c569dcf31eb287",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029152",
@@ -2374,7 +2488,9 @@
         "expdateasmilliseconds": "1572685140000",
         "mediaid": "508d3f6f6e20072b3ddd1361e26d8433abc61515",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079340",
@@ -2390,7 +2506,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "No one believes Ben when he insists that one of the other patrons waiting in line at the World of Wet Water Park is the nefarious Frightwig disguised as a common girl. So Ben must prove his case while protecting park goers from her master plan: to destroy the park with its own water pressure!",
-        "duration": 693,
+        "duration": 694,
         "freewheelid": "cn-2088582",
         "isclip": false,
         "typesort": "1",
@@ -2415,7 +2531,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "52ff790e4246a1b19645c2413bbd461ace600ed7",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052839",
@@ -2456,7 +2574,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "54fe93000073166de6f84ebc4992988d4b53e328",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052843",
@@ -2497,7 +2617,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "55273b436362746d7bb396d4a0e1c47680d833ff",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052853",
@@ -2513,7 +2635,7 @@
         "type": "short",
         "active": true,
         "description": "For the Lepidopterrans, putting food on the family table is never as simple as running out to the grocery store. Watch as their elite Sky Soldiers go mandible-to-mandible with fearsome Tongue Beetles in what's sure to be a hunger game for the ages!",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2114150",
         "isclip": false,
         "typesort": "2",
@@ -2538,7 +2660,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "571e199f63f6f8e00bd034efc2edf1740304b14c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1007261900009736",
@@ -2579,7 +2703,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "575a081c28e34180bef26f7bd89e3f5935c00a6e",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008291900017407",
@@ -2620,7 +2746,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "57f4edb704ee15530de16fc42c77cbb8b795fb88",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095183",
@@ -2636,7 +2764,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Ben, Gwen, and Max stop by the graveyard set of Gwen's favorite TV show, The Unalivers, but when Ben discovers its lead, Michael Morningstar, is an energy vampire he goes alien to show the world the real star of the show: Heatblast.\n",
-        "duration": 693,
+        "duration": 694,
         "freewheelid": "cn-2088594",
         "isclip": false,
         "typesort": "1",
@@ -2661,7 +2789,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "5ab802f31e2f62fb3c562dd8c8e65e14d33539d6",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025378",
@@ -2677,7 +2807,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Team Tennyson's thrift store shopping is ruined by the latest high-speed heist of LaGrange \u2014 who is now aided by a super-fast electromagnetic racing car \u2014 and Ben must convince Kevin 11 to help stop the speed demon's globetrotting robbing spree.",
-        "duration": 675,
+        "duration": 676,
         "freewheelid": "cn-2178243",
         "isclip": false,
         "typesort": "1",
@@ -2702,7 +2832,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "5b15aa50d439212ae586ef96c9121c590f909cbc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010081900026440",
@@ -2718,7 +2850,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After receiving a super-exclusive ticket to Adrenaland, Ben leaves behind Grandpa Max and Gwen to enjoy the perks of being the parks only attendant, but when he learns he's not alone, our hero must now contend with the only kid who could afford the price of admission: Billy Billions!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2168268",
         "isclip": false,
         "typesort": "1",
@@ -2743,7 +2875,9 @@
         "expdateasmilliseconds": "1573293540000",
         "mediaid": "5d8f832eba0c1b2b697669e05bfd9a17f546b848",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079418",
@@ -2784,7 +2918,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "5e106d0ae3e720f6ccf635dc237f669cbd6bb9c7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052841",
@@ -2825,7 +2961,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "61f8f26567db380894262b75bce83f9c2cf720c6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009091900019538",
@@ -2841,7 +2979,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Ben hops into the Rustbuggy for a driving lesson along the sand dunes of Cape Cod, but he takes a freaky switchback turn when the Rustbuggy is mutated into a motor-monster by Bootleg, another alien transformation of Kevin 11, with powers similar to Upgrade!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2161249",
         "isclip": false,
         "typesort": "1",
@@ -2866,7 +3004,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "636130f6829342bca0ed3fe77aa8dd462d78af34",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079360",
@@ -2907,7 +3047,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "649994e57dfdc3150c13ea57e910a909a8ef0b67",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1007301900010460",
@@ -2948,7 +3090,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "654e59fd3d39bc4a04ed4c739a35b2d77e38564a",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052848",
@@ -2964,7 +3108,7 @@
         "type": "short",
         "active": true,
         "description": "When the Cascan Pirates aren't plundering the depths of Cascareau for buried treasure, they're depositing their spoils into savings accounts at the Fort Knox of the high seas \u2014 a bank built atop an ever-drifting island of pontoon boats, guarded by telepathic Cephalopods, its vaults impenetrable to all but the most loyal customers.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2114146",
         "isclip": false,
         "typesort": "2",
@@ -2989,7 +3133,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "668029dc392dbf059fca2277c02ce76505ebd703",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079449",
@@ -3005,7 +3151,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "In Aspen, Colorado, Ben, Gwen, and Grandpa Max are on a hike to find the Forgeti, but when they realize they've stumbled upon Billy Billions own \"Winter in July\" ski resort, Ben must battle Billy, with an assist from the Forgeti itself.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2160689",
         "isclip": false,
         "typesort": "1",
@@ -3030,7 +3176,9 @@
         "expdateasmilliseconds": "1590037145000",
         "mediaid": "679ac8b8f35997c95ddc19d9ff4459c3867e3af9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079424",
@@ -3046,7 +3194,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "As Max attempts to get Ben and Gwen to the Four Corners Monument before sunset, an ominous fog bank engulfs the roadway and forces Max to drive at a snails pace, but once The Fogg comes to life and attacks the Rust Bucket, Team Tennyson must work together if they are to navigate to safety.",
-        "duration": 675,
+        "duration": 676,
         "freewheelid": "cn-2094734",
         "isclip": false,
         "typesort": "1",
@@ -3071,7 +3219,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "688ebd36ad27da9791d28d78b1669256876ef625",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079438",
@@ -3112,7 +3262,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6aee431cc97c9a63b264a02442b576ccd611a65c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079427",
@@ -3153,7 +3305,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6bfdac8367f96002138ffd611511d6ed239c4f4f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052879",
@@ -3169,7 +3323,7 @@
         "type": "short",
         "active": true,
         "description": "Ben 10 character designer, Chase Standley, shows you how to draw Upgrade.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2133119",
         "isclip": false,
         "typesort": "2",
@@ -3194,7 +3348,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6e3375097f63874ebccec7ef677c1c3845fa850e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095167",
@@ -3235,7 +3391,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "7038b358ad163e703f7a9b19faf2bba3dd4b40a7",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052893",
@@ -3251,7 +3409,7 @@
         "type": "short",
         "active": true,
         "description": "Galvan Prime is home to not only the galaxy's greatest minds, but a DNA bank of every alien species in the cosmos, thus ensuring that the planet forever remains the center of DNA research for the entire universe.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2104628",
         "isclip": false,
         "typesort": "2",
@@ -3276,7 +3434,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "71d282905f1780c853f697fd3a2e4830f24aaa18",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079439",
@@ -3292,7 +3452,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After an overpass collapses on the highway, Team Tennyson is in a traffic jam along with Simon Sez and family. But when Ben and Simon team up to tackle the gridlock together, Simon only makes matters much, much worse.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2157076",
         "isclip": false,
         "typesort": "1",
@@ -3317,7 +3477,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "71d2b6abc81e4f2fc8522d11ebdde0d19512b26e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001583",
@@ -3333,7 +3495,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "At Biggie Box Japan, Ben waits in an epic line for the release of the latest Sumo Slammers video game, Cyber Slammers, but Ben must soon save the store\u2014 not from game-hungry customers, but from Steam Smythe, who wants to retro-fit a massive mech with steam punk powers!",
-        "duration": 675,
+        "duration": 676,
         "freewheelid": "cn-2158812",
         "isclip": false,
         "typesort": "1",
@@ -3358,7 +3520,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "76267b7acdbdf5957c4e69c1e298f3f0e7d8a9ce",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009111900019711",
@@ -3374,7 +3538,7 @@
         "type": "short",
         "active": true,
         "description": "The Tetramands encounter their greatest and most pungent threat yet\u2014 a swarm of Lepidopterrans, whose agile aerobatics and acrid aroma make them a rare match for their formidable four-armed foes!",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2175364",
         "isclip": false,
         "typesort": "2",
@@ -3399,7 +3563,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "77cdc510775879b5c774889c8606403518b4fe54",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052890",
@@ -3415,7 +3581,7 @@
         "type": "short",
         "active": true,
         "description": "The circle of life on Lepidopterra is a stinky yet harmonious effort for Lepidopterrans. The wildlife - with slime and toxic gas at their disposal - work together to maintain order on the bustling swamp planet.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2104633",
         "isclip": false,
         "typesort": "2",
@@ -3440,7 +3606,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "7a8caa5db8e03bd4ee0ac491bd8089518b79965a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079420",
@@ -3456,7 +3624,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Ben and Gwen spend the day volunteering at Repto Ranch and come face to face with King Koil, but need to quickly overcome their fear of snakes if they are to rescue the released critters and defeat the slithery baddie.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2094728",
         "isclip": false,
         "typesort": "1",
@@ -3481,7 +3649,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "7c3807d0af91508d9e4b89479580e80ecbf51780",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079396",
@@ -3522,7 +3692,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "7c46cc66aa6cd94eb19262ce18ca0c816f8f94ef",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079442",
@@ -3538,7 +3710,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After traveling to Tampa Beach, Florida, Team Tennyson hopes to get some much-needed rest & relaxation, but the tempests without a temper, the Weatherheads, have other plans that Ben must thwart: to build a new beach base!",
-        "duration": 675,
+        "duration": 676,
         "freewheelid": "cn-2160342",
         "isclip": false,
         "typesort": "1",
@@ -3563,7 +3735,9 @@
         "expdateasmilliseconds": "1590037259000",
         "mediaid": "7d19cf8766b91e566ed493675cfbee1fd90a9540",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052836",
@@ -3604,7 +3778,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "7dbdc0402b36bd762d0bef3a14b0baf5645a3d70",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079395",
@@ -3645,7 +3821,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "7de84de2db00605c78bdf1cd8d4010df4ffc3136",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079342",
@@ -3661,7 +3839,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Ben, Gwen, and Max go on a tour of the impervious Fort Knox, but when Dr. Animo sicks a hungry ani-mutate on the Fort, Ben must stop it before it gobbles up the nation's monitory standard!",
-        "duration": 694,
+        "duration": 695,
         "freewheelid": "cn-2085323",
         "isclip": false,
         "typesort": "1",
@@ -3686,7 +3864,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "7ef9cc49189246d61f106ef2e5d223c711694ebb",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052864",
@@ -3727,7 +3907,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "802709f40db28f1ca282fd889345686bbc0fea25",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010041900025601",
@@ -3743,7 +3925,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After saving a State University Alumni ribbon cutting ceremony, Ben becomes the guest of honor at the upcoming Gala, but when the cirque entertainment turns out be Zombozo, in disguise, Ben must not only defeat the evil clown but his mysterious new sidekick, Pirouette!",
-        "duration": 675,
+        "duration": 676,
         "freewheelid": "cn-2167592",
         "isclip": false,
         "typesort": "1",
@@ -3768,7 +3950,9 @@
         "expdateasmilliseconds": "1572685140000",
         "mediaid": "82a1fe38e7e6be46cb415759dd829d68cc2213f7",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052891",
@@ -3784,7 +3968,7 @@
         "type": "short",
         "active": true,
         "description": "Survival is reserved for only the strongest of warriors on Khoros, where Tetramands prove their worth by staving off savage beasts of the wild and going head-to-head inside massive gladiatorial arenas.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2104624",
         "isclip": false,
         "typesort": "2",
@@ -3809,7 +3993,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "84833cbfb40d36c272719edd955b085a5d6cffef",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079422",
@@ -3825,7 +4011,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Ben and Max get into an argument, Ben goes Heatblast to blow off steam against Max's wishes; but once Dr. Animo spots him and subsequently turns Max into a chicken, it's up to Ben to right his wrong if he is to save his Grandpa and stop Dr. Animo.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2094738",
         "isclip": false,
         "typesort": "1",
@@ -3850,7 +4036,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "859f286d1c8aeb5feb3a43323bfd08697451bfd8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001578",
@@ -3866,7 +4054,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "While in Paris, France, Ben catches Zombozo robbing the Louvre, but when Zombozo hypnotizes Ben to remain speechless, Ben must navigate a foreign land like a mime in order to stop the criminal clown and his travelling circus.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2141436",
         "isclip": false,
         "typesort": "1",
@@ -3891,7 +4079,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "87c711db1bcf30a86f9b577e4856a0f34801ea59",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052895",
@@ -3907,7 +4097,7 @@
         "type": "short",
         "active": true,
         "description": "As the premiere vacation spot of the cosmos, Arburia is not only a sandy paradise but home to the Arburian Pelarotas. Twelve excruciatingly long hours of work and school stand between the spherical species and a day at the beach spent perfecting their cannonball!",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2104632",
         "isclip": false,
         "typesort": "2",
@@ -3932,7 +4122,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "89efcc4e981d2f01da34a815eea0104fe8b02c66",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079384",
@@ -3948,7 +4140,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Max dozes off before a double feature, Ben and Gwen are left to save the drive-in by themselves as the evil magician Hex brings the movie monster \"That\" to life, and unleashes him on the unsuspecting moviegoers.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2094721",
         "isclip": false,
         "typesort": "1",
@@ -3973,7 +4165,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "8cc10dc8e9fef4ac20d187bb676976b58ca845a2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052888",
@@ -3989,7 +4183,7 @@
         "type": "short",
         "active": true,
         "description": "The torrential surface of the water planet Cascareau forces us undersea, but luckily, this is where all the swashbuckling action is! Let's navigate the watery depths as the Cascans fend off fellow pirates & vicious Leviathans on their quest for a bounty of Serpent Glass, the raw material needed to construct their exoskeleton.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2104629",
         "isclip": false,
         "typesort": "2",
@@ -4014,7 +4208,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "8e0f31e0215cf2da5ed102f84f1cc2e045e2b176",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052850",
@@ -4030,7 +4226,7 @@
         "type": "short",
         "active": true,
         "description": "The Verda World Tree gives life to the entire ecosystem surrounding it, but like any organic matter, this magnificent specimen has a life cycle of its own. That's where the Florauna come in, herding wild Mushroars, gigantic pollen beetles, to fertilize the wilting tree in time for a blooming spring.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2114148",
         "isclip": false,
         "typesort": "2",
@@ -4055,7 +4251,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "94146f82f032d18e194a6eaf46b50f44f550de45",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079431",
@@ -4071,7 +4269,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The mysteries of the Omni-Enhancements are solved when Ben battles an alien invasion coming from inside the Omnitrix.",
-        "duration": 3308,
+        "duration": 3309,
         "freewheelid": "cn-2170258",
         "isclip": false,
         "typesort": "1",
@@ -4096,7 +4294,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "94b79a7a4d7e36de9003975553afa0228806a7fe",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079393",
@@ -4112,7 +4312,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "During a live feed of the new transcontinental bullet train, La Grange enters the picture to outrace the train, but Ben joins in on the fun and will stop at nothing to come out on top!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2094720",
         "isclip": false,
         "typesort": "1",
@@ -4137,7 +4337,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "9562e9cfcd1737c082737fcaad998d8f29b6e492",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052892",
@@ -4153,7 +4355,7 @@
         "type": "short",
         "active": true,
         "description": "At its molten core, Pyros is your typical planet-like star and home to the Pyronites. With rocky exteriors capable of handling these extreme conditions, observe our fiery friends as they pass the time by perfecting their pyrokinetic powers while hanging ten on the gnarliest rivers of lava.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2104626",
         "isclip": false,
         "typesort": "2",
@@ -4178,7 +4380,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "963374a06e702b384c458c67b0fbf993fc6bfff1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052860",
@@ -4194,7 +4398,7 @@
         "type": "short",
         "active": true,
         "description": "For the Fulmini, enough is just never enough. Traveling from planet to planet, draining worlds of their energy, this mighty race of conquerors must siphon energy from other planets in order to keep their own tapped-out planet spinning.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2114147",
         "isclip": false,
         "typesort": "2",
@@ -4219,7 +4423,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "964d8bf5a1d75ce604cd95dec01e467f05df4735",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052835",
@@ -4260,7 +4466,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "976ba0c1c8c3c87de7dd96eb87bf2d2c898c3d1a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079390",
@@ -4301,7 +4509,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "97b43fd05f719162e46f09313387a5f9a64be67c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095185",
@@ -4317,7 +4527,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Ben and his arch-enemy Billy Billions clash in a duel for supremacy at the world's largest Laser Tag Park, LASER TOWN. But, when Billy inadvertently ignites a robot rebellion, and the lasers are set from tag to disintegrate, their childish game escalates into a full blown war! The two foes find that they must set aside their petty differences and team up in order to make it out alive, let alone save the day!",
-        "duration": 695,
+        "duration": 696,
         "freewheelid": "cn-2088593",
         "isclip": false,
         "typesort": "1",
@@ -4342,7 +4552,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "993d6080ae79c9db317b1f0081c07f4ed20bb968",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1008291900017406",
@@ -4358,7 +4570,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "During one last stop by a toy store before Ben, Gwen, and Grandpa Max's maiden voyage across the Atlantic, Ben runs into an old bully, Kevin 11, who now has new powers. He's able to transform into aliens just like Ben, such as the \"bootleg\" doppelg\u00e4nger of Cannonbolt\u2014 Wreckingbolt!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2141432",
         "isclip": false,
         "typesort": "1",
@@ -4383,7 +4595,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "994ab45e4d7580a375f515cb6b7b3174ffcb7cdc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079382",
@@ -4424,7 +4638,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "998111b765e7284ec19ffbfc3cf88ff902d1d4fc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052881",
@@ -4440,7 +4656,7 @@
         "type": "short",
         "active": true,
         "description": "Ben 10 character designer, Chap Yaep, shows you how to draw Four Arms.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2133114",
         "isclip": false,
         "typesort": "2",
@@ -4465,7 +4681,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "9ba0c67ef03b3aa265fb6a0de1d4376cc20eb834",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095195",
@@ -4481,7 +4699,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "While Ben, Gwen, and Max hike to a waterfall, the Bugg Brothers are back with a plan to duplicate Diamondhead; but when their cloning ray gun fires on Max instead, multiplying him endlessly, Gwen and Ben must round up all the Maxes while also fighting off the Bugg Brothers.",
-        "duration": 694,
+        "duration": 695,
         "freewheelid": "cn-2088591",
         "isclip": false,
         "typesort": "1",
@@ -4506,7 +4724,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "9e58ca75e20b86a6e89fdad7d89718a398260594",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052834",
@@ -4547,7 +4767,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "9e80bc509a713738850ad737695279392a3a6152",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009181900021261",
@@ -4563,7 +4785,7 @@
         "type": "short",
         "active": true,
         "description": "Find out how Ben first discovered the Omnitrix, the mysterious watch that turns him into 10 awesome alien heroes!",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2211249",
         "isclip": false,
         "typesort": "2",
@@ -4588,7 +4810,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "a44598d236313ff000df3d7a75f4b331b668cedc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052886",
@@ -4604,7 +4828,7 @@
         "type": "short",
         "active": true,
         "description": "Kinet, a planet dominated by electrical storms, is home to the lightning quick Kinecelerans! To combat the inclement weather, younglings must complete the Running of the Gauntlet, a most epic retrieval of the gliders worn on their feet. Traversing the desolate terrain at high speeds to reach the lair of a Kinet Molluscarx, the young ones must obtain the creature's precious pearl if they are to fulfill this Kineceleran rite of passage.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2104627",
         "isclip": false,
         "typesort": "2",
@@ -4629,7 +4853,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a83cc65b9784bfca89b1155a0ad35000b09f6734",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006111900098705",
@@ -4670,7 +4896,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a8c439213773eda711cf9558007af4078be10cb8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095169",
@@ -4686,7 +4914,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Max drags the kids to see a defunct \"House of the Future\" built by his childhood idol, Ben discovers Steam Smythe is busy excavating the joint on the search for a powerful device that will allow him to create devastating weapons for his war on progress. Only Max's devotion to his childhood idol and Ben's faith in dreams can save tomorrow... today!",
-        "duration": 693,
+        "duration": 694,
         "freewheelid": "cn-2088589",
         "isclip": false,
         "typesort": "1",
@@ -4711,7 +4939,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ab8573d4e0ae179f4f32976a39d72d4dee2cd747",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006111900098704",
@@ -4752,7 +4982,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "aca67f23e5b27427e4e23b2f859bab3bab6ae279",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001575",
@@ -4768,7 +5000,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Ben, Gwen, and Grandpa Max next travel to Castle Bishopbrook to visit a distant relative who's royalty, but when Ben encounters a \"ghost\" at the haunted home, it turns out to actually be his new rival, Kevin 11, throwing even more twisted aliens his way: Thornblade, Undertow, and Dark Matter!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2141435",
         "isclip": false,
         "typesort": "1",
@@ -4793,7 +5025,9 @@
         "expdateasmilliseconds": "1577768400000",
         "mediaid": "aef32daea82ce38beeb8746d6b0512716c43f5b9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079392",
@@ -4809,7 +5043,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When a cavity forces Ben to the dentist his day gets even worse when the malevolent magician Hex uses a nearby dream catcher to bring our hero's fears to life and transports them both to a nightmarish dreamscape.  ",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2094717",
         "isclip": false,
         "typesort": "1",
@@ -4834,7 +5068,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b04aeceff64fc3a50a738d320a9f6420480d541d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1007261900009730",
@@ -4850,7 +5086,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "While visiting China, Ben, Gwen, and Grandpa Max take a trek to the Great Wall, but their adventure is nearly ruined by daredevils LaGrange and Vin Ethanol trying to jump the international monument, and Ben must hop into the Rustbuggy to chase away the fast and furious foes.\n",
-        "duration": 675,
+        "duration": 676,
         "freewheelid": "cn-2160343",
         "isclip": false,
         "typesort": "1",
@@ -4875,7 +5111,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b12972ed2618c781dda6bbd24c64bd2f0bbdd64b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095193",
@@ -4916,7 +5154,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b3bd5f2e34a2e20efc3e0ff3ebc69c7e332ce898",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079433",
@@ -4932,7 +5172,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "While touring a space museum, Ben's excitement multiplies when he learns that recently discovered space stuff is being examined inside the museum's lab. Once the stuff comes to life and the shape-shifting goo replicates our hero, Ben must look within if he is to stop the case of mistaken identity.",
-        "duration": 675,
+        "duration": 676,
         "freewheelid": "cn-2094730",
         "isclip": false,
         "typesort": "1",
@@ -4957,7 +5197,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b463e49d5a8bb756f387b7ee973ef039c32e7e30",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052854",
@@ -4973,7 +5215,7 @@
         "type": "short",
         "active": true,
         "description": "A look at the perilous lengths to which the Tetramands must go in order to forge their formidable Warspears\u2014 the weapons that allow them to survive in such a savage wilderness.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2114141",
         "isclip": false,
         "typesort": "2",
@@ -4998,7 +5240,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b61b8918b5327d35e9fef486277f21d75249a880",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006241900001582",
@@ -5014,7 +5258,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "During a tour of the Japanese Robotics Museum, Ben finds hero-gone-wrong Tim Buktu \"trying to save\" Tokyo from a Dragon. Has Tim finally turned over a new leaf, or is this just another one of his half-baked plans to play the part of hero?",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2152890",
         "isclip": false,
         "typesort": "1",
@@ -5039,7 +5283,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b62e304a17a8d7e880e4dec675bcdf680549e06f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079436",
@@ -5055,7 +5301,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After stumbling upon a cute cat-dog-rabbit creature hybrid, or \"Cadobbit,\" Ben ignores Grandpa Max's advice and sneaks the animal onto the Rustbucket, but is quickly in over his head as Dr. Amino's creation turns on him!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2094711",
         "isclip": false,
         "typesort": "1",
@@ -5080,7 +5326,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b84d5258e4b70fdabdf91e55865a313e20b6493b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029153",
@@ -5121,7 +5369,9 @@
         "expdateasmilliseconds": "1572685140000",
         "mediaid": "bb6e3f4dc080b866cb5f11b73d69c3689a6fd7ed",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095189",
@@ -5162,7 +5412,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "bc0814c2c83ede1d84c95e25b75f78a980fddfb1",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052880",
@@ -5178,7 +5430,7 @@
         "type": "short",
         "active": true,
         "description": "Ben 10 character designer, Chap Yaep, shows you how to draw Diamondhead.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2133110",
         "isclip": false,
         "typesort": "2",
@@ -5203,7 +5455,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "be1001af4347960a8f743bc326d38cc41dade262",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052840",
@@ -5219,7 +5473,7 @@
         "type": "short",
         "active": true,
         "description": "Watch the best videos featuring Ben transforming into Diamondhead starting with Ben and his arch enemy Billy Billions clashing in a duel for supremacy at the world's largest Laser Tag Park - LASER TOWN. Also, learn more about Diamondhead's Planet and how to draw this dynamic alien.",
-        "duration": 2670,
+        "duration": 2671,
         "freewheelid": "cn-2133423",
         "isclip": false,
         "typesort": "2",
@@ -5244,7 +5498,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "bfc043e5ca88c0de55664c0137fcee3e004156f6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1007301900010458",
@@ -5260,7 +5516,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "While winning big on a Sumo Slammers video game, Ben gets the idea to win a wrestling match for real until an intimidating wrestler named Iron Kyle decides to make it a true challenge.",
-        "duration": 693,
+        "duration": 694,
         "freewheelid": "cn-2085317",
         "isclip": false,
         "typesort": "1",
@@ -5285,7 +5541,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "c1dcb802db433e1df95a4772c3d2289bf907c108",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052884",
@@ -5301,7 +5559,7 @@
         "type": "short",
         "active": true,
         "description": "Ben 10 character designer, Chase Standley, shows you how to draw Wildvine.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2133120",
         "isclip": false,
         "typesort": "2",
@@ -5326,7 +5584,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "c4155d2bdc0b810ff1a65634c62d2ca453b0d9ed",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025366",
@@ -5342,7 +5602,7 @@
         "type": "short",
         "active": true,
         "description": "A Kineceleran delegation visits Pyros to discuss diplomacy and ends up in a heated game of Fireball, the Pyronites' planetary pastime, now kicked up a notch thanks to their speedster guests.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2175362",
         "isclip": false,
         "typesort": "2",
@@ -5367,7 +5627,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "c6fa3f029a6ab3b730479ab1ae9862d0ce0df372",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1007261900009734",
@@ -5383,7 +5645,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "While taking in the sights and sounds of a Rio de Jenaro music festival, Ben bristles at Gwen's suggestion that she be his new sidekick, but when the festival is threaten by the supersonic sound waves of Lord Decibel, our hero must lean on help from some familiar faces: DJ Gpa and Gwen-Cat!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2168987",
         "isclip": false,
         "typesort": "1",
@@ -5408,7 +5670,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "c818a6f42bdadcb65b5d7ffd5aebf36303a84c04",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010011900024813",
@@ -5424,7 +5688,7 @@
         "type": "short",
         "active": true,
         "description": "In the wake of civil war, the Petrosapiens, Subsapiens, and Antrosapiens unite against a new, unknown adversary invading their home world: the ferocious Fulmini!",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2175363",
         "isclip": false,
         "typesort": "2",
@@ -5449,7 +5713,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "c8a17ca56e71f0a2ae236d2c64aabe2966e7748e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009091900019537",
@@ -5490,7 +5756,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "c9be92b505053967f3f25c206e4dc3533b624231",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009031900018006",
@@ -5531,7 +5799,9 @@
         "expdateasmilliseconds": "1577768400000",
         "mediaid": "c9bff99284106636a6d935c9820542fdade0f1e5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1007301900010468",
@@ -5572,7 +5842,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "cc0ee19db7b7049ebf3ee994ce7ca6db0523d813",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052883",
@@ -5613,7 +5885,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "cc0f6889da07b9d18965b6a9293b0015dd778bea",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079387",
@@ -5629,7 +5903,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "As the Tennyson trio dig up dinosaur fossils in the Badlands, Ben is unaware that Vilgax and Dr. Amino have teamed up to steal alien DNA from within the Omnitrix, but once extracted, Vilgax double crosses his fellow villain. Ben must now join forces with the evil doctor to have a chance to defeat the big baddie, but can Dr. Amino be trusted?",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2094719",
         "isclip": false,
         "typesort": "1",
@@ -5654,7 +5928,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "cc6f24e7ba99c5c58cd89458611c2fc0242c4809",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052885",
@@ -5670,7 +5946,7 @@
         "type": "short",
         "active": true,
         "description": "Ben 10 character designer, Chap Yaep, shows you how to draw Overflow.",
-        "duration": 45,
+        "duration": 46,
         "freewheelid": "cn-2133121",
         "isclip": false,
         "typesort": "2",
@@ -5695,7 +5971,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ceb47cf0f8544a7156386e6e329d50c17e60073e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095177",
@@ -5711,7 +5989,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "During a tour of historic Oldeville Ben finds a rare Sumo Slammers card, but when Billy Billions comes to claim the same card Ben has to battle Billy's high-tech drones which have hijacked the Rust Bucket!",
-        "duration": 693,
+        "duration": 694,
         "freewheelid": "cn-2085321",
         "isclip": false,
         "typesort": "1",
@@ -5736,7 +6014,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "cedb398735736289dfc56a75856367ee37337470",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052876",
@@ -5752,7 +6032,7 @@
         "type": "short",
         "active": true,
         "description": "Ben 10 character designer, Chap Yaep, shows you how to draw XLR8.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2133115",
         "isclip": false,
         "typesort": "2",
@@ -5777,7 +6057,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d0ff367d122511e5ea3c1bf50feb36b50b956c57",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026435",
@@ -5818,7 +6100,9 @@
         "expdateasmilliseconds": "1573293540000",
         "mediaid": "d1b7540207dd6bf44c684b95868c6cc5a7e2d3d0",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1007301900010462",
@@ -5859,7 +6143,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d40e294ce488baa4252ace74c028a91e2d88351f",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1007261900009732",
@@ -5875,7 +6161,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When a mysterious electrical storm downs the Omni-Copter at the Equator, Team Tennyson soon discovers Solar & Polar are behind it, but when Ben accidentally combines the two into a more powerful Uni-Twin, our hero must think fast if he is going to save the planet!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2162790",
         "isclip": false,
         "typesort": "1",
@@ -5900,7 +6186,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "d489d352998b737308a91f63ff984aaf57c9471d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052842",
@@ -5916,7 +6204,7 @@
         "type": "short",
         "active": true,
         "description": "Watch the best videos featuring Ben transforming into XLR8 starting with Ben, Gwen and Max visiting their favorite amusement park, AdrenaWorld! Unfortunately, the park's new management is Zombozo and his trio of henchmen! Also, learn more about XLR8's Planet and how to draw this speedy alien.",
-        "duration": 2768,
+        "duration": 2769,
         "freewheelid": "cn-2133426",
         "isclip": false,
         "typesort": "2",
@@ -5941,7 +6229,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d4d97eac235e21dfddb7514d851d2c1d69001b17",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079428",
@@ -5982,7 +6272,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d786ca4eee6c23216fa0beee101c36995dc76f4e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079425",
@@ -6023,7 +6315,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d7c9313b96043dd0725e05790375705747f8724d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095179",
@@ -6064,7 +6358,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d812d87074577bd25481ffee21f777b4cf779d79",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025372",
@@ -6105,7 +6401,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "da7467eaa2719dfa0c763829cbff21d79944a2cb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052856",
@@ -6121,7 +6419,7 @@
         "type": "short",
         "active": true,
         "description": "Join the Pyronites as they ring in the holidays with a special tradition that would make even the most warm-blooded of visitors go crazy from the heat\u2014 racing to the top of Mount Helios, an active volcano!",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2114143",
         "isclip": false,
         "typesort": "2",
@@ -6146,7 +6444,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "dc012ca96dcaa8e299fec17666158cf4cd50e04c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079419",
@@ -6187,7 +6487,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "dc91e53811a5fbd5d610ca44cd11dc6254da9676",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009091900019539",
@@ -6228,7 +6530,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ddfa51091f07af580b6822ef264cf1be7b52abc1",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079385",
@@ -6269,7 +6573,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e1810210cd8f58cc01257a7e654a2603481c6bb7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025365",
@@ -6285,7 +6591,7 @@
         "type": "short",
         "active": true,
         "description": "After centuries of failing to break their own land-speed records, the Kinecelerans put an end to \"The Slow Age\" by teaming up with the Arburian Pelarotas.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2175361",
         "isclip": false,
         "typesort": "2",
@@ -6309,7 +6615,9 @@
         "expdateasmilliseconds": "1578391140000",
         "mediaid": "e3889cfd068e7b113d6e230da5b5eccc28b75537",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052878",
@@ -6325,7 +6633,7 @@
         "type": "short",
         "active": true,
         "description": "Ben 10 character designer, Chap Yaep, shows you how to draw Cannonbolt.",
-        "duration": 46,
+        "duration": 47,
         "freewheelid": "cn-2133117",
         "isclip": false,
         "typesort": "2",
@@ -6350,7 +6658,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e3b469927c671c6fc9ccb23f7721221a2f9b4f81",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052889",
@@ -6366,7 +6676,7 @@
         "type": "short",
         "active": true,
         "description": "Flors Verdana, green with vegetation, is as wild and abundant as the Florauna that inhabit it. Let's take a walk on the wild side as the plant-based aliens trade admiring the planet's lush beauty for the dangerous thrill of waking a sleeping giant.",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2104631",
         "isclip": false,
         "typesort": "2",
@@ -6391,7 +6701,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e41d82f6e82a2d131e066b23821f62c8579c6a7f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052862",
@@ -6407,7 +6719,7 @@
         "type": "short",
         "active": true,
         "description": "Arburia is well-known across the galaxy for its beach season but this year's interplanetary vacationers won't be catching many waves if the Pelarotas can't rid their waters of an unwanted visitor: the Carcharadon, a billion-toothed beast that makes Jaws look like canned tuna!",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2114149",
         "isclip": false,
         "typesort": "2",
@@ -6432,7 +6744,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e560f8457227e4d1c06882365aba4fcd0d461e7b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025368",
@@ -6473,7 +6787,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "e59f346730683618ef8fbe55d24e6a143d5f5d4a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095197",
@@ -6489,7 +6805,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Ben approaches Geezer Bob about doing a little yard work to earn spending money, but when Ben goes Upgrade to transform the lawnmower into a super fast mowing machine, he accidentally draws the ire of Bob's gnome-neighbors, the tiny, terrifyingly tenacious Billy-Bob Goblins.",
-        "duration": 694,
+        "duration": 695,
         "freewheelid": "cn-2086226",
         "isclip": false,
         "typesort": "1",
@@ -6514,7 +6830,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "eb4a576f7d11ee38b25f4288609e1b49341e6e7f",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095201",
@@ -6530,7 +6848,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When the Rust Bucket runs out of gas on a foggy East Coast road, Ben, Gwen and Max are forced to stay at a hotel being menaced by Creepy Carl, a local folklore expert, who may actually be a ghost!",
-        "duration": 694,
+        "duration": 695,
         "freewheelid": "cn-2088586",
         "isclip": false,
         "typesort": "1",
@@ -6555,7 +6873,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ed3f516804e8b0375081b50fefd66f2b7af62eff",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005291900095187",
@@ -6596,7 +6916,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ef32ef41111e95033f2d00fa1e255d41f43a0c2d",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1007301900010472",
@@ -6637,7 +6959,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "f799a7f306143d475b0fcbd454c16d20d6113aa8",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012141800052837",
@@ -6653,7 +6977,7 @@
         "type": "short",
         "active": true,
         "description": "Watch the best videos featuring Ben transforming into Cannonbolt starting with Ben, Gwen and Grandpa Max hiking to a waterfall and encountering the Bugg Brothers and their cloning ray gun. Also, learn more about Cannonbolt's Planet and how to draw this explosive alien.",
-        "duration": 2726,
+        "duration": 2727,
         "freewheelid": "cn-2133428",
         "isclip": false,
         "typesort": "2",
@@ -6678,7 +7002,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "f871f5639458e9757bc559b457d4b54540bbd0c0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1007261900009728",
@@ -6719,7 +7045,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "fd95be9c8ca346b585881568924c061968c018c1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1004081900079430",
@@ -6760,6 +7088,8 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ffef287c3eef727300305d91ab91315ad5effc12",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]
