@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Victor sets up a haunted corn maze, but the town kids think it's lame. Vic decides to make the maze scarier by enlisting the help of El Silbon (The Whistler) to really scare the kids, but El Silbon has plans of his own.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2196836",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1573898363000",
   "mediaid": "266d73f46441d0db00b4a32ee58e93e6947ff5cb",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

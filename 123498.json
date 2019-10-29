@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang helps a professor set up an ancient Egypt exhibit but the star of the display keeps vanishing.",
-  "duration": 1320,
+  "duration": 1321,
   "freewheelid": "cn-123498",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071179000",
   "mediaid": "3c844cf4fea55d4640a860dc910b944ca694862c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

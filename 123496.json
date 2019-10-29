@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A ghost clown haunts a small circus, using hypnotism to bend locals to his will.",
-  "duration": 1315,
+  "duration": 1316,
   "freewheelid": "cn-123496",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071179000",
   "mediaid": "51331df5e9091088621995c74d4d2650d6111d86",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

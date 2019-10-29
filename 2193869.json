@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "In order to prove their bravery, V&V head to a haunted island to retrieve a special doll, but Charlene and Pineapple are intent on getting it first.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2193869",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1573898363000",
   "mediaid": "1d6e4de2c06cf1bb30b302245c5ebb4adf842480",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

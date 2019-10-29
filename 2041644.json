@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Titans are having a terrible time on their camping trip so Robin suggests that they each tell a scary campfire story.",
-  "duration": 650,
+  "duration": 651,
   "freewheelid": "cn-2041644",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1572595140000",
   "mediaid": "0a80a59c7b374a36b11d4d67373cf76ab8dd0988",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

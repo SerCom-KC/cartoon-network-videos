@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A phantom interrupts Shaggy and Scooby's performance on a TV dance show.",
-  "duration": 1323,
+  "duration": 1324,
   "freewheelid": "cn-123511",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071179000",
   "mediaid": "f1db0345615cc970523cfb1d4d1689f0cf491e15",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

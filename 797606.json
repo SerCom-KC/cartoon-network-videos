@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Royal Knights Faire has come to Crystal Cove and the whole gang is in attendance. Unfortunately, so is a scary gnome who has begun attacking and paralyzing guests. Specifically, guests who are wearing pirate costumes. The gang decides to help trap the gnome. But when Shaggy, who is dressed as a pirate along with Scooby, is captured by the frightening little beast, it quickly becomes a race against time to find him or Scooby could lose his best buddy forever.",
-  "duration": 1358,
+  "duration": 1359,
   "freewheelid": "cn-797606",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071174000",
   "mediaid": "1568f362de09e122bde91a9d2918537ddf7c5b7a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

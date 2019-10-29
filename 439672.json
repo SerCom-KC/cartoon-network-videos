@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang travels to a mountain resort in Tibet to watch a snowboarding competition. They end up investigating rumors of a snow creature that is attacking the participants.",
-  "duration": 1263,
+  "duration": 1264,
   "freewheelid": "cn-439672",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "4b9693b3c6b51ec42fe19c48a274ac947e68c436",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

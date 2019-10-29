@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "An amusement park full of extreme rides is haunted by the Roller Ghoster, a speed-happy spectre who frightens patrons off the thrill rides.",
-  "duration": 1258,
+  "duration": 1259,
   "freewheelid": "cn-439678",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "dc753ce4c921dcb8a82c7ce67506211ee4933c53",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang goes to Fort Knox Army Base to visit the secret six puppies and encounters a solid gold ghoul!",
-  "duration": 1268,
+  "duration": 1269,
   "freewheelid": "cn-611122",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "57afe49c33443cc71c99a5a1f540f2e856f474e3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

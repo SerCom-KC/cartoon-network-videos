@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "While visiting the hex girls at a Transylvania Castle, the gang runs into a real-life vampire.",
-  "duration": 1267,
+  "duration": 1268,
   "freewheelid": "cn-541489",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "f752f28552717f0d2a7d48ee308b91ed8211a83c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

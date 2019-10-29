@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Scooby-Doo and the gang return to Coolsville for Valentine's Day, they discover teenagers are being kidnapped from Lover's Lane and they are the prime suspects. To make matters worse, Shaggy learns his former girlfriend is dating JC Chasez!",
-  "duration": 1212,
+  "duration": 1213,
   "freewheelid": "cn-608284",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "22623879d6bad7f1d7940cc602aed4d681ab84f6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A big star's debut concert in new Las Vegas is sabotaged by a ghost from old Las Vegas.",
-  "duration": 1264,
+  "duration": 1265,
   "freewheelid": "cn-439677",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "3bc416013541d6b7bf7d0e200125e9a69ac042c8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

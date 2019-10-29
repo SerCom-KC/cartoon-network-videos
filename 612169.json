@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang visits Velma's relatives during a Halloween festival headlined by Kiss but the festivities are interrupted by the ghost of the town's founder and a bevy of living scarecrows.",
-  "duration": 1307,
+  "duration": 1308,
   "freewheelid": "cn-612169",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "85e719fd90574216c0fbaedd0e2ae6aec60ef252",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

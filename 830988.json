@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mayor Jones is under attack by a poltergeist in his own home and the only ones who can help him are the Scooby gang.",
-  "duration": 1343,
+  "duration": 1344,
   "freewheelid": "cn-830988",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071174000",
   "mediaid": "b7404851d1c0c936f8d8013469d468ce12b34870",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

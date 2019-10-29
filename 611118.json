@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The ghost of a Russian hockey player shows up to ruin the international world cup hockey event.",
-  "duration": 1254,
+  "duration": 1255,
   "freewheelid": "cn-611118",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "df5bdc18e33656ae92550d8948894f7428e5c76e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

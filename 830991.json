@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The mystery comes to a close. The Scooby gang finally gets to the bottom of what happened to the original Mystery Incorporated and why they disappeared.",
-  "duration": 1358,
+  "duration": 1359,
   "freewheelid": "cn-830991",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071174000",
   "mediaid": "3ab6e389c0cedb62b687268a8737ad95f2c980cf",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

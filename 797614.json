@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Love has come to Crystal Cove. Love in the form of an evil woman by the name of Aphrodite.",
-  "duration": 1243,
+  "duration": 1244,
   "freewheelid": "cn-797614",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071174000",
   "mediaid": "686e9f349212178d3c7d04803415e50a97f75ebe",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Vic gets sick and is stuck in his room, he spies on Pineapple and becomes convinced that Pineapple is creating an army of zombie cats. Val agrees and the two become obsessed with stopping Pineapple before it's too late!",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2193872",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1573898363000",
   "mediaid": "e1005054c296ed3582675ffa962d3d028285d214",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

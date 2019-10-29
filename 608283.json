@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang's in Hong Kong when a festive fake dragon comes to life and rampages!",
-  "duration": 1274,
+  "duration": 1275,
   "freewheelid": "cn-608283",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "ca0ec60b10dfa322f63e46130f7bf1e4fd826342",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Shaggy competes in a mini golf tournament that is terrorized by a giant metallic clown.",
-  "duration": 1280,
+  "duration": 1281,
   "freewheelid": "cn-611119",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "869239242f96aa6049f0bf6efbe80203e9698f0f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

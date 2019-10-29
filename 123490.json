@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang explores a mining town and investigate a phantom miner, who's driving the business away from a nearby dude ranch.",
-  "duration": 1323,
+  "duration": 1324,
   "freewheelid": "cn-123490",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071179000",
   "mediaid": "72345b089f446aee1cfc0ae2a2a2252912796392",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

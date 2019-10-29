@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Velma's favorite band, the Hex Girls, is in town and the gang has a front row seat. Unfortunately, so does an evil specter named The Phantom, who wants the Hex Girls out of the music business permanently! Solution? Send Daphne undercover as Crush, the newest member of the band. But when she's nabbed by the Phantom, Fred goes into freakout mode finally realizing he actually has feelings for Daphne. Meanwhile, Scooby and Shaggy are having their own problems due to Shaggy spending too much time with Velma. His solution: replace Shaggy with a puppet.",
-  "duration": 1360,
+  "duration": 1361,
   "freewheelid": "cn-797605",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071174000",
   "mediaid": "1b31437376d106ae9e9b1ef4f916f358df6982f6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Mystery Inc. gang travels to Egypt, where a mummy is on the loose and turning everyone into Zombies on an archaeological dig.",
-  "duration": 1242,
+  "duration": 1243,
   "freewheelid": "cn-541350",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "1800e5f17ead96a3dc26ea634c36b97da939820e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A rowdy Orc Biker Gang has decided to roll through Crystal Cove and no one is very happy about it.",
-  "duration": 1308,
+  "duration": 1309,
   "freewheelid": "cn-797613",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071174000",
   "mediaid": "bfa2862d670a71fe61acd831887ee782bad5a347",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

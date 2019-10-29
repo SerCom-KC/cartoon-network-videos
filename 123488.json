@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Scooby and the gang become mixed up in a mystery when he surfs into what appears to be the ghost of Captain Cutler.",
-  "duration": 1330,
+  "duration": 1331,
   "freewheelid": "cn-123488",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071179000",
   "mediaid": "320b6f0fc4922ae98d7f15f73a6b3ea04dec6b3d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

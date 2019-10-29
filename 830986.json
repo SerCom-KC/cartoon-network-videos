@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After the Mayor purchases a haunted temple off the internet, Crystal Cove's only theme park, Creepy Spooky Terror Land, is besieged by a Manticore.",
-  "duration": 1338,
+  "duration": 1339,
   "freewheelid": "cn-830986",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071174000",
   "mediaid": "be7a1c91cc19c485b412cab5969d1c9f2a3beb00",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

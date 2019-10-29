@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang goes camping and stumbles across a lonely graveyard and an empty tomb, whose missing inhabitant was suspected of being a werewolf.",
-  "duration": 1322,
+  "duration": 1323,
   "freewheelid": "cn-123510",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071179000",
   "mediaid": "e4c18ce0a22eb1ced162a974ee0b0f53bcd7751e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

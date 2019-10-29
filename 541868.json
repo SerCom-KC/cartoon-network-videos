@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "While traveling to the Montreal Rock Festival, Scooby and company rescue the band Simple Plan from an invisible madman.",
-  "duration": 1259,
+  "duration": 1260,
   "freewheelid": "cn-541868",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "45139a60f533b4650fc5792afcc47413ee89f811",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

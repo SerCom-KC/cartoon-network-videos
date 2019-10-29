@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A zombie walks in front of the Mystery Machine as the gang heads into the bayou for a fishing trip, leading to a real witch hunt.",
-  "duration": 1323,
+  "duration": 1324,
   "freewheelid": "cn-123499",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071179000",
   "mediaid": "eec895e0965d68a959083c879ccd868950e2ccb5",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

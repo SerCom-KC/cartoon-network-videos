@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Bugs are taking over Crystal Cove and attacking some of its most prominent citizens. With Mystery Inc. back together as a team, they begin to investigate and discover all of the attacks have been on employees of a company called Destroido that makes Shaggy and Scooby's favorite snack food - Granma Moonbeams Nature Slivers. Somebody or something wants the company shut down. But when the gang gets too close to the truth, they become the bug's newest target. Of course, the timing couldn't be worse because this just happens to be the moment Fred has decided to make his move on Daphne and finally ask her out. That ain't gonna happen, though, if there are a bunch of bugs trying to kill them.",
-  "duration": 1308,
+  "duration": 1309,
   "freewheelid": "cn-797611",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071174000",
   "mediaid": "3314196ac4714e9d4e5e59cf5a7bc4b7e2b673f6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

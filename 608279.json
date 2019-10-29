@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Mystery Inc. gang visits a robot resort for living out Western movie fantasies. Then the robots turn on the gang.",
-  "duration": 1269,
+  "duration": 1270,
   "freewheelid": "cn-608279",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "06ae1777e424f5ed9682a5d41b86b967ed1c3323",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

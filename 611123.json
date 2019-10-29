@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Videogame characters come to life and menace the Mystery Inc. gang while they attend a gaming convention.",
-  "duration": 1265,
+  "duration": 1266,
   "freewheelid": "cn-611123",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "b90590113858d43f69179a073bbf64c3401d3127",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

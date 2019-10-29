@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang's Italian vacation is interrupted by misdeeds in the ancient city of Pompeii, leading to an ominous visit into the mouth of the maybe not-so-dormant volcano Vesuvius.",
-  "duration": 1247,
+  "duration": 1248,
   "freewheelid": "cn-439683",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "49733f403c62ff22d298615d1ad2b6d9fb6dcf75",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

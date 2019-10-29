@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The spectre of a famous ballplayer appears to stop a current home run hitting star from breaking his record.",
-  "duration": 1270,
+  "duration": 1271,
   "freewheelid": "cn-439684",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "d687e8902f45c25204b82fe4a193b82dbec59d02",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

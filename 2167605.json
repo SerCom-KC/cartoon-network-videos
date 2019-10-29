@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Vic cheats on an enchanted board game, the malevolent characters come to life, and it's up to V & V to figure out how to put them back in the game.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2167605",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "117e13200de4eff7e8cd06111ef58ebfe4b2ecda",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

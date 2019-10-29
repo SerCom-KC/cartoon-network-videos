@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang travels to Tokyo, Japan. A mystical person zaps a pizza with a monster-transformation spell and Shaggy eats the pizza! He starts to grow into a Godzilla-like monster whenever he goes to sleep and he starts eating everything in sight.",
-  "duration": 1268,
+  "duration": 1269,
   "freewheelid": "cn-541926",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "701d793bf4244cc99f7cdafeee0a5323266ca76c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

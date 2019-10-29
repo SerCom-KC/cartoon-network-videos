@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang attends a Renaissance Faire, where a dragon interrupts their fun!",
-  "duration": 1268,
+  "duration": 1269,
   "freewheelid": "cn-541349",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "39048a634bfb29743cd9513d8a1a961252e0d84c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

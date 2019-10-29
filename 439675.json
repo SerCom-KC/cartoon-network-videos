@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The ghosts of two rival Civil War soldiers haunt a New Orleans necropolis.",
-  "duration": 1268,
+  "duration": 1269,
   "freewheelid": "cn-439675",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "d0ca98c21dfa89a1ea5e7a767bebf0f658d2694c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

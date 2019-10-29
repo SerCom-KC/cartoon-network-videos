@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A medallion Shaggy wears apparently causes an ancient myth to come to life as the Mystery Inc. gang travels in Greece.",
-  "duration": 1264,
+  "duration": 1265,
   "freewheelid": "cn-541478",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "d9e092ca069a0f44789c15e245dc042b0cb8b2cb",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

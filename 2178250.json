@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Val holds a grudge against Vic, unwittingly attracting an evil cadejo, a mythological wolf-like beast.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2178250",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1585540799000",
   "mediaid": "d6efe7549eab9fccd8244470b3de683e34e80716",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

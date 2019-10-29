@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "While visiting a space center, a mysterious alien egg hatches. The gang must stop this shape-shifting creature before NASA's shuttle mission is aborted.",
-  "duration": 1269,
+  "duration": 1270,
   "freewheelid": "cn-439673",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "019fefd8645cc33aeeaaf4898c4d7be3b1e92db4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

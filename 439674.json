@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A giant dinosaur, El Oloroso, comes to life and rampages through a museum in Central America.",
-  "duration": 1269,
+  "duration": 1270,
   "freewheelid": "cn-439674",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "b762f163d35ae4fb0bc5bf0fa877f93682d948dc",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

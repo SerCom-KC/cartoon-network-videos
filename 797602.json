@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "While hosting a volleyball tournament for Trickell's Triquid diet moisture, a smooth drinking beverage just like water except not so fatty, Crystal Cove beach finds itself attacked by a hideous man crab, who has taken a liking to the tournament's female players. Desperate to stop this beast before it scares away all the tourists, the gang investigates convinced it is a disgruntled local named Skipper Shelton, famous for his delicious clam filled waffle cones, his missing nose and his hatred for Crystal Cove bureaucrats. But when Daphne is captured by the Man Crab, Scooby and the gang have to put the mystery solving into overdrive or risk losing not only Daphne but the sanity of their leader Fred, who is not taking the abduction well.",
-  "duration": 1339,
+  "duration": 1340,
   "freewheelid": "cn-797602",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071174000",
   "mediaid": "8d1ffbc2319cdc34e4906c8236f4005cc32a51c6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

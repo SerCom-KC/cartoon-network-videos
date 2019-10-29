@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Toys come to life in the local shopping mall, and the gang stays overnight to investigate.",
-  "duration": 1260,
+  "duration": 1261,
   "freewheelid": "cn-439681",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "faee1b07bb9c751a3da00d1943fa3a39aa6810eb",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

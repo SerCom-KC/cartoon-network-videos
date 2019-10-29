@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The kids look for a ghostly bank robber, who seems able to walk through walls.",
-  "duration": 1314,
+  "duration": 1315,
   "freewheelid": "cn-123506",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071179000",
   "mediaid": "1f855227e2a9c440610899a30938493f01fd80f3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

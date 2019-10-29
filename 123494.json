@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The gang investigates a haunted seaside amusement park.",
-  "duration": 1323,
+  "duration": 1324,
   "freewheelid": "cn-123494",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071179000",
   "mediaid": "8a2112fe652f41f3d83f537baa59c4be62469465",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

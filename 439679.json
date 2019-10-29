@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Daphne's video safari goes in search of disappearing African animals and gets derailed by animalistic demons.",
-  "duration": 1263,
+  "duration": 1264,
   "freewheelid": "cn-439679",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "12ca13bcccf2161347ba6222e5504e6cee03ccf8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

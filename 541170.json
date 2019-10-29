@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Mystery Inc. gang gets trapped in an automated house of the future that goes berserk.",
-  "duration": 1263,
+  "duration": 1264,
   "freewheelid": "cn-541170",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1577095157000",
   "mediaid": "eab0d4f683876f31ec1c4a6f076399d11f46ded9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Fred's favorite adventurer, Rick Spartan, has come to town to take over the school's biology class.",
-  "duration": 1346,
+  "duration": 1347,
   "freewheelid": "cn-830987",
   "isclip": false,
   "typesort": "1",
@@ -37,5 +37,7 @@
   "expdateasmilliseconds": "1574071174000",
   "mediaid": "7549807cc9b38d1ac637751e303a9951ba62411d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
