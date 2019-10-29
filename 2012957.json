@@ -13,7 +13,7 @@
         "type": "short",
         "active": true,
         "description": "Everything Clarence comes into contact with sticks to his body - a pen, a can of beans, even one of his chickens! Eventually, Clarence becomes the center of a big ball of objects.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2086505",
         "isclip": false,
         "typesort": "2",
@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "02690f94aecc734f1c08542bc6838cb4f2f60733",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065031",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "03c1b12856321afff0ebab903ed97f8e39d35138",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065028",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "1432ac17d06b95def7cdcd22ec613f7757575fa0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021708",
@@ -136,7 +142,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Clarence's first night home alone spirals out of control, forcing Clarence and his pals to wage war against their own home security measures.",
-        "duration": 684,
+        "duration": 685,
         "freewheelid": "cn-2014452",
         "isclip": false,
         "typesort": "1",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "167b7dcc76fb42ecd99b51d122996d887405401c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006111900098727",
@@ -177,7 +185,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After a marathon of classic sitcom episodes, Clarence becomes stuck as alter-ego \"Clarry,\" an obnoxiously overacting sitcom version of himself. It's up to his friends and family to help him snap out of it, or face life with a new Clarence.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2088663",
         "isclip": false,
         "typesort": "1",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "16b0a1ecaaedc676b30a332ecdf70cb6b644ea0f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006111900098725",
@@ -218,7 +228,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Clarence realizes Sumo has made a new group of friends at his new school, he becomes jealous and confused. Will Clarence accept a school life void of Sumo, or scheme his way into making their friendship work?",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2088664",
         "isclip": false,
         "typesort": "1",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "1c8b32d3a1df16e6bd5cd3cbbee48fea239ddf03",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900064986",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "1d79eae51d0164c15a03fbf5c62a475461d413a1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900064982",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "1fcc8f66d8c11b54d99d47164de1cda6f3a58048",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021695",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "202d30325557f48ed3c26f7b014145c496a6f356",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065017",
@@ -382,7 +400,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Clarence spends a day outside with his toy RC Car, which he names Carla. Eventually convinced Carla has a mind of her own, he decides to follow her to new adventures. Will Clarence's car chase get in the way of Jeff and Sumo's plans for the day?",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2088662",
         "isclip": false,
         "typesort": "1",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "2071a8d2aecfdb04279c8dd122d8cf575c0c1d41",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026426",
@@ -423,7 +443,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Clarence, Jeff and Sumo investigate a high school party down the street, which they mistake for an alien invasion.",
-        "duration": 684,
+        "duration": 685,
         "freewheelid": "cn-2065514",
         "isclip": false,
         "typesort": "1",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "21f2376348512e5e2476f2c74c62a5309008c51b",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026427",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "27001570c95a024687f8f4cad3ddf3bfd702b0b3",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065050",
@@ -505,7 +529,7 @@
         "type": "short",
         "active": true,
         "description": "Sing along to this pinata song written by Simon Panrucker.",
-        "duration": 88,
+        "duration": 89,
         "freewheelid": "cn-2141831",
         "isclip": false,
         "typesort": "2",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "2efc3e868259beff111532447004fe0d181ca823",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900064999",
@@ -546,7 +572,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Clarence feels the call of the wild - and decides to live a new life, free of the hustle and bustle of the modern world. Recruiting a few friends, Clarence sets out to find a new place to live his feral life, but quickly realizes he lacks some basic survival skills.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2088652",
         "isclip": false,
         "typesort": "1",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "33c004215004db7c93e84c6b7480c183397f26ad",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065044",
@@ -587,7 +615,7 @@
         "type": "short",
         "active": true,
         "description": "After talking, passing notes and throwing pencils at the ceiling in class, Ms. Baker separates Clarence and Sumo. They devise ways to communicate to each other from across the room in a series of gags.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2086504",
         "isclip": false,
         "typesort": "2",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "3ada90c7d22475929da2ed77294ad9481660b899",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065023",
@@ -628,7 +658,7 @@
         "type": "short",
         "active": true,
         "description": "Guyler spends a day bird watching in Bendle Park - and makes a new special friend.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2099324",
         "isclip": false,
         "typesort": "2",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "3d3e1c0b401ca5197dcca2a2bacad80e68639e37",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065010",
@@ -669,7 +701,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Clarence is excited for Thanksgiving Dinner with Chad's parents, but Chad is worried that their unusually laid back demeanor and bizarre customs will make him look irresponsible by association.",
-        "duration": 680,
+        "duration": 681,
         "freewheelid": "cn-2088658",
         "isclip": false,
         "typesort": "1",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "3d96d1a318fd49ab3610a8968a7569a0f6e4393f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065037",
@@ -710,7 +744,7 @@
         "type": "short",
         "active": true,
         "description": "In order to get them to notice he's more mature, Clarence draws chest hairs on himself and decides to show them off!",
-        "duration": 147,
+        "duration": 148,
         "freewheelid": "cn-2056360",
         "isclip": false,
         "typesort": "2",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "4042518e2c706d10b04de9ebc4ede73fd02cfe1d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026428",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "443b74ed3443a565f86bd73f9d3efc82042e26ce",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065006",
@@ -792,7 +830,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Mary buys a new trampoline for the family, but an accident lands her on the couch for a while. Determined to fight the boredom of being stuck indoors, she discovers her neighbor may be hiding something exciting.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2088656",
         "isclip": false,
         "typesort": "1",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "4a0cb51820fae068349600be6f3ccb521aadf48d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065047",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "4c0b336ce3a80e4558d9d67896715b329d5cc009",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900064977",
@@ -874,7 +916,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Chelsea accidentally lets her pet cat Crumbles out, the cat goes missing! Reluctant to ask for help, she struggles to find the cat before anyone realizes it's gone. It's up to cat whisperer Clarence to interject and find Crumbles, whether Chelsea wants his help or not!",
-        "duration": 678,
+        "duration": 679,
         "freewheelid": "cn-2088628",
         "isclip": false,
         "typesort": "1",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "50053c9896c741c626dfc56082d455c0db79b0c6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021698",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "54a28f5db71f8fe9f1f0caa34cf185eceae4e8df",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900064976",
@@ -956,7 +1002,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Pieces of Mr. Reese's past are revealed when his old partner on the police force, Officer Moody, visits Aberdale Elementary.\n",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2088631",
         "isclip": false,
         "typesort": "1",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "6470bf455b37e60b3194e31ca4b624b3c264e724",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006111900098724",
@@ -997,7 +1045,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Clarence submits a short story into a creative writing contest, and he's overjoyed when he learns he's accepted as a finalist! But when Jeff finds out Clarence has to attend a formal dinner, he fixates on transforming the messy Clarence into a proper gentleman.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2088661",
         "isclip": false,
         "typesort": "1",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "65aa0dbcc19a918f6c59b583f5658bb1245879f2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065007",
@@ -1038,7 +1088,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Clarence's neighbor Gale recruits him to dog sit for her, he knows it will be a breeze, being the self-proclaimed \"Dog King,\" Clarence knows all there is to know about pups. Nevertheless, Gale's dog proves to be a little more challenging than he expects!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2088655",
         "isclip": false,
         "typesort": "1",
@@ -1063,7 +1113,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "671c25eb74be3e0e25d3409bba8c4dcc8547d2df",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021701",
@@ -1079,7 +1131,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Clarence learns his best friend Sumo may transfer to another school! It's up to Clarence to protest, petition and rally to convince everyone to let Sumo stay - or face losing his closest school pal!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2088625",
         "isclip": false,
         "typesort": "1",
@@ -1104,7 +1156,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "71f2e7ee0a48982a7abf9be2495d4944da1146dc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065025",
@@ -1145,7 +1199,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "72d220f594922065e1187385d87c0561456281aa",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021700",
@@ -1161,7 +1217,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Clarence is convinced he has the power to manipulate time he vows to only use his abilities for good. However, a day at school puts his morals to the test when he's given the ultimate choice to help his friends or pause time in the name of fun.",
-        "duration": 684,
+        "duration": 685,
         "freewheelid": "cn-2065511",
         "isclip": false,
         "typesort": "1",
@@ -1186,7 +1242,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "8385b942e15911490aaf0d7abf4914a37afe393a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021696",
@@ -1227,7 +1285,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "86589b96535f7a0afe8ae793e378ae3dee686843",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900064992",
@@ -1268,7 +1328,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "9227145a7ab88e35f76ca3103d04e069573b3fd8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065001",
@@ -1284,7 +1346,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "In this Halloween adventure, Clarence uses a special jack-o-lantern to enter the world of people's dreams. He discovers that something mysterious is causing his friends to have nightmares, and Clarence needs to stop it!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2088654",
         "isclip": false,
         "typesort": "1",
@@ -1309,7 +1371,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "927145aea82fd2212e366dced9894a520333ff53",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065000",
@@ -1325,7 +1389,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After Clarence accidentally knocks Belson's new video game down a storm drain, Belson enters the large underground sewer tunnel to retrieve it. When Belson doesn't return, Clarence must decide whether or not to go in after him.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2088653",
         "isclip": false,
         "typesort": "1",
@@ -1350,7 +1414,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "92a9443d42a37f734a39ace92248f7b040cee14c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021710",
@@ -1391,7 +1457,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "92bae0f2e930b86211df80fc60ff618b3c016e56",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065039",
@@ -1407,7 +1475,7 @@
         "type": "short",
         "active": true,
         "description": "After learning about King Midas' gold touch during a lesson about Greek Mythology, Clarence daydreams about having a Belson touch that turns anything he touches into Belson.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2086503",
         "isclip": false,
         "typesort": "2",
@@ -1432,7 +1500,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "981c0889ded7a8566ee1da2f46b7889eaf4254bc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065036",
@@ -1448,7 +1518,7 @@
         "type": "short",
         "active": true,
         "description": "Naive Percy invites his strangely quiet classmate Gilben over to play, and to show Gilben his prized ball collection.",
-        "duration": 175,
+        "duration": 176,
         "freewheelid": "cn-2056359",
         "isclip": false,
         "typesort": "2",
@@ -1473,7 +1543,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "993a6c2951c9424c7c956e75f6ca6e55fa167311",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900064981",
@@ -1514,7 +1586,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "a46c22317809ed61a767b8a79bbf4fab7a20f3fb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065008",
@@ -1555,7 +1629,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "a89646ad5298404b8d62364afc4dfbf40364e116",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900064989",
@@ -1596,7 +1672,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "b4e11fd30480a4945c8157bdd91191bc304d2a59",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021709",
@@ -1612,7 +1690,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After Mr. Reese discovers his precious car smeared with meatball sauce, he pulls out his officer's cap and enlists Clarence to help his investigation to nab the culprit.",
-        "duration": 684,
+        "duration": 685,
         "freewheelid": "cn-2062614",
         "isclip": false,
         "typesort": "1",
@@ -1637,7 +1715,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "b5556729f7cee55a8192a38ac1a29c442216ec4b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021704",
@@ -1678,7 +1758,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "be0654d43f410066a35f7f6dde1a06f1e43b12c9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065029",
@@ -1694,7 +1776,7 @@
         "type": "short",
         "active": true,
         "description": "Clarence and his friends play in the rain and enjoy their cozy evenings with family.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2099326",
         "isclip": false,
         "typesort": "2",
@@ -1719,7 +1801,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "c86ca6a093ddcf4c6fcfcd7e5ec27543b340a840",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006111900098726",
@@ -1735,7 +1819,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Clarence is in disbelief when he learns his best friend Belson has a new girlfriend named Pipi. But when he observes their less than romantic behavior, he decides that he needs to teach them the ways of love to help keep their fling afloat!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2088660",
         "isclip": false,
         "typesort": "1",
@@ -1760,7 +1844,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "cd95576aa6131da2f8958593c6addee468a2e5df",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021702",
@@ -1776,7 +1862,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Water balloon fights, warring factions and the risk of jail time, everything is on the line when Clarence and friends play the biggest game of capture the flag yet! Everyone wants to take home the crown, and the power to control the neighborhood's juice boxes.",
-        "duration": 1349,
+        "duration": 1350,
         "freewheelid": "cn-2088622",
         "isclip": false,
         "typesort": "1",
@@ -1801,7 +1887,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "d3ccfc841287b98a6c5566597994574e8feeaf47",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006111900098728",
@@ -1842,7 +1930,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "dce2d757aefc9d8ccb5ef545f783e5a4a8dba0f2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900064994",
@@ -1883,7 +1973,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "e358a7f999b707021bacd08ac82b0d5671ba8ce0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900064984",
@@ -1924,7 +2016,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "e56f37138a3e5c65b2d787e4d6f8a0448031f581",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003011900071523",
@@ -1940,7 +2034,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Jeff realizes Sumo's new classes have been rubbing off on Sumo, he attempts to further foster this newfound intellectual Sumo! But will Clarence's lowbrow antics reverse Jeff's hard work?\n",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2088651",
         "isclip": false,
         "typesort": "1",
@@ -1965,7 +2059,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ea53f2ec5061e018860c59a94d6431c69606240c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021703",
@@ -1981,7 +2077,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After Clarence and Sumo cause a power outage in Sumo's family home, they're sent off in the hot desert with Sumo's older brother to retrieve a generator part. Will they survive the trek or will Sumo's sibling rivalry boil over?",
-        "duration": 685,
+        "duration": 686,
         "freewheelid": "cn-2065518",
         "isclip": false,
         "typesort": "1",
@@ -2006,7 +2102,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "f148801ce6fa4c721ed564b8d18a3da8be3f5978",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021697",
@@ -2022,7 +2120,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Clarence enlists the help of his eccentric neighbor Larry to take the trio out for ice cream and the ride of their lives!",
-        "duration": 685,
+        "duration": 686,
         "freewheelid": "cn-2065516",
         "isclip": false,
         "typesort": "1",
@@ -2047,7 +2145,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "f17641d0079416e66a803f7f60903bb2a2b617b6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900064974",
@@ -2088,7 +2188,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "f19fac72ff15af525d35bf23370e18bf924590bd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021699",
@@ -2129,7 +2231,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "f24fb9eb97909ea5308b5dbdb84d8eb57fcb435f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065014",
@@ -2145,7 +2249,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Clarence starts to play around with his home video camera, he becomes increasingly drawn into the world of filmmaking. From talking toys, to real actors, to documentary subjects, Clarence is determined to find the right style to tell his story!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2088659",
         "isclip": false,
         "typesort": "1",
@@ -2170,7 +2274,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "f254de60f434e97f30c27b5f8f626d01ed13cea9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065045",
@@ -2211,7 +2317,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "fd5a54692eb59efbc958022f14454c3b25f33203",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900064990",
@@ -2227,7 +2335,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Chad realizes his lazy habits might be rubbing off on Clarence, he decides to participate in the Aberdale Marathon. However, the athletic Chad doesn't know the first thing about being a runner, and must enlist the help of Clarence to train!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2088648",
         "isclip": false,
         "typesort": "1",
@@ -2252,7 +2360,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "fd894154f46da3a8cbe375af43a77a6560de3c05",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002041900065033",
@@ -2268,7 +2378,7 @@
         "type": "short",
         "active": true,
         "description": "Inspired by the short Every Child, an oprhan ktten is passed from kid to kid until it finally makes its way to Ms. Baker, who names him Beauford T. Pusser.",
-        "duration": 186,
+        "duration": 187,
         "freewheelid": "cn-2056358",
         "isclip": false,
         "typesort": "2",
@@ -2293,6 +2403,8 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "fe3afe44f2b4dcb84d2e7aea610fafda5d3dcfa4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]

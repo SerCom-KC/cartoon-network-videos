@@ -13,7 +13,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "In an effort to get Teen Titan Go! canceled, Control Freak shows off some deleted scenes.",
-        "duration": 602,
+        "duration": 603,
         "freewheelid": "cn-2187158",
         "isclip": false,
         "typesort": "1",
@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "003659c52b9d60f619bd07be75805da90d0e9fdb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029170",
@@ -54,7 +56,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After not receiving participation medals, the Titans must demonstrate what they learned at camp.",
-        "duration": 650,
+        "duration": 651,
         "freewheelid": "cn-2196347",
         "isclip": false,
         "typesort": "1",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "013d1a3c1cba63867f98d33e441669861b2b7157",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029182",
@@ -95,7 +99,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Robin tries to tell some tall tales but the other Titans give their own fractured versions instead.",
-        "duration": 643,
+        "duration": 644,
         "freewheelid": "cn-2174718",
         "isclip": false,
         "typesort": "1",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "01e235bf99f32d848aaecf015a2f708b33216a9c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029155",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "0388af579faeab444fc3315120e90088d1e91cce",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018021",
@@ -177,7 +185,7 @@
         "type": "short",
         "active": true,
         "description": "Fed up with never getting presents from Santa, the Titans head to the north pole to take themselves off the Naughty List by any means necessary.",
-        "duration": 121,
+        "duration": 122,
         "freewheelid": "cn-2142218",
         "isclip": false,
         "typesort": "2",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "03cb732a13881a2a79c2937e2769eb7dc9ac8449",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029166",
@@ -218,7 +228,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Justice League holds another talent competition to find the second best superhero team in the world. The competition heats up and the Titans must find a way to beat the Hive Five.",
-        "duration": 1311,
+        "duration": 1312,
         "freewheelid": "cn-2174717",
         "isclip": false,
         "typesort": "1",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "045faaa70d12f48a656d97af2916eee107ae6c4f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029191",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "064ae8adeae2695fc9a69ed33880624c400752ca",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018040",
@@ -300,7 +314,7 @@
         "type": "short",
         "active": true,
         "description": "Teen Titans Go! character designer Chris Battle shows you how to draw Robin.",
-        "duration": 68,
+        "duration": 69,
         "freewheelid": "cn-2141259",
         "isclip": false,
         "typesort": "2",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "09e2ec1e409d63c3721b8ce7241697928ad01f94",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022118",
@@ -341,7 +357,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Titans are having a terrible time on their camping trip so Robin suggests that they each tell a scary campfire story.",
-        "duration": 650,
+        "duration": 651,
         "freewheelid": "cn-2041644",
         "isclip": false,
         "typesort": "1",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1572595140000",
         "mediaid": "0a80a59c7b374a36b11d4d67373cf76ab8dd0988",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026404",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1573207140000",
         "mediaid": "0ae353e6f36ca3069a8d28b9a36ccfc762b41916",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029164",
@@ -423,7 +443,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Titans team up with Shazam in order to defeat the evil Mr. Mind.",
-        "duration": 656,
+        "duration": 657,
         "freewheelid": "cn-2169965",
         "isclip": false,
         "typesort": "1",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "0c1003917339a3755a94739487747f6b91babcca",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029161",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "0f73ddee9d4cfbc5a0962faf226fc501d6ce4893",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029177",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "0f92763623741c84f2ca4af1e1b669c7cfa0d11a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029196",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "113e580fed36b79f1e5a6c0de996df1fd3d5ba3f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022116",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1572595140000",
         "mediaid": "12279c502cc34af73e570e7a15a4386d869cac40",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018024",
@@ -628,7 +658,7 @@
         "type": "short",
         "active": true,
         "description": "Cyborg, Starfire and Beast Boy go to Cool School to keep up with Raven and Rose Wilson.",
-        "duration": 113,
+        "duration": 114,
         "freewheelid": "cn-2141349",
         "isclip": false,
         "typesort": "2",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "13793b2c9cc26c97216244f9b509a911511c8708",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026405",
@@ -669,7 +701,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Control Freak forces the Titans and the Scooby Gang to compete on Family Feud.",
-        "duration": 690,
+        "duration": 691,
         "freewheelid": "cn-2188576",
         "isclip": false,
         "typesort": "1",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1573207140000",
         "mediaid": "14023beb4b9bfb75ca6dbca547b4cca1a85c17e1",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022114",
@@ -710,7 +744,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Sick of losing the costume contest to the Hive Five every year, the Titans hatch a scheme to win.",
-        "duration": 619,
+        "duration": 620,
         "freewheelid": "cn-2134801",
         "isclip": false,
         "typesort": "1",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1572595140000",
         "mediaid": "1485d8add3cb076df488b794c0c90748571c3b35",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029165",
@@ -751,7 +787,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After receiving a galactic crime alert the Titans take off for an epic space adventure. The Titans have to stop Darkseid's latest scheme but the excitement of the space adventure might be too much for Robin to handle.",
-        "duration": 1248,
+        "duration": 1249,
         "freewheelid": "cn-2181164",
         "isclip": false,
         "typesort": "1",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "16bc1948ef51f63e41b57097c652c2b3f8c3498f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029181",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "18924ca720eaf6a59bddd6b0be6dd0509a922498",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012181800053399",
@@ -833,7 +873,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Titans follow their heart with songs devoted to their greatest relationships: Beast Boy & Raven, Cyborg & Jinx and the Titans & Food.",
-        "duration": 627,
+        "duration": 628,
         "freewheelid": "cn-2164916",
         "isclip": false,
         "typesort": "1",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "1acfe5e3d912c87a54b195d3040e4a263084fc26",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029201",
@@ -874,7 +916,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Titans try vegetarianism, but learn that not everyone is cut out for that lifestyle.",
-        "duration": 650,
+        "duration": 651,
         "freewheelid": "cn-2015149",
         "isclip": false,
         "typesort": "1",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "2211cf06fa41a7b0e34ea3d5a2048dac566c1e39",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029173",
@@ -915,7 +959,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Titans give Robin advice to guide him through his camp romance with Wonder Girl.",
-        "duration": 664,
+        "duration": 665,
         "freewheelid": "cn-2188586",
         "isclip": false,
         "typesort": "1",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "23cffe59fdf5cd68ff18e7b6347153bcca384ae2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029189",
@@ -956,7 +1002,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Robin tries to teach the other Titans about real estate, but they're only interested in finding a villain to fight.",
-        "duration": 638,
+        "duration": 639,
         "freewheelid": "cn-2168210",
         "isclip": false,
         "typesort": "1",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "25c53f2c2eb77630216e4132a3954209cfcce13e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026402",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "25d05cfd6b4761cc95a3b5d34c00f18ea17c4d9f",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018020",
@@ -1038,7 +1088,7 @@
         "type": "short",
         "active": true,
         "description": "The Titans go back to school.",
-        "duration": 75,
+        "duration": 76,
         "freewheelid": "cn-2142226",
         "isclip": false,
         "typesort": "2",
@@ -1063,7 +1113,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "25f35b7389cf3e12c3f3a34c4a489a3fe932e2d8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012181800053400",
@@ -1104,7 +1156,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "26aa559211d856d0aaa54bd0e8a6ad95aa0b24f8",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026406",
@@ -1145,7 +1199,9 @@
         "expdateasmilliseconds": "1573207140000",
         "mediaid": "2cdd2875ceefe4f62afee91b047a220ec9bdb7ba",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029176",
@@ -1186,7 +1242,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "2d5a146e764620293dd4c556610266790bac8bf0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029156",
@@ -1227,7 +1285,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "2ec98881925280b6fd17c1da22b4e00ece4bc0e4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018014",
@@ -1243,7 +1303,7 @@
         "type": "short",
         "active": true,
         "description": "It's Beast Boy's birthday! But will the other Titans remember?\n",
-        "duration": 152,
+        "duration": 153,
         "freewheelid": "cn-2141345",
         "isclip": false,
         "typesort": "2",
@@ -1268,7 +1328,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "3055dc0a4eb5dc1fa582dff9236c990d689d670b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012181800053401",
@@ -1309,7 +1371,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "31f869aad9eb5148437abb2134920cd506015b9c",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018006",
@@ -1325,7 +1389,7 @@
         "type": "short",
         "active": true,
         "description": "Teen Titans Go! character designer Chris Battle shows you how to draw Beast Boy.",
-        "duration": 68,
+        "duration": 69,
         "freewheelid": "cn-2141257",
         "isclip": false,
         "typesort": "2",
@@ -1350,7 +1414,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "35f60191c7387db9788aa40f50d3249528be5e20",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029178",
@@ -1366,7 +1432,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Needing a hero with shrinking powers, but forgetting about Bumblebee, Robin invites The Atom to join their fight against the Brain.",
-        "duration": 659,
+        "duration": 660,
         "freewheelid": "cn-2196350",
         "isclip": false,
         "typesort": "1",
@@ -1391,7 +1457,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "3bfb54dd2197da2798ef27b4b2325d3de0e54d83",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029193",
@@ -1432,7 +1500,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "3d6bbb56134b3ea04a1f8212c8539283456bdb42",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029179",
@@ -1448,7 +1518,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "It's Titans West vs Titans East as the two teams compete for who gets Bumblebee.",
-        "duration": 646,
+        "duration": 647,
         "freewheelid": "cn-2196356",
         "isclip": false,
         "typesort": "1",
@@ -1473,7 +1543,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "3e213bc3994cc9c826ea11306905f320cffc2953",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018023",
@@ -1489,7 +1561,7 @@
         "type": "short",
         "active": true,
         "description": "Mash-up of all the best Titans identities.",
-        "duration": 93,
+        "duration": 94,
         "freewheelid": "cn-2140633",
         "isclip": false,
         "typesort": "2",
@@ -1514,7 +1586,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "400980f7d4cbb7e0487156b005f5f49ae0bb76d6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029188",
@@ -1530,7 +1604,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Girls Night Out Crew decide to stay in and have a slumber party but an unknown alien threat descends on Jump City.",
-        "duration": 624,
+        "duration": 625,
         "freewheelid": "cn-2196353",
         "isclip": false,
         "typesort": "1",
@@ -1555,7 +1629,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "430dc2aaebf258e8faf36e9d8d545c418d37f173",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012181800053402",
@@ -1596,7 +1672,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "439ea406e2a91a556e6121236a25bce558dd9122",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029185",
@@ -1637,7 +1715,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "44187b3d8046ecec9ccfcd701cc4b9ff334eb5af",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018031",
@@ -1653,7 +1733,7 @@
         "type": "short",
         "active": true,
         "description": "Beast Boy starts making tons of cash thanks to a pyramid scheme and convinces the other Titans to join in.\n",
-        "duration": 72,
+        "duration": 73,
         "freewheelid": "cn-2141348",
         "isclip": false,
         "typesort": "2",
@@ -1678,7 +1758,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "44bcd1635305fdc9ef6efec738379524f20157b9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018038",
@@ -1694,7 +1776,7 @@
         "type": "short",
         "active": true,
         "description": "Mash-up of the best \"Titans Go!\"",
-        "duration": 79,
+        "duration": 80,
         "freewheelid": "cn-2140638",
         "isclip": false,
         "typesort": "2",
@@ -1719,7 +1801,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "45d87bcc34571ca53c9390b2aa06bc5d06a3b09d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029157",
@@ -1735,7 +1819,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When he isn't invited to Beast Boy's birthday party, Robin throws his own party, with special guest Bob Uecker.",
-        "duration": 655,
+        "duration": 656,
         "freewheelid": "cn-2174719",
         "isclip": false,
         "typesort": "1",
@@ -1760,7 +1844,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "48b68ef4b69682e17fda24625619956672110643",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017997",
@@ -1776,7 +1862,7 @@
         "type": "short",
         "active": true,
         "description": "Tired of Robin's bland cooking, the other Titans try their hand at spicing up their food.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2141344",
         "isclip": false,
         "typesort": "2",
@@ -1801,7 +1887,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "4d1f11f679108869ab3fd306523e35f5dd3f38fb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029159",
@@ -1842,7 +1930,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "4eab2719279ad7a5d107379a9ac8e9d0887e402d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029180",
@@ -1883,7 +1973,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "5368cd01d9bfac579a9002c6f5b6e5a659f1c56e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044740",
@@ -1924,7 +2016,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "53f8f0a8800d1d08bc2cf3f3e40b7cd744420b6e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029162",
@@ -1965,7 +2059,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "55653008bacb4c2c3af40e443b53211e65be9f7c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029163",
@@ -1981,7 +2077,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Inspired by the \"Babies vs Dogs\" movie, the Titans decide to make a big Hollywood film of their own.",
-        "duration": 632,
+        "duration": 633,
         "freewheelid": "cn-2167653",
         "isclip": false,
         "typesort": "1",
@@ -2006,7 +2102,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "55dbb843acae9884c24ce8afd66ae53a90013b17",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029187",
@@ -2022,7 +2120,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Titans put on a show but Robin warns that the performance must be boring or else they'll wake up the wolves.",
-        "duration": 664,
+        "duration": 665,
         "freewheelid": "cn-2196164",
         "isclip": false,
         "typesort": "1",
@@ -2047,7 +2145,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "5741a3eae4be84b82766ce7f5bb2fca8dd994566",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029171",
@@ -2063,7 +2163,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Robin tries to tell some Greek myths but the other Titans give their own fractured versions instead.",
-        "duration": 702,
+        "duration": 703,
         "freewheelid": "cn-2188577",
         "isclip": false,
         "typesort": "1",
@@ -2088,7 +2188,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "5820abbb85a6d8b0ca118dcb53f4516e95c042ed",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029192",
@@ -2129,7 +2231,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "5bdb4b3647c3e12e468e95af75357e63be5d6b7a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044729",
@@ -2145,7 +2249,7 @@
         "type": "short",
         "active": true,
         "description": "Robin performs a patriotic song.",
-        "duration": 65,
+        "duration": 66,
         "freewheelid": "cn-2187320",
         "isclip": false,
         "typesort": "2",
@@ -2170,7 +2274,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "5fdfe53dafcbc032b7698bc30e6e3eda7772c63f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018016",
@@ -2186,7 +2292,7 @@
         "type": "short",
         "active": true,
         "description": "The Titans learn that the bathroom is a magical, wondrous world.",
-        "duration": 111,
+        "duration": 112,
         "freewheelid": "cn-2142219",
         "isclip": false,
         "typesort": "2",
@@ -2211,7 +2317,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "646d211ba646d53b3c7b13f9a78c5aad408d61ca",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017999",
@@ -2227,7 +2335,7 @@
         "type": "short",
         "active": true,
         "description": "Raven makes a deal with Death.\n",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2141346",
         "isclip": false,
         "typesort": "2",
@@ -2252,7 +2360,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "655f923d1e194b999a306f86e3f0cb6486d41290",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017992",
@@ -2268,7 +2378,7 @@
         "type": "short",
         "active": true,
         "description": "Robin's mask doesn't just conceal his secret identity, it hides a terrible secret!",
-        "duration": 121,
+        "duration": 122,
         "freewheelid": "cn-2142220",
         "isclip": false,
         "typesort": "2",
@@ -2293,7 +2403,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "661065e753c026f75de3d294b9d9c9fc2012547e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017990",
@@ -2334,7 +2446,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6959d092ee7afa3292c40a7775050d721daacc2e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018033",
@@ -2350,7 +2464,7 @@
         "type": "short",
         "active": true,
         "description": "The Titans are on a mission to find the missing hour from Daylight Saving Time.",
-        "duration": 53,
+        "duration": 54,
         "freewheelid": "cn-2142225",
         "isclip": false,
         "typesort": "2",
@@ -2375,7 +2489,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6aa6820e804d6af57a27cf606295a3e2e18ad9e9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017980",
@@ -2391,7 +2507,7 @@
         "type": "short",
         "active": true,
         "description": "Mash-up of Cyborg's cool gadgets.",
-        "duration": 60,
+        "duration": 61,
         "freewheelid": "cn-2140636",
         "isclip": false,
         "typesort": "2",
@@ -2416,7 +2532,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6d24b7ed9c234696987c28181b187cc80620d9dd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018017",
@@ -2432,7 +2550,7 @@
         "type": "short",
         "active": true,
         "description": "Mash-up of all the greatest TTG villians.",
-        "duration": 114,
+        "duration": 115,
         "freewheelid": "cn-2140635",
         "isclip": false,
         "typesort": "2",
@@ -2457,7 +2575,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6d2838574aafca2a83de0bde34c608122b6f5978",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018043",
@@ -2473,7 +2593,7 @@
         "type": "short",
         "active": true,
         "description": "Teen Titans Go! character designer Chris Battle shows you how to draw Cyborg.",
-        "duration": 68,
+        "duration": 69,
         "freewheelid": "cn-2141255",
         "isclip": false,
         "typesort": "2",
@@ -2498,7 +2618,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6d50306af086bc54f2a51856b5a79de069f57738",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029194",
@@ -2539,7 +2661,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "75718db658e01ec64dcf65254d8fefdd7e710f2c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018041",
@@ -2555,7 +2679,7 @@
         "type": "short",
         "active": true,
         "description": "Starfire and her pet fish sing a catchy tune as they enjoy a night on the town! Good luck not getting this song stuck in your head!",
-        "duration": 69,
+        "duration": 70,
         "freewheelid": "cn-2141254",
         "isclip": false,
         "typesort": "2",
@@ -2580,7 +2704,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "767b9a5220a0f8779a8e135560dab9e6a5a0aafd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029174",
@@ -2596,7 +2722,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Robin gets amnesia and starts thinking that Hawkman is his mother.",
-        "duration": 639,
+        "duration": 640,
         "freewheelid": "cn-2196355",
         "isclip": false,
         "typesort": "1",
@@ -2621,7 +2747,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "773f556be78caf09af4e57426f020b7b9df24c49",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029200",
@@ -2637,7 +2765,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Raven eats a bad meatball that causes tentacles to spring from her teeth and devour the other Titans.",
-        "duration": 664,
+        "duration": 665,
         "freewheelid": "cn-2002488",
         "isclip": false,
         "typesort": "1",
@@ -2662,7 +2790,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "7cd34436d7650cee02d3f3051a20164d2be49845",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029186",
@@ -2703,7 +2833,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "7f7839b318b32765ff5433ce1e7053cbe95e8272",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018009",
@@ -2719,7 +2851,7 @@
         "type": "short",
         "active": true,
         "description": "Teen Titans Go! character designer Chris Battle shows you how to draw Raven.",
-        "duration": 68,
+        "duration": 69,
         "freewheelid": "cn-2141256",
         "isclip": false,
         "typesort": "2",
@@ -2744,7 +2876,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "8043169b454954f6f681c4ad774458030ca886f2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044738",
@@ -2785,7 +2919,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "81039da3fa73830de8cdeabd5d17ef354aedd743",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029167",
@@ -2801,7 +2937,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When the Big Game is threatened the Titans must infiltrate the football stadium and stop the attack.",
-        "duration": 660,
+        "duration": 661,
         "freewheelid": "cn-2181166",
         "isclip": false,
         "typesort": "1",
@@ -2826,7 +2962,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "8bdd91944fadcce833b2492b39d5fa4f676fb3d3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044734",
@@ -2867,7 +3005,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "8bf7d5cb069f726213d2e291b6060418756be71a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018005",
@@ -2883,7 +3023,7 @@
         "type": "short",
         "active": true,
         "description": "Beast Boy wishes to become a leprechaun, who is obsessed with gold.",
-        "duration": 43,
+        "duration": 44,
         "freewheelid": "cn-2142224",
         "isclip": false,
         "typesort": "2",
@@ -2908,7 +3048,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "8c4efc2d429b8b0d4bd59ccd1102d48d25ef0683",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044731",
@@ -2949,7 +3091,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "8e0a13c646d5395ff40ddfea2a0383e81b14fb62",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026407",
@@ -2990,7 +3134,9 @@
         "expdateasmilliseconds": "1573207140000",
         "mediaid": "98646b7c0ae96092412915b8161cda9a249d5947",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029198",
@@ -3006,7 +3152,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Titans' Halloween party is interupted by the Hive Five robbing a candy factory.",
-        "duration": 612,
+        "duration": 613,
         "freewheelid": "cn-2054780",
         "isclip": false,
         "typesort": "1",
@@ -3031,7 +3177,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "99390a4c17273ae88782693f46f3872984bd96ce",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029197",
@@ -3072,7 +3220,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "9b6efdae6cc17dce611592a88ab70120f079785b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029199",
@@ -3088,7 +3238,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Cyborg and Beast Boy face off about which is better, burgers or burritos.",
-        "duration": 664,
+        "duration": 665,
         "freewheelid": "cn-2002492",
         "isclip": false,
         "typesort": "1",
@@ -3113,7 +3263,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "9d64fcf88b7a58c6400b607d1aca7078a7dea96d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029183",
@@ -3129,7 +3281,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Robin takes the Titans on an educational trip to the Grand Canyon.",
-        "duration": 636,
+        "duration": 637,
         "freewheelid": "cn-2169966",
         "isclip": false,
         "typesort": "1",
@@ -3154,7 +3306,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "9eeee1901f00c8c72cac53e1b2fdcdc332112e6b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018026",
@@ -3170,7 +3324,7 @@
         "type": "short",
         "active": true,
         "description": "Mash-up of the best \"Boo Yahs!\"",
-        "duration": 59,
+        "duration": 60,
         "freewheelid": "cn-2140639",
         "isclip": false,
         "typesort": "2",
@@ -3195,7 +3349,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a56bf12470b0998a2cb5fefa0502c05a3042bbd0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017998",
@@ -3211,7 +3367,7 @@
         "type": "short",
         "active": true,
         "description": "Mash-up of the best Beast Boy songs.",
-        "duration": 66,
+        "duration": 67,
         "freewheelid": "cn-2140632",
         "isclip": false,
         "typesort": "2",
@@ -3236,7 +3392,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a5a631023ed3fd3d7a058777202f71d5c1799295",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029154",
@@ -3277,7 +3435,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "a61dd4c28bbb9e7988f2359badd1d2563d1a3273",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029168",
@@ -3293,7 +3453,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Thinking it's a way to reconnect with her father, Raven enters a beauty pageant.",
-        "duration": 618,
+        "duration": 619,
         "freewheelid": "cn-2188573",
         "isclip": false,
         "typesort": "1",
@@ -3318,7 +3478,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "a66a96517bf8a6127808573a518886d95362d854",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029169",
@@ -3359,7 +3521,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "a6cb26cd90cc3a5b25eb1cf44c51ea681a47797b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018039",
@@ -3375,7 +3539,7 @@
         "type": "short",
         "active": true,
         "description": "When Beast Boy's head starts to rattle, Robin suggests that he should find a hobby so that his brain will stop shrinking. Beast Boy and his brain agree to take up gardening.",
-        "duration": 68,
+        "duration": 69,
         "freewheelid": "cn-2142223",
         "isclip": false,
         "typesort": "2",
@@ -3400,7 +3564,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a7be299cc1231da5c278cd424bf33f95e70952a3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044741",
@@ -3416,7 +3582,7 @@
         "type": "short",
         "active": true,
         "description": "Song sung by Santa to Robin.",
-        "duration": 57,
+        "duration": 58,
         "freewheelid": "cn-2187325",
         "isclip": false,
         "typesort": "2",
@@ -3441,7 +3607,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "ab90c2664122c81d5a51db206f421fdfb1fba506",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017991",
@@ -3482,7 +3650,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b0845a16091f578d51ca69f75c7331747f113a93",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029172",
@@ -3498,7 +3668,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Bumblebee offers to help Robin with his leadership skills by teaching him how to act like a queen bee.",
-        "duration": 664,
+        "duration": 665,
         "freewheelid": "cn-2196349",
         "isclip": false,
         "typesort": "1",
@@ -3523,7 +3693,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "b399250aa291f858f18597157f3b05b20a7275d1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017994",
@@ -3564,7 +3736,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "bcccaf6491bc5755c5d53dc617f4ffd86c8d0402",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029190",
@@ -3580,7 +3754,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "So she isn't left out of inside jokes, the Titans time travel to past adventures and insert Bumblebee into their memories.",
-        "duration": 622,
+        "duration": 623,
         "freewheelid": "cn-2196351",
         "isclip": false,
         "typesort": "1",
@@ -3605,7 +3779,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "be6641f9f4039f2a64a3c92330a67d40ab6e2abe",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017996",
@@ -3621,7 +3797,7 @@
         "type": "short",
         "active": true,
         "description": "Teen Titans Go! character designer Chris Battle shows you how to draw Starfire.",
-        "duration": 68,
+        "duration": 69,
         "freewheelid": "cn-2141258",
         "isclip": false,
         "typesort": "2",
@@ -3646,7 +3822,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "c5ac27ec0d0f7efd1e02fe16cde379b89d007538",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029202",
@@ -3687,7 +3865,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "c5c98af4d2277b3ccc3dbb780a727befb79a0bf7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018018",
@@ -3703,7 +3883,7 @@
         "type": "short",
         "active": true,
         "description": "When he transforms into \"Fleshy Guy,\" Cyborg discovers the joy and pain of being human.",
-        "duration": 111,
+        "duration": 112,
         "freewheelid": "cn-2142221",
         "isclip": false,
         "typesort": "2",
@@ -3728,7 +3908,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "c6e6f91e543c9bd4ef2d527295c4cfc70f7af4ca",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044736",
@@ -3769,7 +3951,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "ce3137a484b29b51b535da93b74e98076c2a5593",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010031900025525",
@@ -3810,7 +3994,9 @@
         "expdateasmilliseconds": "1573811967000",
         "mediaid": "cf8a523cba6237da093702b8682fc442368e6745",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800018008",
@@ -3826,7 +4012,7 @@
         "type": "short",
         "active": true,
         "description": "Mash-up of the greatest hits on Teen Titans Go!",
-        "duration": 77,
+        "duration": 78,
         "freewheelid": "cn-2140637",
         "isclip": false,
         "typesort": "2",
@@ -3851,7 +4037,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d324a0a8fff485d4a82b0a3b4b644eb5ffaeaca1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017986",
@@ -3867,7 +4055,7 @@
         "type": "short",
         "active": true,
         "description": "Robin tries to teach The Titans to respect money, but he ends up bee-ing the one who learns the lesson.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2142222",
         "isclip": false,
         "typesort": "2",
@@ -3892,7 +4080,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d381dd928347544331029c48310e3c4584cbee12",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029160",
@@ -3933,7 +4123,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "d687c65139957ea54dba67feeaab4929547f5bde",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012181800053403",
@@ -3974,7 +4166,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "daf01eb50375096b83d49455538af38f9444bb21",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029158",
@@ -4015,7 +4209,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "de1f7cf887588286df52f7c983f4e65df6e0c39d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022115",
@@ -4056,7 +4252,9 @@
         "expdateasmilliseconds": "1572595140000",
         "mediaid": "e2b6dbaf27b0f6ffdd1d1469bf873503f5617dd7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029184",
@@ -4072,7 +4270,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Starfire dreams of becoming a successful business alien princess and joins a cookie-selling organization to learn the proper skills.",
-        "duration": 634,
+        "duration": 635,
         "freewheelid": "cn-2181165",
         "isclip": false,
         "typesort": "1",
@@ -4097,7 +4295,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "e5d3679f1a5e0504a387c40b451e1af5abb37955",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017987",
@@ -4113,7 +4313,7 @@
         "type": "short",
         "active": true,
         "description": "The Titans (except Beast Boy) are cursed on St. Patrick's Day and must travel to the end of the rainbow for the cure.",
-        "duration": 56,
+        "duration": 57,
         "freewheelid": "cn-2142217",
         "isclip": false,
         "typesort": "2",
@@ -4138,7 +4338,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e63252f0ecb311119e13f79afba3631ffc681760",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017982",
@@ -4154,7 +4356,7 @@
         "type": "short",
         "active": true,
         "description": "When Robin gets frustrated with the Titans' disobedience he turns to...puppets.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2141343",
         "isclip": false,
         "typesort": "2",
@@ -4179,7 +4381,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e89676002f70b82c929f4c7b66b4672c39211d04",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900022117",
@@ -4220,7 +4424,9 @@
         "expdateasmilliseconds": "1572595140000",
         "mediaid": "ebf9be54d7e93e6b968e00b9948ff1b77d7a0bcc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017978",
@@ -4261,7 +4467,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ed9743024828c94f590c26e0f876a382fb00a7a2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044745",
@@ -4302,7 +4510,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "f1c5202ff3749dd9bb355ae4e69e62156e896c94",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010031900025526",
@@ -4343,7 +4553,9 @@
         "expdateasmilliseconds": "1572861592000",
         "mediaid": "f5cda84f3eb59a8f540bdce666c018712072a6c2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010231900029195",
@@ -4359,7 +4571,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Titans are at Super Hero Summer Camp for the week and they may need to add another teammate to win the big canoe race.",
-        "duration": 645,
+        "duration": 646,
         "freewheelid": "cn-2188585",
         "isclip": false,
         "typesort": "1",
@@ -4384,7 +4596,9 @@
         "expdateasmilliseconds": "1577854800000",
         "mediaid": "f6633276f01db9b330148620f1fe85d5ad7d76b5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1011131800044744",
@@ -4425,7 +4639,9 @@
         "expdateasmilliseconds": "1577768340000",
         "mediaid": "fe96898c08aa20083c6fb9ab7c8b5d3be35cf8d1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005161800017977",
@@ -4441,7 +4657,7 @@
         "type": "short",
         "active": true,
         "description": "Mash-up of Beast Boy's animals.",
-        "duration": 65,
+        "duration": 66,
         "freewheelid": "cn-2140634",
         "isclip": false,
         "typesort": "2",
@@ -4466,6 +4682,8 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ffc201a8c2ca1dc07e15c8e0d02c805b580195cf",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]
