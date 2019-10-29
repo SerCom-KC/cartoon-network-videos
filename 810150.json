@@ -13,7 +13,7 @@
         "type": "short",
         "active": true,
         "description": "Mordecai and Rigby tour the world dong their Ooohh celebration.",
-        "duration": 112,
+        "duration": 113,
         "freewheelid": "cn-2053253",
         "isclip": false,
         "typesort": "2",
@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "06c6fb9f070bcefd4cdd568b94540f83826bd250",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074568",
@@ -54,7 +56,7 @@
         "type": "short",
         "active": true,
         "description": "Mordecai and Rigby realize that the bridge of the ship is also a synthesizer.",
-        "duration": 117,
+        "duration": 118,
         "freewheelid": "cn-2091030",
         "isclip": false,
         "typesort": "2",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "06eaf50eec9a031a0dc053ebaf2a3db7df10713d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074573",
@@ -95,7 +99,7 @@
         "type": "short",
         "active": true,
         "description": "Mordecai and Rigby get stuck in a space-time loop.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2091031",
         "isclip": false,
         "typesort": "2",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "10276e5b7ad5bfe15071ac5a89ea089475a5ecf0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074562",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "1b28044319504b0d4af4b0458cb1314c530b6318",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074563",
@@ -177,7 +185,7 @@
         "type": "short",
         "active": true,
         "description": "Mordecai and Rigby have a rap battle with robots.",
-        "duration": 123,
+        "duration": 124,
         "freewheelid": "cn-2091028",
         "isclip": false,
         "typesort": "2",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "1e144f1dd500e3df91bba12a53d6830d1d0da0a1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021787",
@@ -218,7 +228,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "In Regular Show's sixth installment of \"Terror Tales,\" the guys gather in the house on the Dome and tell scary Halloween stories just like ol' times, only this Halloween, the stories have an extra terrifying, science fiction twist.",
-        "duration": 1340,
+        "duration": 1341,
         "freewheelid": "cn-2088600",
         "isclip": false,
         "typesort": "1",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "2b444066bb1e6628b861c331b3d93e48f8c3d7f1",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074570",
@@ -259,7 +271,7 @@
         "type": "short",
         "active": true,
         "description": "The guys take a nap in zero gravity.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2091027",
         "isclip": false,
         "typesort": "2",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "87d3e412cd6a232ac510bb91212bbfde37e0099a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021788",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "8c510449b5217d360a681519bb575c9c2e73bd25",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074554",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "998d2e3d1881a758049a634dd5e927ab3bdf9620",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021785",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "9fbc9f51470208ec98ebea072603af73304226fe",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074571",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "aacc58b494fdb6a8113d2c31f8344be646284c29",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021783",
@@ -464,7 +486,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The park guys try to keep Muscle Man awake with scary stories on a long drive so that they can meet his mom.",
-        "duration": 1338,
+        "duration": 1339,
         "freewheelid": "cn-2043253",
         "isclip": false,
         "typesort": "1",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1572598800000",
         "mediaid": "aedfeb1af96894751e123fbdf27b374a97888f0f",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074549",
@@ -505,7 +529,7 @@
         "type": "short",
         "active": true,
         "description": "Pops goes on a fun run across the country.",
-        "duration": 266,
+        "duration": 267,
         "freewheelid": "cn-2053251",
         "isclip": false,
         "typesort": "2",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b720e1e91709f293f9abf1c2b3310372c0de2ea1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021789",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "bc687278c86101ec554523d591cacb62a72a6eb7",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021790",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "c37b005dfa207df8fa0bed87b889b32def3c3cea",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074558",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ceffe7d8db25fc50f8e9adeef37e6703f5b42b14",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074552",
@@ -669,7 +701,7 @@
         "type": "short",
         "active": true,
         "description": "Mordecai and Rigby find a voice modulator that makes them sound like a movie preview voiceover guy.",
-        "duration": 124,
+        "duration": 125,
         "freewheelid": "cn-2085001",
         "isclip": false,
         "typesort": "2",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d87d64bfab4717e60f0c5ab0fcb08bb607eb2a04",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074559",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e617dda4a1f59d4951b2c6560508929ef32cdf44",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074565",
@@ -751,7 +787,7 @@
         "type": "short",
         "active": true,
         "description": "Mordecai and Rigby compete to win a vintage tetherball championship trophy.",
-        "duration": 129,
+        "duration": 130,
         "freewheelid": "cn-2085004",
         "isclip": false,
         "typesort": "2",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e7f04ee3342e0ff4f5b69103b85ae6117318d8cc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074548",
@@ -792,7 +830,7 @@
         "type": "short",
         "active": true,
         "description": "Benson breakdances during a work break.",
-        "duration": 123,
+        "duration": 124,
         "freewheelid": "cn-2053254",
         "isclip": false,
         "typesort": "2",
@@ -817,6 +855,8 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "f9b372bd88dafca82ae04df72b8cada47708c637",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]

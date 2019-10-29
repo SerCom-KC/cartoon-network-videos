@@ -13,7 +13,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The team receives a video message from Tenderheart that their mission has successfully ended and they can return home. Cheer suspects something about the message is wrong, but other members of the team don't agree. Cheer courageously stands her ground and keeps the team together while she solves the mystery, and reveals the message was faked by Bluster.",
-        "duration": 661,
+        "duration": 662,
         "freewheelid": "cn-2141117",
         "isclip": false,
         "typesort": "1",
@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "0af8eca12aded1b8fc33a2f08c47dfd259c06544",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009031900018087",
@@ -54,7 +56,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Whiffles are too hot and tired to work because their daily treat, colorful ice in Waffles Cones delivered by the whimsical \"Icelings,\" hasn't arrived - the Icelings have mysteriously disappeared. As the Care Bears search for them, Share volunteers to make the treats. It's much more than she can handle but she's determined to go-it-alone and not ask for help. Things get out of hand and Share ends up snared in Bluster's trap with the Icelings, who help her to realize that we get more done when we work together.",
-        "duration": 661,
+        "duration": 662,
         "freewheelid": "cn-2141115",
         "isclip": false,
         "typesort": "1",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1577872740000",
         "mediaid": "18fe544a3eefe5ac794452f3a4ed410d37008bfa",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009031900018086",
@@ -95,7 +99,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Funshine's jokes unwittingly hurt the feelings of a strange Rock Giant. Disturbed from its slumber, the usually benign creature inadvertently creates havoc for the Whiffles until Funshine calms it by apologizing.",
-        "duration": 661,
+        "duration": 662,
         "freewheelid": "cn-2141113",
         "isclip": false,
         "typesort": "1",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1577872740000",
         "mediaid": "1ae20646a2bbd1214dfa2861343155e05dba03ce",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025384",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "33d44dcf82bb65e56e2496f65217a95832c63e1b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009031900018082",
@@ -177,7 +185,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The discovery of an ancient, lost gateway leads the Care Bears on a rescue mission in the Silver Lining, a realm of natural wonders and comical creatures in the clouds beyond the borders of Care-A-Lot. While there, new discoveries expand the mission, challenging Cheer, Grumpy, and the mission team to grow beyond their present abilities and help the denizens of the Silver Lining.",
-        "duration": 1321,
+        "duration": 1322,
         "freewheelid": "cn-2141110",
         "isclip": false,
         "typesort": "1",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1577872740000",
         "mediaid": "34311469c8b105b851bd4e9a03839476cc98c700",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009031900018084",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1577872740000",
         "mediaid": "49cbc904938dc4169e0207518bf19e9c2a7f4dd8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025381",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "508b7ad4b9c460f9dedec6da781e10f2bed1275a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025382",
@@ -300,7 +314,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Cheer, distracted by other work, doesn't give her complete attention to a problem with the Whiffles. The mistake starts a chain of comical events that results in the Whiffles going into a one-hundred-year sleep that can only be rectified by an ancient chant.",
-        "duration": 661,
+        "duration": 662,
         "freewheelid": "cn-2141116",
         "isclip": false,
         "typesort": "1",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "77087ee84b7d70cf58b1652cb1c333cc3fa52e81",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009031900018085",
@@ -341,7 +357,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Cheer makes some simple mistakes, she begins to lose confidence in her piloting skills and herself. The self-doubt becomes so severe, she decides to step away from her role as pilot of the Cloudseeker. But the Team needs her, the Whiffles need her, and she must regain her self-confidence so they can stop Bluster's latest nefarious scheme.",
-        "duration": 661,
+        "duration": 662,
         "freewheelid": "cn-2141112",
         "isclip": false,
         "typesort": "1",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1577872740000",
         "mediaid": "853636ab48e0bb96dfa188fea96ce93816dec680",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025387",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "9c387c86c43aef6155ecd8b13da2b89e98d7dfcd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025383",
@@ -423,7 +443,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Dibble helps Grumpy work on his latest invention, a device to stop Bluster's bad vibe plow. Dibble's endless high spirits and sense of fun wear on Grumpy, until he finally says she can't work with him anymore. It's only later that Grumpy understands he needs Dibble's free-spirit inventiveness and creative energy.",
-        "duration": 661,
+        "duration": 662,
         "freewheelid": "cn-2141120",
         "isclip": false,
         "typesort": "1",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "9cb48a162ebaa0e2af669dcd0e346d030663e3bd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009031900018081",
@@ -464,7 +486,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Share fears she's losing her ability as a problem-solver and peacemaker when she can't calm a squabble between a group of Whiffles and a flower bed of Perturbed Petunias. Cheer discovers it's not Share's fault; the Petunias are being secretly manipulated by Bluster's rumor-mongering.",
-        "duration": 661,
+        "duration": 662,
         "freewheelid": "cn-2141111",
         "isclip": false,
         "typesort": "1",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1577872740000",
         "mediaid": "a4df86db98d39043d4a929a274a6605b0dbedb2b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009091900019493",
@@ -505,7 +529,7 @@
         "type": "movie",
         "active": true,
         "description": "The Twinklets didn't arrive on schedule, stars are blinking out and things are starting to look dark! Share Bear and a Twinklet named Gleamer lead the Care Bears to Glitter City. There, according to legend, Princess Starglo trains Twinklets to become stars. But because no believes in her, Princess Starglo has become discouraged and is turning out the lights all over the night sky. Will Share, the rest of the Care Power Team and a little belief help Princess Starglo get things glowing again?",
-        "duration": 4113,
+        "duration": 4114,
         "freewheelid": "cn-2141108",
         "isclip": false,
         "typesort": "3",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1572580799000",
         "mediaid": "a93c5c5516bc185c9d4c67300de4c90adce31075",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010021900025385",
@@ -546,7 +572,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Bluster traps Grumpy in a frustration-inducing labyrinth in an attempt to capture his grumpiness and turn it into the ultimate Bad Seed, which when planted will create new areas of Blusterland. The scheme backfires when Bluster refuses to listen to the warnings of his underlings, and Grumpy's inner kindness turns the Bad Seed into a force for good.",
-        "duration": 661,
+        "duration": 662,
         "freewheelid": "cn-2141121",
         "isclip": false,
         "typesort": "1",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "ab1be6357853d0a6f7afcfbb77b544b0e1e7d785",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009091900019494",
@@ -587,7 +615,7 @@
         "type": "movie",
         "active": true,
         "description": "Funshine, Share, Cheer and the rest of the bears organize a sharing festival until it is threatened by a powerful wind.",
-        "duration": 4063,
+        "duration": 4064,
         "freewheelid": "cn-2028472",
         "isclip": false,
         "typesort": "3",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1572580799000",
         "mediaid": "b4d89c5ff553b4a9dbcdc46900a804f8bec5c5c6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009031900018083",
@@ -653,6 +683,8 @@
         "expdateasmilliseconds": "1577872740000",
         "mediaid": "d606ff2c24d0764007fdba0b17849ab9c347e0ea",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]

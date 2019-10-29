@@ -13,7 +13,7 @@
         "type": "short",
         "active": true,
         "description": "KO and Dendy watch some clouds.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2101792",
         "isclip": false,
         "typesort": "2",
@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "01553cc5ef09ec512976f2d9038f223cf60a1113",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071131",
@@ -54,7 +56,7 @@
         "type": "short",
         "active": true,
         "description": "Lord Boxman explains where all the robots that constantly attack the Plaza come from.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2091034",
         "isclip": false,
         "typesort": "2",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "09bfde38b57689aa61c987e99311709477b4f462",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071137",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "0fa02532acd399eadbd2af3216ac2244adbd060d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071126",
@@ -136,7 +142,7 @@
         "type": "short",
         "active": true,
         "description": "Enid is pushed to the limit by her job.",
-        "duration": 121,
+        "duration": 122,
         "freewheelid": "cn-2086514",
         "isclip": false,
         "typesort": "2",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "114553179394681573f6af4d6db22868630058f5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009251900023273",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "1772aed02be6fe34728940a62e01db6ce8ea8c8a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026417",
@@ -218,7 +228,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "KO, Enid and Rad team up with an unlikely ally to take on an unlikely foe.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2160693",
         "isclip": false,
         "typesort": "1",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1572598797000",
         "mediaid": "1eaa94079e7316f200552f9e731b4165a1185f18",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071124",
@@ -259,7 +271,7 @@
         "type": "short",
         "active": true,
         "description": "KO makes a documentary of a day in the life of his karate master mom, Carol.",
-        "duration": 123,
+        "duration": 124,
         "freewheelid": "cn-2086516",
         "isclip": false,
         "typesort": "2",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "1ef2925f00e568204d631dfee34129ce38298f61",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071145",
@@ -300,7 +314,7 @@
         "type": "short",
         "active": true,
         "description": "Everything Rad does, he does in an over the top amazing way, including getting emotional.",
-        "duration": 122,
+        "duration": 123,
         "freewheelid": "cn-2086515",
         "isclip": false,
         "typesort": "2",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "211d6aaf075dfb49300fc71b862ffd54e64f5c83",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071147",
@@ -341,7 +357,7 @@
         "type": "short",
         "active": true,
         "description": "Rad shows off the ultimate power move!",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2079536",
         "isclip": false,
         "typesort": "2",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "2d0980bf26330c3cb81d66dd2ce094775c7683d3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009251900023278",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "399fa2ce4c5b5776c14d6a4029b97e14cfb4e5c1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009251900023272",
@@ -423,7 +443,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Dendy tries to update KO's Video Channel for him, but has trouble finding something to post.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2194874",
         "isclip": false,
         "typesort": "1",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "3e3e5a5ea1adb82c5057efe173c759972c64e346",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071139",
@@ -464,7 +486,7 @@
         "type": "short",
         "active": true,
         "description": "OK K.O.! Let's Be Heroes character designer, Julia Srednicki, and art director, John Pham, show you how to draw K.O.",
-        "duration": 63,
+        "duration": 64,
         "freewheelid": "cn-2133141",
         "isclip": false,
         "typesort": "2",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "41a38e7f5c30f702c6e936a8276e04590bd3be53",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071142",
@@ -505,7 +529,7 @@
         "type": "short",
         "active": true,
         "description": "OK K.O.! Let's Be Heroes character designer, Julia Srednicki, and art director, John Pham, show you how to draw Enid.",
-        "duration": 63,
+        "duration": 64,
         "freewheelid": "cn-2133143",
         "isclip": false,
         "typesort": "2",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "45d6c1c08543631c48dbb61d71015376a4a4cfe8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071121",
@@ -546,7 +572,7 @@
         "type": "short",
         "active": true,
         "description": "KO breaks something near and dear to Enid!",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2079535",
         "isclip": false,
         "typesort": "2",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "47cbf6432fd92be87868b700135e38cad7542a5c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026418",
@@ -587,7 +615,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "It's KO's birthday, and Rad and Enid want to make sure everything goes perfectly.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2164903",
         "isclip": false,
         "typesort": "1",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1572598797000",
         "mediaid": "52ce10e2c4c9db84c49d5fa85a4c9a3038146120",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009061900019101",
@@ -628,7 +658,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A pleasant weekend goes awry when a monster attacks.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2193801",
         "isclip": false,
         "typesort": "1",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "65dfbdcec970d60122535e190c502a83d3fede51",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071163",
@@ -669,7 +701,7 @@
         "type": "short",
         "active": true,
         "description": "OK K.O.! Let's Be Heroes character designer, Julia Srednicki, and art director, John Pham, show you how to draw Rad.",
-        "duration": 63,
+        "duration": 64,
         "freewheelid": "cn-2133142",
         "isclip": false,
         "typesort": "2",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6c1a5d438cb0004f5158f83672f2dccaef62bb50",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009251900023275",
@@ -710,7 +744,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Enid is faced with a choice when her old friends from Ghoul School show up.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2162117",
         "isclip": false,
         "typesort": "1",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "77bd62fc4733275b293d79140276d7e1f6050132",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071136",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "7e4a5cdbe5abc60718db672a108b86afba4a7687",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009251900023277",
@@ -792,7 +830,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "KO, Rad and Enid accidentally break one of Mr. Gar's prized possessions!",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2089722",
         "isclip": false,
         "typesort": "1",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "80afba8214d0f90b7f04e914e15e3065f2145c50",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009251900023279",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "84049aeecebe3d6c22c3c54f06ff174d9144f622",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071144",
@@ -874,7 +916,7 @@
         "type": "short",
         "active": true,
         "description": "KO learns a new power move, the slide kick!",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2079534",
         "isclip": false,
         "typesort": "2",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "86cd38066fa6c041db45cbea2280bfbd119f956d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071155",
@@ -915,7 +959,7 @@
         "type": "short",
         "active": true,
         "description": "KO, Rad, and Enid try to figure out the mysterious adventure Mr. Gar keeps holo-phoning from.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2091035",
         "isclip": false,
         "typesort": "2",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "89f528ff100c00289903fb5436fe20848da07480",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071149",
@@ -956,7 +1002,7 @@
         "type": "short",
         "active": true,
         "description": "Butt-kicking Dynamite Watkins from News 52's Action News Team reports on an exciting day at Gar's.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2091033",
         "isclip": false,
         "typesort": "2",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "8ae71452670e9869cc88d6cec31c01a7eb9f5804",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071152",
@@ -997,7 +1045,7 @@
         "type": "short",
         "active": true,
         "description": "Rad shows off his rad new minivan and its rad features!",
-        "duration": 123,
+        "duration": 124,
         "freewheelid": "cn-2086518",
         "isclip": false,
         "typesort": "2",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a707918c12a2bc0744f184638853d9d86fee72ef",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009061900019099",
@@ -1038,7 +1088,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "KO and Enid attempt to prevent a mysterious power battle between Rad and Red Action.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2193166",
         "isclip": false,
         "typesort": "1",
@@ -1063,7 +1113,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "af5a018c010d3f0dbd6e2fc120eb4915743ba7da",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071128",
@@ -1079,7 +1131,7 @@
         "type": "short",
         "active": true,
         "description": "KO uses his fighting skills to open every barrel and crate in the warehouse.",
-        "duration": 120,
+        "duration": 121,
         "freewheelid": "cn-2086517",
         "isclip": false,
         "typesort": "2",
@@ -1104,7 +1156,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "b1afc7f72063244b54855e08bea14d1ff2a57b1a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009251900023276",
@@ -1120,7 +1174,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When KO tags along with his mom to work, he discovers the convenience store next door is his key to becoming a great hero.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2090647",
         "isclip": false,
         "typesort": "1",
@@ -1145,7 +1199,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "b75fae1b4d26dfbd333eb7a590c7fe1f59ac1c3b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026416",
@@ -1186,7 +1242,9 @@
         "expdateasmilliseconds": "1572598797000",
         "mediaid": "c22162c56bd68873400b753678a2c013e1102a64",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071153",
@@ -1202,7 +1260,7 @@
         "type": "short",
         "active": true,
         "description": "KO, Rad, and Enid make a commercial for Lakewood Plaza showing off all the cool stores.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2091969",
         "isclip": false,
         "typesort": "2",
@@ -1227,7 +1285,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "c2ad085bb051667cc9862c5719b254827c90a178",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071129",
@@ -1243,7 +1303,7 @@
         "type": "short",
         "active": true,
         "description": "KO's inner monologue tells us how even a mundane everyday activity is another step in his journey to being a great hero.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2091032",
         "isclip": false,
         "typesort": "2",
@@ -1268,7 +1328,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d1bc813473a2cfd318551a58c2bca4db6de17db5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071161",
@@ -1284,7 +1346,7 @@
         "type": "short",
         "active": true,
         "description": "OK K.O.! Let's Be Heroes character designer, Julia Srednicki, and art director, John Pham, show you how to draw Dendy.",
-        "duration": 63,
+        "duration": 64,
         "freewheelid": "cn-2133144",
         "isclip": false,
         "typesort": "2",
@@ -1309,7 +1371,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "df5b73af571bb55e69f5ba99880c670be128fddf",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071158",
@@ -1350,7 +1414,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ea6c9f34efd6832690ee6f8fcffdc4bc93fbf474",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009251900023274",
@@ -1366,7 +1432,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When KO finds moments of his life slipping by, he begins to suspect something weird is going on.",
-        "duration": 686,
+        "duration": 687,
         "freewheelid": "cn-2195439",
         "isclip": false,
         "typesort": "1",
@@ -1391,7 +1457,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "ed182b0dd450cea95ad65f7d10f56a8ce1edf953",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026419",
@@ -1432,7 +1500,9 @@
         "expdateasmilliseconds": "1572598797000",
         "mediaid": "f37e68badd5b9edab5800c9e8ffe6746c363ef12",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071134",
@@ -1473,6 +1543,8 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "f8e623a04385fcdd36aa707297b0c0ba57ede86d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": true,
+        "includeshortform": false
     }
 ]

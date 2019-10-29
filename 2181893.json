@@ -13,7 +13,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Adorabat's spirit transcends her body during a meditation exercise, Mao Mao and Badgerclops have to figure out a way to return her to the real world.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2196827",
         "isclip": false,
         "typesort": "1",
@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1573293588000",
         "mediaid": "0fc19bfafec6484e3240cf7b8f8836ff426c7e8c",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1010041900025648",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "1e03c244c886d588e51c6c8ccbb0c7ad02b697f3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009111900019726",
@@ -95,7 +99,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Feeling left out, Adorabat wishes Mao Mao and Badgerclops would spend less time with each other and more time with her. When she gets\nwhat she wishes for and accidentally breaks up their friendship, only the secret of their past can bring them back together.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2186683",
         "isclip": false,
         "typesort": "1",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "1eb2e1fb4731f1e5539560d7d306f50008030038",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1010011900024828",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "1f4e915a980eb71084d537293a073b7ce37faf64",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009061900019110",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "20aea801355e5898a64e83b81d1b46f7bfbf9924",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1010041900025647",
@@ -218,7 +228,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Mao Mao goads Orangusnake and the Sky Pirates into becoming truly terrible villains worthy of a legendary hero such as himself.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2196198",
         "isclip": false,
         "typesort": "1",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "2c7ebf3e7072fa58887a74f5d58a9426bf0fc057",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009111900019722",
@@ -259,7 +271,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Worried that his sword is a glorified consolation prize, Mao Mao sets out to prove the worth of his weapon.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2193162",
         "isclip": false,
         "typesort": "1",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "386cc1cc66bd0b74048b0d5657128dcf4a29d323",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009031900018070",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "3a909164792868cb229b29fb7924389efc08d77e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1007311900010639",
@@ -341,7 +357,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Mao Mao discovers that he is not as popular as Badgerclops and Adorabat, they decide to reinvent him as a kinder, cuddlier hero.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2189953",
         "isclip": false,
         "typesort": "1",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1572598800000",
         "mediaid": "40e4d69d225c00bd01cd7622a3d21bb717e6494e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009111900019724",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "4e5fde40906d7c90edee5e71aeaf63f83505c3e0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009111900019721",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "53e019f317e60e220b4fe2e64c6759ebe735d10b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009111900019730",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "60b3d5f6ee63455f418404b01fe7229054d1f589",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1010021900025394",
@@ -505,7 +529,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When the King cannot overcome his fears, he abuses having the Sheriff's Dept. on call.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2198274",
         "isclip": false,
         "typesort": "1",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1572685153000",
         "mediaid": "72731b1c01ad4905e841ca55c10ba9ad1bd27534",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1010041900025640",
@@ -546,7 +572,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Badgerclops is tired of his responsibilities at Sheriff's HQ, so he joins the Sky Pirates.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2196826",
         "isclip": false,
         "typesort": "1",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1572685140000",
         "mediaid": "75aed9f99945a889568281d7f3613bf80e1f26b6",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1008301900017561",
@@ -587,7 +615,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang decide to compete in the annual Thumb War competition, but a surprise forces Mao Mao to deal with the unthinkable... losing.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2186685",
         "isclip": false,
         "typesort": "1",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "85ad8a905f9494189c05359397c165d32c90ca96",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1010021900025393",
@@ -628,7 +658,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When the Sky Pirates infiltrate Sheriff HQ, they put our heroes in danger!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2198275",
         "isclip": false,
         "typesort": "1",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1572685153000",
         "mediaid": "862d04ed9bae3bfae85d7d010bd0cb99162850ce",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1008301900017563",
@@ -669,7 +701,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Mao Mao's desire to be a legend drives him to keep topping himself. But how much is enough?",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2187594",
         "isclip": false,
         "typesort": "1",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "9743788c7d2d661a42640e41dd9108d06010bcd6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009061900019108",
@@ -710,7 +744,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Badgerclops gets huge to destroy a towering monster, but when he refuses to shrink down, the kingdom faces a new terror.",
-        "duration": 677,
+        "duration": 678,
         "freewheelid": "cn-2186684",
         "isclip": false,
         "typesort": "1",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "99222118b4976d913a6bc44bee640cba4f2464e6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009111900019723",
@@ -751,7 +787,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When the Sweetypies think the mythical Torbaclaun has come to Pure Heart Valley, Mao Mao tries to prove to them that it isn't real.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2192344",
         "isclip": false,
         "typesort": "1",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "9c287fcd2f6fb1691a4e71a127a43a8ae42c901d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1010071900026420",
@@ -792,7 +830,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Bao Bao returns, and the King makes him his pet, Mao Mao must rescue his ex-partner.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2197345",
         "isclip": false,
         "typesort": "1",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1573293588000",
         "mediaid": "a1ab60f150f4d6e3070062124848415d875e8131",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009111900019732",
@@ -833,7 +873,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Rufus and Reg come to swindle the town, Sheriff Mao Mao teaches them a lesson in justice.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2188293",
         "isclip": false,
         "typesort": "1",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "adeb191d4d2cecb875805e9080a9cdcd6300308f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009111900019728",
@@ -874,7 +916,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When a Sweetypie isn't impressed with the sheriff dept's antics, our three heroes try everything to win him over.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2188292",
         "isclip": false,
         "typesort": "1",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "b1020b4f9a5a0b23730d30d8fb78bb42fb63b580",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1010071900026424",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "b6953fdea6d968f0859be53d4d1dd0a1c1b0761d",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009031900018068",
@@ -956,7 +1002,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang struggles to get rid of the King when he joins them as their new deputy-for-a-day!",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2191367",
         "isclip": false,
         "typesort": "1",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "c12ac704fdf19e07bfb51c42c8a396578d0c50a6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1007311900010641",
@@ -997,7 +1045,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Mao Mao won't admit that he's sick, he puts the town in danger.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2188731",
         "isclip": false,
         "typesort": "1",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "c929f5bc96cfccdbaa1e56a68e986666d0e65117",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1010041900025638",
@@ -1038,7 +1088,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Mao Mao tries to hide his love of cobbler.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2195429",
         "isclip": false,
         "typesort": "1",
@@ -1063,7 +1113,9 @@
         "expdateasmilliseconds": "1572685140000",
         "mediaid": "d2668decf24fbd232363e330969db8609673b1ac",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1010041900025649",
@@ -1079,7 +1131,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When they think each others' lives are easier, the heroes switch roles.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2194873",
         "isclip": false,
         "typesort": "1",
@@ -1104,7 +1156,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "d7c463969ca67840de8fd4fc95b77b259454e433",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009111900019734",
@@ -1120,7 +1174,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Mao Mao's old partner threatens the kingdom, his friends will need to learn about his past in order to protect the present.",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2191366",
         "isclip": false,
         "typesort": "1",
@@ -1145,7 +1199,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "f212ad11df9a4be5081f81eacea0e49e9e656355",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1010041900025643",
@@ -1161,7 +1217,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "An explosive loner and his slacker best friend are waylaid from their journey into legend, only to find that their story is just beginning.",
-        "duration": 677,
+        "duration": 678,
         "freewheelid": "cn-2181894",
         "isclip": false,
         "typesort": "1",
@@ -1186,7 +1242,9 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "f608a3b789a1566efd24d237da1ff6466826a354",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009061900019106",
@@ -1202,7 +1260,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After struggling to keep up, Adorabat gets a cybernetic \"Mega-Mech.\" But can fancy new powers make up for experience?",
-        "duration": 676,
+        "duration": 677,
         "freewheelid": "cn-2181897",
         "isclip": false,
         "typesort": "1",
@@ -1227,6 +1285,8 @@
         "expdateasmilliseconds": "1593662399000",
         "mediaid": "f91227532150ada4cbc99f4e4906a398585c9302",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     }
 ]

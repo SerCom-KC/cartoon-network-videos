@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "010a4bf04043791456bfef48fde4613d8dccdd5b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1010231900029148",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "059c96fa0585418bcd49c39ea0669de57d6934ff",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017836",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "06a56d3e41a1d53d97bb72f6d5f1fa58c52e7b3e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017842",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "156565b5b3e03098bdedf8655fe89243882c95ad",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017852",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "2eb7e7ec236c788a8cee41932c3c1b243d0f41a8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009191900021427",
@@ -218,7 +228,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When the Joker traps Batman, the Justice League decides against their better judgment to allow Riddler, who is trying to go straight, to help them track him down.",
-        "duration": 675,
+        "duration": 676,
         "freewheelid": "cn-2085517",
         "isclip": false,
         "typesort": "1",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1572598771000",
         "mediaid": "3065a427e0ede5a2cd777ed5fbfec1d8512a7bfd",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017835",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "364f55619f26f16ef4c5ba805ad353c2d4c85c51",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009261900023769",
@@ -300,7 +314,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Four kids in Justice League costumes are trick or treating on Halloween when they investigate a spooky house. As dangers befalls them inside, they come to realize that maybe they're not kids at all, but real Justice Leaguers under a spell.",
-        "duration": 668,
+        "duration": 669,
         "freewheelid": "cn-2084361",
         "isclip": false,
         "typesort": "1",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "46268761cf0e1ec869212806527435cf97d9d1ab",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017869",
@@ -341,7 +357,7 @@
         "type": "short",
         "active": true,
         "description": "Under cover of night, Justice One streaks away from the Tower with Poison Ivy and Harley Quinn at the controls! The Batwing interrupts their short lived victory. Struck by one of their missiles, the Batwing starts to plummet. Batman slings a grappling hook onto Justice One and tries to get aboard, only to be launched back into the air on the craft's many separate aircraft, including a submarine. Batman gets aboard to face off with Ivy and Harley, but a smashed guidance system sends the ship plummeting. Batman buckles in. What is he doing?",
-        "duration": 132,
+        "duration": 133,
         "freewheelid": "cn-2130981",
         "isclip": false,
         "typesort": "2",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "4ac91cb2a89592d53020ba25f7afa61111841a40",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017838",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "62173e8930db2361306396d405a2035acdd77030",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017855",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "6245cb92ac1014d688e074f29879c1b833dd7997",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017859",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "63dac0045ac4bb06b4e4d8a78d7c94aafec761a2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017868",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "68b26ef5a7063105e639ec3c8ec76bf99c8dba0b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017867",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "6e6a91eb46585a771a94823903aa12fc09597c73",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017846",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "7cbd38ca10481d1a2369a52574194db1c7d14517",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017848",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "7ddde08040285467f080432cb71a31f930261e8f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009191900021428",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1572598771000",
         "mediaid": "853b801d1ea66803b4e8689c32287f96a1b9fb85",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017830",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "86bd6cc963a3bbc206bd49f30256d5da65b6dff4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017844",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "8ee13b6954b1a92ded848bde75477774b872f93b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009191900021430",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1572598771000",
         "mediaid": "9966a5669b6b1fbee6255639c9ae0905e956dd9e",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017850",
@@ -833,7 +873,7 @@
         "type": "short",
         "active": true,
         "description": "Wonder Woman explains that \"bonding is important\" as they unite to fight fires, explosions, and tendrils of monstrous vines that choke off the city. It's all the work of Poison Ivy and her Ivy League. Her gigantic Venus Flytrap of a vine squeezes Batman, Star Sapphire bats away Superman's attempts to catch her, Cheetah puts the Flash out of commission, and Ember makes an explosive entrance to finish him off. Wonder Woman steps in to interrupt the mayhem so the boys can get back in the game. They're all for unity, except for the Dark Knight, but the game they end up with is hardly what anyone expected.",
-        "duration": 141,
+        "duration": 142,
         "freewheelid": "cn-2130969",
         "isclip": false,
         "typesort": "2",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "a4fa65903d6166061bd8a9bc5ebb94ed054cf30c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017863",
@@ -874,7 +916,7 @@
         "type": "short",
         "active": true,
         "description": "Mr. Freeze has paralyzed Gotham City in ice and helps himself to a jewelry store's inventory. Batman catches him cold, but Mr. Freeze seems to be always two steps ahead of the hero. And Plastic Man's arrival certainly isn't going to help Batman catch Mr. Freeze, who's escaping on a motorcycle. Or will it?",
-        "duration": 137,
+        "duration": 138,
         "freewheelid": "cn-2130983",
         "isclip": false,
         "typesort": "2",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "ac12357a12f6dc099253c2c95c4e9aca21336ef6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017845",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "bf6bcf7ae5927347e0128a83f6fc73d27d083c0c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017866",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "c907db53337747e71a45465cab0306d2e4d30187",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017872",
@@ -997,7 +1045,7 @@
         "type": "short",
         "active": true,
         "description": "Cyborg has good news and bad. Good: he's added lots of new action figures to his collectible toys. Bad: Toyman has turned all the \"Bot-Bots,\" which he's been collecting since childhood, into weapons. In the ensuing battle, a hysterical Cyborg needs to choose whether he's willing to destroy or damage his precious mint condition collectibles, or be a victim of their destruction. Will he stop the battle before they lose all their value, or will he allow Toyman, and his new toy army, to destroy Justice League's headquarters?",
-        "duration": 152,
+        "duration": 153,
         "freewheelid": "cn-2130974",
         "isclip": false,
         "typesort": "2",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "d24bdd102ac76e5999456a0bb5cfe6819825d6eb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1009191900021429",
@@ -1038,7 +1088,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Gorilla Grodd takes control over Titano, the giant ape, the only person who seems to be able to override his control is the medical worker who nursed him as a chimp. She's now known as Harley Quinn.",
-        "duration": 674,
+        "duration": 675,
         "freewheelid": "cn-2084376",
         "isclip": false,
         "typesort": "1",
@@ -1063,7 +1113,9 @@
         "expdateasmilliseconds": "1572598771000",
         "mediaid": "ed7709b270418dd65ecf2cd49187ee30b9cd06e1",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017857",
@@ -1104,7 +1156,9 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "f44a6191f25ea6314b97b35e79dbdf5b7db99c1e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005151800017832",
@@ -1145,6 +1199,8 @@
         "expdateasmilliseconds": "1573102740000",
         "mediaid": "fb244442828dca4fd7a790efc087f27a8ea947a4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
     }
 ]

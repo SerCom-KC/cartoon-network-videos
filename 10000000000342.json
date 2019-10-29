@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1575107980000",
         "mediaid": "005e8ae824c6207e8cd53a97d78e1e39e0916355",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019849",
@@ -54,7 +56,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "While visiting a space center, a mysterious alien egg hatches. The gang must stop this shape-shifting creature before NASA's shuttle mission is aborted.",
-        "duration": 1269,
+        "duration": 1270,
         "freewheelid": "cn-439673",
         "isclip": false,
         "typesort": "1",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "019fefd8645cc33aeeaaf4898c4d7be3b1e92db4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019888",
@@ -95,7 +99,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang is hired by Daphne's uncle, a famous director, as extras in his latest project. But the star of the show is a real nasty ape.",
-        "duration": 1314,
+        "duration": 1315,
         "freewheelid": "cn-123493",
         "isclip": false,
         "typesort": "1",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "01c3776d1a86a373868b42b904d03376db671feb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019841",
@@ -136,7 +142,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A pair of brutal gargantuas begin breaking apart the town, which sadly mirrors the fractured relationship of Mystery Inc. See, while searching for Shaggy, Scooby accidentally discovers him canoodling with Velma. Feeling betrayed, Scooby is inconsolable despite the best efforts of Fred and Daphne to cheer him up and put the team back together. Although they ultimately reunite to capture and defeat the Humongonauts, the rift in the gang is deep and the question by the end of the episode soon becomes can Mystery Inc. ever be healed again?",
-        "duration": 1359,
+        "duration": 1360,
         "freewheelid": "cn-797607",
         "isclip": false,
         "typesort": "1",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "038a96f2867abeacbae412dc0b8ee2d01a6b9073",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019909",
@@ -177,7 +185,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When the gang visits the Weatherby estate, they must investigate a mysterious voice and a ghost who demands the family return its fortune to a neighboring clan.",
-        "duration": 1321,
+        "duration": 1322,
         "freewheelid": "cn-123492",
         "isclip": false,
         "typesort": "1",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "055eb81b360d4377b40aae667fe14e64283bee59",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019859",
@@ -218,7 +228,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Mystery Inc. gang visits a robot resort for living out Western movie fantasies. Then the robots turn on the gang.",
-        "duration": 1269,
+        "duration": 1270,
         "freewheelid": "cn-608279",
         "isclip": false,
         "typesort": "1",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "06ae1777e424f5ed9682a5d41b86b967ed1c3323",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019872",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "09dfd971ff993acb939bb357c1bcef6ceeb80ca6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019821",
@@ -300,7 +314,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A mysterious ghost trucker is terrorizing Crystal Cove. Add to that all the doorknobs have begun to disappear from around town, someone has hidden a priceless diamond and Fred's dad, the Mayor, is up for re-election against a guy named Avocados. Scooby and the gang have their hands full. Oh, and did we mention Daphne has been set-up on a blind date with a pinhead named Rung Ladderton, who - wait for it - sells ladders for a living.",
-        "duration": 1381,
+        "duration": 1382,
         "freewheelid": "cn-797600",
         "isclip": false,
         "typesort": "1",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "0acbf2214025edfb8296ac61e36bb899ac956bc6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019855",
@@ -341,7 +357,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Daphne's video safari goes in search of disappearing African animals and gets derailed by animalistic demons.",
-        "duration": 1263,
+        "duration": 1264,
         "freewheelid": "cn-439679",
         "isclip": false,
         "typesort": "1",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "12ca13bcccf2161347ba6222e5504e6cee03ccf8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019899",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "1545ee5293df2359d2a35d82256278c7b16802d2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019827",
@@ -423,7 +443,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Royal Knights Faire has come to Crystal Cove and the whole gang is in attendance. Unfortunately, so is a scary gnome who has begun attacking and paralyzing guests. Specifically, guests who are wearing pirate costumes. The gang decides to help trap the gnome. But when Shaggy, who is dressed as a pirate along with Scooby, is captured by the frightening little beast, it quickly becomes a race against time to find him or Scooby could lose his best buddy forever.",
-        "duration": 1358,
+        "duration": 1359,
         "freewheelid": "cn-797606",
         "isclip": false,
         "typesort": "1",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "1568f362de09e122bde91a9d2918537ddf7c5b7a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019927",
@@ -464,7 +486,7 @@
         "type": "movie",
         "active": true,
         "description": "When a ghoul begins to terrorize an amusement park, the Mystery Inc. gang come head to head with the legendary rock group, KISS, who claim they're also there to solve the mystery. Now the two groups must learn to work together as the clues lead them on a cosmic journey to another dimension.",
-        "duration": 4647,
+        "duration": 4648,
         "freewheelid": "cn-2054692",
         "isclip": false,
         "typesort": "3",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1575107980000",
         "mediaid": "15c01a5870134b55258ac9d47ef631d85046f78a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019865",
@@ -505,7 +529,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Mystery Inc. gang travels to Egypt, where a mummy is on the loose and turning everyone into Zombies on an archaeological dig.",
-        "duration": 1242,
+        "duration": 1243,
         "freewheelid": "cn-541350",
         "isclip": false,
         "typesort": "1",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "1800e5f17ead96a3dc26ea634c36b97da939820e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019823",
@@ -546,7 +572,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "There's a new girl at Crystal Cove High named Alice May and she's set her romantic sights on Fred. Only one problem, Alice is dead! That's right, Fred's new girlfriend is a dead girl. Alice is a ghost, famous for snatching up guys like Fred and disappearing with them forever. Now, she wants to take Fred to the prom, which means he's next. Fortunately, Daphne also wants to go to the prom with Fred and she's not going to let Alice beat her to the \"punch\" bowl (wink-wink). And what about the rest of the gang? Well, they've got problems of their own. See, Velma wants to go the prom with Shaggy but Scooby wants Shaggy to watch a Vincent Van Ghoul marathon with him. You keeping up? Good because this one is going to get nasty and when it's over, Scooby and the gang will never be the same again.",
-        "duration": 1358,
+        "duration": 1359,
         "freewheelid": "cn-797604",
         "isclip": false,
         "typesort": "1",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "18da064710c1f9c0517610fdcc6da18209257752",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019837",
@@ -587,7 +615,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Velma's favorite band, the Hex Girls, is in town and the gang has a front row seat. Unfortunately, so does an evil specter named The Phantom, who wants the Hex Girls out of the music business permanently! Solution? Send Daphne undercover as Crush, the newest member of the band. But when she's nabbed by the Phantom, Fred goes into freakout mode finally realizing he actually has feelings for Daphne. Meanwhile, Scooby and Shaggy are having their own problems due to Shaggy spending too much time with Velma. His solution: replace Shaggy with a puppet.",
-        "duration": 1360,
+        "duration": 1361,
         "freewheelid": "cn-797605",
         "isclip": false,
         "typesort": "1",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "1b31437376d106ae9e9b1ef4f916f358df6982f6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019902",
@@ -628,7 +658,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The kids look for a ghostly bank robber, who seems able to walk through walls.",
-        "duration": 1314,
+        "duration": 1315,
         "freewheelid": "cn-123506",
         "isclip": false,
         "typesort": "1",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "1f855227e2a9c440610899a30938493f01fd80f3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019864",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "204c3a803ec0611eeeb2a79bbc786c40ee685819",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019860",
@@ -710,7 +744,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Scooby-Doo and the gang return to Coolsville for Valentine's Day, they discover teenagers are being kidnapped from Lover's Lane and they are the prime suspects. To make matters worse, Shaggy learns his former girlfriend is dating JC Chasez!",
-        "duration": 1212,
+        "duration": 1213,
         "freewheelid": "cn-608284",
         "isclip": false,
         "typesort": "1",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "22623879d6bad7f1d7940cc602aed4d681ab84f6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019844",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "2977a22812ca2038888806e3a7c7ecefe5446530",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019880",
@@ -792,7 +830,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When the Mystery Machine comes to life and beings driving by itself, the gang tries to find the clues, which leads them to The Mystery Kids, the band who formerly owned the Mystery Machine.",
-        "duration": 1267,
+        "duration": 1268,
         "freewheelid": "cn-439676",
         "isclip": false,
         "typesort": "1",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "2b4bc36d147d94d71afe1b217347e6643a2196a2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019885",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "2cee8eb073930e87c0487337e8c54a5531b04660",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019904",
@@ -874,7 +916,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Scooby and the gang become mixed up in a mystery when he surfs into what appears to be the ghost of Captain Cutler.",
-        "duration": 1330,
+        "duration": 1331,
         "freewheelid": "cn-123488",
         "isclip": false,
         "typesort": "1",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "320b6f0fc4922ae98d7f15f73a6b3ea04dec6b3d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019828",
@@ -915,7 +959,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Bugs are taking over Crystal Cove and attacking some of its most prominent citizens. With Mystery Inc. back together as a team, they begin to investigate and discover all of the attacks have been on employees of a company called Destroido that makes Shaggy and Scooby's favorite snack food - Granma Moonbeams Nature Slivers. Somebody or something wants the company shut down. But when the gang gets too close to the truth, they become the bug's newest target. Of course, the timing couldn't be worse because this just happens to be the moment Fred has decided to make his move on Daphne and finally ask her out. That ain't gonna happen, though, if there are a bunch of bugs trying to kill them.",
-        "duration": 1308,
+        "duration": 1309,
         "freewheelid": "cn-797611",
         "isclip": false,
         "typesort": "1",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "3314196ac4714e9d4e5e59cf5a7bc4b7e2b673f6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019882",
@@ -956,7 +1002,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang attends a Renaissance Faire, where a dragon interrupts their fun!",
-        "duration": 1268,
+        "duration": 1269,
         "freewheelid": "cn-541349",
         "isclip": false,
         "typesort": "1",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "39048a634bfb29743cd9513d8a1a961252e0d84c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019923",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1575107980000",
         "mediaid": "392c6a7fda9999107c78469c8c7da2ec33d713ee",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019839",
@@ -1038,7 +1088,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The mystery comes to a close. The Scooby gang finally gets to the bottom of what happened to the original Mystery Incorporated and why they disappeared.",
-        "duration": 1358,
+        "duration": 1359,
         "freewheelid": "cn-830991",
         "isclip": false,
         "typesort": "1",
@@ -1063,7 +1113,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "3ab6e389c0cedb62b687268a8737ad95f2c980cf",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019863",
@@ -1079,7 +1131,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A big star's debut concert in new Las Vegas is sabotaged by a ghost from old Las Vegas.",
-        "duration": 1264,
+        "duration": 1265,
         "freewheelid": "cn-439677",
         "isclip": false,
         "typesort": "1",
@@ -1104,7 +1156,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "3bc416013541d6b7bf7d0e200125e9a69ac042c8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019829",
@@ -1145,7 +1199,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "3c30f7b372aa320dd7435cac5fa036e8243bf395",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019897",
@@ -1161,7 +1217,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang helps a professor set up an ancient Egypt exhibit but the star of the display keeps vanishing.",
-        "duration": 1320,
+        "duration": 1321,
         "freewheelid": "cn-123498",
         "isclip": false,
         "typesort": "1",
@@ -1186,7 +1242,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "3c844cf4fea55d4640a860dc910b944ca694862c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019866",
@@ -1202,7 +1260,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "While traveling to the Montreal Rock Festival, Scooby and company rescue the band Simple Plan from an invisible madman.",
-        "duration": 1259,
+        "duration": 1260,
         "freewheelid": "cn-541868",
         "isclip": false,
         "typesort": "1",
@@ -1227,7 +1285,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "45139a60f533b4650fc5792afcc47413ee89f811",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006191900000828",
@@ -1268,7 +1328,9 @@
         "expdateasmilliseconds": "1577095140000",
         "mediaid": "470c1c668f3d436b7331bccd9534e9cae990fa13",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019851",
@@ -1284,7 +1346,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang's Italian vacation is interrupted by misdeeds in the ancient city of Pompeii, leading to an ominous visit into the mouth of the maybe not-so-dormant volcano Vesuvius.",
-        "duration": 1247,
+        "duration": 1248,
         "freewheelid": "cn-439683",
         "isclip": false,
         "typesort": "1",
@@ -1309,7 +1371,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "49733f403c62ff22d298615d1ad2b6d9fb6dcf75",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019862",
@@ -1325,7 +1389,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang travels to a mountain resort in Tibet to watch a snowboarding competition. They end up investigating rumors of a snow creature that is attacking the participants.",
-        "duration": 1263,
+        "duration": 1264,
         "freewheelid": "cn-439672",
         "isclip": false,
         "typesort": "1",
@@ -1350,7 +1414,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "4b9693b3c6b51ec42fe19c48a274ac947e68c436",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019874",
@@ -1391,7 +1457,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "4bd3d61d735bebc361f3bcb17248a5e01b6fb270",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019833",
@@ -1407,7 +1475,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Velma is feeling like a fifth wheel. Fred has Daphne and Shaggy has Scooby. Who does she have?",
-        "duration": 1352,
+        "duration": 1353,
         "freewheelid": "cn-812775",
         "isclip": false,
         "typesort": "1",
@@ -1432,7 +1500,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "4bd5dfb6035b8149159aecebf91cc9a080155ad0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019868",
@@ -1473,7 +1543,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "4f6eb9ce7d301df46b54a36846038e5a97d5a898",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019895",
@@ -1489,7 +1561,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A ghost clown haunts a small circus, using hypnotism to bend locals to his will.",
-        "duration": 1315,
+        "duration": 1316,
         "freewheelid": "cn-123496",
         "isclip": false,
         "typesort": "1",
@@ -1514,7 +1586,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "51331df5e9091088621995c74d4d2650d6111d86",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019847",
@@ -1555,7 +1629,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "5292daed5926cba062a5eef5d819b1b390f3f468",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019883",
@@ -1596,7 +1672,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "5631b89997febe181e0fa3113ff6ff42312954dc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019875",
@@ -1612,7 +1690,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang goes to Fort Knox Army Base to visit the secret six puppies and encounters a solid gold ghoul!",
-        "duration": 1268,
+        "duration": 1269,
         "freewheelid": "cn-611122",
         "isclip": false,
         "typesort": "1",
@@ -1637,7 +1715,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "57afe49c33443cc71c99a5a1f540f2e856f474e3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019822",
@@ -1653,7 +1733,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A hideous creature named Que Horrifico is turning the children of Crystal Cove in to monsters. The adults in the town are in shock, reacting in the only way they know how, by abandoning their children and running away like cowards. Only Scooby and the gang stay behind to solve the mystery. Going undercover as a family - \"Dad\" Fred, \"Mom\" Daphne, \"Grandma\" Velma, \"Son\" Shaggy and \"Baby\" Scooby - the gang rents a house in order to capture Que Horrifico. But when their plan backfires and Que Horrifico uses his power over the monster children to cause them to attack the gang, it looks like all is lost. That is until a cartoon character named Broccoli Head comes to their rescue.",
-        "duration": 1344,
+        "duration": 1345,
         "freewheelid": "cn-797603",
         "isclip": false,
         "typesort": "1",
@@ -1678,7 +1758,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "63f75d546f9db7d368510bc6328ef9dc260293b4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019900",
@@ -1719,7 +1801,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "650eb6a55dea6a40c84ffb70b8d7cf0601bcb512",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019832",
@@ -1735,7 +1819,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Love has come to Crystal Cove. Love in the form of an evil woman by the name of Aphrodite.",
-        "duration": 1243,
+        "duration": 1244,
         "freewheelid": "cn-797614",
         "isclip": false,
         "typesort": "1",
@@ -1760,7 +1844,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "686e9f349212178d3c7d04803415e50a97f75ebe",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019834",
@@ -1776,7 +1862,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Scooby gang is getting close to finally unraveling what happened to the original Mystery Incorporated kids.",
-        "duration": 1355,
+        "duration": 1356,
         "freewheelid": "cn-830990",
         "isclip": false,
         "typesort": "1",
@@ -1801,7 +1887,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "6a44532ffce71bca6473b3dc5d2b24295375cada",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019853",
@@ -1817,7 +1905,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang travels to Tokyo, Japan. A mystical person zaps a pizza with a monster-transformation spell and Shaggy eats the pizza! He starts to grow into a Godzilla-like monster whenever he goes to sleep and he starts eating everything in sight.",
-        "duration": 1268,
+        "duration": 1269,
         "freewheelid": "cn-541926",
         "isclip": false,
         "typesort": "1",
@@ -1842,7 +1930,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "701d793bf4244cc99f7cdafeee0a5323266ca76c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019891",
@@ -1858,7 +1948,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang explores a mining town and investigate a phantom miner, who's driving the business away from a nearby dude ranch.",
-        "duration": 1323,
+        "duration": 1324,
         "freewheelid": "cn-123490",
         "isclip": false,
         "typesort": "1",
@@ -1883,7 +1973,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "72345b089f446aee1cfc0ae2a2a2252912796392",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019826",
@@ -1899,7 +1991,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Scooby and Shaggy win a dinner date with their hero, Vincent Van Ghoul.",
-        "duration": 1323,
+        "duration": 1324,
         "freewheelid": "cn-812774",
         "isclip": false,
         "typesort": "1",
@@ -1924,7 +2016,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "733f08491c9d9a199a64e9a10a419cac9e3bbece",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019831",
@@ -1940,7 +2034,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Fred's favorite adventurer, Rick Spartan, has come to town to take over the school's biology class.",
-        "duration": 1346,
+        "duration": 1347,
         "freewheelid": "cn-830987",
         "isclip": false,
         "typesort": "1",
@@ -1965,7 +2059,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "7549807cc9b38d1ac637751e303a9951ba62411d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019858",
@@ -2006,7 +2102,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "78cd3fb800379229a57b70b78f34ee3169eab528",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019836",
@@ -2022,7 +2120,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Crystal Cove may be the most haunted town in the world but that doesn't stop Scooby and the gang from trying to prove that most of its most famous tourist attractions were fakes, much to the anger and dwindling profits of their parents. But when a radioactive barrel is accidentally opened releasing a hideous sewer beast that cocoons its victims in frozen yogurt, their mystery-solving skills are put to the test. After all, what could a sewer beast, a delicious edible dessert, underground caves and shrimping boats made of balloons possibly have in common? I'll give you a little hint - the local bank.",
-        "duration": 1385,
+        "duration": 1386,
         "freewheelid": "cn-797599",
         "isclip": false,
         "typesort": "1",
@@ -2047,7 +2145,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "791b2fa7e3765780ce46c26b9c0e123848f36449",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019861",
@@ -2088,7 +2188,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "7a13a1f38f28e96d1d74bd65a4e648b6092e19c9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019894",
@@ -2129,7 +2231,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "7aa6fc434ccdd02d692e0223b3c34730cd74bf55",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019830",
@@ -2145,7 +2249,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "There's a vampire loose in the town terrorizing the residents and stealing an odd assortment of loot. When the gang does some sniffing around, they discover an unlikely suspect - Daphne's mother. Things are already strained within Mystery Inc. and with this latest blow, the gang is truly torn in half. Girls on one side, boys on the other. Although they solve the mystery in the end, the rift in Mystery Inc. is now complete. They are a team no more.",
-        "duration": 1334,
+        "duration": 1335,
         "freewheelid": "cn-797609",
         "isclip": false,
         "typesort": "1",
@@ -2170,7 +2274,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "7b1669d21c6e11ff51af1bae19afb3f9b057adab",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019876",
@@ -2211,7 +2317,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "82e6c6288eb5aeaa7436620b2152bd1233f4d512",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019879",
@@ -2227,7 +2335,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang visits Velma's relatives during a Halloween festival headlined by Kiss but the festivities are interrupted by the ghost of the town's founder and a bevy of living scarecrows.",
-        "duration": 1307,
+        "duration": 1308,
         "freewheelid": "cn-612169",
         "isclip": false,
         "typesort": "1",
@@ -2252,7 +2360,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "85e719fd90574216c0fbaedd0e2ae6aec60ef252",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019892",
@@ -2293,7 +2403,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "86113577e10a41570eb2843b73707e2e5556949c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019820",
@@ -2309,7 +2421,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A long time ago, there was a town called Gatorburg, where gators flowed wild and free and people got rich. Now, it's a ghost town. Gators are all dried up. But when Scooby and the gang receive an imitation Gatorburg purse, they decide to see for themselves if the gators really are gone. Forced to stay overnight when someone steals the engine to the Mystery Machine, they soon discover that gators have indeed returned - only these have comb-overs, walk on two legs and don't like visitors.",
-        "duration": 1386,
+        "duration": 1387,
         "freewheelid": "cn-797601",
         "isclip": false,
         "typesort": "1",
@@ -2334,7 +2446,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "8674c12e70623b505f086dd0cadc9b27929916d6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019878",
@@ -2375,7 +2489,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "86759d3219d803aff5ad72c6a3cdc3dba8133d42",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019869",
@@ -2391,7 +2507,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Shaggy competes in a mini golf tournament that is terrorized by a giant metallic clown.",
-        "duration": 1280,
+        "duration": 1281,
         "freewheelid": "cn-611119",
         "isclip": false,
         "typesort": "1",
@@ -2416,7 +2532,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "869239242f96aa6049f0bf6efbe80203e9698f0f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019905",
@@ -2432,7 +2550,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang investigates a haunted seaside amusement park.",
-        "duration": 1323,
+        "duration": 1324,
         "freewheelid": "cn-123494",
         "isclip": false,
         "typesort": "1",
@@ -2457,7 +2575,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "8a2112fe652f41f3d83f537baa59c4be62469465",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019842",
@@ -2473,7 +2593,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "While hosting a volleyball tournament for Trickell's Triquid diet moisture, a smooth drinking beverage just like water except not so fatty, Crystal Cove beach finds itself attacked by a hideous man crab, who has taken a liking to the tournament's female players. Desperate to stop this beast before it scares away all the tourists, the gang investigates convinced it is a disgruntled local named Skipper Shelton, famous for his delicious clam filled waffle cones, his missing nose and his hatred for Crystal Cove bureaucrats. But when Daphne is captured by the Man Crab, Scooby and the gang have to put the mystery solving into overdrive or risk losing not only Daphne but the sanity of their leader Fred, who is not taking the abduction well.",
-        "duration": 1339,
+        "duration": 1340,
         "freewheelid": "cn-797602",
         "isclip": false,
         "typesort": "1",
@@ -2498,7 +2618,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "8d1ffbc2319cdc34e4906c8236f4005cc32a51c6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019911",
@@ -2514,7 +2636,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Scooby must spend the night in a haunted house in order to receive an inheritance.",
-        "duration": 1322,
+        "duration": 1323,
         "freewheelid": "cn-123502",
         "isclip": false,
         "typesort": "1",
@@ -2539,7 +2661,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "8f732b48ae225e9293cb41599157d5410c403261",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019889",
@@ -2580,7 +2704,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "95f0f361712e7250ed7fc8df3b92d77e0ede8d8f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019898",
@@ -2621,7 +2747,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "9968e675fd1d11105cbe590e17c6fda2939f9a49",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019871",
@@ -2637,7 +2765,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang travels to New Mexico and finds a giant, ancient legendary bird that carries the locals off to its mysterious lair.",
-        "duration": 1266,
+        "duration": 1267,
         "freewheelid": "cn-541866",
         "isclip": false,
         "typesort": "1",
@@ -2662,7 +2790,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "9977588cc59ada1fb8b3d167362a2e40a02facbe",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019825",
@@ -2678,7 +2808,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After a horrible, mechanized beast begins attacking the town, all fingers begin pointing at Scooby. Before the gang can clear his name, the Sheriff has Scooby hauled away to the Crystal Cove Hospital for Criminally Insane Animals. Now, it's up to the gang to clear Scooby's good name. But standing in their way is a new enemy they hadn't counted on: a diabolical parrot named Professor Pericles, who knows more about Mystery Inc. than he should. Add to this the growing friction between Shaggy, Velma and Scooby, and you have a recipe for disaster.",
-        "duration": 1354,
+        "duration": 1355,
         "freewheelid": "cn-797608",
         "isclip": false,
         "typesort": "1",
@@ -2703,7 +2833,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "a204e7d4b2aa75b12fbbf4868006558fdfd77208",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019910",
@@ -2744,7 +2876,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "aba46a471cb86197cfefc9458bf355cfe19fadfa",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019843",
@@ -2785,7 +2919,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "b11854361fff9be4eaf9168bb6934fac1ac18141",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019873",
@@ -2826,7 +2962,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "b1b50e4c603b767d8eef8c893fb402d655ee9211",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019845",
@@ -2842,7 +2980,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Mayor Jones is under attack by a poltergeist in his own home and the only ones who can help him are the Scooby gang.",
-        "duration": 1343,
+        "duration": 1344,
         "freewheelid": "cn-830988",
         "isclip": false,
         "typesort": "1",
@@ -2867,7 +3005,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "b7404851d1c0c936f8d8013469d468ce12b34870",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019854",
@@ -2883,7 +3023,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A giant dinosaur, El Oloroso, comes to life and rampages through a museum in Central America.",
-        "duration": 1269,
+        "duration": 1270,
         "freewheelid": "cn-439674",
         "isclip": false,
         "typesort": "1",
@@ -2908,7 +3048,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "b762f163d35ae4fb0bc5bf0fa877f93682d948dc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019887",
@@ -2924,7 +3066,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Videogame characters come to life and menace the Mystery Inc. gang while they attend a gaming convention.",
-        "duration": 1265,
+        "duration": 1266,
         "freewheelid": "cn-611123",
         "isclip": false,
         "typesort": "1",
@@ -2949,7 +3091,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "b90590113858d43f69179a073bbf64c3401d3127",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019890",
@@ -2990,7 +3134,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "bb6aae916d8724c3af3afc23143af1b8f6c7562e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019840",
@@ -3006,7 +3152,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "After the Mayor purchases a haunted temple off the internet, Crystal Cove's only theme park, Creepy Spooky Terror Land, is besieged by a Manticore.",
-        "duration": 1338,
+        "duration": 1339,
         "freewheelid": "cn-830986",
         "isclip": false,
         "typesort": "1",
@@ -3031,7 +3177,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "be7a1c91cc19c485b412cab5969d1c9f2a3beb00",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019824",
@@ -3047,7 +3195,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A rowdy Orc Biker Gang has decided to roll through Crystal Cove and no one is very happy about it.",
-        "duration": 1308,
+        "duration": 1309,
         "freewheelid": "cn-797613",
         "isclip": false,
         "typesort": "1",
@@ -3072,7 +3220,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "bfa2862d670a71fe61acd831887ee782bad5a347",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019912",
@@ -3088,7 +3238,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Shaggy and Scooby hook a frozen caveman and present the chilly artifact to Oceanland. But the creature is mysteriously thawed out and goes on a rampage.",
-        "duration": 1315,
+        "duration": 1316,
         "freewheelid": "cn-123507",
         "isclip": false,
         "typesort": "1",
@@ -3113,7 +3263,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "c167d1099e218fe7e7c6240c194618035062e5b5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019835",
@@ -3154,7 +3306,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "c648978d61af01bda4b6c12865c9706bbfc3ffdd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019929",
@@ -3170,7 +3324,7 @@
         "type": "movie",
         "active": true,
         "description": "Join Scooby-Doo, Shaggy and the Mystery Inc. crew as they head to Chicago for a talent show, a few museum tours and whole lot of pizza!",
-        "duration": 4703,
+        "duration": 4704,
         "freewheelid": "cn-845007",
         "isclip": false,
         "typesort": "3",
@@ -3195,7 +3349,9 @@
         "expdateasmilliseconds": "1575107980000",
         "mediaid": "c73216863fbe07c8011d707004ef2dc6dbd6144c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019928",
@@ -3211,7 +3367,7 @@
         "type": "movie",
         "active": true,
         "description": "Late one night in the desert, the Mystery Machine van breaks down after it is forced off the road by what appears to be a UFO. Locals confirm the sighting, telling the gang about a nearby government project searching for extraterrestrial intelligence. While waiting for the van to be repaired, Scooby and Shaggy are abducted by 8-foot green aliens. They awaken from the frightening experience back out in the desert with a beautiful free-lance photographer named Crystal and her dog, Amber. Together, they uncover the secret of the aliens, falling in love in the process.",
-        "duration": 4021,
+        "duration": 4022,
         "freewheelid": "cn-338111",
         "isclip": false,
         "typesort": "3",
@@ -3236,7 +3392,9 @@
         "expdateasmilliseconds": "1575107980000",
         "mediaid": "c7914e64aadf512f28ab6c07c16a564db0960596",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019877",
@@ -3252,7 +3410,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang's in Hong Kong when a festive fake dragon comes to life and rampages!",
-        "duration": 1274,
+        "duration": 1275,
         "freewheelid": "cn-608283",
         "isclip": false,
         "typesort": "1",
@@ -3277,7 +3435,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "ca0ec60b10dfa322f63e46130f7bf1e4fd826342",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019870",
@@ -3318,7 +3478,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "cc1aea015f0abc4813cbf807d9685d94efabb056",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019846",
@@ -3334,7 +3496,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The ghosts of two rival Civil War soldiers haunt a New Orleans necropolis.",
-        "duration": 1268,
+        "duration": 1269,
         "freewheelid": "cn-439675",
         "isclip": false,
         "typesort": "1",
@@ -3359,7 +3521,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "d0ca98c21dfa89a1ea5e7a767bebf0f658d2694c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019867",
@@ -3375,7 +3539,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "While attending the Grind Games, the gang runs into the ghost of an Alcatraz prisoner, who is targeting members of the competition.",
-        "duration": 1268,
+        "duration": 1269,
         "freewheelid": "cn-542731",
         "isclip": false,
         "typesort": "1",
@@ -3400,7 +3564,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "d5f1cbb927576df9f6eea62d5cb4d09fd5a0d031",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019856",
@@ -3416,7 +3582,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The spectre of a famous ballplayer appears to stop a current home run hitting star from breaking his record.",
-        "duration": 1270,
+        "duration": 1271,
         "freewheelid": "cn-439684",
         "isclip": false,
         "typesort": "1",
@@ -3441,7 +3607,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "d687e8902f45c25204b82fe4a193b82dbec59d02",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019852",
@@ -3457,7 +3625,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A medallion Shaggy wears apparently causes an ancient myth to come to life as the Mystery Inc. gang travels in Greece.",
-        "duration": 1264,
+        "duration": 1265,
         "freewheelid": "cn-541478",
         "isclip": false,
         "typesort": "1",
@@ -3482,7 +3650,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "d9e092ca069a0f44789c15e245dc042b0cb8b2cb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019850",
@@ -3498,7 +3668,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "An amusement park full of extreme rides is haunted by the Roller Ghoster, a speed-happy spectre who frightens patrons off the thrill rides.",
-        "duration": 1258,
+        "duration": 1259,
         "freewheelid": "cn-439678",
         "isclip": false,
         "typesort": "1",
@@ -3523,7 +3693,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "dc753ce4c921dcb8a82c7ce67506211ee4933c53",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019884",
@@ -3564,7 +3736,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "ddd315575c57e0a91b09635b8c3d4d1d150c0c12",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019886",
@@ -3580,7 +3754,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The ghost of a Russian hockey player shows up to ruin the international world cup hockey event.",
-        "duration": 1254,
+        "duration": 1255,
         "freewheelid": "cn-611118",
         "isclip": false,
         "typesort": "1",
@@ -3605,7 +3779,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "df5bdc18e33656ae92550d8948894f7428e5c76e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019924",
@@ -3646,7 +3822,9 @@
         "expdateasmilliseconds": "1575107980000",
         "mediaid": "e49ece9af100fd4c4c86b5f97c18b9d09950e484",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019901",
@@ -3662,7 +3840,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang goes camping and stumbles across a lonely graveyard and an empty tomb, whose missing inhabitant was suspected of being a werewolf.",
-        "duration": 1322,
+        "duration": 1323,
         "freewheelid": "cn-123510",
         "isclip": false,
         "typesort": "1",
@@ -3687,7 +3865,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "e4c18ce0a22eb1ced162a974ee0b0f53bcd7751e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1006191900000824",
@@ -3703,7 +3883,7 @@
         "type": "movie",
         "active": true,
         "description": "When Scooby, Scrappy and Shaggy visit a Southern plantation, they end up encountering ghostly peril, hairbreadth escapes and a search for lost treasure.",
-        "duration": 5556,
+        "duration": 5557,
         "freewheelid": "cn-325147",
         "isclip": false,
         "typesort": "3",
@@ -3728,7 +3908,9 @@
         "expdateasmilliseconds": "1577095140000",
         "mediaid": "e95e113138cde73ab4f3a0b1ccd002ba31351a86",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019838",
@@ -3769,7 +3951,9 @@
         "expdateasmilliseconds": "1574071174000",
         "mediaid": "e9cd840cc89cf61f6ad65db92aba832d4cfabc56",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019848",
@@ -3785,7 +3969,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The Mystery Inc. gang gets trapped in an automated house of the future that goes berserk.",
-        "duration": 1263,
+        "duration": 1264,
         "freewheelid": "cn-541170",
         "isclip": false,
         "typesort": "1",
@@ -3810,7 +3994,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "eab0d4f683876f31ec1c4a6f076399d11f46ded9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019925",
@@ -3851,7 +4037,9 @@
         "expdateasmilliseconds": "1575107980000",
         "mediaid": "eb89655bc5eefd2ee990eea00a87a597bbbacf8b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019893",
@@ -3892,7 +4080,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "eddd1ab919409cf82ecfb33d3c82212e9f6a28a1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019907",
@@ -3908,7 +4098,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A zombie walks in front of the Mystery Machine as the gang heads into the bayou for a fishing trip, leading to a real witch hunt.",
-        "duration": 1323,
+        "duration": 1324,
         "freewheelid": "cn-123499",
         "isclip": false,
         "typesort": "1",
@@ -3933,7 +4123,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "eec895e0965d68a959083c879ccd868950e2ccb5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019896",
@@ -3974,7 +4166,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "f10550d84872da394b7c77e564d36612d847d094",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019903",
@@ -3990,7 +4184,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "A phantom interrupts Shaggy and Scooby's performance on a TV dance show.",
-        "duration": 1323,
+        "duration": 1324,
         "freewheelid": "cn-123511",
         "isclip": false,
         "typesort": "1",
@@ -4015,7 +4209,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "f1db0345615cc970523cfb1d4d1689f0cf491e15",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019857",
@@ -4031,7 +4227,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "While visiting the hex girls at a Transylvania Castle, the gang runs into a real-life vampire.",
-        "duration": 1267,
+        "duration": 1268,
         "freewheelid": "cn-541489",
         "isclip": false,
         "typesort": "1",
@@ -4056,7 +4252,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "f752f28552717f0d2a7d48ee308b91ed8211a83c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019906",
@@ -4072,7 +4270,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "The gang follows a mysterious figure through a marsh to the house of a latter-day Dr. Jekyll, whose alter ego is apparently a jewel thief.",
-        "duration": 1310,
+        "duration": 1311,
         "freewheelid": "cn-123504",
         "isclip": false,
         "typesort": "1",
@@ -4097,7 +4295,9 @@
         "expdateasmilliseconds": "1574071179000",
         "mediaid": "fa88b7d0ce1267eaf770ebab04dcf06c1662ec4d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019881",
@@ -4113,7 +4313,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Toys come to life in the local shopping mall, and the gang stays overnight to investigate.",
-        "duration": 1260,
+        "duration": 1261,
         "freewheelid": "cn-439681",
         "isclip": false,
         "typesort": "1",
@@ -4138,7 +4338,9 @@
         "expdateasmilliseconds": "1577095157000",
         "mediaid": "faee1b07bb9c751a3da00d1943fa3a39aa6810eb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009121900019930",
@@ -4154,7 +4356,7 @@
         "type": "movie",
         "active": true,
         "description": "Velma discovers she's inherited her great-great-uncle Dr. Von Dinkenstein's cursed castle in the terrifying town of Transylvania Pennsylvania, that is. Just when the Gang persuades Velma to go claim her inheritance, the ghost of Dinkenstein Castle blows up the Mystery Machine as a warning! Now the Crew must spring back into action, but this time it's personal! Who's responsible for the Dinkenstein monster? What family secret has Velma been hiding? Will Fred recover from the loss of his beloved Mystery Machine? Can any helpless snack survive Scooby and Shaggy's monster-sized appetites?",
-        "duration": 4157,
+        "duration": 4158,
         "freewheelid": "cn-845009",
         "isclip": false,
         "typesort": "3",
@@ -4179,6 +4381,8 @@
         "expdateasmilliseconds": "1575107980000",
         "mediaid": "fc6cabbab3ca919253ca3d428d09022a113a7af6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": true
+        "ismultipropertycollection": true,
+        "clipsonly": true,
+        "includeshortform": false
     }
 ]

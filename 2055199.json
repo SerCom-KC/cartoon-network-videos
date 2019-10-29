@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "027ac4f441368df3bf1500b99ddaac3625342b23",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021403",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1572598776000",
         "mediaid": "09350abf6c323a5b4728020bf294317f6367108b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066465",
@@ -95,7 +99,7 @@
         "type": "short",
         "active": true,
         "description": "Learn all about the amazing swords Prohyas and Vambre use on their quests, including some of the most electric.",
-        "duration": 271,
+        "duration": 272,
         "freewheelid": "cn-2132080",
         "isclip": false,
         "typesort": "2",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "0d6c0eb4b2d5bd5c2cdde604a08012121e9642ee",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066456",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "0f8a2c85a972a55957e2f16139d635db0085bba5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066524",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "15c1ebab5546ad33c2dfaf50dec2d42f6a62d505",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066445",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "18c4cfd25c049d07acd5b079b5f0787afa646cf1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066495",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "2168a850274f751475f90046a7e69f48877b698f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066424",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "240e663b29ded19156d8597d751a0d40c49e8e4e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066444",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "2757492b71f4239c11709e70cd6334e554db908a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066453",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "2ca0f044b20eae6dd38f214f9140dc39b5f8708c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021396",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1572598776000",
         "mediaid": "3439cceaf773c371d0197661b37055ac877439f4",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066475",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "39445745fffa0e3de7a7e0f1eef31b07318fbe00",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066468",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "3ca71c82a8c39a7db4134f00ed7f1411d6f5ae5d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066414",
@@ -546,7 +572,7 @@
         "type": "short",
         "active": true,
         "description": "With Gateaux wearing a dragon costume, and Vambre as a dragon-slaying knight, an exercise in dragon slaying takes a dramatic turn when Gateaux's magic turns him into a real dragon!",
-        "duration": 120,
+        "duration": 121,
         "freewheelid": "cn-2090642",
         "isclip": false,
         "typesort": "2",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "3e18082dfa423ae1c4fbb3f057a9a39dcf0dd70e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066430",
@@ -587,7 +615,7 @@
         "type": "short",
         "active": true,
         "description": "Phil the thief swipes Prohyas' beloved Dolphin Magisword.",
-        "duration": 181,
+        "duration": 182,
         "freewheelid": "cn-2055203",
         "isclip": false,
         "typesort": "2",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "41e417f6341b8491a505f37bc5943cae2f72bd52",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066413",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "424fb0a0db5e7e93f071d46daa68cb79761ca81c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066513",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "42c11a14e02e11eece46b54db07142f52697411a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021745",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "433a0abf32c32d93ce3fb12e65dd7b093ee8b9fc",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066418",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "46d121d131e9d25239b29b7d6eeb8b17d1844638",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066421",
@@ -792,7 +830,7 @@
         "type": "short",
         "active": true,
         "description": "Vambre and Phibby Croax are chosen to Whack A Shark in shark tanks, but Vambre decides that Magiswords will do better to defeat them than bops on the shark's schnozzola!",
-        "duration": 121,
+        "duration": 122,
         "freewheelid": "cn-2090646",
         "isclip": false,
         "typesort": "2",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "46d2b4135e3bb11072355337b91e76ad0fd1f409",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066489",
@@ -833,7 +873,7 @@
         "type": "short",
         "active": true,
         "description": "The Warriors are sent to the Barren Faceland to water a cactus, which grows into a giant cactus beast that attacks them.",
-        "duration": 180,
+        "duration": 181,
         "freewheelid": "cn-2055207",
         "isclip": false,
         "typesort": "2",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "47614d0ef101e8e59431c958ca54a5e7e8672b84",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066405",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "4854d59a745b390dd212a5fcfe0fd8b6b203dfb4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066494",
@@ -915,7 +959,7 @@
         "type": "short",
         "active": true,
         "description": "The Warriors travel to futuristic Galacton and must figure out a way to get the Confusing Alien Magisword from Nohyas.",
-        "duration": 180,
+        "duration": 181,
         "freewheelid": "cn-2055209",
         "isclip": false,
         "typesort": "2",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "496032af064c8f0a9adf12286041531930394d10",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021407",
@@ -956,7 +1002,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Vambre gets locked inside Mount Ma'all so Prohyas tries to get her out while Vambre does her best to escape from the inside.\n",
-        "duration": 679,
+        "duration": 680,
         "freewheelid": "cn-2139779",
         "isclip": false,
         "typesort": "1",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1572598776000",
         "mediaid": "4bbe6c79ccb0c0e202947d0c00411672ce5b615d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066518",
@@ -997,7 +1045,7 @@
         "type": "short",
         "active": true,
         "description": "To exact his revenge on the Warriors, Phil the philanderer hides in The Warriors' house and turns the siblings against each other.",
-        "duration": 299,
+        "duration": 300,
         "freewheelid": "cn-2074117",
         "isclip": false,
         "typesort": "2",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "4dce644bffdb61f8a08283865f46c7bec37f0e0e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066485",
@@ -1038,7 +1088,7 @@
         "type": "short",
         "active": true,
         "description": "Prohyas interviews Zombie Pumpkin.",
-        "duration": 411,
+        "duration": 412,
         "freewheelid": "cn-2132090",
         "isclip": false,
         "typesort": "2",
@@ -1063,7 +1113,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "4dd8742b8519d41e2d095fa34e848aba4b431b11",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066455",
@@ -1104,7 +1156,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "4f72ac353a5b17980a029ac1a01429e1214efaa8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066463",
@@ -1145,7 +1199,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "5e4b27a53e6e968b149152139c281edc19631fb9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066497",
@@ -1186,7 +1242,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "61543b166945aa00f4d4adea4410dcfeef76dbcf",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066515",
@@ -1227,7 +1285,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "66e8db2aff8280823b88f612b3505498cf855b59",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066447",
@@ -1268,7 +1328,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "688c12fae7155589d995ef68c5219f843b7b28d4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066470",
@@ -1284,7 +1346,7 @@
         "type": "short",
         "active": true,
         "description": "Learn all about the amazing swords Prohyas and Vambre use on their quests, including some that pack a punch.",
-        "duration": 271,
+        "duration": 272,
         "freewheelid": "cn-2132082",
         "isclip": false,
         "typesort": "2",
@@ -1309,7 +1371,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "68b8e62eed08b425d6595610fcbb55ef5967409a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066502",
@@ -1325,7 +1389,7 @@
         "type": "short",
         "active": true,
         "description": "The Warriors find themselves on a long and treacherous staircase guarded by a huge talking spider.",
-        "duration": 302,
+        "duration": 303,
         "freewheelid": "cn-2061501",
         "isclip": false,
         "typesort": "2",
@@ -1350,7 +1414,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "69eff55b8745ecc92ac7ba2be78c4c40116a98ce",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066420",
@@ -1366,7 +1432,7 @@
         "type": "short",
         "active": true,
         "description": "Professor Cyrus' mechanical Trollblin thumb goes wonky when Bimm attempts the thumb-wresting exercise, so Prohyas uses Magiswords to pin down the rogue machine.",
-        "duration": 121,
+        "duration": 122,
         "freewheelid": "cn-2092830",
         "isclip": false,
         "typesort": "2",
@@ -1391,7 +1457,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "6beba7199adbecdd6478abc696e480e7b449e110",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066472",
@@ -1407,7 +1475,7 @@
         "type": "short",
         "active": true,
         "description": "Grup interviews some of his friends.",
-        "duration": 348,
+        "duration": 349,
         "freewheelid": "cn-2132085",
         "isclip": false,
         "typesort": "2",
@@ -1432,7 +1500,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "70f7e79062591ba67506a6caa0c8be2d75afa932",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066433",
@@ -1473,7 +1543,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "7168831dfccbed9e79c1c0c834e99cafb411a862",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021402",
@@ -1489,7 +1561,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Prohyas grows a new Magisword from a tiny seed, but doesn't know that his Carnivorous Plant Magisword is a menace to Lyvsherian society until its too late!",
-        "duration": 680,
+        "duration": 681,
         "freewheelid": "cn-2089144",
         "isclip": false,
         "typesort": "1",
@@ -1514,7 +1586,9 @@
         "expdateasmilliseconds": "1572598776000",
         "mediaid": "742ce89ccd54b1d44ccd3a0baa3405301e03e9a7",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066486",
@@ -1530,7 +1604,7 @@
         "type": "short",
         "active": true,
         "description": "Learn all about the amazing swords Prohyas and Vambre use on their quests, including some that change the way they look and sound.",
-        "duration": 259,
+        "duration": 260,
         "freewheelid": "cn-2132091",
         "isclip": false,
         "typesort": "2",
@@ -1555,7 +1629,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "7486bf2635c76f3bba041d10b611a535a694a8b2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066436",
@@ -1571,7 +1647,7 @@
         "type": "short",
         "active": true,
         "description": "Enchanted dust makes a cute little tree spring to life, but Vambre feels bad chopping it down until Witchy Simone casts a spell and it grows to proper Magisword attacking size!",
-        "duration": 120,
+        "duration": 121,
         "freewheelid": "cn-2092831",
         "isclip": false,
         "typesort": "2",
@@ -1596,7 +1672,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "7622bb1b32d18d1e404cfea1949f04b17ada6cf3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066508",
@@ -1612,7 +1690,7 @@
         "type": "short",
         "active": true,
         "description": "Vambre gets on Prohyas for playing the same song too much, and he exacts revenge.",
-        "duration": 303,
+        "duration": 304,
         "freewheelid": "cn-2061508",
         "isclip": false,
         "typesort": "2",
@@ -1637,7 +1715,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "79a9436c863717aff31c32d1ce96c0391b126640",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021744",
@@ -1678,7 +1758,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "7ca9c4482d4862b827b0f267e577b7a59e8a50e0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066441",
@@ -1719,7 +1801,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "7eed0d26ee0b752453e5ceb34488c05ab6cf9799",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066492",
@@ -1735,7 +1819,7 @@
         "type": "short",
         "active": true,
         "description": "Old Man Oldman is back with his secret weapon \u2010 Grup taped to the Robopiggeh.",
-        "duration": 180,
+        "duration": 181,
         "freewheelid": "cn-2055208",
         "isclip": false,
         "typesort": "2",
@@ -1760,7 +1844,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "81eb4361f6a689997da18d217a2caa4dc70f768b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066416",
@@ -1801,7 +1887,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "83ef95ffe867faa8499aba20e1a892fb835f0bc4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066471",
@@ -1842,7 +1930,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "8445fb1c7f84d48a1210bc3fc1502693b8621d76",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021386",
@@ -1883,7 +1973,9 @@
         "expdateasmilliseconds": "1572598776000",
         "mediaid": "85e0c0cad185cddcb95432a38483bce98b0526d1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066510",
@@ -1924,7 +2016,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "88230b2bdca7654cfb1bec7d63a7a513a66b2e2a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066477",
@@ -1965,7 +2059,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "8895c011e96338eee6491f44e8dcb9b45fedc40b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066428",
@@ -2006,7 +2102,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "8990e6b3e07ae0eb466c78aad38a27b2d438d1e9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066481",
@@ -2022,7 +2120,7 @@
         "type": "short",
         "active": true,
         "description": "Learn all about the amazing swords Prohyas and Vambre use on their quests, including some of the spookiest.",
-        "duration": 266,
+        "duration": 267,
         "freewheelid": "cn-2132089",
         "isclip": false,
         "typesort": "2",
@@ -2047,7 +2145,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "90e8b086363f491cc223f0d4bdd29318f50d87d5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066512",
@@ -2063,7 +2163,7 @@
         "type": "short",
         "active": true,
         "description": "The Warriors encounter a stoic warrior bunny whom they misinterpret as \"sad\" and try to cheer him up.",
-        "duration": 300,
+        "duration": 301,
         "freewheelid": "cn-2074115",
         "isclip": false,
         "typesort": "2",
@@ -2088,7 +2188,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "92609c30939c35522a5fd25c9413111be04d2482",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066423",
@@ -2129,7 +2231,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "93d35bf1f1b6acbdc692ba4774dd5c38f8c6967e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066500",
@@ -2145,7 +2249,7 @@
         "type": "short",
         "active": true,
         "description": "Vambre gives Prohyas the silent treatment, only to have her voice stolen away by a ventriloquist dummy Frankenstein.",
-        "duration": 302,
+        "duration": 303,
         "freewheelid": "cn-2061500",
         "isclip": false,
         "typesort": "2",
@@ -2170,7 +2274,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "9f73958d45499dd4133cda9fd651bd92c5674973",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066521",
@@ -2211,7 +2317,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "a2fb8e82d19dbe774d82fa2ad3bca6e32b49ed15",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066504",
@@ -2252,7 +2360,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "a3d6d68d729f38af293b48f4af9ebb8a6bcd2906",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066487",
@@ -2293,7 +2403,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "ab3604f9261b01373b44ae30a34dce681541fc71",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021390",
@@ -2309,7 +2421,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Flonk hires the Warriors to make Witch Way change his brother Helmut from a frog back to human.",
-        "duration": 680,
+        "duration": 681,
         "freewheelid": "cn-2160691",
         "isclip": false,
         "typesort": "1",
@@ -2334,7 +2446,9 @@
         "expdateasmilliseconds": "1572598776000",
         "mediaid": "b098618ca37b247de78f3297bc3c1c3a43bc3fc7",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066462",
@@ -2350,7 +2464,7 @@
         "type": "short",
         "active": true,
         "description": "Vambre and Prohyas are hired by Oldman Oldman to walk his new stray dog. Includes special bonus vlogs.",
-        "duration": 456,
+        "duration": 457,
         "freewheelid": "cn-2098047",
         "isclip": false,
         "typesort": "2",
@@ -2375,7 +2489,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "b30756130ab5c1a35e2d5f93dd9306eb9e07416f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066479",
@@ -2416,7 +2532,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "babb66a89498c4ba770eaa3767b1b1a6731bbefc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021389",
@@ -2432,7 +2550,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Lost in Transylberia, the Warriors come to a haunted house for help and meet a young ghost lady inside that wants to spend the rest of her afterlife with Prohyas!",
-        "duration": 679,
+        "duration": 680,
         "freewheelid": "cn-2089135",
         "isclip": false,
         "typesort": "1",
@@ -2457,7 +2575,9 @@
         "expdateasmilliseconds": "1572598776000",
         "mediaid": "bb50d7ca11ee2096ef5e96a31f4bdab6d5c9660b",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066519",
@@ -2473,7 +2593,7 @@
         "type": "short",
         "active": true,
         "description": "Trying to cheer Vambre up, Prohyas recalls when they were just kids on their parents broccoli Farm.",
-        "duration": 309,
+        "duration": 310,
         "freewheelid": "cn-2079760",
         "isclip": false,
         "typesort": "2",
@@ -2498,7 +2618,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "c79b6e7a78147320c205c6c7b4f3c51ba8d96bf2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066460",
@@ -2539,7 +2661,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "c7ec0df7edbaaa67254586c1f39b7b5d39b1caf7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066451",
@@ -2580,7 +2704,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "ca85e6b6ce3e1ec67d66ad311dc382c851283bef",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066450",
@@ -2596,7 +2722,7 @@
         "type": "short",
         "active": true,
         "description": "Professor Cyrus shares that \"sick dance moves\" can disorient opponents in the Barren Faceland, but when faced with angry frilled running lizards in class Vambre finds that Magiswords help her dance moves.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2092842",
         "isclip": false,
         "typesort": "2",
@@ -2621,7 +2747,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "cd26776c0e469e03cb540beb0bd03860145712ae",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066438",
@@ -2637,7 +2765,7 @@
         "type": "short",
         "active": true,
         "description": "To defeat Barking Broccoli Spiders one must beat them at their own game by barking back, but Neddy's fisticuffs approach makes Prohyas' Magisword remedy necessary.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2092832",
         "isclip": false,
         "typesort": "2",
@@ -2662,7 +2790,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "d8aa4c6f775402e6eb21dcc7fd8e55bd14bd5707",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066440",
@@ -2703,7 +2833,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "e216b87f67e965dafd51f4149ced4ebf01b593b8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021395",
@@ -2719,7 +2851,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Prohyas becomes obsessed with riding an uncooperative goat to get over a mountain.",
-        "duration": 679,
+        "duration": 680,
         "freewheelid": "cn-2133654",
         "isclip": false,
         "typesort": "1",
@@ -2744,7 +2876,9 @@
         "expdateasmilliseconds": "1572598776000",
         "mediaid": "ea23e8bba1442abcdfcf951dd36cf28b91ba5aa7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066431",
@@ -2760,7 +2894,7 @@
         "type": "short",
         "active": true,
         "description": "Vambre & Prohyas head to the Dinosaur Kingdom to recover a lost baby dinosaur.",
-        "duration": 181,
+        "duration": 182,
         "freewheelid": "cn-2055204",
         "isclip": false,
         "typesort": "2",
@@ -2785,7 +2919,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "f64ce35e14500673c8701f94dcecfac2cbbe02fd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066503",
@@ -2826,7 +2962,9 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "fab669b748963ded7c4b3c7f732dc47f2f66d0e2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002081900066410",
@@ -2867,6 +3005,8 @@
         "expdateasmilliseconds": "1577786340000",
         "mediaid": "fd841c580c706caa251a42fc701735e92db66fe0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]

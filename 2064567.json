@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "02564bd1bdcb7833e4f05ba50678f2dc25e7e909",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021394",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1572598756000",
         "mediaid": "03091ca9aa91e59d60c87670070fed08b430d6de",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026414",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1572598797000",
         "mediaid": "137e2fb57c91b6ed99edf0a5c80dc4cc0fc9d8dc",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071094",
@@ -136,7 +142,7 @@
         "type": "short",
         "active": true,
         "description": "The Powerpuff Girls character designer, Cheyenne Curtis, show you how to draw Blossom.",
-        "duration": 128,
+        "duration": 129,
         "freewheelid": "cn-2133140",
         "isclip": false,
         "typesort": "2",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "145d702aba7e2f9edb58ea86062c4256ef59b632",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021782",
@@ -177,7 +185,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Someone is defacing all the posters and statues of Townsville with make-up. Can the girls stop this makeover takeover or will they get the blush off?",
-        "duration": 1268,
+        "duration": 1269,
         "freewheelid": "cn-540831",
         "isclip": false,
         "typesort": "1",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1572598771000",
         "mediaid": "1b22bb22fc1525d43f2d5d5e8c548c2575bd9e33",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021391",
@@ -218,7 +228,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Paste Makes Waste: When Buttercup's taunting turns paste-eating classmate Elmer Sglue into a destructive Paste Monster, she gets out of a sticky situation by doing something against her tough nature, apologizing./Ice Sore: During a heat wave, Blossom discovers that she has a new power: ice breath. But when she doesn't use her new gift wisely, she gets a chilly reception from her sisters.",
-        "duration": 1360,
+        "duration": 1361,
         "freewheelid": "cn-326566",
         "isclip": false,
         "typesort": "1",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "215d254fe98e138417c178194e71821945aef383",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021385",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "2785c5192fb3dcb587452597d76654d98b143760",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071086",
@@ -300,7 +314,7 @@
         "type": "short",
         "active": true,
         "description": "Bubbles' attempt to start her own beauty blog is thwarted by Blossom and Buttercup.",
-        "duration": 125,
+        "duration": 126,
         "freewheelid": "cn-2084889",
         "isclip": false,
         "typesort": "2",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "29bf81397c5cee52fddbc2ed44a4f576c2b859e5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074581",
@@ -341,7 +357,7 @@
         "type": "short",
         "active": true,
         "description": "Buttercup tries to show off her basketball skills in the lunchroom to no avail.",
-        "duration": 124,
+        "duration": 125,
         "freewheelid": "cn-2084886",
         "isclip": false,
         "typesort": "2",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "2cca1324654b50dccb4a1e8f7893d721e0173b6b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074578",
@@ -382,7 +400,7 @@
         "type": "short",
         "active": true,
         "description": "Bubbles and Donny are given their most daring mission ever: get the mail.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2092390",
         "isclip": false,
         "typesort": "2",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "356453d24f42f8c18efa0475abb3cc9c8e0514b8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021411",
@@ -423,7 +443,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "It's the old west and Mojo the Kid has robbed the first bank ever and forced the sheriff out of town and it is up to the Steamypuff Girls to save the day at a high-noon showdown.",
-        "duration": 1309,
+        "duration": 1310,
         "freewheelid": "cn-543932",
         "isclip": false,
         "typesort": "1",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "3dc0af4c6baa66c7b9ce844acde20baf7f5365c3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021408",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1572598756000",
         "mediaid": "4256f8fb628e7b2291ddd747bf3282d473244a8f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021397",
@@ -505,7 +529,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Him tricks Bubbles into bringing her chalk drawings to life, who then proceed to wreak havoc in Townsville.",
-        "duration": 1144,
+        "duration": 1145,
         "freewheelid": "cn-338474",
         "isclip": false,
         "typesort": "1",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "48977c42f997bc8ef76c2aa17f1284a6d89aeba3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021406",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1572598756000",
         "mediaid": "49ba66edef1224fb2020fafe222881e8e24d5e65",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021388",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1572598756000",
         "mediaid": "4f3115b2c3d0d34677b6296c11fcc59163c56cd2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021401",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1572598756000",
         "mediaid": "5ad5b58ba1329c15d38dfc68a4cc1583a3a768b0",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071093",
@@ -669,7 +701,7 @@
         "type": "short",
         "active": true,
         "description": "5 Reasons You're Actually Buttercup.",
-        "duration": 99,
+        "duration": 100,
         "freewheelid": "cn-2133136",
         "isclip": false,
         "typesort": "2",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "5ecbe98f20d07adbdfcb84316bd9aa6614bfe734",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071085",
@@ -710,7 +744,7 @@
         "type": "short",
         "active": true,
         "description": "The Powerpuff Girls rock out!",
-        "duration": 158,
+        "duration": 159,
         "freewheelid": "cn-2141834",
         "isclip": false,
         "typesort": "2",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "61b76ae2ba9b511c426b52680879408af764a250",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074584",
@@ -751,7 +787,7 @@
         "type": "short",
         "active": true,
         "description": "It's \"loser does the dishes\" when the girls play ping pong in and around Townsville.",
-        "duration": 124,
+        "duration": 125,
         "freewheelid": "cn-2084888",
         "isclip": false,
         "typesort": "2",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "6e0a8b6fee9902da521e61149528508914a28425",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021393",
@@ -792,7 +830,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Buttercup steals Octi to teach Bubbles a lesson but ends up wanting to keep him for herself.",
-        "duration": 675,
+        "duration": 676,
         "freewheelid": "cn-2065496",
         "isclip": false,
         "typesort": "1",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1572598756000",
         "mediaid": "6f771651e970a1a5f79e192b62bd2c8db3f6c1b9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021392",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "7b60cb22fbf0823d5186262a0e72ee4fa80cccf6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021399",
@@ -874,7 +916,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "That's Not My Baby!: The girls save a baby from a monster attacking Townsville but can't find the mother. Can these three superheroes manage to take care of one little baby?/Simian Says: When the Narrator is mysteriously bound and gagged, Mojo Jojo takes over his job, ordering the girls to steal for him all around Townsville.",
-        "duration": 1368,
+        "duration": 1369,
         "freewheelid": "cn-543930",
         "isclip": false,
         "typesort": "1",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "801fb7ec6d06c6c93c57963866bf7f5f6b33638f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021781",
@@ -915,7 +959,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Custody Battle: Mojo discovers the Rowdyruff Boys are back and is determined to show them that he is a more evil dad than Him./The City of Nutsville: The squirrels of Townsville are chirping mad! But when Bubbles loses her ability to speak a squirrel, the girls don't know how to calm the rodents down.",
-        "duration": 1362,
+        "duration": 1363,
         "freewheelid": "cn-543928",
         "isclip": false,
         "typesort": "1",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1572598771000",
         "mediaid": "880a9e8b8e44535cd766e4c1947d45d120326e75",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071076",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "8d8b3224ab32ef0a86dd182d0967509a187add37",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071083",
@@ -997,7 +1045,7 @@
         "type": "short",
         "active": true,
         "description": "The Powerpuff Girls character designer, Cheyenne Curtis, show you how to draw Buttercup.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2133139",
         "isclip": false,
         "typesort": "2",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "93f11954ebd5ee060eeb59f4d868c849343fea32",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021404",
@@ -1038,7 +1088,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Octi Evil: The heinous Him toys with Bubbles' mind by speaking to her through Octi, her favorite stuffed animal. Following Him's orders, Bubbles picks a fight with her sisters that lands them all in a time-out./Geshundfight: The Amoeba Boys' ill-conceived plan to stand in Townsville Park all night in the rain leaves them with a nasty virus that's really something to sneeze at.",
-        "duration": 1353,
+        "duration": 1354,
         "freewheelid": "cn-326561",
         "isclip": false,
         "typesort": "1",
@@ -1063,7 +1113,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "a4602a7bfdb63a96e63ca3470b5cdc128b984f66",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071080",
@@ -1079,7 +1131,7 @@
         "type": "short",
         "active": true,
         "description": "5 Reasons You're Actually Blossom.",
-        "duration": 136,
+        "duration": 137,
         "freewheelid": "cn-2133137",
         "isclip": false,
         "typesort": "2",
@@ -1104,7 +1156,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "a8be24ac5c48136dd831adb86316dd27f5439d0a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021400",
@@ -1145,7 +1199,9 @@
         "expdateasmilliseconds": "1572598756000",
         "mediaid": "b5399cd0cb8301678bd9d936a5fae0814b03c150",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074580",
@@ -1186,7 +1242,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "befc706db5b4a4cdec609bd4901a510b0ee16ec0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1007161900006780",
@@ -1202,7 +1260,7 @@
         "type": "movie",
         "active": true,
         "description": "Blossom, Bubbles, and Buttercup--better known as the Powerpuff Girls--reveal the story of how they came to be the official protectors of the City of Townsville. When Professor Utonium first cooked up the Girls in his laboratory, he wasn't trying to give them superpowers. But when the Professor's mischievous monkey lab assistant Jojo knocked a dose of Chemical X into the mix, the Powerpuff Girls were born. While they have such powers as laser beam eyes, superhuman strength and the ability to fly at the speed of light, the Girls are only in Kindergarten. Although they don't mean to hurt anyone, their natural playfulness, coupled with their unnatural abilities, leads to some not-so-natural disasters and earns them the hatred of every man, woman and child in the city of Townsville. The girls are despondent, believing that their powers are evil and nobody loves them. Then Jojo slinks back onto the scene--but the Chemical X-plosion has mutated him into the evil genius Mojo Jojo. He convinces the Girls that he understands the pain of being an outsider, and lets them in on a plan that will endear them to all the people of Townsville--they will build a Help-the-Town-and-Make-it-a-Better-Place-Machine. The Girls immediately set to work gathering the necessary materials from all over the world. But what the Girls don't know is that Mojo Jojo has no intention of making Townsville a better place. In fact, he's planning on using the machine for his own nefarious purposes. Will the Girls realize the truth about Mojo as well as the true potential of their powers in time to really help the town and make it a better place?",
-        "duration": 4025,
+        "duration": 4026,
         "freewheelid": "cn-434162",
         "isclip": false,
         "typesort": "3",
@@ -1227,7 +1285,9 @@
         "expdateasmilliseconds": "1577854740000",
         "mediaid": "bf57c466e3fdca90dc1c1ecb87d4be396f3760bd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021413",
@@ -1268,7 +1328,9 @@
         "expdateasmilliseconds": "1572598756000",
         "mediaid": "c00e6697b697e6ca73c5db2e29d336273bf151d8",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071075",
@@ -1309,7 +1371,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "c15c7c58e5f865f093f0c760fd48c31757fa81d2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021410",
@@ -1350,7 +1414,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "c22655f750e83ac9ea094a2bb2017f893392e2d0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021780",
@@ -1391,7 +1457,9 @@
         "expdateasmilliseconds": "1572598771000",
         "mediaid": "cf8d863aca61418a0ce3f38471bbdc5e714b1365",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071078",
@@ -1407,7 +1475,7 @@
         "type": "short",
         "active": true,
         "description": "5 Reasons You're Actually Bubbles.",
-        "duration": 97,
+        "duration": 98,
         "freewheelid": "cn-2133134",
         "isclip": false,
         "typesort": "2",
@@ -1432,7 +1500,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d32e409d6dae3646ddaf417594308f948d1ba2ac",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1003201900074576",
@@ -1473,7 +1543,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "d3aa22fbc192e66fdccd4c923881101bbd6acad0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021412",
@@ -1514,7 +1586,9 @@
         "expdateasmilliseconds": "1572598756000",
         "mediaid": "d7ec073e653be2103d46f04373ad754ca56c47ea",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071095",
@@ -1530,7 +1604,7 @@
         "type": "short",
         "active": true,
         "description": "The Powerpuff Girls character designer, Cheyenne Curtis, show you how to draw Bubbles.",
-        "duration": 125,
+        "duration": 126,
         "freewheelid": "cn-2133138",
         "isclip": false,
         "typesort": "2",
@@ -1555,7 +1629,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e1133d1e629cac6a9f1aa08a6e37ff047b125995",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021387",
@@ -1596,7 +1672,9 @@
         "expdateasmilliseconds": "1572598756000",
         "mediaid": "e1e022332bf7d01ababf3ff7d88d067ce8b580fe",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071088",
@@ -1612,7 +1690,7 @@
         "type": "short",
         "active": true,
         "description": "Mojo discovers the only thing more difficult than total world domination is DIY furniture.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2092388",
         "isclip": false,
         "typesort": "2",
@@ -1637,7 +1715,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "e212bd650beeb6f1514b49b473f1a0e3d146719e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1002271900071091",
@@ -1653,7 +1733,7 @@
         "type": "short",
         "active": true,
         "description": "Bliss uses her telekinetic powers to help the Professor make a more delicious dinner.",
-        "duration": 119,
+        "duration": 120,
         "freewheelid": "cn-2092391",
         "isclip": false,
         "typesort": "2",
@@ -1678,7 +1758,9 @@
         "expdateasmilliseconds": "1577854799000",
         "mediaid": "ea03bb97940d2aefb033aa036d5df3f1cac22985",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010071900026415",
@@ -1719,7 +1801,9 @@
         "expdateasmilliseconds": "1572598797000",
         "mediaid": "f4b3ce26b98f62d8d290fc05fc9454291ff61e39",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009191900021384",
@@ -1735,7 +1819,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Boogie Frights: The Boogie Man creates perpetual night by launching a huge disco ball to block out the sun. While evil creatures are dancing and destroying in the dark, the Powerpuff Girls plot to crash the ball./Abracadaver: Al Lusion, the old-time Townsville magician, pulls off his greatest stunt yet when he comes back from the dead as the zombie Abracadaver to haunt Townsville.",
-        "duration": 1361,
+        "duration": 1362,
         "freewheelid": "cn-326563",
         "isclip": false,
         "typesort": "1",
@@ -1760,6 +1844,8 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "fc669cb7c596c2ae894d531d5f284119ce402159",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]

@@ -13,7 +13,7 @@
         "type": "short",
         "active": true,
         "description": "Teri's playful J-pop song.",
-        "duration": 45,
+        "duration": 46,
         "freewheelid": "cn-2141772",
         "isclip": false,
         "typesort": "2",
@@ -38,7 +38,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "005ae4f0b393527543dd0690d061e1fb19f76aa7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021662",
@@ -79,7 +81,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "0d5e59e177bb8202acd982b2aee08b27231ba54f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021675",
@@ -95,7 +99,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Gumball experiences an impossibly unfortunate chain of events.",
-        "duration": 707,
+        "duration": 708,
         "freewheelid": "cn-839530",
         "isclip": false,
         "typesort": "1",
@@ -120,7 +124,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "13107e86e6cc0456e77e3ff640d8462edd9e7f60",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017356",
@@ -161,7 +167,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "1d38fc80e4fd70e53f768af9cbfa09da2c8bc808",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021674",
@@ -202,7 +210,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "24a850b0a0439edd0e82ae4100722a6e65b1b176",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017355",
@@ -243,7 +253,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "2c483b1412141fd62f590f157928cb74ef0ee120",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021672",
@@ -284,7 +296,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "319a4ae85c0ad6ac14fa5d616498098ef47d111a",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017361",
@@ -325,7 +339,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "3521ab25eba331aba2ffce886458592ef51826ca",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017346",
@@ -341,7 +357,7 @@
         "type": "short",
         "active": true,
         "description": "Banana fails dramatically.",
-        "duration": 26,
+        "duration": 27,
         "freewheelid": "cn-2141777",
         "isclip": false,
         "typesort": "2",
@@ -366,7 +382,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "397677246369382e06709855338f71c9b6989722",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021671",
@@ -382,7 +400,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "When Mom and Dad struggle to keep hyperactive, toddler-aged Gumball from trashing the house and exhausting them, they decide to buy him a pet. It works, but there's a problem: every goldfish they get him is short-lived, and inevitably ends up being flushed down the toilet.",
-        "duration": 687,
+        "duration": 688,
         "freewheelid": "cn-2062761",
         "isclip": false,
         "typesort": "1",
@@ -407,7 +425,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "4beb9d6443cb485bb82c1924a9e4f33aae13f479",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017360",
@@ -423,7 +443,7 @@
         "type": "short",
         "active": true,
         "description": "Frank has taken Grady's beloved house Spoon. Grady is forced into a dance off to win it back.",
-        "duration": 136,
+        "duration": 137,
         "freewheelid": "cn-2108838",
         "isclip": false,
         "typesort": "2",
@@ -448,7 +468,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "4df13fde7e9bde0c8f008096f801f7c85e9bebe3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017350",
@@ -464,7 +486,7 @@
         "type": "short",
         "active": true,
         "description": "Join the citizens of Elmore for a song and dance spectacular.",
-        "duration": 118,
+        "duration": 119,
         "freewheelid": "cn-2141770",
         "isclip": false,
         "typesort": "2",
@@ -489,7 +511,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "4ef193aff4b3a18e4e1ba05e1ceb835cb419ffc3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017347",
@@ -505,7 +529,7 @@
         "type": "short",
         "active": true,
         "description": "Principal Brown serenades Miss Simian with a reluctant cameo from Larry.",
-        "duration": 107,
+        "duration": 108,
         "freewheelid": "cn-2141775",
         "isclip": false,
         "typesort": "2",
@@ -530,7 +554,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "51952b24b37e7fab1751a8c13404169c7a6a37d9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021673",
@@ -571,7 +597,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "53c3492c60c1158fe0c9ec26eb2fffd0996549ea",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017353",
@@ -612,7 +640,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "558fd47834d10407caa16821e12b1bb2187db3f1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017351",
@@ -628,7 +658,7 @@
         "type": "short",
         "active": true,
         "description": "From a high-speed police chase to the inside scoop on Daisy the Donkey, Channel 6 Elmore News has all the top hard-hitting local stories. Experienced newscaster Kip Schlezinger is the man to bring you the latest news, sports and weather, even when there is absolutely nothing to report.",
-        "duration": 137,
+        "duration": 138,
         "freewheelid": "cn-2115528",
         "isclip": false,
         "typesort": "2",
@@ -653,7 +683,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "5873169b49614e7817362973ba9b6c5f011d2a7d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021664",
@@ -669,7 +701,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Gumball and Darwin make friends with classmate Clayton, a compulsive liar who can shape-change!",
-        "duration": 596,
+        "duration": 597,
         "freewheelid": "cn-894323",
         "isclip": false,
         "typesort": "1",
@@ -694,7 +726,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "6347004cca37511a26fb213912864413e887ed5f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017357",
@@ -735,7 +769,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "6c411c2816e3a145d292df29229a2d30833f20ee",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017344",
@@ -751,7 +787,7 @@
         "type": "short",
         "active": true,
         "description": "The Billy Pharham rap.",
-        "duration": 53,
+        "duration": 54,
         "freewheelid": "cn-2141771",
         "isclip": false,
         "typesort": "2",
@@ -776,7 +812,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "6eae9c1fb92ba6ebd7c0503a90b7c72fc2ddc0b0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017359",
@@ -817,7 +855,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "6f8711c4c830f6519f7d3c48022d539a2e9f61ab",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017352",
@@ -858,7 +898,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "825ef820c7c6135c7ac82d3da2d486a536517064",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017366",
@@ -899,7 +941,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "93aec369ac4f8c5b3a7e053d7a824c40fd68a461",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017348",
@@ -915,7 +959,7 @@
         "type": "short",
         "active": true,
         "description": "Richard's food ballad.",
-        "duration": 75,
+        "duration": 76,
         "freewheelid": "cn-2141773",
         "isclip": false,
         "typesort": "2",
@@ -940,7 +984,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "9b9b3e86118b34c3c2ec31b773c8fe598521105b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021663",
@@ -981,7 +1027,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "a689ffdd09603665aff636500fd0409eb20d6b2d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021661",
@@ -997,7 +1045,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Gumball must learn to say \"no\" when Carrie the Ghost uses his body against his will.",
-        "duration": 707,
+        "duration": 708,
         "freewheelid": "cn-839541",
         "isclip": false,
         "typesort": "1",
@@ -1022,7 +1070,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "b7512fe311999f68665c6fc34eb504ee1c8109d4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017367",
@@ -1063,7 +1113,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "bb20f2403bb9419d02f496ad4c8657355ef0228d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017365",
@@ -1104,7 +1156,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "c7d8d2a0f7055d76dd7f7615a621d8b2ab0b0043",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017354",
@@ -1120,7 +1174,7 @@
         "type": "short",
         "active": true,
         "description": "From a high-speed police chase to the inside scoop on Daisy the Donkey, Channel 6 Elmore News has all the top hard-hitting local stories. Experienced newscaster Kip Schlezinger is the man to bring you the latest news, sports and weather, even when there is absolutely nothing to report.",
-        "duration": 104,
+        "duration": 105,
         "freewheelid": "cn-2115532",
         "isclip": false,
         "typesort": "2",
@@ -1145,7 +1199,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "cb52739a01fb0a822b65a50611aa357161cdaf1c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017358",
@@ -1186,7 +1242,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "cce5654973ebaecd55ffd9bc9d0707a3262e8bc4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017368",
@@ -1227,7 +1285,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "cd79cd45bd5406ff99f9a3bdb36e579ebed0746b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009201900021665",
@@ -1268,7 +1328,9 @@
         "expdateasmilliseconds": "1572598740000",
         "mediaid": "eb9574d33a98e0e39111ba34b55d960943c79f38",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017364",
@@ -1284,7 +1346,7 @@
         "type": "short",
         "active": true,
         "description": "Gumball and Darwin realize that anything they imagine will become real in Puppet World, but all they can think of are Garden Gnomes.",
-        "duration": 42,
+        "duration": 43,
         "freewheelid": "cn-2108835",
         "isclip": false,
         "typesort": "2",
@@ -1309,7 +1371,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "f0ca90ed1d1b1c74d462c9b7da43499f4b39ded3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017362",
@@ -1350,7 +1414,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "f44dc14ba03712506b2c8c5d1bb329281a74d2ab",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017363",
@@ -1391,7 +1457,9 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "fa3751656e048f76b567bb35b126b59f2e2672e6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1005091800017345",
@@ -1407,7 +1475,7 @@
         "type": "short",
         "active": true,
         "description": "Pluto feels left out.",
-        "duration": 104,
+        "duration": 105,
         "freewheelid": "cn-2141776",
         "isclip": false,
         "typesort": "2",
@@ -1432,6 +1500,8 @@
         "expdateasmilliseconds": "1574657999000",
         "mediaid": "fe6eb946fa1360f37150796c13313abab56918bc",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     }
 ]
