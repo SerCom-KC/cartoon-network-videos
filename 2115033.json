@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1010291800041464",
+  "airingid": "RADS1010281900030914",
   "seasonnumber": "1",
   "seasonitemnumber": "41",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When an impish weather gnome sends the Warriors and friends on a competitive quest, the drive to win threatens the group's fight against a conjured monster.\n",
-  "duration": 680,
+  "duration": 681,
   "freewheelid": "cn-2115033",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2017-07-19T20:00:00.000Z",
-  "pubdate": "2018-11-01T09:00:00.000Z",
-  "expdate": "2018-12-01T09:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2115033_007_640x360.jpg",
+  "pubdate": "2019-11-01T09:00:00.000Z",
+  "expdate": "2019-11-29T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2115033_003_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Magiswords",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1500494400000",
-  "pubdateasmilliseconds": "1541062800000",
-  "expdateasmilliseconds": "1543658340000",
+  "pubdateasmilliseconds": "1572598800000",
+  "expdateasmilliseconds": "1575021540000",
   "mediaid": "828641cfe539f0def292206e8aa9035d738d1111",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

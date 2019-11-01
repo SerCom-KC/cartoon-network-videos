@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1006241900002037",
+  "airingid": "RADS1010281900030629",
   "seasonnumber": "2",
   "seasonitemnumber": "13",
   "seriesid": "810150",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Rigby gets a terrible, terrible song stuck in his head and will go to any lengths to get it out.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-827020",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "810150",
   "seriesname": "Regular Show",
   "originalpremieredate": "2011-03-29T00:30:00.000Z",
-  "pubdate": "2019-07-01T09:00:00.000Z",
-  "expdate": "2019-08-01T08:59:00.000Z",
+  "pubdate": "2019-11-01T09:00:00.000Z",
+  "expdate": "2019-11-29T09:59:22.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/827020_002_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Regular Show",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1301358600000",
-  "pubdateasmilliseconds": "1561971600000",
-  "expdateasmilliseconds": "1564649940000",
+  "pubdateasmilliseconds": "1572598800000",
+  "expdateasmilliseconds": "1575021562000",
   "mediaid": "936761c1a6b0e6def80235912bc2af56e88428af",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

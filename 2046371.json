@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1010041900025722",
+  "airingid": "RADS1010281900030946",
   "seasonnumber": "1",
   "seasonitemnumber": "51",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After Uncle Grandpa neglects his garbage duties, he embarks on a quest to save his friends from the overflowing pile of trash.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2046371",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2015-02-26T22:30:00.000Z",
-  "pubdate": "2019-10-18T09:00:00.000Z",
-  "expdate": "2019-10-25T08:59:18.000Z",
+  "pubdate": "2019-11-01T09:00:00.000Z",
+  "expdate": "2019-11-08T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2046371_003_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1424989800000",
-  "pubdateasmilliseconds": "1571389200000",
-  "expdateasmilliseconds": "1571993958000",
+  "pubdateasmilliseconds": "1572598800000",
+  "expdateasmilliseconds": "1573207140000",
   "mediaid": "e3f140b206d5c40b887b4aa33ea7cc18bfcc6e05",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

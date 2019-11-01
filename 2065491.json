@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1010041900025720",
+  "airingid": "RADS1010281900030933",
   "seasonnumber": "4",
   "seasonitemnumber": "24",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A threatening phone call from a stranger causes the gang to panic.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2065491",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2016-12-14T21:30:00.000Z",
-  "pubdate": "2019-10-11T09:00:00.000Z",
-  "expdate": "2019-10-18T08:59:58.000Z",
+  "pubdate": "2019-11-01T09:00:00.000Z",
+  "expdate": "2019-11-08T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2065491_006_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1481751000000",
-  "pubdateasmilliseconds": "1570784400000",
-  "expdateasmilliseconds": "1571389198000",
+  "pubdateasmilliseconds": "1572598800000",
+  "expdateasmilliseconds": "1573207140000",
   "mediaid": "57b9dfc7dde019b0db87c43949a1f3841c8a949b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

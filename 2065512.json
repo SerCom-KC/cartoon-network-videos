@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1007181900007370",
+  "airingid": "RADS1010281900030918",
   "seasonnumber": "2",
   "seasonitemnumber": "2",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Aberdale Elementary's beloved playground equipment is replaced with safe, boring alternatives, Clarence and the gang seek out their old playground equipment in the legendary lost playground yard.",
-  "duration": 684,
+  "duration": 685,
   "freewheelid": "cn-2065512",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2016-01-18T22:30:00.000Z",
-  "pubdate": "2019-08-01T09:00:00.000Z",
-  "expdate": "2019-08-08T08:59:00.000Z",
+  "pubdate": "2019-11-01T09:00:00.000Z",
+  "expdate": "2019-11-08T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2065512_003_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Clarence",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1453156200000",
-  "pubdateasmilliseconds": "1564650000000",
-  "expdateasmilliseconds": "1565254740000",
+  "pubdateasmilliseconds": "1572598800000",
+  "expdateasmilliseconds": "1573207140000",
   "mediaid": "e58f344cc1477a094a92bd028289698116a32ce7",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

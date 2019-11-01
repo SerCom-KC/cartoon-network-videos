@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1010291800041467",
+  "airingid": "RADS1010281900030919",
   "seasonnumber": "1",
   "seasonitemnumber": "39",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Teri Gargantuan is in trouble and her spider kids hire the Warriors to save their mom from a mad mercenary spider hunter.\n",
-  "duration": 680,
+  "duration": 681,
   "freewheelid": "cn-2114130",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2017-07-18T20:00:00.000Z",
-  "pubdate": "2018-11-01T09:00:00.000Z",
-  "expdate": "2018-12-01T09:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2114130_005_640x360.jpg",
+  "pubdate": "2019-11-01T09:00:00.000Z",
+  "expdate": "2019-11-29T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2114130_001_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Magiswords",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1500408000000",
-  "pubdateasmilliseconds": "1541062800000",
-  "expdateasmilliseconds": "1543658340000",
+  "pubdateasmilliseconds": "1572598800000",
+  "expdateasmilliseconds": "1575021540000",
   "mediaid": "03bca77b3062891b883608556781ba8ad0b8026a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

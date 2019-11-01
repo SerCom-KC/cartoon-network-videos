@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003251900076024",
+  "airingid": "RADS1010281900030896",
   "seasonnumber": "2",
   "seasonitemnumber": "1",
   "seriesid": "835928",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Gumball and Darwin learn that it isn't wise to upset Hector, Elmore's resident Giant.",
-  "duration": 706,
+  "duration": 707,
   "freewheelid": "cn-894308",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2012-08-14T23:00:00.000Z",
-  "pubdate": "2019-04-01T09:00:00.000Z",
-  "expdate": "2019-04-08T08:59:00.000Z",
+  "pubdate": "2019-11-01T09:00:00.000Z",
+  "expdate": "2019-11-08T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/894308_008_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1344985200000",
-  "pubdateasmilliseconds": "1554109200000",
-  "expdateasmilliseconds": "1554713940000",
+  "pubdateasmilliseconds": "1572598800000",
+  "expdateasmilliseconds": "1573207140000",
   "mediaid": "38ca1e01bed57039ee2fbb56a3e47fe8329a7cdd",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

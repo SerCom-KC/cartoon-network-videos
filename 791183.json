@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003251900076009",
+  "airingid": "RADS1010281900030900",
   "seasonnumber": "1",
   "seasonitemnumber": "18",
   "seriesid": "757073",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Finn tries to conquer a dungeon without Jake's help.",
-  "duration": 713,
+  "duration": 714,
   "freewheelid": "cn-791183",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2010-07-13T00:00:00.000Z",
-  "pubdate": "2019-04-01T09:00:00.000Z",
-  "expdate": "2019-04-08T08:59:00.000Z",
+  "pubdate": "2019-11-01T09:00:00.000Z",
+  "expdate": "2019-11-08T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/791183_003_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1278979200000",
-  "pubdateasmilliseconds": "1554109200000",
-  "expdateasmilliseconds": "1554713940000",
+  "pubdateasmilliseconds": "1572598800000",
+  "expdateasmilliseconds": "1573207140000",
   "mediaid": "ab72830df9a72a2888608805d87f0b13cf967899",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

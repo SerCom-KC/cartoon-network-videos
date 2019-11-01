@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1005281900095020",
+  "airingid": "RADS1010281900030577",
   "seasonnumber": "2",
   "seasonitemnumber": "21",
   "seriesid": "2055199",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Warriors go advertising crazy; Grup tries to stop them for their own good!",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2145455",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "2055199",
   "seriesname": "Magiswords",
   "originalpremieredate": "2019-05-06T15:30:00.000Z",
-  "pubdate": "2019-06-10T20:59:00.000Z",
-  "expdate": "2019-06-17T08:59:00.000Z",
+  "pubdate": "2019-11-01T09:00:00.000Z",
+  "expdate": "2019-11-29T09:59:41.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2145455_003_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Magiswords",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1557156600000",
-  "pubdateasmilliseconds": "1560200340000",
-  "expdateasmilliseconds": "1560761940000",
+  "pubdateasmilliseconds": "1572598800000",
+  "expdateasmilliseconds": "1575021581000",
   "mediaid": "6ff152577a69f7c3d03bf86fc3f7605dfb2422d0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

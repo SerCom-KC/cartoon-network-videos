@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1008161900013732",
+  "airingid": "RADS1010281900030726",
   "seasonnumber": "4",
   "seasonitemnumber": "43",
   "seriesid": "2000349",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "It's Thanksgiving but the Titans are sick of the normal traditions so they create their own.",
-  "duration": 642,
+  "duration": 643,
   "freewheelid": "cn-2141033",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "2000349",
   "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2017-11-17T23:00:00.000Z",
-  "pubdate": "2019-08-18T09:00:00.000Z",
-  "expdate": "2019-09-01T08:59:40.000Z",
+  "pubdate": "2019-11-01T09:00:00.000Z",
+  "expdate": "2019-11-29T09:59:26.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141033_007_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1510959600000",
-  "pubdateasmilliseconds": "1566118800000",
-  "expdateasmilliseconds": "1567328380000",
+  "pubdateasmilliseconds": "1572598800000",
+  "expdateasmilliseconds": "1575021566000",
   "mediaid": "2f08c892ab7ab1cb2411fbd796aac5e4450b184f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
