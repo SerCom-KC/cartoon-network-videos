@@ -1,9 +1,8 @@
 {
-    "updated": 1572861617,
-    "added": [],
-    "removed": [
+    "updated": 1572861676,
+    "added": [
         {
-            "airingid": "RADS1010031900025526",
+            "airingid": "RADS1010311900032643",
             "seasonnumber": "5",
             "seasonitemnumber": "50",
             "seriesid": "2000349",
@@ -24,26 +23,27 @@
             "seriestitleid": "2000349",
             "seriesname": "Teen Titans Go!",
             "originalpremieredate": "2019-10-14T22:00:00.000Z",
-            "pubdate": "2019-10-28T09:00:00.000Z",
-            "expdate": "2019-11-04T09:59:52.000Z",
+            "pubdate": "2019-11-04T10:00:52.000Z",
+            "expdate": "2019-11-18T09:59:00.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2202291_004_640x360.jpg",
-            "authtype": "auth",
+            "authtype": "unauth",
             "webflags": "",
-            "tags": "ttg - tv knight",
+            "tags": "ttg - tv knight|unauth",
             "titleid": "2202291",
             "titletype": "Episode",
-            "bannertext": "",
+            "bannertext": "UNLOCKED",
             "originalseriesid": "2000349",
             "originalseriesname": "Teen Titans Go!",
             "hasparent": false,
             "originalpremieredateasmilliseconds": "1571090400000",
-            "pubdateasmilliseconds": "1572253200000",
-            "expdateasmilliseconds": "1572861592000",
+            "pubdateasmilliseconds": "1572861652000",
+            "expdateasmilliseconds": "1574071140000",
             "mediaid": "f5cda84f3eb59a8f540bdce666c018712072a6c2",
-            "isunlockedfullepisode": false,
+            "isunlockedfullepisode": true,
             "ismultipropertycollection": false,
             "clipsonly": false,
             "includeshortform": false
         }
-    ]
+    ],
+    "removed": []
 }
