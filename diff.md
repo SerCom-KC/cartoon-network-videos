@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: November 4, 2019 at 14:00:16 EST_
+_Last Update: November 4, 2019 at 15:30:17 EST_
 ## Video added
-### Summary
-2160701 Victor and Valentino: 2  
-### 2195437
-**Victor and Valentino S01E33 - Forever Ever**  
-TV-Y7-FV 🔒 11:17  
-⌛ November 9, 2019 at 04:59:00 EST  
-[Open in app](https://tinyurl.com/yyqjal35) or on the web: https://www.cartoonnetwork.com/video/victor-and-valentino/forever-ever-episode.html  
-seriesid=`2160701` titleid=`2195437` mediaid=`34df093026aa1a246a620401b1d460d50ecb5b14`  
-_When Vic and Val do a sloppy job cleaning up in Maria Theresa's attic, they accidentally set off a time loop, trapping them in an endless series of chores forever! They must figure out how to stop the loop and return time back to normal._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2195437_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2195437_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2195437_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2195437_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2195437_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2195437_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2195437_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2195437_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2195437_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2195437_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2195437_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2195437_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2195437_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2195437_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2195437_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2195437_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2195437_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2195437_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2195437_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2195437_010_640x360.jpg" height="144px" /></a>
-### 2196835
-**Victor and Valentino S01E34 - Dance Reynaldo Dance**  
-TV-Y7-FV 🔒 11:16  
-⌛ November 9, 2019 at 04:59:00 EST  
-[Open in app](https://tinyurl.com/y6pzzytk) or on the web: https://www.cartoonnetwork.com/video/victor-and-valentino/dance-reynaldo-dance-episode.html  
-seriesid=`2160701` titleid=`2196835` mediaid=`daa044cb4221e026c93009a860ad8138fe090fb2`  
-_Vic is desperate to win the cash prize for the dance contest in Monte Macabre and is frustrated that his partner Val won't let him call all the shots. Instead he chooses a different partner: Reynaldo. But Vic pushes Reynaldo too hard to execute his artistic vision. Eventually he learns that in order to be a success, you have to be equal partners._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2196835_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2196835_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2196835_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2196835_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2196835_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2196835_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2196835_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2196835_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2196835_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2196835_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2196835_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2196835_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2196835_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2196835_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2196835_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2196835_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2196835_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2196835_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2196835_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2196835_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
