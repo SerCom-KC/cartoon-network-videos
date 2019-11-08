@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: November 8, 2019 at 09:00:17 EST_
+_Last Update: November 8, 2019 at 09:30:17 EST_
 ## Video added
-### Summary
-2141109 Care Bears: 2 (2 new)  
-### 2141126
-**Care Bears S01E17 - An Almost Eggless Easter**  
-🆕 TV-Y7 🔒 11:01  
-⌛ December 31, 2019 at 04:59:00 EST  
-[Open in app](https://tinyurl.com/yx9k2lcl) or on the web: https://www.cartoonnetwork.com/video/care-bears/an-almost-eggless-easter-episode.html  
-seriesid=`2141109` titleid=`2141126` mediaid=`9e78656fd8c06ffdd1915c0a0aa00df967e222c2`  
-_When the Easter Bunny's beautifully-painted eggs are drained of their color, it looks like Dibble will miss her first Easter egg hunt - she's really been looking forward to it. The Bears must find a way to repaint all the eggs before the big day._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2141126_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141126_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141126_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141126_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141126_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141126_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141126_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141126_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141126_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141126_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141126_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141126_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141126_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141126_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141126_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141126_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141126_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141126_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141126_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141126_010_640x360.jpg" height="144px" /></a>
-### 2141127
-**Care Bears S01E18 - A Wish-Full Reunion**  
-🆕 TV-Y7 🔒 11:02  
-⌛ December 31, 2019 at 04:59:00 EST  
-[Open in app](https://tinyurl.com/y3kps9o8) or on the web: https://www.cartoonnetwork.com/video/care-bears/a-wish-full-reunion-episode.html  
-seriesid=`2141109` titleid=`2141127` mediaid=`646c3809f6946453fe03c87e58ea91f63aad32e3`  
-_Mysterious flying hearts appear in Care-A-Lot and bring Wish Bear to the Silver Lining. She joins the Care Bears on a mission to bring a mystical mother bird's missing baby chicks home, and give a new home to an orphan bird._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2141127_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141127_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141127_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141127_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141127_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141127_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141127_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141127_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141127_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141127_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141127_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141127_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141127_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141127_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141127_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141127_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141127_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141127_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141127_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141127_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
