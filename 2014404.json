@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1011061800043102",
+  "airingid": "RADS1011041900033701",
   "seasonnumber": "6",
   "seasonitemnumber": "7",
   "seriesid": "757073",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "On a field trip to the Candy Kingdom Museum of Natural History, Finn and Jake learn about the Food chain by becoming the food chain! ",
-  "duration": 703,
+  "duration": 704,
   "freewheelid": "cn-2014404",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2014-06-12T23:00:00.000Z",
-  "pubdate": "2018-11-22T10:00:00.000Z",
-  "expdate": "2018-12-01T09:59:00.000Z",
+  "pubdate": "2019-11-08T10:00:00.000Z",
+  "expdate": "2019-11-15T09:59:01.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2014404_006_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1402614000000",
-  "pubdateasmilliseconds": "1542880800000",
-  "expdateasmilliseconds": "1543658340000",
+  "pubdateasmilliseconds": "1573207200000",
+  "expdateasmilliseconds": "1573811941000",
   "mediaid": "05a7903576e4321106141bc164a15e2d41d2b1c6",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

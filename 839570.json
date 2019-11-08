@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003251900076027",
+  "airingid": "RADS1011041900033711",
   "seasonnumber": "1",
   "seasonitemnumber": "4",
   "seriesid": "835928",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Gumball resolves to save Mr Robinson's life during Elmore's Senior Talent Show.",
-  "duration": 706,
+  "duration": 707,
   "freewheelid": "cn-839570",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2011-06-05T22:00:00.000Z",
-  "pubdate": "2019-04-08T09:00:00.000Z",
-  "expdate": "2019-04-15T08:59:00.000Z",
+  "pubdate": "2019-11-08T10:00:00.000Z",
+  "expdate": "2019-11-15T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/839570_007_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1307311200000",
-  "pubdateasmilliseconds": "1554714000000",
-  "expdateasmilliseconds": "1555318740000",
+  "pubdateasmilliseconds": "1573207200000",
+  "expdateasmilliseconds": "1573811940000",
   "mediaid": "a947c2434ddc14a83ea629a687083bb82c206b73",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

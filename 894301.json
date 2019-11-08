@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1012041800049917",
+  "airingid": "RADS1011041900033702",
   "seasonnumber": "2",
   "seasonitemnumber": "23",
   "seriesid": "835928",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Gumball blames Darwin for kissing Penny in his dream it threatens to tear apart their friendship, the only place you can fix a dream problem is in the dream world.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-894301",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2013-06-26T23:30:00.000Z",
-  "pubdate": "2018-12-13T10:00:00.000Z",
-  "expdate": "2018-12-20T09:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/894301_003_640x360.jpg",
+  "pubdate": "2019-11-08T10:00:00.000Z",
+  "expdate": "2019-11-15T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/894301_007_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1372289400000",
-  "pubdateasmilliseconds": "1544695200000",
-  "expdateasmilliseconds": "1545299940000",
+  "pubdateasmilliseconds": "1573207200000",
+  "expdateasmilliseconds": "1573811940000",
   "mediaid": "45a8e71bcc8165e37799a94f721abad1e945accd",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

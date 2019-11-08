@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1010041900025589",
+  "airingid": "RADS1011041900033723",
   "seasonnumber": "1",
   "seasonitemnumber": "10",
   "seriesid": "100000000001182633",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "While trapped in Khyber's ship, Ben learns details about the origin of the Nemetrix, and the link between Khyber, Malware, and Dr. Psychobos! (Introducing new Nemetrix alien Tyrannopede.)",
-  "duration": 1353,
+  "duration": 1354,
   "freewheelid": "cn-871378",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "100000000001182633",
   "seriesname": "Ben 10 Classic",
   "originalpremieredate": "2012-11-17T14:00:00.000Z",
-  "pubdate": "2019-10-11T09:00:00.000Z",
-  "expdate": "2019-10-18T08:59:15.000Z",
+  "pubdate": "2019-11-08T10:00:00.000Z",
+  "expdate": "2019-11-15T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/871378_004_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Ben 10: Omniverse",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1353160800000",
-  "pubdateasmilliseconds": "1570784400000",
-  "expdateasmilliseconds": "1571389155000",
+  "pubdateasmilliseconds": "1573207200000",
+  "expdateasmilliseconds": "1573811940000",
   "mediaid": "6e43f0b92432ef7be882415132aed48bd71b1ef8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
