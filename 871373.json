@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1010041900025592",
+  "airingid": "RADS1011061900034149",
   "seasonnumber": "1",
   "seasonitemnumber": "5",
   "seriesid": "100000000001182633",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben and Rook must stop a giant rampaging alien from destroying Bellwood while dealing with a peace-loving alien-rights activist who doesn't want it hurt. (Introducing Hokestar, Solid Plugg 1st appearance, Pax, Sunder.)",
-  "duration": 1342,
+  "duration": 1343,
   "freewheelid": "cn-871373",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "100000000001182633",
   "seriesname": "Ben 10 Classic",
   "originalpremieredate": "2012-10-13T13:00:00.000Z",
-  "pubdate": "2019-10-18T09:00:00.000Z",
-  "expdate": "2019-10-25T08:59:18.000Z",
+  "pubdate": "2019-11-15T10:00:00.000Z",
+  "expdate": "2019-11-22T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/871373_007_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Ben 10: Omniverse",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1350133200000",
-  "pubdateasmilliseconds": "1571389200000",
-  "expdateasmilliseconds": "1571993958000",
+  "pubdateasmilliseconds": "1573812000000",
+  "expdateasmilliseconds": "1574416740000",
   "mediaid": "1621e14c0d6ebdddd1574bda16f030e417a98a86",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

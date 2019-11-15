@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1010041900025598",
+  "airingid": "RADS1011061900034154",
   "seasonnumber": "1",
   "seasonitemnumber": "7",
   "seriesid": "100000000001182633",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After a big argument with Max, Ben rebels by going out on his own in the Big Apple and makes friends with Kevin 11, who has plans for the Omnitrix. ",
-  "duration": 1344,
+  "duration": 1345,
   "freewheelid": "cn-630208",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "100000000001182633",
   "seriesname": "Ben 10 Classic",
   "originalpremieredate": "2006-02-11T15:00:00.000Z",
-  "pubdate": "2019-10-11T09:00:00.000Z",
-  "expdate": "2019-10-18T08:59:53.000Z",
+  "pubdate": "2019-11-15T10:00:00.000Z",
+  "expdate": "2019-11-22T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/630208_008_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Ben 10",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1139670000000",
-  "pubdateasmilliseconds": "1570784400000",
-  "expdateasmilliseconds": "1571389193000",
+  "pubdateasmilliseconds": "1573812000000",
+  "expdateasmilliseconds": "1574416740000",
   "mediaid": "8a11f6d65920e92474e0560fb13cd259f8ace672",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

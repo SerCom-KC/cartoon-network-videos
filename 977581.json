@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1001281900063267",
+  "airingid": "RADS1011061900034202",
   "seasonnumber": "4",
   "seasonitemnumber": "24",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Muscle Man wants a local radio station to play the song he wrote for Starla.",
-  "duration": 673,
+  "duration": 674,
   "freewheelid": "cn-977581",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2013-04-23T00:00:00.000Z",
-  "pubdate": "2019-02-22T10:00:00.000Z",
-  "expdate": "2019-03-01T09:59:00.000Z",
+  "pubdate": "2019-11-15T10:00:00.000Z",
+  "expdate": "2019-11-22T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/977581_008_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Regular Show",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1366675200000",
-  "pubdateasmilliseconds": "1550829600000",
-  "expdateasmilliseconds": "1551434340000",
+  "pubdateasmilliseconds": "1573812000000",
+  "expdateasmilliseconds": "1574416740000",
   "mediaid": "502b0c4f396d9b59e6dfb1d58762ab1db1d14493",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
