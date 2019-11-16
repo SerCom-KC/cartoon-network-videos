@@ -602,7 +602,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1010081900026490",
+        "airingid": "RADS1011051900034001",
         "seasonnumber": "2",
         "seasonitemnumber": "17",
         "seriesid": "2132940",
@@ -623,23 +623,23 @@
         "seriestitleid": "2132940",
         "seriesname": "Craig of the Creek",
         "originalpremieredate": "2019-10-26T14:00:00.000Z",
-        "pubdate": "2019-10-28T09:00:00.000Z",
-        "expdate": "2019-11-16T09:59:00.000Z",
+        "pubdate": "2019-11-16T10:00:00.000Z",
+        "expdate": "2019-11-30T10:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2196825_007_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
-        "tags": "halloween|cotc halloween",
+        "tags": "cotc halloween|unauth",
         "titleid": "2196825",
         "titletype": "Episode",
-        "bannertext": "",
+        "bannertext": "UNLOCKED",
         "originalseriesid": "2132940",
         "originalseriesname": "Craig of the Creek",
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1572098400000",
-        "pubdateasmilliseconds": "1572253200000",
-        "expdateasmilliseconds": "1573898340000",
+        "pubdateasmilliseconds": "1573898400000",
+        "expdateasmilliseconds": "1575108000000",
         "mediaid": "2b2c69606c9429700743741cff6ac6182cbbfd43",
-        "isunlockedfullepisode": false,
+        "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
         "clipsonly": false,
         "includeshortform": false
@@ -860,7 +860,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1011041900033855",
+        "airingid": "RADS1011041900033756",
         "seasonnumber": "1",
         "seasonitemnumber": "26",
         "seriesid": "2132940",
@@ -903,7 +903,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1011041900033756",
+        "airingid": "RADS1011041900033855",
         "seasonnumber": "1",
         "seasonitemnumber": "26",
         "seriesid": "2132940",
