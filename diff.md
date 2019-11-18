@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: November 18, 2019 at 11:30:23 EST_
+_Last Update: November 18, 2019 at 14:00:22 EST_
 ## Video added
-No videos were added.  
+### Summary
+2170837 Bakugan: Battle Planet: 2  
+### 2198139
+**Bakugan: Battle Planet S01 Short - Bakugan: Best Brawl Ever - Maxotaur vs. Nillious**  
+TV-Y7-FV 🔓 01:50  
+⌛ December 24, 2019 at 04:59:00 EST  
+[Open in app](https://tinyurl.com/v35njfm) or on the web: https://www.cartoonnetwork.com/video/bakugan/bakugan-best-brawl-ever-maxotaur-vs-nillious-episode.html  
+seriesid=`2170837` titleid=`2198139` mediaid=`252d63b2da8b1e5a75683a97f96347816c5878f7`  
+_China Riot aims to prove why she's such a fierce brawler when she rolls out Maxotaur against Nillious._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2198139_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198139_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198139_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198139_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198139_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198139_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198139_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198139_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198139_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198139_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198139_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198139_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198139_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198139_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198139_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198139_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198139_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198139_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198139_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198139_010_640x360.jpg" height="144px" /></a>
+### 2198140
+**Bakugan: Battle Planet S01 Short - Bakugan: Best Brawl Ever - Gorthion vs. Serpenteze**  
+TV-Y7-FV 🔓 01:43  
+⌛ December 24, 2019 at 04:59:00 EST  
+[Open in app](https://tinyurl.com/u5kofk4) or on the web: https://www.cartoonnetwork.com/video/bakugan/bakugan-best-brawl-ever-gorthion-vs-serpenteze-episode.html  
+seriesid=`2170837` titleid=`2198140` mediaid=`ec7c9459f956b1f7e579995cf44b7472137cb4cf`  
+_Arguably one of the most intensive brawls this side of Vetroia, Serpenteze shows off his powerful special abilities in this battle against Gorthion._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2198140_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198140_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198140_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198140_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198140_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198140_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198140_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198140_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198140_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198140_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198140_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198140_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198140_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198140_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198140_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198140_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198140_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198140_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198140_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198140_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
