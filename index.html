@@ -81,7 +81,7 @@
             display: none !important;
         }
 
-        .short-hide {
+        .not-short-hide {
             display: none !important;
         }
 
@@ -157,14 +157,14 @@
                 });
             }
             if (document.getElementById("short-only").checked) {
-                [].forEach.call(document.querySelectorAll(".short"), function (video) {
-                    video.classList.remove("short");
-                    video.classList.add("short-hide");
+                [].forEach.call(document.querySelectorAll(".not-short"), function (video) {
+                    video.classList.remove("not-short");
+                    video.classList.add("not-short-hide");
                 });
             } else {
-                [].forEach.call(document.querySelectorAll(".short-hide"), function (video) {
-                    video.classList.remove("short-hide");
-                    video.classList.add("short");
+                [].forEach.call(document.querySelectorAll(".not-short-hide"), function (video) {
+                    video.classList.remove("not-short-hide");
+                    video.classList.add("not-short");
                 });
             }
         }
