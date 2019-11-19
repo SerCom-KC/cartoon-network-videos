@@ -1,0 +1,200 @@
+﻿<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="referrer" content="same-origin">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>Cartoon Network / Adult Swim Realtime Schedule (BETA)</title>
+    <style>
+        body {
+            text-align: center;
+            margin: 0;
+        }
+
+        .current {
+            background-color: black;
+        }
+
+        .current p {
+            color: white;
+        }
+
+        p {
+            margin: 0;
+        }
+
+        a {
+            color: inherit;
+        }
+
+        div {
+            margin: 10px 0;
+            padding: 10px
+        }
+
+        .show-timestamp {
+            font-size: xx-large;
+            font-weight: bold;
+        }
+
+        .series-name {
+            font-size: x-large;
+        }
+
+        .title {
+            font-size: larger;
+        }
+
+        .episode-number {
+            font-size: medium;
+        }
+        
+        .extra-info {
+            font-size: medium;
+        }
+
+        .summary {
+            font-size: x-small;
+            font-style: italic;
+        }
+
+        .separator {
+            display: flex;
+            align-items: center;
+            text-align: center;
+            font-weight: bold;
+            font-size: large;
+        }
+
+        .separator::before, .separator::after {
+            content: '';
+            flex: 1;
+            border-bottom: 1px solid #000;
+        }
+
+        .separator::before {
+            margin-right: .50em;
+        }
+
+        .separator::after {
+            margin-left: .50em;
+        }
+
+        #countdown {
+            position: sticky;
+            position: -webkit-sticky;
+            top: 0;
+            padding: 10px 0;
+            background-color: black;
+            color: white;
+            font-size: small;
+        }
+
+        footer {
+            position: sticky;
+            position: -webkit-sticky;
+            bottom: 0;
+            padding: 10px 0;
+            background-color: black;
+            color: white;
+            font-size: small;
+        }
+    </style>
+</head>
+
+<body>
+    <p id="countdown">Loading...</p>
+    <main>
+    </main>
+    <footer><a href="https://github.com/SerCom-KC/cartoon-network-schedule">GitHub</a></footer>
+    <script>
+        const date_display_config = { timeZone: "America/New_York", month: "long", day: "numeric" };
+        const time_display_config = { timeZone: "America/New_York", hour12: true, hour: "numeric", minute: "2-digit"};
+        function scrollToCurrent() {
+            document.getElementsByClassName("current")[0].scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
+        }
+        function padZero(number) {
+            return (number < 10) ? "0" + number.toString() : number.toString();
+        }
+        function countDown() {
+            var i = 60;
+            var int = setInterval(function() {
+                countdown = document.getElementById("countdown")
+                countdown.innerText = "Refreshing in " + i + " second";
+                if (i > 1) {countdown.innerText += "s";}
+                countdown.innerHTML += "...<br>";
+                now = new Date();
+                countdown.innerText += "All times Eastern. Current time is " + now.toLocaleString("en-US", { timeZone: "America/New_York", hour12: true, month: "long", day: "numeric", hour: "2-digit", minute: "2-digit", second: "2-digit"});
+                countdown.innerHTML += '<br><a href="javascript:scrollToCurrent();">Click here to scroll to current</a>';
+                if (i === 0) {
+                    clearInterval(int);
+                    countdown.innerText = "Refreshing...";
+                    loadData();
+                } else {
+                    i--;
+                }
+            }, 1000);
+        }
+        function parseSchedule (shows) {
+            [].forEach.call(document.querySelectorAll(".current"), function (show) {
+                show.classList.remove("current");
+            });
+            for (var i = 0; i < shows.length; i++) {
+                showDiv = document.getElementById("show-" + shows[i].show_id)
+                if (showDiv === null) {
+                    showDiv = document.createElement("div");
+                    showDiv.id = "show-" + shows[i].show_id
+                    document.getElementsByTagName("main")[0].appendChild(showDiv);
+                }
+                if (shows[i].status === "current") {showDiv.classList.add("current");}
+                else {showDiv.classList.remove("current");}
+                var showTimestamp = new Date(parseInt(shows[i].show_timestamp)*1000);
+                showDiv.innerHTML = '<p class="series-name"><span class="show-timestamp">' + showTimestamp.toLocaleString("en-US", time_display_config) + "</span>&nbsp;&nbsp;" +  shows[i].series_name + ' <span class="episode-number">' + shows[i].episode_number + '</span></p>';
+                showDiv.innerHTML += '<p class="title">' + shows[i].title + '</p>'
+                var minute = parseInt(shows[i].show_duration / 60);
+                var second = parseInt(shows[i].show_duration - minute * 60);
+                showDiv.innerHTML += '<p class="extra-info">' + shows[i].tv_rating + ' · ' + padZero(minute) + ':' + padZero(second) + '</p>'
+                showDiv.innerHTML += '<p class="summary">' + shows[i].summary + '</p>'
+                if (i < shows.length - 1) {
+                    nextShowTimestamp = new Date(parseInt(shows[i+1].show_timestamp)*1000);
+                    if (showTimestamp.toLocaleString("en-US", date_display_config) != nextShowTimestamp.toLocaleString("en-US", date_display_config)) {
+                        nextShowTimestampString = nextShowTimestamp.toLocaleString("en-US", date_display_config);
+                        dateSeparator = document.getElementById("date-" + nextShowTimestampString.toLowerCase().replace(" ", "-"));
+                        if (dateSeparator === null) {
+                            dateSeparator = document.createElement("div");
+                            dateSeparator.classList.add("separator");
+                            dateSeparator.id = "date-" + nextShowTimestampString.toLowerCase().replace(" ", "-");
+                            dateSeparator.innerText = nextShowTimestampString;
+                            document.getElementsByTagName("main")[0].appendChild(dateSeparator);
+                        }
+                    }
+                } else {
+                    scrollToCurrent();
+                    countDown();
+                }
+            }
+        }
+        function loadData() {
+            var xhr1 = new XMLHttpRequest();
+            xhr1.open("GET", "https://time.ten.ngtv.io/v1/currentshow?instance=as-east");
+            xhr1.send();
+            xhr1.onreadystatechange = function () {
+                if (this.readyState === 4 && this.status === 200) {
+                    var currentShow = JSON.parse(this.responseText);
+                    var xhr2 = new XMLHttpRequest();
+                    xhr2.open("GET", "https://time.ten.ngtv.io/v1/rundown?instance=as-east&endTime=2147483647&startTime=0")
+                    xhr2.send();
+                    xhr2.onreadystatechange = function () {
+                        if (this.readyState === 4 && this.status === 200) {
+                            var allShows = JSON.parse(this.responseText);
+                            parseSchedule(allShows.shows);
+                        }
+                    }
+                }
+            }
+        }
+        window.onload = function() {loadData();}
+    </script>
+</body>
+
+</html>
