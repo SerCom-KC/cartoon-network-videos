@@ -110,6 +110,7 @@
     <script>
         const date_display_config = { timeZone: "America/New_York", month: "long", day: "numeric" };
         const time_display_config = { timeZone: "America/New_York", hour12: true, hour: "numeric", minute: "2-digit"};
+        var firstLoad = true;
         function scrollToCurrent() {
             document.getElementsByClassName("current")[0].scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
         }
@@ -169,6 +170,10 @@
                         }
                     }
                 } else {
+                    if (firstLoad) {
+                        scrollToCurrent();
+                        firstLoad = false;
+                    }
                     countDown();
                 }
             }
