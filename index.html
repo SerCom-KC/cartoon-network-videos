@@ -81,7 +81,7 @@
             display: none !important;
         }
 
-        .locked-release-hide {
+        .short-hide {
             display: none !important;
         }
 
@@ -104,8 +104,8 @@
     <header>
         <input type="checkbox" id="new-only" name="new-only" onclick="applyFilter()"><label for="new-only">Show new
             releases only</label><br>
-        <input type="checkbox" id="unlocked-only" name="unlocked-only" onclick="applyFilter()"><label
-            for="unlocked-only">Show unlocked releases only</label><br>
+        <input type="checkbox" id="short-only" name="short-only" onclick="applyFilter()"><label
+            for="short-only">Show shorts only</label><br>
         <input type="checkbox" id="no-espanol" name="no-espanol" onclick="applyFilter()"><label for="no-espanol">Hide
             Spanish releases</label>
     </header>
@@ -155,15 +155,15 @@
                     video.classList.add("espanol-release");
                 });
             }
-            if (document.getElementById("unlocked-only").checked) {
-                [].forEach.call(document.querySelectorAll(".locked-release"), function (video) {
-                    video.classList.remove("locked-release");
-                    video.classList.add("locked-release-hide");
+            if (document.getElementById("short-only").checked) {
+                [].forEach.call(document.querySelectorAll(".short"), function (video) {
+                    video.classList.remove("short");
+                    video.classList.add("short-hide");
                 });
             } else {
-                [].forEach.call(document.querySelectorAll(".locked-release-hide"), function (video) {
-                    video.classList.remove("locked-release-hide");
-                    video.classList.add("locked-release");
+                [].forEach.call(document.querySelectorAll(".short-hide"), function (video) {
+                    video.classList.remove("short-hide");
+                    video.classList.add("short");
                 });
             }
         }
@@ -213,12 +213,13 @@
                         var is_new = (release.bannertext && (release.bannertext.toUpperCase() === "LATEST EPISODE" || release.bannertext.toUpperCase() === "SEE IT FIRST"));
                         var is_locked = (release.authtype === "auth");
                         var is_espanol = (release.originalseriesname && release.originalseriesname.trim().endsWith("en Espanol"));
+                        var is_short = (release.type === "short");
                         var html_result = "";
                         html_result += '<div class="release ';
                         if (!is_new) html_result += 'not-';
                         html_result += 'new-release ';
-                        if (!is_locked) html_result += 'not-';
-                        html_result += 'locked-release';
+                        if (!is_short) html_result += 'not-';
+                        html_result += 'short';
                         if (is_espanol) html_result += ' espanol-release';
                         html_result += '" title="' + release.description.replace(/\"/g, '&quot;') + '">';
                         if (release.thumbnailurl.startsWith("https://i.cartoonnetwork.com/orchestrator/" + release.titleid)) html_result += '<img class="thumbnail" src="' + release.thumbnailurl.replace("https://i.cartoonnetwork.com/", "https://s3.amazonaws.com/cartoon").replace("640x360", "1280x720") + '">';
@@ -236,7 +237,6 @@
                         html_result += ' | Open in <a href="cartoonnetwork://open?section=onDemand&series=' + release.seriesid + '&title=' + release.titleid + '&media=' + release.mediaid + '">APP</a> or <a href="https://www.cartoonnetwork.com' + release.seofriendlyurl + '">WEB</a><br>';
                         var expdate = new Date(parseInt(release.expdateasmilliseconds));
                         html_result += '⌛ ' + expdate.toLocaleString("en-US", date_display_config) + " at " + expdate.toLocaleString("en-US", time_display_config) + '<br>';
-                        //html_result += 'Open in (US only): APP / WEB<br>';
                         html_result += 'seriesid=<code>' + release.originalseriesid + '</code> titleid=<code>' + release.titleid + '</code> mediaid=<code>' + release.mediaid + '</code><br>';
                         var addeddate = new Date(resp.updated * 1000);
                         html_result += '<a href="https://github.com/SerCom-KC/cartoon-network-videos/blob/' + sha + '/diff.json"><i>Added on ' + addeddate.toLocaleString("en-US", date_display_config) + " at " + addeddate.toLocaleString("en-US", time_display_config) + '</i></a>';
