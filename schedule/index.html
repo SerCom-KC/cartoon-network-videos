@@ -155,8 +155,13 @@
                 if (shows[i].status === "current") {showDiv.classList.add("current");}
                 else {showDiv.classList.remove("current");}
                 var showTimestamp = new Date(parseInt(shows[i].show_timestamp)*1000);
-                showDiv.innerHTML = '<p class="series-name"><span class="show-timestamp">' + showTimestamp.toLocaleString("en-US", time_display_config) + "</span> " +  shows[i].series_name + ' <span class="episode-number">' + shows[i].episode_number + '</span></p>';
-                showDiv.innerHTML += '<p class="title">' + shows[i].title + '</p>'
+                seriesNameHTML = '<p class="series-name"><span class="show-timestamp">' + showTimestamp.toLocaleString("en-US", time_display_config) + "</span> ";
+                if (shows[i].series_name != "") {seriesNameHTML += shows[i].series_name;}
+                else {seriesNameHTML += shows[i].title;}
+                if ("episode_number" in shows[i]) {seriesNameHTML += ' <span class="episode-number">' + shows[i].episode_number + '</span>';}
+                seriesNameHTML += '</p>';
+                showDiv.innerHTML = seriesNameHTML;
+                if (shows[i].series_name != "") showDiv.innerHTML += '<p class="title">' + shows[i].title + '</p>';
                 var minute = parseInt(shows[i].show_duration / 60);
                 var second = parseInt(shows[i].show_duration - minute * 60);
                 showDiv.innerHTML += '<p class="extra-info">' + shows[i].tv_rating + ' · ' + padZero(minute) + ':' + padZero(second) + '</p>'
