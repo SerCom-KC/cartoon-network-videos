@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: November 19, 2019 at 22:30:23 EST_
+_Last Update: November 20, 2019 at 01:30:24 EST_
 ## Video added
-No videos were added.  
+### Summary
+316324 The New Scooby-Doo Movies: 2  
+### 123513
+**The New Scooby-Doo Movies S01E02 - The Dynamic Scooby-Doo Affair**  
+TV-G 🔒 41:21  
+⌛ January 1, 2020 at 04:59:00 EST  
+[Open in app](https://tinyurl.com/u3t9elc) or on the web: https://www.cartoonnetwork.com/video/the-new-scooby-doo-movies/the-dynamic-scooby-doo-affair-episode.html  
+seriesid=`316324` titleid=`123513` mediaid=`b08ddfc119eb02014021bcd906d51f23748e936f`  
+_The members of Mystery, Inc. join forces with Batman and Robin for a cliff-hanging tale about a counterfeiting ring operated by those two arch-criminals, Joker and Penguin._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/123513_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123513_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123513_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123513_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123513_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123513_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123513_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123513_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123513_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123513_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123513_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123513_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123513_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123513_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123513_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123513_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123513_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123513_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123513_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123513_010_640x360.jpg" height="144px" /></a>
+### 123518
+**The New Scooby-Doo Movies S01E07 - Sandy Duncan's Jekyll and Hydes**  
+TV-G 🔒 41:23  
+⌛ January 1, 2020 at 04:59:00 EST  
+[Open in app](https://tinyurl.com/u7ok3ao) or on the web: https://www.cartoonnetwork.com/video/the-new-scooby-doo-movies/sandy-duncans-jekyll-and-hydes-episode.html  
+seriesid=`316324` titleid=`123518` mediaid=`fa857e3fda8ae8c00fe9c23772dfaa31e3fef0e3`  
+_As Sandy Duncan's latest movie, a remake of Dr. Jekyll and Mr. Hyde, films on a studio lot that is soon to be closed, the risky business of movie making becomes more risky than usual. A woolly creature disrupts the filming! Scooby and Mystery, Inc. investigate the strange events._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/123518_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123518_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123518_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123518_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123518_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123518_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123518_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123518_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123518_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123518_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123518_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123518_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123518_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123518_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123518_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123518_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123518_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123518_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/123518_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/123518_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
