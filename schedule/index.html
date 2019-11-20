@@ -184,23 +184,14 @@
             }
         }
         function loadData() {
-            var xhr1 = new XMLHttpRequest();
-            xhr1.open("GET", "https://time.ten.ngtv.io/v1/currentshow?instance=as-east");
-            xhr1.send();
-            xhr1.onreadystatechange = function () {
-                if (this.readyState === 4 && this.status === 200) {
-                    var currentShow = JSON.parse(this.responseText);
-                    var xhr2 = new XMLHttpRequest();
-                    xhr2.open("GET", "https://time.ten.ngtv.io/v1/rundown?instance=as-east&endTime=2147483647&startTime=0")
-                    xhr2.send();
-                    xhr2.onreadystatechange = function () {
-                        if (this.readyState === 4 && this.status === 200) {
-                            var allShows = JSON.parse(this.responseText);
-                            parseSchedule(allShows.shows);
-                        }
-                    }
-                }
-            }
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", "https://time.ten.ngtv.io/v1/rundown?instance=as-east&endTime=2147483647&startTime=0")
+            xhr.send();
+            xhr.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                var allShows = JSON.parse(this.responseText);
+                parseSchedule(allShows.shows);
+            }};
         }
         window.onload = function() {loadData();}
     </script>
