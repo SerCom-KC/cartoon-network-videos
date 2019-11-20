@@ -33,8 +33,8 @@
         }
 
         div {
-            margin: 10px 0;
-            padding: 10px
+            margin: 0;
+            padding: 10px;
         }
 
         .show-timestamp {
@@ -69,12 +69,17 @@
             text-align: center;
             font-weight: bold;
             font-size: large;
+            position: sticky;
+            position: -webkit-sticky;
+            background: black;
+            color: white;
+            top: 0;
         }
 
         .separator::before, .separator::after {
             content: '';
             flex: 1;
-            border-bottom: 1px solid #000;
+            border-bottom: 1px solid white;
         }
 
         .separator::before {
@@ -83,16 +88,6 @@
 
         .separator::after {
             margin-left: .50em;
-        }
-
-        header {
-            position: sticky;
-            position: -webkit-sticky;
-            top: 0;
-            padding: 10px 0;
-            background-color: black;
-            color: white;
-            font-size: small;
         }
 
         footer {
@@ -108,14 +103,13 @@
 </head>
 
 <body>
-    <header>
-        <p id="countdown">Loading...</p>
-        <p id="menu">
-        </p>
-    </header>
     <main>
     </main>
-    <footer><a href="https://github.com/SerCom-KC/cartoon-network-schedule">GitHub</a></footer>
+    <footer>
+        <p id="countdown">Loading...</p>
+        <p id="menu"></p>
+        <p><a href="https://github.com/SerCom-KC/cartoon-network-schedule">GitHub</a></p>
+    </footer>
     <script>
         const date_display_config = { timeZone: "America/New_York", month: "short", day: "numeric" };
         const time_display_config = { timeZone: "America/New_York", hour12: true, hour: "numeric", minute: "2-digit"};
@@ -175,11 +169,14 @@
                         if (dateSeparator === null) {
                             dateSeparator = document.createElement("div");
                             dateSeparator.classList.add("separator");
-                            dateSeparator.id = "date-" + nextShowTimestampString.toLowerCase().replace(" ", "-");
+                            dateSeparator.classList.add("date-" + nextShowTimestampString.toLowerCase().replace(" ", "-"));
                             dateSeparator.innerText = nextShowTimestampString;
                             document.getElementsByTagName("main")[0].appendChild(dateSeparator);
+                            dateSeparatorAnchor = document.createElement("i");
+                            dateSeparatorAnchor.id = "date-" + nextShowTimestampString.toLowerCase().replace(" ", "-");
+                            document.getElementsByTagName("main")[0].appendChild(dateSeparatorAnchor);
                         }
-                        document.getElementById("menu").innerHTML += ' | <a href="javascript:scrollTo(&quot;#' + dateSeparator.id + '&quot;);">' + nextShowTimestampString + '</a>';
+                        document.getElementById("menu").innerHTML += ' | <a href="javascript:scrollTo(&quot;#' + dateSeparatorAnchor.id + '&quot;);">' + nextShowTimestampString + '</a>';
                     }
                 } else {
                     if (firstLoad) {
