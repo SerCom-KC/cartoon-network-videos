@@ -17,11 +17,8 @@
         }
 
         .current {
-            background-color: black;
-        }
-
-        .current p {
-            color: white;
+            border-width: 10;
+            border-style: solid;
         }
 
         p {
@@ -35,6 +32,11 @@
         div {
             margin: 0;
             padding: 10px;
+        }
+
+        .show {
+            border-color: black;
+            font-weight: 500;
         }
 
         .show-timestamp {
@@ -71,15 +73,15 @@
             font-size: large;
             position: sticky;
             position: -webkit-sticky;
-            background: black;
-            color: white;
+            background: silver;
+            color: black;
             top: 0;
         }
 
         .separator::before, .separator::after {
             content: '';
             flex: 1;
-            border-bottom: 1px solid white;
+            border-bottom: 1px solid black;
         }
 
         .separator::before {
@@ -100,6 +102,8 @@
             font-size: small;
         }
     </style>
+    <link rel="stylesheet" href="./colorcodes.css">
+    <link rel="stylesheet" href="./avenir.css">
 </head>
 
 <body>
@@ -154,6 +158,8 @@
                 }
                 if (shows[i].status === "current") {showDiv.classList.add("current");}
                 else {showDiv.classList.remove("current");}
+                showDiv.classList.add("show");
+                showDiv.classList.add("franchise-" + shows[i].franchise_id);
                 var showTimestamp = new Date(parseInt(shows[i].show_timestamp)*1000);
                 seriesNameHTML = '<p class="series-name"><span class="show-timestamp">' + showTimestamp.toLocaleString("en-US", time_display_config) + "</span> ";
                 if (shows[i].series_name != "") {seriesNameHTML += shows[i].series_name;}
