@@ -120,6 +120,7 @@
         const date_display_config = { timeZone: "America/New_York", month: "short", day: "numeric" };
         const time_display_config = { timeZone: "America/New_York", hour12: true, hour: "numeric", minute: "2-digit"};
         var firstLoad = true;
+        var timer = setInterval(null, 1000);
 
         function scrollTo(e) {
             document.querySelectorAll(e)[0].scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
@@ -131,7 +132,7 @@
 
         function countDown() {
             var i = 60;
-            var int = setInterval(function() {
+            timer = setInterval(function() {
                 countdown = document.getElementById("countdown")
                 countdown.innerText = "Refreshing in " + i + " second";
                 if (i > 1) {countdown.innerText += "s";}
@@ -139,8 +140,6 @@
                 now = new Date();
                 countdown.innerText += "All times Eastern. Current time is " + now.toLocaleString("en-US", { timeZone: "America/New_York", hour12: true, month: "long", day: "numeric", hour: "2-digit", minute: "2-digit", second: "2-digit"});
                 if (i === 0) {
-                    clearInterval(int);
-                    countdown.innerText = "Refreshing...";
                     loadData();
                 } else {
                     i--;
@@ -193,6 +192,8 @@
             }
         }
         function loadData() {
+            clearInterval(timer);
+            document.getElementById("countdown").innerText = "Loading...";
             document.getElementById("menu").style.display = "none";
             document.getElementById("menu").innerHTML = '<a href="javascript:scrollTo(&quot;.current&quot;);">Current</a>';
             var xhr = new XMLHttpRequest();
