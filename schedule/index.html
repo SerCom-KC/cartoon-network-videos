@@ -161,7 +161,7 @@
                 showDiv.classList.add("show");
                 showDiv.classList.add("franchise-" + shows[i].franchise_id);
                 var showTimestamp = new Date(parseInt(shows[i].show_timestamp)*1000);
-                seriesNameHTML = '<p class="series-name"><span class="show-timestamp">' + showTimestamp.toLocaleString("en-US", time_display_config) + "</span> ";
+                seriesNameHTML = '<p class="series-name"><span class="show-timestamp">' + showTimestamp.toLocaleString("en-US", time_display_config).toLowerCase().replace(" ", "").replace("m", "") + "</span> ";
                 if (shows[i].series_name != "") {seriesNameHTML += shows[i].series_name;}
                 else {seriesNameHTML += shows[i].title;}
                 if ("episode_number" in shows[i]) {seriesNameHTML += ' <span class="episode-number">' + shows[i].episode_number + '</span>';}
