@@ -85,7 +85,7 @@
             margin-left: .50em;
         }
 
-        #countdown {
+        header {
             position: sticky;
             position: -webkit-sticky;
             top: 0;
@@ -108,20 +108,27 @@
 </head>
 
 <body>
-    <p id="countdown">Loading...</p>
+    <header>
+        <p id="countdown">Loading...</p>
+        <p id="menu">
+        </p>
+    </header>
     <main>
     </main>
     <footer><a href="https://github.com/SerCom-KC/cartoon-network-schedule">GitHub</a></footer>
     <script>
-        const date_display_config = { timeZone: "America/New_York", month: "long", day: "numeric" };
+        const date_display_config = { timeZone: "America/New_York", month: "short", day: "numeric" };
         const time_display_config = { timeZone: "America/New_York", hour12: true, hour: "numeric", minute: "2-digit"};
         var firstLoad = true;
-        function scrollToCurrent() {
-            document.getElementsByClassName("current")[0].scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
+
+        function scrollTo(e) {
+            document.querySelectorAll(e)[0].scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
         }
+
         function padZero(number) {
             return (number < 10) ? "0" + number.toString() : number.toString();
         }
+
         function countDown() {
             var i = 60;
             var int = setInterval(function() {
@@ -131,7 +138,6 @@
                 countdown.innerHTML += "...<br>";
                 now = new Date();
                 countdown.innerText += "All times Eastern. Current time is " + now.toLocaleString("en-US", { timeZone: "America/New_York", hour12: true, month: "long", day: "numeric", hour: "2-digit", minute: "2-digit", second: "2-digit"});
-                countdown.innerHTML += '<br><a href="javascript:scrollToCurrent();">Click here to scroll to current</a>';
                 if (i === 0) {
                     clearInterval(int);
                     countdown.innerText = "Refreshing...";
@@ -141,6 +147,7 @@
                 }
             }, 1000);
         }
+
         function parseSchedule (shows) {
             [].forEach.call(document.querySelectorAll(".current"), function (show) {
                 show.classList.remove("current");
@@ -155,7 +162,7 @@
                 if (shows[i].status === "current") {showDiv.classList.add("current");}
                 else {showDiv.classList.remove("current");}
                 var showTimestamp = new Date(parseInt(shows[i].show_timestamp)*1000);
-                showDiv.innerHTML = '<p class="series-name"><span class="show-timestamp">' + showTimestamp.toLocaleString("en-US", time_display_config) + "</span>&nbsp;&nbsp;" +  shows[i].series_name + ' <span class="episode-number">' + shows[i].episode_number + '</span></p>';
+                showDiv.innerHTML = '<p class="series-name"><span class="show-timestamp">' + showTimestamp.toLocaleString("en-US", time_display_config) + "</span> " +  shows[i].series_name + ' <span class="episode-number">' + shows[i].episode_number + '</span></p>';
                 showDiv.innerHTML += '<p class="title">' + shows[i].title + '</p>'
                 var minute = parseInt(shows[i].show_duration / 60);
                 var second = parseInt(shows[i].show_duration - minute * 60);
@@ -173,17 +180,21 @@
                             dateSeparator.innerText = nextShowTimestampString;
                             document.getElementsByTagName("main")[0].appendChild(dateSeparator);
                         }
+                        document.getElementById("menu").innerHTML += ' | <a href="javascript:scrollTo(&quot;#' + dateSeparator.id + '&quot;);">' + nextShowTimestampString + '</a>';
                     }
                 } else {
                     if (firstLoad) {
-                        scrollToCurrent();
+                        scrollTo(".current");
                         firstLoad = false;
                     }
+                    document.getElementById("menu").style.display = "initial";
                     countDown();
                 }
             }
         }
         function loadData() {
+            document.getElementById("menu").style.display = "none";
+            document.getElementById("menu").innerHTML = '<a href="javascript:scrollTo(&quot;.current&quot;);">Current</a>';
             var xhr = new XMLHttpRequest();
             xhr.open("GET", "https://time.ten.ngtv.io/v1/rundown?instance=as-east&endTime=2147483647&startTime=0")
             xhr.send();
