@@ -136,7 +136,7 @@
                 if (i > 1) {countdown.innerText += "s";}
                 countdown.innerHTML += "...<br>";
                 now = new Date();
-                countdown.innerText += "All times Eastern. Current time is " + now.toLocaleString("en-US", { timeZone: "America/New_York", hour12: true, month: "long", day: "numeric", hour: "2-digit", minute: "2-digit", second: "2-digit"});
+                countdown.innerText += "All times Eastern. Current time is " + now.toLocaleString("en-US", { timeZone: "America/New_York", hour12: true, month: "short", day: "numeric", hour: "2-digit", minute: "2-digit", second: "2-digit"});
                 if (i === 0) {
                     loadData();
                 } else {
@@ -187,7 +187,7 @@
                             dateSeparatorAnchor.id = "date-" + nextShowTimestampString.toLowerCase().replace(" ", "-");
                             document.getElementsByTagName("main")[0].appendChild(dateSeparatorAnchor);
                         }
-                        document.getElementById("menu").innerHTML += ' | <a href="javascript:scrollTo(&quot;#' + dateSeparatorAnchor.id + '&quot;);">' + nextShowTimestampString + '</a>';
+                        document.getElementById("menu").innerHTML += ' | <a href="javascript:scrollTo(&quot;#date-' + nextShowTimestampString.toLowerCase().replace(" ", "-") + '&quot;);">' + nextShowTimestampString + '</a>';
                     }
                 } else {
                     if (firstLoad) {
