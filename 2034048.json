@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1002251900069430",
+  "airingid": "RADS1011061900034124",
   "seasonnumber": "3",
   "seasonitemnumber": "30",
   "seriesid": "835928",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Gumball and Darwin help Anais make up an imaginary friend who turns out to be all too real. Anais throws a party but no-one shows up as she has no friends or social skills. Gumball and Darwin help Anais make up an imaginary friend who, much to all their surprise, appears in front of them. Gumball and Darwin teach Anais and her new friend how to become friends, but soon realise that he might not be so imaginary after all...",
-  "duration": 685,
+  "duration": 686,
   "freewheelid": "cn-2034048",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2015-01-24T20:30:00.000Z",
-  "pubdate": "2019-03-08T10:00:00.000Z",
-  "expdate": "2019-03-15T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2034048_003_640x360.jpg",
+  "pubdate": "2019-11-22T10:00:00.000Z",
+  "expdate": "2019-11-29T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2034048_008_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1422131400000",
-  "pubdateasmilliseconds": "1552039200000",
-  "expdateasmilliseconds": "1552640340000",
+  "pubdateasmilliseconds": "1574416800000",
+  "expdateasmilliseconds": "1575021540000",
   "mediaid": "8d988b74b08b7e726337d7e68efe5d979a40b61b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

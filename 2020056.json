@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003151900074134",
+  "airingid": "RADS1011061900034118",
   "seasonnumber": "6",
   "seasonitemnumber": "19",
   "seriesid": "757073",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After a memorial for a fallen ally, Jake starts acting very strange.",
-  "duration": 701,
+  "duration": 702,
   "freewheelid": "cn-2020056",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2014-11-26T00:00:00.000Z",
-  "pubdate": "2019-03-15T09:00:00.000Z",
-  "expdate": "2019-03-22T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2020056_004_640x360.jpg",
+  "pubdate": "2019-11-22T10:00:00.000Z",
+  "expdate": "2019-11-29T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2020056_006_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1416960000000",
-  "pubdateasmilliseconds": "1552640400000",
-  "expdateasmilliseconds": "1553245140000",
+  "pubdateasmilliseconds": "1574416800000",
+  "expdateasmilliseconds": "1575021540000",
   "mediaid": "bb146b8ebc197d52407ecbe1847678b530e2d8bd",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

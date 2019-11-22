@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1002251900069989",
+  "airingid": "RADS1011061900034114",
   "seasonnumber": "3",
   "seasonitemnumber": "15",
   "seriesid": "757073",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Where are the citizens of Ooo?",
-  "duration": 698,
+  "duration": 699,
   "freewheelid": "cn-834176",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2011-11-15T01:00:00.000Z",
-  "pubdate": "2019-03-01T10:00:00.000Z",
-  "expdate": "2019-03-08T09:59:00.000Z",
+  "pubdate": "2019-11-22T10:00:00.000Z",
+  "expdate": "2019-11-29T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/834176_009_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1321318800000",
-  "pubdateasmilliseconds": "1551434400000",
-  "expdateasmilliseconds": "1552039140000",
+  "pubdateasmilliseconds": "1574416800000",
+  "expdateasmilliseconds": "1575021540000",
   "mediaid": "3b516199bb09cdaf722dbd8328b2d03d043e54a9",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

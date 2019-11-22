@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1010041900025599",
+  "airingid": "RADS1011061900034151",
   "seasonnumber": "3",
   "seasonitemnumber": "12",
   "seriesid": "100000000001182633",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben travels into space to thwart Ghostfreak's diabolical plans. But is he hero enough to take on the Mummy, Werewolf and Frankenstein?",
-  "duration": 1376,
+  "duration": 1377,
   "freewheelid": "cn-645317",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "100000000001182633",
   "seriesname": "Ben 10 Classic",
   "originalpremieredate": "2007-04-14T14:00:00.000Z",
-  "pubdate": "2019-10-18T09:00:00.000Z",
-  "expdate": "2019-10-25T08:59:37.000Z",
+  "pubdate": "2019-11-22T10:00:00.000Z",
+  "expdate": "2019-11-29T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/645317_007_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Ben 10",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1176559200000",
-  "pubdateasmilliseconds": "1571389200000",
-  "expdateasmilliseconds": "1571993977000",
+  "pubdateasmilliseconds": "1574416800000",
+  "expdateasmilliseconds": "1575021540000",
   "mediaid": "049136d3198abdaca81a72b420453d094264a532",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

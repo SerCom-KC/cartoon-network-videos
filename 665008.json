@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1010041900025597",
+  "airingid": "RADS1011061900034148",
   "seasonnumber": "4",
   "seasonitemnumber": "9",
   "seriesid": "100000000001182633",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "We're back in the future with Ben 10K, and this time he has a son, Ken. On Ken's tenth birthday, Ben gives him his very own Omnitrix. Ben must come to learn to trust Ken with the power of the Omnitrix. Along the way, Ken befriends a kid named Devlin. Devlin turns out to be Kevin 11's son and was merely using Ken so he could break his dad out of the Null Void. Ben 10K and Ken then team up to take down Kevin 11. As for Devlin, he comes to realize his dad is a jerk, and realizes the error of his ways. He's able to redeem himself, proving he's a good kid and joining forces with \"Team Tennyson.\"",
-  "duration": 1371,
+  "duration": 1372,
   "freewheelid": "cn-665008",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "100000000001182633",
   "seriesname": "Ben 10 Classic",
   "originalpremieredate": "2007-10-06T14:00:00.000Z",
-  "pubdate": "2019-10-18T09:00:00.000Z",
-  "expdate": "2019-10-25T08:59:37.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/665008_008_640x360.jpg",
+  "pubdate": "2019-11-22T10:00:00.000Z",
+  "expdate": "2019-11-29T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/665008_009_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "ben 10 - classic",
@@ -33,9 +33,11 @@
   "originalseriesname": "Ben 10",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1191679200000",
-  "pubdateasmilliseconds": "1571389200000",
-  "expdateasmilliseconds": "1571993977000",
+  "pubdateasmilliseconds": "1574416800000",
+  "expdateasmilliseconds": "1575021540000",
   "mediaid": "63a3623ad9d1f3179e5b7bce63d0a4d341f4d2c4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
