@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1009041900018854",
+  "airingid": "RADS1011251900040181",
   "seasonnumber": "6",
   "seasonitemnumber": "4",
   "seriesid": "835928",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Gumball and Darwin want to have a lazy day on the sofa, and have come up with various tricks to stop themselves having to move. Gradually more and more people arrive, seemingly to get them to move, until finally they realize that if they have to move, they'll do it in the laziest way possible.\n",
-  "duration": 685,
+  "duration": 686,
   "freewheelid": "cn-2149374",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2018-01-15T23:00:00.000Z",
-  "pubdate": "2019-09-10T09:00:00.000Z",
-  "expdate": "2019-09-17T08:59:00.000Z",
+  "pubdate": "2019-11-29T10:00:00.000Z",
+  "expdate": "2019-12-06T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2149374_006_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1516057200000",
-  "pubdateasmilliseconds": "1568106000000",
-  "expdateasmilliseconds": "1568710740000",
+  "pubdateasmilliseconds": "1575021600000",
+  "expdateasmilliseconds": "1575626340000",
   "mediaid": "6d54c0aa2c13ea3ff4231df4609ef6fa2b2c9439",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

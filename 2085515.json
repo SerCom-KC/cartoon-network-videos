@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1007251900009173",
+  "airingid": "RADS1011251900040255",
   "seasonnumber": "1",
   "seasonitemnumber": "39",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A mysterious creature abducts Batman, Mr. Terrific, Luthor and two of the brainiest villains in the universe to put them to the test to discover who is the smartest among them.",
-  "duration": 672,
+  "duration": 673,
   "freewheelid": "cn-2085515",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2017-10-07T11:00:00.000Z",
-  "pubdate": "2019-08-01T09:00:00.000Z",
-  "expdate": "2019-09-03T08:59:39.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2085515_009_640x360.jpg",
+  "pubdate": "2019-11-29T10:00:00.000Z",
+  "expdate": "2020-01-02T10:00:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2085515_001_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Justice League Action",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1507374000000",
-  "pubdateasmilliseconds": "1564650000000",
-  "expdateasmilliseconds": "1567501179000",
+  "pubdateasmilliseconds": "1575021600000",
+  "expdateasmilliseconds": "1577959200000",
   "mediaid": "7f49af31c3bf150de089a9b7cff370346f7073eb",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

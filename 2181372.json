@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1008231900015507",
+  "airingid": "RADS1011251900040331",
   "seasonnumber": "2",
   "seasonitemnumber": "6",
   "seriesid": "100000000001179492",
@@ -19,10 +19,10 @@
   "tvratingcode": "TV-Y7-FV",
   "seriestitleid": "100000000001179492",
   "seriesname": "En Español",
-  "originalpremieredate": "2019-09-30T04:00:00.000Z",
-  "pubdate": "2019-09-30T04:00:00.000Z",
-  "expdate": "2019-10-06T03:59:51.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2181372_002_640x360.jpg",
+  "originalpremieredate": "2019-11-29T10:00:00.000Z",
+  "pubdate": "2019-11-29T10:00:00.000Z",
+  "expdate": "2020-01-02T10:00:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2181372_006_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "espanol",
@@ -32,10 +32,12 @@
   "originalseriesid": "2159729",
   "originalseriesname": "OK K.O.! Let's Be Heroes en Espanol",
   "hasparent": false,
-  "originalpremieredateasmilliseconds": "1569816000000",
-  "pubdateasmilliseconds": "1569816000000",
-  "expdateasmilliseconds": "1570334391000",
+  "originalpremieredateasmilliseconds": "1575021600000",
+  "pubdateasmilliseconds": "1575021600000",
+  "expdateasmilliseconds": "1577959200000",
   "mediaid": "22d6dc9a746d862b91bccced53de8d76699c6b9a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

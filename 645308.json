@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1005301900095944",
+  "airingid": "RADS1011251900040204",
   "seasonnumber": "3",
   "seasonitemnumber": "2",
   "seriesid": "100000000001182633",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben gets sucked into the future by a grown up Gwen. His mission is to help the now all powerful and adult Ben 10,000 seemingly defeat the future versions of Dr. Animo and Vilgax. However, the real reason Ben has been brought to the future is to teach his adult self some humility and the fact he's lost touch with Max and has forgotten what's really important, family.",
-  "duration": 1369,
+  "duration": 1370,
   "freewheelid": "cn-645308",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "100000000001182633",
   "seriesname": "Ben 10 Classic",
   "originalpremieredate": "2006-11-25T15:00:00.000Z",
-  "pubdate": "2019-06-03T09:00:00.000Z",
-  "expdate": "2019-07-01T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/645308_001_640x360.jpg",
+  "pubdate": "2019-11-29T10:00:00.000Z",
+  "expdate": "2019-12-02T10:00:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/645308_005_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
   "tags": "ben 10 - classic",
@@ -33,9 +33,11 @@
   "originalseriesname": "Ben 10",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1164466800000",
-  "pubdateasmilliseconds": "1559552400000",
-  "expdateasmilliseconds": "1561971540000",
+  "pubdateasmilliseconds": "1575021600000",
+  "expdateasmilliseconds": "1575280800000",
   "mediaid": "e7d373cf2808933b11eaf10bc50799ec1aebd07e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

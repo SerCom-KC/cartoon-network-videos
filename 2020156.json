@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1008021900011436",
+  "airingid": "RADS1011251900040387",
   "seasonnumber": "1",
   "seasonitemnumber": "49",
   "seriesid": "2011404",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven teams up with a new ally to rescue the Gems. ",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2020156",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "2011404",
   "seriesname": "Steven Universe",
   "originalpremieredate": "2015-03-12T21:00:00.000Z",
-  "pubdate": "2019-08-26T22:00:00.000Z",
-  "expdate": "2019-09-02T21:59:00.000Z",
+  "pubdate": "2019-11-29T10:00:00.000Z",
+  "expdate": "2020-01-02T10:00:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2020156_005_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Steven Universe",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1426194000000",
-  "pubdateasmilliseconds": "1566856800000",
-  "expdateasmilliseconds": "1567461540000",
+  "pubdateasmilliseconds": "1575021600000",
+  "expdateasmilliseconds": "1577959200000",
   "mediaid": "3098f5749f48d90032ef0adf96e99e4779d2e8ec",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

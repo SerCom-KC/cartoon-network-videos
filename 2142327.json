@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1008161900013740",
+  "airingid": "RADS1011251900040451",
   "seasonnumber": "4",
   "seasonitemnumber": "50",
   "seriesid": "2000349",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When the male Titans are injured, Raven and Starfire must become bros to stop the Bropocalypse.",
-  "duration": 637,
+  "duration": 638,
   "freewheelid": "cn-2142327",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "2000349",
   "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2018-05-28T22:00:00.000Z",
-  "pubdate": "2019-08-18T09:00:00.000Z",
-  "expdate": "2019-09-01T08:59:40.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2142327_006_640x360.jpg",
+  "pubdate": "2019-11-29T10:00:00.000Z",
+  "expdate": "2020-01-02T10:00:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2142327_008_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
   "tags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1527544800000",
-  "pubdateasmilliseconds": "1566118800000",
-  "expdateasmilliseconds": "1567328380000",
+  "pubdateasmilliseconds": "1575021600000",
+  "expdateasmilliseconds": "1577959200000",
   "mediaid": "abc48ffdc1f817c23dd979c5ec22dad8acc25dbe",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

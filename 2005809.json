@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1006241900001757",
+  "airingid": "RADS1011251900040190",
   "seasonnumber": "1",
   "seasonitemnumber": "43",
   "seriesid": "100000000001182633",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Vilgax' former lackey Psyphon is elated when his master returns.",
-  "duration": 1334,
+  "duration": 1335,
   "freewheelid": "cn-2005809",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "100000000001182633",
   "seriesname": "Ben 10 Classic",
   "originalpremieredate": "2014-03-01T14:00:00.000Z",
-  "pubdate": "2019-07-01T09:00:00.000Z",
-  "expdate": "2019-07-31T08:59:00.000Z",
+  "pubdate": "2019-11-29T10:00:00.000Z",
+  "expdate": "2020-01-02T10:00:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2005809_006_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Ben 10: Omniverse",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1393682400000",
-  "pubdateasmilliseconds": "1561971600000",
-  "expdateasmilliseconds": "1564563540000",
+  "pubdateasmilliseconds": "1575021600000",
+  "expdateasmilliseconds": "1577959200000",
   "mediaid": "0383ad3e0acf784a006ed75307a9b2f3b949c12c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
