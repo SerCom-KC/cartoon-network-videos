@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1004251900086002",
+  "airingid": "RADS1011251900040295",
   "seasonnumber": "2",
   "seasonitemnumber": "1",
   "seriesid": "10000000000",
@@ -20,9 +20,9 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2018-04-30T10:15:00.000Z",
-  "pubdate": "2019-05-01T09:00:00.000Z",
-  "expdate": "2019-06-03T08:59:37.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2128746_002_640x360.jpg",
+  "pubdate": "2019-11-29T05:00:00.000Z",
+  "expdate": "2020-01-02T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2128746_008_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Magiswords",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1525083300000",
-  "pubdateasmilliseconds": "1556701200000",
-  "expdateasmilliseconds": "1559552377000",
+  "pubdateasmilliseconds": "1575003600000",
+  "expdateasmilliseconds": "1577959140000",
   "mediaid": "6a94291d1af93414a63b2e0ad4fcb4c7d6d37f14",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
