@@ -96,6 +96,7 @@
         #92d050 0, #92d050 25%, yellow 25%, yellow 50%, 
         #92d050 50%, #92d050 75%, yellow 75%, yellow
     ); /* TO-DO: find a better color code */
+    background-size: 5px 5px;
     color: black;
     border-color: black;
 }
