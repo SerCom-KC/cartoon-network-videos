@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: December 2, 2019 at 10:00:25 EST_
+_Last Update: December 2, 2019 at 10:30:23 EST_
 ## Video added
-### Summary
-2177542 DC Super Hero Girls: 2 (2 new)  
-### 2202287
-**DC Super Hero Girls S01E26 - #Abracadabrapalooza**  
-🆕 TV-PG 🔒 11:19  
-⌛ December 21, 2019 at 05:00:00 EST  
-[Open in app](https://tinyurl.com/t42ocsj) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/abracadabrapalooza-episode.html  
-seriesid=`2177542` titleid=`2202287` mediaid=`40df522659b119d2b3fef5db535777fa4abf8f3c`  
-_In an attempt to make Karen feel better about a pimple, Zee recounts her embarrassing transition into magichood, and the rift it created between her and her father._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2202287_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202287_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202287_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202287_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202287_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202287_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202287_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202287_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202287_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202287_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202287_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202287_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202287_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202287_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202287_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202287_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202287_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202287_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202287_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202287_010_640x360.jpg" height="144px" /></a>
-### 2202282
-**DC Super Hero Girls S01E27 - #RageCat**  
-🆕 TV-PG 🔒 11:19  
-⌛ December 21, 2019 at 05:00:00 EST  
-[Open in app](https://tinyurl.com/s5bse9n) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/ragecat-episode.html  
-seriesid=`2177542` titleid=`2202282` mediaid=`0333f8ccb5139e9cfef32a7c75650477b6fac88c`  
-_Jessica Cruz is convinced she can find the purr-fect forever home for Dexter, a cat who has been deemed unadoptable because he's basically the worst cat in the world. Her overbearing persistence in trying to get him adopted leads Dexter to become Dex-Starr, an evil Red Lantern supervillain! Can Jess still find the good in a fuzzy little nemesis who is trying to kill her?_  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2202282_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202282_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202282_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202282_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202282_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202282_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202282_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202282_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202282_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202282_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202282_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202282_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202282_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202282_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202282_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202282_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202282_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202282_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2202282_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2202282_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
