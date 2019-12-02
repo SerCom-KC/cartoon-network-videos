@@ -1012,8 +1012,8 @@
         "originalpremieredate": "2019-07-20T08:59:41.000Z",
         "pubdate": "2019-07-20T08:59:41.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2191247_007_640x360.jpg",
-        "authtype": "auth",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2191247_001_640x360.jpg",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
         "titleid": "2191247",
@@ -3698,7 +3698,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020322",
+        "airingid": "RADS1009121900020091",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3741,7 +3741,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020091",
+        "airingid": "RADS1009121900020322",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -10277,7 +10277,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020325",
+        "airingid": "RADS1009121900020089",
         "seasonnumber": "2",
         "seasonitemnumber": "8",
         "seriesid": "100000000001179492",
@@ -10320,7 +10320,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020089",
+        "airingid": "RADS1009121900020325",
         "seasonnumber": "2",
         "seasonitemnumber": "8",
         "seriesid": "100000000001179492",
@@ -11461,8 +11461,8 @@
         "originalpremieredate": "2019-07-20T08:59:41.000Z",
         "pubdate": "2019-07-20T08:59:41.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2191248_003_640x360.jpg",
-        "authtype": "auth",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2191248_006_640x360.jpg",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
         "titleid": "2191248",
@@ -12341,7 +12341,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020080",
+        "airingid": "RADS1009121900020326",
         "seasonnumber": "2",
         "seasonitemnumber": "6",
         "seriesid": "100000000001179492",
@@ -12384,7 +12384,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020326",
+        "airingid": "RADS1009121900020080",
         "seasonnumber": "2",
         "seasonitemnumber": "6",
         "seriesid": "100000000001179492",
@@ -19952,7 +19952,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -19995,7 +19995,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
