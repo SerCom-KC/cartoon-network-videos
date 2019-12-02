@@ -3698,7 +3698,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020091",
+        "airingid": "RADS1009121900020322",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3741,7 +3741,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020322",
+        "airingid": "RADS1009121900020091",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -12341,7 +12341,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020326",
+        "airingid": "RADS1009121900020080",
         "seasonnumber": "2",
         "seasonitemnumber": "6",
         "seriesid": "100000000001179492",
@@ -12384,7 +12384,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020080",
+        "airingid": "RADS1009121900020326",
         "seasonnumber": "2",
         "seasonitemnumber": "6",
         "seriesid": "100000000001179492",
@@ -13010,7 +13010,7 @@
         "pubdate": "2019-11-25T10:00:00.000Z",
         "expdate": "2020-12-31T09:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2191244_007_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
         "titleid": "2191244",
@@ -15308,7 +15308,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020087",
+        "airingid": "RADS1009121900020324",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -15351,7 +15351,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020324",
+        "airingid": "RADS1009121900020087",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
