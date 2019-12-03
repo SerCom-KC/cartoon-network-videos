@@ -42,7 +42,7 @@ function getData(url, callback, method) {
         },
         dataType: 'json',
         method: method,
-        url: url,
+        url: 'https://video-api.cartoonnetwork.com' + url,
         success: function(data) {
             callback(null, data);
         },
