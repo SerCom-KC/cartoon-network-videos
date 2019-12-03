@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="Content-Language" content="en-us" />
+        <script type="text/javascript" src="js/jq.js"></script>
+        <script type="text/javascript" src="js/core.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/default.css" />
+        <title>CN App Debugging Tool</title>
+    </head>
+    <body>
+        <div id="contentWrapper" class="group">
+            <div id="leftcol">
+                <!-- User information -->
+                <div id="userInfo" style="display:none;">
+                    <h3>Current User ID</h3>
+                    <p id="userId"></p>
+                    <div id="userLikes"></div>
+                    <div id="authtype" class="unauth">Un-Auth</div>
+                </div>
+
+                <!-- Shows Icons -->
+                <div id="showsTray" class="group">
+                    <div id="featuredShows" class="group"></div>
+
+                    <div id="allShows" class="group"></div>
+                    <div id="recommendedShows" class="group">
+                        <h3>All Shows Recommended List</h3>
+                    </div>
+                </div>
+
+                <div id="healthCheckWrap">
+                    <h3>Server Status</h3>
+                    <div id="healthCheck"></div>
+                </div>
+            </div>
+
+            <div id="rightcol">
+                <div id="showsInformation" style="display:none;"></div>
+
+                <!-- shows playlist -->
+                <div id="showsPlayListWrapper" style="display:none;">
+                    <div id="showsEditorial" class="group"></div>
+                    <div id="showsPlayListOnScreen" class="group"></div>
+                    <div id="showsFeedClose">CLOSE</div>
+                </div>
+
+                <!-- In mix videos -->
+                <div id="playListWrapper">
+                    <div id="playListEditorial" class="group"></div>
+                    <div id="playListOnScreen" class="group"></div>
+                    <div id="playListOffScreen" class="group"></div>
+                </div>
+
+                <!-- New User or User Id -->
+                <div id="userControl">
+                    <div id="userWrap" class="group">
+                        <div id="newUser">New User</div>
+                        <div id="returningUser">
+                            <input type="text" id="uidInput" value="Returning User Id" />
+                            <div id="returningBtn">GO</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- off screen videos -->
+    </body>
+</html>
