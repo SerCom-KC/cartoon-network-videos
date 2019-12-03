@@ -259,3 +259,11 @@
     color: #eb1b23;
     border-color: #eb1b23;
 }
+
+.series-2164900 { /* Infinity Train */
+    /* TO-DO: franchise_id */
+    font-family: "Avenir Std", sans-serif;
+    background-color: black;
+    color: #8edd93;
+    border-color: #8edd93;
+}
