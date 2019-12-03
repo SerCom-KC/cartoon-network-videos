@@ -1,4 +1,4 @@
-var currentBaseUrl = $(location).attr('href');
+var currentBaseUrl = 'https://video-api.cartoonnetwork.com'; //$(location).attr('href');
 var argoApiUrl =
     'http://idb.services.dmtio.net/instances/cartoonnetwork-go-api/prod?q=NOT%20offline%3Atrue';
 var liveHeader = 'www.cartoonnetwork.com+json; version=2';
@@ -42,7 +42,7 @@ function getData(url, callback, method) {
         },
         dataType: 'json',
         method: method,
-        url: 'https://video-api.cartoonnetwork.com' + url,
+        url: url,
         success: function(data) {
             callback(null, data);
         },
