@@ -160,6 +160,7 @@
                 else {showDiv.classList.remove("current");}
                 showDiv.classList.add("show");
                 showDiv.classList.add("franchise-" + shows[i].franchise_id);
+                if ("series_id" in shows[i]) {showDiv.classList.add("series-" + shows[i].series_id);}
                 var showTimestamp = new Date(parseInt(shows[i].show_timestamp)*1000);
                 seriesNameHTML = '<p class="series-name"><span class="show-timestamp">' + showTimestamp.toLocaleString("en-US", time_display_config).toLowerCase().replace(" ", "").replace("m", "") + "</span> ";
                 if (shows[i].series_name != "") {seriesNameHTML += shows[i].series_name;}
