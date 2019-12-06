@@ -4710,7 +4710,7 @@
         "originalpremieredate": "2019-08-22T08:59:00.000Z",
         "pubdate": "2019-08-22T08:59:00.000Z",
         "expdate": "2020-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2163313_003_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2163313_010_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "espanol",
@@ -10148,7 +10148,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020325",
+        "airingid": "RADS1009121900020089",
         "seasonnumber": "2",
         "seasonitemnumber": "8",
         "seriesid": "100000000001179492",
@@ -10191,7 +10191,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020089",
+        "airingid": "RADS1009121900020325",
         "seasonnumber": "2",
         "seasonitemnumber": "8",
         "seriesid": "100000000001179492",
@@ -22985,7 +22985,7 @@
         "originalpremieredate": "2019-08-22T08:59:00.000Z",
         "pubdate": "2019-08-22T08:59:00.000Z",
         "expdate": "2020-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2163311_006_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2163311_002_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "espanol",
