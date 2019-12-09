@@ -113,12 +113,25 @@
         <p id="countdown">Loading...</p>
         <p id="menu"></p>
         <p>UNOFFICIAL | Color codes by <a href="https://twitter.com/CNschedules">@CNschedules</a> | <a href="https://github.com/SerCom-KC/cartoon-network-schedule">GitHub</a></p>
+        <input type="checkbox" id="auto-refresh" name="auto-refresh" checked><label for="auto-refresh">Auto refresh</label>
+        <input type="checkbox" id="use-guide-timestamp" name="use-guide-timestamp" onclick="loadData()"><label for="use-guide-timestamp">Use standard (guide) timestamp</label>
+        <input type="checkbox" id="use-eastern-time" name="use-eastern-time" checked onclick="updateSettings()"><label for="use-eastern-time">Use Eastern times</label>
     </footer>
     <script>
         const date_display_config = { timeZone: "America/New_York", month: "short", day: "numeric" };
-        const time_display_config = { timeZone: "America/New_York", hour12: true, hour: "numeric", minute: "2-digit"};
+        var time_display_config = { timeZone: "America/New_York", hour12: true, hour: "numeric", minute: "2-digit" };
         var firstLoad = true;
         var timer = setInterval(null, 1000);
+
+        function updateSettings() {
+            if (document.getElementById("use-eastern-time").checked) {
+                time_display_config = { timeZone: "America/New_York", hour12: true, hour: "numeric", minute: "2-digit" };
+                loadData();
+            } else {
+                time_display_config = { hour12: true, hour: "numeric", minute: "2-digit" };
+                loadData();
+            }
+        }
 
         function scrollTo(e) {
             document.querySelectorAll(e)[0].scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
@@ -131,15 +144,18 @@
         function countDown() {
             var i = 60;
             timer = setInterval(function() {
-                countdown = document.getElementById("countdown")
-                countdown.innerText = "Refreshing in " + i + " second";
-                if (i > 1) {countdown.innerText += "s";}
-                countdown.innerHTML += "...<br>";
+                countdown = document.getElementById("countdown");
+                countdown.innerText = "";
+                if (document.getElementById("auto-refresh").checked) {
+                    countdown.innerText += "Refreshing in " + i + " second";
+                    if (i > 1) {countdown.innerText += "s";}
+                    countdown.innerHTML += "...<br>";
+                } else { i = 60; }
                 now = new Date();
-                countdown.innerText += "All times Eastern. Current time is " + now.toLocaleString("en-US", { timeZone: "America/New_York", hour12: true, month: "short", day: "numeric", hour: "2-digit", minute: "2-digit", second: "2-digit"});
+                countdown.innerText += "Current time in Eastern is " + now.toLocaleString("en-US", { timeZone: "America/New_York", hour12: true, month: "short", day: "numeric", hour: "2-digit", minute: "2-digit", second: "2-digit"});
                 if (i === 0) {
                     loadData();
-                } else {
+                } else if (document.getElementById("auto-refresh").checked) {
                     i--;
                 }
             }, 1000);
@@ -161,7 +177,13 @@
                 showDiv.classList.add("show");
                 showDiv.classList.add("franchise-" + shows[i].franchise_id);
                 if ("series_id" in shows[i]) {showDiv.classList.add("series-" + shows[i].series_id);}
-                var showTimestamp = new Date(parseInt(shows[i].show_timestamp)*1000);
+                if (document.getElementById("use-guide-timestamp").checked) {
+                    var showTimestamp = new Date(parseInt(shows[i].guide_timestamp)*1000);
+                    var showDuration = shows[i].scheduled_duration; 
+                } else {
+                    var showTimestamp = new Date(parseInt(shows[i].show_timestamp)*1000);
+                    var showDuration = shows[i].show_duration;
+                }
                 seriesNameHTML = '<p class="series-name"><span class="show-timestamp">' + showTimestamp.toLocaleString("en-US", time_display_config).toLowerCase().replace(" ", "").replace("m", "") + "</span> ";
                 if (shows[i].series_name != "") {seriesNameHTML += shows[i].series_name;}
                 else {seriesNameHTML += shows[i].title;}
@@ -169,8 +191,8 @@
                 seriesNameHTML += '</p>';
                 showDiv.innerHTML = seriesNameHTML;
                 if (shows[i].series_name != "") showDiv.innerHTML += '<p class="title">' + shows[i].title + '</p>';
-                var minute = parseInt(shows[i].show_duration / 60);
-                var second = parseInt(shows[i].show_duration - minute * 60);
+                var minute = parseInt(showDuration / 60);
+                var second = parseInt(showDuration - minute * 60);
                 showDiv.innerHTML += '<p class="extra-info">' + shows[i].tv_rating + ' · ' + padZero(minute) + ':' + padZero(second) + '</p>'
                 showDiv.innerHTML += '<p class="summary">' + shows[i].summary + '</p>'
                 if (i < shows.length - 1) {
