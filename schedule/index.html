@@ -126,6 +126,7 @@
         var time_display_config = { timeZone: "America/New_York", hour12: true, hour: "numeric", minute: "2-digit" };
         var firstLoad = true;
         var timer = setInterval(null, 1000);
+        var update_lock = false;
 
         function updateSettings() {
             if (document.getElementById("use-eastern-time").checked) {
@@ -224,11 +225,14 @@
                         firstLoad = false;
                     }
                     document.getElementById("menu").style.display = "initial";
+                    update_lock = false;
                     countDown();
                 }
             }
         }
         function loadData() {
+            if (update_lock) { return; }
+            update_lock = true;
             clearInterval(timer);
             document.getElementById("countdown").innerText = "Loading...";
             document.getElementById("menu").style.display = "none";
