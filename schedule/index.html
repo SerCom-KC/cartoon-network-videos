@@ -44,6 +44,10 @@
             font-weight: bold;
         }
 
+        .inactive {
+            text-decoration: line-through;
+        }
+
         .series-name {
             font-size: x-large;
         }
@@ -174,6 +178,8 @@
                 }
                 if (shows[i].status === "current") {showDiv.classList.add("current");}
                 else {showDiv.classList.remove("current");}
+                if (shows[i].status === "inactive") {showDiv.classList.add("inactive");}
+                else {showDiv.classList.remove("inactive");}
                 showDiv.classList.add("show");
                 showDiv.classList.add("franchise-" + shows[i].franchise_id);
                 if ("series_id" in shows[i]) {showDiv.classList.add("series-" + shows[i].series_id);}
