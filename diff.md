@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: December 13, 2019 at 00:00:29 EST_
+_Last Update: December 13, 2019 at 00:30:28 EST_
 ## Video added
-### Summary
-2167202 Transformers Cyberverse: 2 (2 new)  
-### 2208224
-**Transformers Cyberverse S02E31 - Ghost Town Part 1**  
-🆕 TV-Y7-FV 🔓 05:51  
-⌛ August 30, 2020 at 00:00:00 EDT  
-[Open in app](https://tinyurl.com/r4gmb33) or on the web: https://www.cartoonnetwork.com/video/transformers-cyberverse/ghost-town-part-1-episode.html  
-seriesid=`2167202` titleid=`2208224` mediaid=`4b7032102498b1eee6947fdf208666cea86fabd5`  
-_When Windblade mysteriously steals the Allspark, Optimus, Bumblebee, Hot Rod and Cheetor follow her to a strange abandoned city._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2208224_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208224_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208224_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208224_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208224_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208224_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208224_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208224_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208224_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208224_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208224_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208224_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208224_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208224_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208224_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208224_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208224_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208224_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208224_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208224_010_640x360.jpg" height="144px" /></a>
-### 2208225
-**Transformers Cyberverse S02E32 - Ghost Town Part 2**  
-🆕 TV-Y7-FV 🔓 05:05  
-⌛ August 30, 2020 at 00:00:00 EDT  
-[Open in app](https://tinyurl.com/twcslj9) or on the web: https://www.cartoonnetwork.com/video/transformers-cyberverse/ghost-town-part-2-episode.html  
-seriesid=`2167202` titleid=`2208225` mediaid=`ea90ba2cb7beec7056e134a6ea7f348e9e2f9f2f`  
-_Teletraan-X attempts to rehabilitate Starscream while Optimus, Bee, Hot Rod and Cheetor's quest to save Windblade uncovers a city that is more than meets the eye._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2208225_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208225_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208225_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208225_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208225_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208225_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208225_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208225_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208225_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208225_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208225_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208225_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208225_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208225_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208225_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208225_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208225_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208225_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208225_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208225_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
