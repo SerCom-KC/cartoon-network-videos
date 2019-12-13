@@ -346,7 +346,7 @@
     {
         "airingid": "RADS1011251900040457",
         "seasonnumber": "1",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "40965",
         "groupname": "HOLIDAY",
         "seasonitemnumber": "35",
@@ -1390,7 +1390,7 @@
     {
         "airingid": "RADS1011061900034216",
         "seasonnumber": "5",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "60285",
         "groupname": "TEEN TITANS GO FORCE!",
         "seasonitemnumber": "53",
@@ -2084,7 +2084,7 @@
     {
         "airingid": "RADS1011081900035471",
         "seasonnumber": "6",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "4",
@@ -2603,7 +2603,7 @@
     {
         "airingid": "RADS1011081900035469",
         "seasonnumber": "6",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "2",
@@ -2864,7 +2864,7 @@
     {
         "airingid": "RADS1011061900034217",
         "seasonnumber": "5",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "60285",
         "groupname": "TEEN TITANS GO FORCE!",
         "seasonitemnumber": "52",
@@ -3340,7 +3340,7 @@
     {
         "airingid": "RADS1011251900040455",
         "seasonnumber": "4",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "40965",
         "groupname": "HOLIDAY",
         "seasonitemnumber": "6",
@@ -3773,7 +3773,7 @@
     {
         "airingid": "RADS1011081900035470",
         "seasonnumber": "6",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "1",
@@ -3948,7 +3948,7 @@
     {
         "airingid": "RADS1011251900040456",
         "seasonnumber": "3",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "40965",
         "groupname": "HOLIDAY",
         "seasonitemnumber": "19",
@@ -4080,7 +4080,7 @@
     {
         "airingid": "RADS1011081900035468",
         "seasonnumber": "6",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "3",
@@ -4602,7 +4602,7 @@
     {
         "airingid": "RADS1011251900040464",
         "seasonnumber": "4",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "40965",
         "groupname": "HOLIDAY",
         "seasonitemnumber": "2",
@@ -4648,7 +4648,7 @@
     {
         "airingid": "RADS1012051900043648",
         "seasonnumber": "6",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "40965",
         "groupname": "HOLIDAY",
         "seasonitemnumber": "6",
@@ -4869,7 +4869,7 @@
     {
         "airingid": "RADS1012051900043651",
         "seasonnumber": "6",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "40965",
         "groupname": "HOLIDAY",
         "seasonitemnumber": "5",
