@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1004251900085788",
+  "airingid": "RADS1012041900043076",
   "seasonnumber": "3",
   "seasonitemnumber": "3",
   "seriesid": "757073",
@@ -20,12 +20,12 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2011-07-26T00:00:00.000Z",
-  "pubdate": "2019-05-06T09:00:00.000Z",
-  "expdate": "2019-05-13T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/830958_009_640x360.jpg",
+  "pubdate": "2019-12-13T10:00:00.000Z",
+  "expdate": "2019-12-20T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/830958_005_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
-  "tags": "at - mom|unauth",
+  "tags": "unauth",
   "titleid": "830958",
   "titletype": "Element",
   "bannertext": "UNLOCKED",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1311638400000",
-  "pubdateasmilliseconds": "1557133200000",
-  "expdateasmilliseconds": "1557737940000",
+  "pubdateasmilliseconds": "1576231200000",
+  "expdateasmilliseconds": "1576835940000",
   "mediaid": "5e41a3aeae2742c6317efe9887615dd83d5f16ec",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

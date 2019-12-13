@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1001031900058152",
+  "airingid": "RADS1012041900043078",
   "seasonnumber": "2",
   "seasonitemnumber": "22",
   "seriesid": "835928",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Gumball and Darwin get their first cell phone, they foolishly give out their number to super-intense Ocho.",
-  "duration": 706,
+  "duration": 707,
   "freewheelid": "cn-894311",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2012-09-18T23:00:00.000Z",
-  "pubdate": "2019-01-15T10:00:00.000Z",
-  "expdate": "2019-01-22T09:59:00.000Z",
+  "pubdate": "2019-12-13T10:00:00.000Z",
+  "expdate": "2019-12-20T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/894311_008_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1348009200000",
-  "pubdateasmilliseconds": "1547546400000",
-  "expdateasmilliseconds": "1548151140000",
+  "pubdateasmilliseconds": "1576231200000",
+  "expdateasmilliseconds": "1576835940000",
   "mediaid": "b0389732d2b40306e571a8ea8539bfa9a002c46c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
