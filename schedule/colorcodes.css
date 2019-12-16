@@ -214,8 +214,7 @@
     border-color: #00b2c8;
 }
 
-.franchise-401352 { /* Infomercials */
-    /* TO-DO: series_id */
+.franchise-401352, .series-2007823 { /* Infomercials */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #bfbfbf;
     color: black;
