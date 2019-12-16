@@ -304,6 +304,13 @@
     border-color: #ffff98;
 }
 
+.franchise-455652, .series-2141109 { /* Care Bears: Unlock the Magic */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #4a2b70;
+    color: #f07aaf;
+    border-color: #f07aaf;
+}
+
 .series-2164900 { /* Infinity Train */
     /* TO-DO: franchise_id */
     font-family: "Avenir Std", sans-serif;
