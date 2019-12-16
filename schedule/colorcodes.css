@@ -1,28 +1,21 @@
 ﻿/* TOONAMI fonts start */
 @font-face {
-	font-family: 'Druk';
-	src: url('https://s3.amazonaws.com/toonami-2018-prod/assets/fonts/Druk-BoldItalic.woff2') format('woff2'),
-	url('https://s3.amazonaws.com/toonami-2018-prod/assets/fonts/Druk-BoldItalic.woff') format('woff');
-	font-weight: bold; font-style: italic;
+	font-family: 'BB Strata Pro ML';
+	src: url('https://s3.amazonaws.com/toonami-2018-prod/assets/fonts/BBStrataProML-Bold.woff2') format('woff2'),
+	url('https://s3.amazonaws.com/toonami-2018-prod/assets/fonts/BBStrataProML-Bold.woff') format('woff');
+	font-weight: 600; font-style: normal;
 }
 
 @font-face {
-	font-family: 'Druk';
-	src: url('https://s3.amazonaws.com/toonami-2018-prod/assets/fonts/Druk-Heavy.woff2') format('woff2'),
-	url('https://s3.amazonaws.com/toonami-2018-prod/assets/fonts/Druk-Heavy.woff') format('woff');
-	font-weight: 900; font-style: normal;
-}
-
-@font-face {
-	font-family: 'Druk';
-	src: url('https://s3.amazonaws.com/toonami-2018-prod/assets/fonts/Druk-Medium.woff2') format('woff2'),
-	url('https://s3.amazonaws.com/toonami-2018-prod/assets/fonts/Druk-Medium.woff') format('woff');
-	font-weight: 500; font-style: normal;
+	font-family: 'BB Strata Pro ML';
+	src: url('https://s3.amazonaws.com/toonami-2018-prod/assets/fonts/BBStrataProML-Regular.woff2') format('woff2'),
+	url('https://s3.amazonaws.com/toonami-2018-prod/assets/fonts/BBStrataProML-Regular.woff') format('woff');
+	font-weight: normal; font-style: normal;
 }
 /* TOONAMI fonts end */
 
 .franchise-391933, .franchise-406152, .franchise-429752, .franchise-433992,.franchise-443752, .franchise-448434, .franchise-457432, .franchise-458272, .franchise-458812, .franchise-459432, .franchise-460432, .franchise-460433, .franchise-461352 { /* Toonami */
-    font-family: "Druk", sans-serif;
+    font-family: "BB Strata Pro ML", sans-serif;
     background-color: #1b0120;
     color: #17b7dd;
     border-color: #17b7dd;
