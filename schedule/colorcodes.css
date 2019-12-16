@@ -213,6 +213,14 @@
     border-color: #00b2c8;
 }
 
+.franchise-401352 { /* Infomercials */
+    /* TO-DO: series_id */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #bfbfbf;
+    color: black;
+    border-color: black;
+}
+
 .franchise-409613, .series-2022095 { /* Black Jesus */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #815667;
