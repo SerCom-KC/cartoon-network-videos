@@ -164,6 +164,14 @@
     border-color: black;
 }
 
+.franchise-379912 { /* Black Dynamite */
+    /* TO-DO: series_id */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #271c1c;
+    color: #f00184;
+    border-color: #f00184;
+}
+
 .franchise-380952, .series-867968 { /* The Heart, She Holler */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #ede248;
