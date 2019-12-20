@@ -2258,7 +2258,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2019-09-02T22:59:00.000Z",
         "pubdate": "2019-09-02T22:59:00.000Z",
-        "expdate": "2020-01-01T04:59:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2166778_009_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -2271,7 +2271,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1567465140000",
         "pubdateasmilliseconds": "1567465140000",
-        "expdateasmilliseconds": "1577854799000",
+        "expdateasmilliseconds": "1609477199000",
         "mediaid": "1a639542a49c7404b5b4a685ab7c58027b02989b",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -3655,7 +3655,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020091",
+        "airingid": "RADS1009121900020322",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3698,7 +3698,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020322",
+        "airingid": "RADS1009121900020091",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -10041,7 +10041,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2019-09-02T22:59:00.000Z",
         "pubdate": "2019-09-02T22:59:00.000Z",
-        "expdate": "2020-01-01T04:59:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2166789_009_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -10054,7 +10054,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1567465140000",
         "pubdateasmilliseconds": "1567465140000",
-        "expdateasmilliseconds": "1577854799000",
+        "expdateasmilliseconds": "1609477199000",
         "mediaid": "616b35bd4c2edfbae86dc25cc050f47cb39790cb",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -12384,7 +12384,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020080",
+        "airingid": "RADS1009121900020326",
         "seasonnumber": "2",
         "seasonitemnumber": "6",
         "seriesid": "100000000001179492",
@@ -12427,7 +12427,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020326",
+        "airingid": "RADS1009121900020080",
         "seasonnumber": "2",
         "seasonitemnumber": "6",
         "seriesid": "100000000001179492",
@@ -15308,7 +15308,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020324",
+        "airingid": "RADS1009121900020087",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -15351,7 +15351,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020087",
+        "airingid": "RADS1009121900020324",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -19028,7 +19028,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2019-09-02T22:59:00.000Z",
         "pubdate": "2019-09-02T22:59:00.000Z",
-        "expdate": "2020-01-01T04:59:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2192908_004_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -19041,7 +19041,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1567465140000",
         "pubdateasmilliseconds": "1567465140000",
-        "expdateasmilliseconds": "1577854799000",
+        "expdateasmilliseconds": "1609477199000",
         "mediaid": "b140d73ac7924d5c73cc053affe64e54d3826ff2",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
