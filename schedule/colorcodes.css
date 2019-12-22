@@ -157,8 +157,7 @@
     border-color: black;
 }
 
-.franchise-379912 { /* Black Dynamite */
-    /* TO-DO: series_id */
+.franchise-379912, .series-859366 { /* Black Dynamite */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #271c1c;
     color: #f00184;
@@ -270,7 +269,7 @@
     border-color: black;
 }
 
-.franchise-448014, .series-2161118 { /* Joe Pera Talks With You */
+.franchise-433512, .series-2106835, .franchise-448014, .series-2161118 { /* Joe Pera Helps You Find The Perfect Christmas Tree / Joe Pera Talks With You */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #ece3df;
     color: #2d3860;
