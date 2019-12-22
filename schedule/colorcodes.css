@@ -1,4 +1,16 @@
-﻿/* TOONAMI fonts start */
+﻿/* Cartoon Network fonts start */
+@import url('./avenir.css');
+/* Cartoon Network fonts end */
+
+/* Adult Swim fonts start */
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('https://z.cdn.turner.com/adultswim/tools/fonts/helvetica-neue.eot');
+    src: url('https://z.cdn.turner.com/adultswim/tools/fonts/helvetica-neue.eot?#iefix') format('embedded-opentype'), url('https://z.cdn.turner.com/adultswim/tools/fonts/helvetica-neue.woff') format('woff'), url('https://z.cdn.turner.com/adultswim/tools/fonts/helvetica-neue.ttf') format('truetype'), url('https://z.cdn.turner.com/adultswim/tools/fonts/helvetica-neue.svg') format('svg');
+}
+/* Adult Swim fonts end */
+
+/* TOONAMI fonts start */
 @font-face {
 	font-family: 'BB Strata Pro ML';
 	src: url('https://s3.amazonaws.com/toonami-2018-prod/assets/fonts/BBStrataProML-Bold.woff2') format('woff2'),
