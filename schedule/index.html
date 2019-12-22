@@ -190,7 +190,7 @@
                 showDiv.classList.add("show");
                 showDiv.classList.add("franchise-" + shows[i].franchise_id);
                 if ("series_id" in shows[i]) showDiv.classList.add("series-" + shows[i].series_id);
-                if ("title_id" in shows[i]) showDiv.classList.add("title-" + shows[i].series_id);
+                if ("title_id" in shows[i]) showDiv.classList.add("title-" + shows[i].title_id);
                 if (document.getElementById("use-guide-timestamp").checked) {
                     var showTimestamp = new Date(parseInt(shows[i].guide_timestamp)*1000);
                     var showDuration = shows[i].scheduled_duration; 
