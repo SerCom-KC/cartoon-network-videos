@@ -294,6 +294,13 @@
     border-color: black;
 }
 
+.franchise-442472, .series-2130773 { /* Unikitty */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #dc1e9a;
+    color: white;
+    border-color: white;
+}
+
 .franchise-444772, .series-2133648 { /* Apple & Onion */
     font-family: "Avenir Std", sans-serif;
     background-color: #77e592;
