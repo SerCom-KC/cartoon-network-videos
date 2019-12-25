@@ -3526,7 +3526,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020091",
+        "airingid": "RADS1009121900020322",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3569,7 +3569,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020322",
+        "airingid": "RADS1009121900020091",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -9761,7 +9761,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020089",
+        "airingid": "RADS1009121900020325",
         "seasonnumber": "2",
         "seasonitemnumber": "8",
         "seriesid": "100000000001179492",
@@ -9804,7 +9804,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020325",
+        "airingid": "RADS1009121900020089",
         "seasonnumber": "2",
         "seasonitemnumber": "8",
         "seriesid": "100000000001179492",
@@ -14362,7 +14362,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020087",
+        "airingid": "RADS1009121900020324",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -14405,7 +14405,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020324",
+        "airingid": "RADS1009121900020087",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -18920,7 +18920,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -18963,7 +18963,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -20189,7 +20189,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2019-10-25T08:59:00.000Z",
         "pubdate": "2019-10-25T08:59:00.000Z",
-        "expdate": "2020-01-01T04:59:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2163307_010_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -20202,7 +20202,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1571993940000",
         "pubdateasmilliseconds": "1571993940000",
-        "expdateasmilliseconds": "1577854799000",
+        "expdateasmilliseconds": "1609477199000",
         "mediaid": "cbfe87406fbf3ac06c3204104e675df1540f80eb",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
