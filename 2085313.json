@@ -4209,7 +4209,7 @@
         "originalpremieredate": "2019-01-01T05:00:00.000Z",
         "pubdate": "2019-01-01T05:00:00.000Z",
         "expdate": "2020-01-01T04:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141827_006_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141827_008_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "music video|shorts|vod",
@@ -7217,7 +7217,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1010021900025348",
+        "airingid": "RADS1010021900025343",
         "seasonnumber": "3",
         "seasonitemnumber": "40",
         "seriesid": "2085313",
@@ -7260,7 +7260,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1010021900025343",
+        "airingid": "RADS1010021900025348",
         "seasonnumber": "3",
         "seasonitemnumber": "40",
         "seriesid": "2085313",
