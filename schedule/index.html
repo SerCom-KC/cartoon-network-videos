@@ -169,6 +169,7 @@
             [].forEach.call(document.querySelectorAll(".current"), function (show) {
                 show.classList.remove("current");
             });
+            shows.sort(function(prev, next) {return prev.show_timestamp - next.show_timestamp;});
             for (var i = 0; i < shows.length; i++) {
                 showDiv = document.getElementById("show-" + shows[i].show_id)
                 if (showDiv === null) {
