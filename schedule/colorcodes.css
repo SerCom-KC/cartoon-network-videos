@@ -280,6 +280,13 @@
     border-color: #da5b45;
 }
 
+.franchise-433512, .series-2106835, .franchise-448014, .series-2161118 { /* Joe Pera Helps You Find The Perfect Christmas Tree / Joe Pera Talks With You */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #ece3df;
+    color: #2d3860;
+    border-color: #2d3860;
+}
+
 .franchise-433552, .series-2106046 { /* SuperMansion */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #d1c0c9;
@@ -322,13 +329,6 @@
     border-color: black;
 }
 
-.franchise-433512, .series-2106835, .franchise-448014, .series-2161118 { /* Joe Pera Helps You Find The Perfect Christmas Tree / Joe Pera Talks With You */
-    font-family: "Helvetica Neue", Helvetica, sans-serif;
-    background-color: #ece3df;
-    color: #2d3860;
-    border-color: #2d3860;
-}
-
 .franchise-450712, .series-2141710 { /* Total Dramarama */
     font-family: "Avenir Std", sans-serif;
     background-color: #4e008f;
@@ -357,6 +357,13 @@
     border-color: #eb1b23;
 }
 
+.franchise-455652, .series-2141109 { /* Care Bears: Unlock the Magic */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #4a2b70;
+    color: #f07aaf;
+    border-color: #f07aaf;
+}
+
 .franchise-457052, .series-2194742 { /* Ninjago */
     font-family: "Avenir Std", sans-serif;
     background-color: #375623;
@@ -364,18 +371,18 @@
     border-color: white;
 }
 
+.franchise-457313, .series-2181893 { /* Mao Mao, Heroes of Pure Heart */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #cd0000;
+    color: #2dfd2d;
+    border-color: #2dfd2d;
+}
+
 .franchise-459392, .series-2129657 { /* Power Players */
     font-family: "Avenir Std", sans-serif;
     background-color: #ff3300;
     color: #ffff98;
     border-color: #ffff98;
-}
-
-.franchise-455652, .series-2141109 { /* Care Bears: Unlock the Magic */
-    font-family: "Avenir Std", sans-serif;
-    background-color: #4a2b70;
-    color: #f07aaf;
-    border-color: #f07aaf;
 }
 
 .series-2164900 { /* Infinity Train */
