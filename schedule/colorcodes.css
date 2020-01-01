@@ -294,6 +294,13 @@
     border-color: #267ec9;
 }
 
+.franchise-436752, .series-2164900 { /* Infinity Train */
+    font-family: "Avenir Std", sans-serif;
+    background-color: black;
+    color: #8edd93;
+    border-color: #8edd93;
+}
+
 .franchise-438472, .series-2085313 { /* Ben 10 (2017) */
     font-family: "Avenir Std", sans-serif;
     background-color: #95c93d;
@@ -383,12 +390,4 @@
     background-color: #ff3300;
     color: #ffff98;
     border-color: #ffff98;
-}
-
-.series-2164900 { /* Infinity Train */
-    /* TO-DO: franchise_id */
-    font-family: "Avenir Std", sans-serif;
-    background-color: black;
-    color: #8edd93;
-    border-color: #8edd93;
 }
