@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1009031900017993",
+  "airingid": "RADS1012301900051084",
   "seasonnumber": "1",
   "seasonitemnumber": "46",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Avast mateys! Clarence and Sumo are psyched to play their pirate-themed board game, Thirty Days and Seven Seas, until they learn Jeff has invited boring old Breehn along. After Breehn gets frustrated and leaves, it's up to the three scallywags to rescue Breehn from an intense flood.",
-  "duration": 685,
+  "duration": 686,
   "freewheelid": "cn-2032725",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2015-08-06T21:30:00.000Z",
-  "pubdate": "2019-09-03T04:00:00.000Z",
-  "expdate": "2019-09-27T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2032725_002_640x360.jpg",
+  "pubdate": "2020-01-02T10:00:00.000Z",
+  "expdate": "2020-01-10T10:00:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2032725_007_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Clarence",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1438896600000",
-  "pubdateasmilliseconds": "1567483200000",
-  "expdateasmilliseconds": "1569574740000",
+  "pubdateasmilliseconds": "1577959200000",
+  "expdateasmilliseconds": "1578650400000",
   "mediaid": "8b5c435a12adad22fb60e7878dabe4bb05a47778",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1006241900001936",
+  "airingid": "RADS1012271900050647",
   "seasonnumber": "1",
   "seasonitemnumber": "5",
   "seriesid": "10000000000",
@@ -20,9 +20,9 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2017-01-21T12:30:00.000Z",
-  "pubdate": "2019-07-01T09:00:00.000Z",
-  "expdate": "2019-08-01T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2084347_009_640x360.jpg",
+  "pubdate": "2020-01-02T10:00:00.000Z",
+  "expdate": "2020-02-03T10:00:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2084347_007_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Justice League Action",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1485001800000",
-  "pubdateasmilliseconds": "1561971600000",
-  "expdateasmilliseconds": "1564649940000",
+  "pubdateasmilliseconds": "1577959200000",
+  "expdateasmilliseconds": "1580724000000",
   "mediaid": "5a6ddff3b0f971536a65ed4b9b611d9226a05848",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

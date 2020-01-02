@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1006241900001944",
+  "airingid": "RADS1012271900050649",
   "seasonnumber": "1",
   "seasonitemnumber": "3",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Superman and other Justice League members have to battle Batman when he gets possessed by an evil Djinn, Uthool, who is intent on using the JL power core to blow a crack in Earth.",
-  "duration": 671,
+  "duration": 672,
   "freewheelid": "cn-2084367",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2017-01-07T12:30:00.000Z",
-  "pubdate": "2019-07-01T09:00:00.000Z",
-  "expdate": "2019-08-01T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2084367_004_640x360.jpg",
+  "pubdate": "2020-01-02T10:00:00.000Z",
+  "expdate": "2020-02-03T10:00:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2084367_001_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Justice League Action",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1483792200000",
-  "pubdateasmilliseconds": "1561971600000",
-  "expdateasmilliseconds": "1564649940000",
+  "pubdateasmilliseconds": "1577959200000",
+  "expdateasmilliseconds": "1580724000000",
   "mediaid": "5c709e51b4b5564869cf70ca2f59a6c090b7b5c3",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
