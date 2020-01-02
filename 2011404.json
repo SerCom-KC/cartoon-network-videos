@@ -753,7 +753,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049932",
+        "airingid": "RADS1012251900050006",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -796,7 +796,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050006",
+        "airingid": "RADS1012251900049932",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1012,7 +1012,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049916",
+        "airingid": "RADS1012251900049888",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1054,7 +1054,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049888",
+        "airingid": "RADS1012251900049916",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1450,7 +1450,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049897",
+        "airingid": "RADS1012251900050008",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1493,7 +1493,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050008",
+        "airingid": "RADS1012251900049897",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1753,7 +1753,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049906",
+        "airingid": "RADS1012251900049950",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1795,7 +1795,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049950",
+        "airingid": "RADS1012251900049906",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3872,48 +3872,6 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049899",
-        "seasonnumber": "5",
-        "seasonitemnumber": "",
-        "seriesid": "2011404",
-        "id": "f142708c24d720b40626c72a655c54bb3b2ca4ec",
-        "collectionid": "",
-        "seofriendlyurl": "/video/steven-universe/mystery-of-rose-quartz-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Mystery of Rose Quartz",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Recap of previous events before Steven learns more about what happened to Rose Quartz.",
-        "duration": 229,
-        "freewheelid": "cn-2120902",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "2011404",
-        "seriesname": "Steven Universe",
-        "originalpremieredate": "2020-01-01T05:00:59.000Z",
-        "pubdate": "2020-01-01T05:00:59.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2120902_009_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts|vod",
-        "titleid": "2120902",
-        "titletype": "Element",
-        "originalseriesid": "2011404",
-        "originalseriesname": "Steven Universe",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1577854859000",
-        "pubdateasmilliseconds": "1577854859000",
-        "expdateasmilliseconds": "1609477199000",
-        "mediaid": "f142708c24d720b40626c72a655c54bb3b2ca4ec",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
         "airingid": "RADS1012251900049949",
         "seasonnumber": "5",
         "seasonitemnumber": "",
@@ -3956,7 +3914,49 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049955",
+        "airingid": "RADS1012251900049899",
+        "seasonnumber": "5",
+        "seasonitemnumber": "",
+        "seriesid": "2011404",
+        "id": "f142708c24d720b40626c72a655c54bb3b2ca4ec",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe/mystery-of-rose-quartz-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Mystery of Rose Quartz",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Recap of previous events before Steven learns more about what happened to Rose Quartz.",
+        "duration": 229,
+        "freewheelid": "cn-2120902",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "2011404",
+        "seriesname": "Steven Universe",
+        "originalpremieredate": "2020-01-01T05:00:59.000Z",
+        "pubdate": "2020-01-01T05:00:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2120902_009_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts|vod",
+        "titleid": "2120902",
+        "titletype": "Element",
+        "originalseriesid": "2011404",
+        "originalseriesname": "Steven Universe",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1577854859000",
+        "pubdateasmilliseconds": "1577854859000",
+        "expdateasmilliseconds": "1609477199000",
+        "mediaid": "f142708c24d720b40626c72a655c54bb3b2ca4ec",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1012251900049895",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3998,7 +3998,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049895",
+        "airingid": "RADS1012251900049955",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
