@@ -343,6 +343,13 @@
     border-color: #fdfda3;
 }
 
+.franchise-449272, .series-2031611 { /* Dragon Ball Z Kai */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-image: linear-gradient(#1ab9db, #fef302, #1ab9db);
+    color: #f4182b;
+    border-color: #f4182b;
+}
+
 .franchise-446892, .series-2132940 { /* Craig of the Creek */
     font-family: "Avenir Std", sans-serif;
     background-color: #90ad58;
