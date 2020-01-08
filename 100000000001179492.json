@@ -2709,49 +2709,6 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020002",
-        "seasonnumber": "1",
-        "seasonitemnumber": "4",
-        "seriesid": "100000000001179492",
-        "id": "23020f6541fb00f18a5c7e20a1698d804c064b93",
-        "collectionid": "",
-        "seofriendlyurl": "/video/espanol/una-leccion-para-todos-episode.html",
-        "seasonepisodenumber": "4",
-        "title": "Una leccion para todos",
-        "episodenumber": "4",
-        "type": "fullepisode",
-        "active": true,
-        "description": "Los Fant\u00e1sticos le ense\u00f1an a unos chicos del vecindario a no imitar a los dem\u00e1s. Por ejemplo, a quienes utilizan a sus Bakugan con fines fr\u00edvolos.",
-        "duration": 701,
-        "freewheelid": "cn-2205824",
-        "isclip": false,
-        "typesort": "1",
-        "tvratingcode": "TV-Y7-FV",
-        "seriestitleid": "100000000001179492",
-        "seriesname": "En Espa\u00f1ol",
-        "originalpremieredate": "2019-09-30T09:00:00.000Z",
-        "pubdate": "2019-09-30T09:00:00.000Z",
-        "expdate": "2020-01-13T09:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2205824_002_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "espanol",
-        "titleid": "2205824",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2205179",
-        "originalseriesname": "Bakugan: Battle Planet en Espanol",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1569834000000",
-        "pubdateasmilliseconds": "1569834000000",
-        "expdateasmilliseconds": "1578909540000",
-        "mediaid": "23020f6541fb00f18a5c7e20a1698d804c064b93",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": true,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
         "airingid": "RADS1012271900050701",
         "seasonnumber": "2",
         "seasonitemnumber": "1",
@@ -11352,7 +11309,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020326",
+        "airingid": "RADS1009121900020080",
         "seasonnumber": "2",
         "seasonitemnumber": "6",
         "seriesid": "100000000001179492",
@@ -11395,7 +11352,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020080",
+        "airingid": "RADS1009121900020326",
         "seasonnumber": "2",
         "seasonitemnumber": "6",
         "seriesid": "100000000001179492",
@@ -13846,7 +13803,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020324",
+        "airingid": "RADS1009121900020087",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -13889,7 +13846,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020087",
+        "airingid": "RADS1009121900020324",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -18232,7 +18189,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -18275,7 +18232,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
