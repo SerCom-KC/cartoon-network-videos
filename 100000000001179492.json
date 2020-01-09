@@ -9503,7 +9503,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020325",
+        "airingid": "RADS1009121900020089",
         "seasonnumber": "2",
         "seasonitemnumber": "8",
         "seriesid": "100000000001179492",
@@ -9546,7 +9546,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020089",
+        "airingid": "RADS1009121900020325",
         "seasonnumber": "2",
         "seasonitemnumber": "8",
         "seriesid": "100000000001179492",
@@ -15566,49 +15566,6 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1011081900035419",
-        "seasonnumber": "3",
-        "seasonitemnumber": "",
-        "seriesid": "100000000001179492",
-        "id": "a08d06dbd6820c9fb59a7b059bc7878d8baadc14",
-        "collectionid": "",
-        "seofriendlyurl": "/video/espanol/carretera-por-siempre-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Carretera por Siempre",
-        "episodenumber": "",
-        "type": "fullepisode",
-        "active": true,
-        "description": "Durante una carrera de aceleraci\u00f3n, Ben espera mantenerse al mismo nivel con Vin Etanol y La Grange como XLR8. Pero cuando su reloj hace cortocircuito una y otra vez, nuestro h\u00e9roe debe ser creativo si quiere seguir el ritmo de sus r\u00e1pidos y furiosos enemigos.",
-        "duration": 679,
-        "freewheelid": "cn-2191357",
-        "isclip": false,
-        "typesort": "1",
-        "tvratingcode": "TV-Y7-FV",
-        "seriestitleid": "100000000001179492",
-        "seriesname": "En Espa\u00f1ol",
-        "originalpremieredate": "2019-11-25T10:00:00.000Z",
-        "pubdate": "2019-11-25T10:00:00.000Z",
-        "expdate": "2020-01-13T09:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2191357_004_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "espanol",
-        "titleid": "2191357",
-        "titletype": "Episode",
-        "bannertext": "",
-        "originalseriesid": "2153899",
-        "originalseriesname": "Ben 10 en Espanol",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1574676000000",
-        "pubdateasmilliseconds": "1574676000000",
-        "expdateasmilliseconds": "1578909540000",
-        "mediaid": "a08d06dbd6820c9fb59a7b059bc7878d8baadc14",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": true,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
         "airingid": "RADS1008011900011186",
         "seasonnumber": "1",
         "seasonitemnumber": "37",
@@ -18232,7 +18189,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -18275,7 +18232,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
