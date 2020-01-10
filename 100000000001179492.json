@@ -3182,7 +3182,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020322",
+        "airingid": "RADS1009121900020091",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3225,7 +3225,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020091",
+        "airingid": "RADS1009121900020322",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -7785,14 +7785,14 @@
     {
         "airingid": "RADS1011081900035743",
         "seasonnumber": "1",
-        "seasonitemnumber": "",
+        "seasonitemnumber": "35",
         "seriesid": "100000000001179492",
         "id": "54d4c423eedd24756dc950a64079e22cc1d06039",
         "collectionid": "",
         "seofriendlyurl": "/video/victor-and-valentino-en-espanol/gatocalipsis-episode.html",
-        "seasonepisodenumber": "",
+        "seasonepisodenumber": "35",
         "title": "Gatocalipsis",
-        "episodenumber": "",
+        "episodenumber": "35",
         "type": "fullepisode",
         "active": true,
         "description": "Cuando Vic se enferma y debe reposar en su cuarto, esp\u00eda a Pi\u00f1a y queda convencido de que est\u00e1 creando un ej\u00e9rcito de gatos zombis. Val est\u00e1 de acuerdo con \u00e9l y ambos se obsesionan con detener a Pi\u00f1a antes de que sea demasiado tarde.",
@@ -7806,7 +7806,7 @@
         "originalpremieredate": "2019-12-07T10:01:00.000Z",
         "pubdate": "2019-12-07T10:01:00.000Z",
         "expdate": "2020-01-24T09:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2211211_001_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2211211_002_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "espanol",
@@ -11395,7 +11395,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020080",
+        "airingid": "RADS1009121900020326",
         "seasonnumber": "2",
         "seasonitemnumber": "6",
         "seriesid": "100000000001179492",
@@ -11438,7 +11438,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020326",
+        "airingid": "RADS1009121900020080",
         "seasonnumber": "2",
         "seasonitemnumber": "6",
         "seriesid": "100000000001179492",
@@ -12085,14 +12085,14 @@
     {
         "airingid": "RADS1011081900035739",
         "seasonnumber": "1",
-        "seasonitemnumber": "",
+        "seasonitemnumber": "33",
         "seriesid": "100000000001179492",
         "id": "7d1b2701dbf4cabc842d8ef395e3fd733d9bda03",
         "collectionid": "",
         "seofriendlyurl": "/video/victor-and-valentino-en-espanol/eternamente-episode.html",
-        "seasonepisodenumber": "",
+        "seasonepisodenumber": "33",
         "title": "Eternamente",
-        "episodenumber": "",
+        "episodenumber": "33",
         "type": "fullepisode",
         "active": true,
         "description": "Cuando Vic y Val limpian el \u00e1tico de Mar\u00eda Teresa a medias, ipor accidente inician un bucle de tiempo que los atrapa en una serie interminable de tareas eternas! Ahora deben averiguar c\u00f3mo detener el bucle y devolver el tiempo a la normalidad.",
@@ -13590,14 +13590,14 @@
     {
         "airingid": "RADS1011081900035744",
         "seasonnumber": "1",
-        "seasonitemnumber": "",
+        "seasonitemnumber": "34",
         "seriesid": "100000000001179492",
         "id": "8c3ad77e8bac5b1f2547c787665fe4366d7c0a3a",
         "collectionid": "",
         "seofriendlyurl": "/video/victor-and-valentino-en-espanol/el-club-de-los-solitarios-2-la-isla-de-las-munecas-episode.html",
-        "seasonepisodenumber": "",
+        "seasonepisodenumber": "34",
         "title": "El Club de Los Solitarios 2, La Isla de las Munecas",
-        "episodenumber": "",
+        "episodenumber": "34",
         "type": "fullepisode",
         "active": true,
         "description": "Para probar su valent\u00eda, Victor y Valentino se dirigen a una isla embrujada para recuperar una mu\u00f1eca especial, pero Charlene y Pi\u00f1a est\u00e1n decididos a obtenerla antes que ellos.",
@@ -13611,7 +13611,7 @@
         "originalpremieredate": "2019-12-07T10:01:00.000Z",
         "pubdate": "2019-12-07T10:01:00.000Z",
         "expdate": "2020-01-17T09:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2211209_006_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2211209_002_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "espanol",
@@ -18318,7 +18318,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -18361,7 +18361,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
