@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1004261900086893",
+  "airingid": "RADS1001032000051643",
   "seasonnumber": "4",
   "seasonitemnumber": "13",
   "seriesid": "835928",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Gumball is the star of his own comic, but struggles to match up to his heroic alter-ego.",
-  "duration": 685,
+  "duration": 686,
   "freewheelid": "cn-2062757",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2015-10-07T22:30:00.000Z",
-  "pubdate": "2019-05-20T09:00:00.000Z",
-  "expdate": "2019-05-27T08:59:00.000Z",
+  "pubdate": "2020-01-10T10:00:00.000Z",
+  "expdate": "2020-01-17T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2062757_005_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1444257000000",
-  "pubdateasmilliseconds": "1558342800000",
-  "expdateasmilliseconds": "1558947540000",
+  "pubdateasmilliseconds": "1578650400000",
+  "expdateasmilliseconds": "1579255140000",
   "mediaid": "ebabf963e2f9f75a4e9412186525b85fca98f81a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1007011900003765",
+  "airingid": "RADS1001032000051658",
   "seasonnumber": "1",
   "seasonitemnumber": "13",
   "seriesid": "100000000001182633",
@@ -20,10 +20,10 @@
   "seriestitleid": "100000000001182633",
   "seriesname": "Ben 10 Classic",
   "originalpremieredate": "2006-03-25T15:00:00.000Z",
-  "pubdate": "2019-07-01T09:00:00.000Z",
-  "expdate": "2019-08-01T08:59:36.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/630214_007_640x360.jpg",
-  "authtype": "auth",
+  "pubdate": "2020-01-10T10:00:00.000Z",
+  "expdate": "2020-01-17T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/630214_009_640x360.jpg",
+  "authtype": "unauth",
   "webflags": "",
   "tags": "ben 10 - classic",
   "titleid": "630214",
@@ -33,9 +33,11 @@
   "originalseriesname": "Ben 10",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1143298800000",
-  "pubdateasmilliseconds": "1561971600000",
-  "expdateasmilliseconds": "1564649976000",
+  "pubdateasmilliseconds": "1578650400000",
+  "expdateasmilliseconds": "1579255140000",
   "mediaid": "18aee1e7f19c8f4169fead855cd1073b9a7c24b6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
