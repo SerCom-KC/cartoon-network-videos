@@ -1132,14 +1132,14 @@
     {
         "airingid": "RADS1001022000051353",
         "seasonnumber": "1",
-        "seasonitemnumber": "13",
+        "seasonitemnumber": "10",
         "seriesid": "2177542",
         "id": "378915b0d0235dc587a0bcf6d459493b5f663c0b",
         "collectionid": "",
         "seofriendlyurl": "/video/dc-super-hero-girls/fightatthemuseum-episode.html",
-        "seasonepisodenumber": "13",
+        "seasonepisodenumber": "10",
         "title": "#FightAtTheMuseum",
-        "episodenumber": "13",
+        "episodenumber": "10",
         "type": "fullepisode",
         "active": true,
         "description": "Supergirl always relies on her strength, but she'll need more than brawn to stop brainy Catwoman from stealing valuable gems from the local science museum.",
@@ -3293,14 +3293,14 @@
     {
         "airingid": "RADS1001022000051362",
         "seasonnumber": "1",
-        "seasonitemnumber": "11",
+        "seasonitemnumber": "8",
         "seriesid": "2177542",
         "id": "6bf5143695f1929635a7b9ceda83520da544c30f",
         "collectionid": "",
         "seofriendlyurl": "/video/dc-super-hero-girls/shockittome-episode.html",
-        "seasonepisodenumber": "11",
+        "seasonepisodenumber": "8",
         "title": "#ShockItToMe",
-        "episodenumber": "11",
+        "episodenumber": "8",
         "type": "fullepisode",
         "active": true,
         "description": "Leslie Willis, the meanest girl in school, becomes a social media sensation by posting mean-spirited videos on her MetropoVids channel, causing Wonder Woman to question the moral integrity of the people who live in the World of Man.",
@@ -5394,7 +5394,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012201900048801",
+        "airingid": "RADS1012201900048779",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -5437,7 +5437,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048779",
+        "airingid": "RADS1012201900048801",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -6278,7 +6278,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048780",
+        "airingid": "RADS1012201900048787",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -6321,7 +6321,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048787",
+        "airingid": "RADS1012201900048780",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -6676,14 +6676,14 @@
     {
         "airingid": "RADS1001022000051363",
         "seasonnumber": "1",
-        "seasonitemnumber": "12",
+        "seasonitemnumber": "9",
         "seriesid": "2177542",
         "id": "f600afe2f164abd9847ba371afc5bf4dfb0466bf",
         "collectionid": "",
         "seofriendlyurl": "/video/dc-super-hero-girls/shemightbegiant-episode.html",
-        "seasonepisodenumber": "12",
+        "seasonepisodenumber": "9",
         "title": "#SheMightBeGiant",
-        "episodenumber": "12",
+        "episodenumber": "9",
         "type": "fullepisode",
         "active": true,
         "description": "Karen Beecher is always getting picked on at school, but when the local mall is attacked by a monstrous supervillain called Giganta, she discovers that tiny Bumblebee might be the only one small enough to save the day.",
