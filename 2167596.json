@@ -2,7 +2,7 @@
   "airingid": "RADS1012101900045044",
   "seasonnumber": "1",
   "seasonitemnumber": "4",
-  "seriesid": "10000000000",
+  "seriesid": "2164900",
   "id": "15c4aef0b753c23f8d7b6a787010439a8665388d",
   "collectionid": "",
   "seofriendlyurl": "/video/infinity-train/the-crystal-car-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2164900",
+  "seriesname": "Infinity Train",
   "originalpremieredate": "2019-08-06T23:45:00.000Z",
   "pubdate": "2020-01-06T10:00:00.000Z",
   "expdate": "2020-02-03T09:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2167596",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2164900",
   "originalseriesname": "Infinity Train",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1580723940000",
   "mediaid": "15c4aef0b753c23f8d7b6a787010439a8665388d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
