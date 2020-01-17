@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1005301900095868",
+  "airingid": "RADS1001062000052047",
   "seasonnumber": "2",
   "seasonitemnumber": "17",
   "seriesid": "757073",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Finn and Jake are terrible house sitters and have to go on a quest to replace Princess Bubblegum's rare flower.",
-  "duration": 702,
+  "duration": 703,
   "freewheelid": "cn-812759",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2011-03-01T01:00:00.000Z",
-  "pubdate": "2019-06-17T09:00:00.000Z",
-  "expdate": "2019-06-24T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/812759_007_640x360.jpg",
+  "pubdate": "2020-01-17T10:00:00.000Z",
+  "expdate": "2020-01-24T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/812759_006_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1298941200000",
-  "pubdateasmilliseconds": "1560762000000",
-  "expdateasmilliseconds": "1561366740000",
+  "pubdateasmilliseconds": "1579255200000",
+  "expdateasmilliseconds": "1579859940000",
   "mediaid": "0f2fb64a2ed8a5d97c87da1f986f25869260af86",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

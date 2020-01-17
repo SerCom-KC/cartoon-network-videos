@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003261900076239",
+  "airingid": "RADS1001062000052237",
   "seasonnumber": "6",
   "seasonitemnumber": "28",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The guys have to get Muscle Man married.",
-  "duration": 675,
+  "duration": 676,
   "freewheelid": "cn-2043707",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2015-06-25T22:00:00.000Z",
-  "pubdate": "2019-04-08T09:00:00.000Z",
-  "expdate": "2019-04-15T08:59:00.000Z",
+  "pubdate": "2020-01-17T10:00:00.000Z",
+  "expdate": "2020-01-24T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2043707_007_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Regular Show",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1435269600000",
-  "pubdateasmilliseconds": "1554714000000",
-  "expdateasmilliseconds": "1555318740000",
+  "pubdateasmilliseconds": "1579255200000",
+  "expdateasmilliseconds": "1579859940000",
   "mediaid": "9bfe3506505521c4396cb9e703902d344bc19016",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
