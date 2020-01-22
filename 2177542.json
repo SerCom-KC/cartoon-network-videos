@@ -826,7 +826,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048793",
+        "airingid": "RADS1012201900048783",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -869,7 +869,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048783",
+        "airingid": "RADS1012201900048793",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -3552,7 +3552,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048775",
+        "airingid": "RADS1012201900048869",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -3595,7 +3595,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048869",
+        "airingid": "RADS1012201900048775",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -3704,7 +3704,7 @@
         "originalpremieredate": "2019-05-19T20:00:00.000Z",
         "pubdate": "2020-01-04T10:00:00.000Z",
         "expdate": "2020-01-24T10:00:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2192251_010_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2192251_003_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "",
@@ -5394,7 +5394,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012201900048801",
+        "airingid": "RADS1012201900048779",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -5437,7 +5437,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048779",
+        "airingid": "RADS1012201900048801",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -6278,7 +6278,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048787",
+        "airingid": "RADS1012201900048780",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -6321,7 +6321,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048780",
+        "airingid": "RADS1012201900048787",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -6455,14 +6455,14 @@
     {
         "airingid": "RADS1001022000051361",
         "seasonnumber": "1",
-        "seasonitemnumber": "4",
+        "seasonitemnumber": "7",
         "seriesid": "2177542",
         "id": "f092c7532aed4fb0599b4e6695cd66a623a5e989",
         "collectionid": "",
         "seofriendlyurl": "/video/dc-super-hero-girls/burritobucket-episode.html",
-        "seasonepisodenumber": "4",
+        "seasonepisodenumber": "7",
         "title": "#BurritoBucket",
-        "episodenumber": "4",
+        "episodenumber": "7",
         "type": "fullepisode",
         "active": true,
         "description": "Babs loves her job at fast food restaurant Burrito Bucket, but her boss, who's fed up with her chronic lateness and bad case of scatterbrain, would love any excuse to fire her. When a bank robbery breaks out right across the street from work, Babs is torn between her role as a superhero and dutiful Burrito Bucket employee. Will she be able to save the day and keep her job all in the nick of time?",
