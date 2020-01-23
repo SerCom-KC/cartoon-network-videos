@@ -439,7 +439,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049881",
+        "airingid": "RADS1012251900049925",
         "seasonnumber": "3",
         "groupid": 3,
         "groupcontentid": "10887",
@@ -669,7 +669,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049951",
+        "airingid": "RADS1012251900049928",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -712,7 +712,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049928",
+        "airingid": "RADS1012251900049951",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -927,49 +927,6 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049924",
-        "seasonnumber": "4",
-        "seasonitemnumber": "",
-        "seriesid": "2011404",
-        "id": "2bb9bff3e70c5d3b5dfdf8d094dfce1d1bb81d7c",
-        "collectionid": "",
-        "seofriendlyurl": "/video/steven-universe/both-of-you-music-video-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Both of You Music Video",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Music and lyrics by Rebecca Sugar. Additional music by Aivi Tran and Steven Velema. Performed by Zach Callison, Tom Scharpling (speaking) and Deedee Magno Hall (speaking).",
-        "duration": 169,
-        "freewheelid": "cn-2133132",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "2011404",
-        "seriesname": "Steven Universe",
-        "originalpremieredate": "2020-01-01T05:00:59.000Z",
-        "pubdate": "2020-01-01T05:00:59.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2133132_003_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts|music video|vod",
-        "titleid": "2133132",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2011404",
-        "originalseriesname": "Steven Universe",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1577854859000",
-        "pubdateasmilliseconds": "1577854859000",
-        "expdateasmilliseconds": "1609477199000",
-        "mediaid": "2bb9bff3e70c5d3b5dfdf8d094dfce1d1bb81d7c",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
         "airingid": "RADS1012251900049879",
         "seasonnumber": "4",
         "seasonitemnumber": "",
@@ -1013,7 +970,50 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049916",
+        "airingid": "RADS1012251900049924",
+        "seasonnumber": "4",
+        "seasonitemnumber": "",
+        "seriesid": "2011404",
+        "id": "2bb9bff3e70c5d3b5dfdf8d094dfce1d1bb81d7c",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe/both-of-you-music-video-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Both of You Music Video",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Music and lyrics by Rebecca Sugar. Additional music by Aivi Tran and Steven Velema. Performed by Zach Callison, Tom Scharpling (speaking) and Deedee Magno Hall (speaking).",
+        "duration": 169,
+        "freewheelid": "cn-2133132",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "2011404",
+        "seriesname": "Steven Universe",
+        "originalpremieredate": "2020-01-01T05:00:59.000Z",
+        "pubdate": "2020-01-01T05:00:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2133132_003_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts|music video|vod",
+        "titleid": "2133132",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2011404",
+        "originalseriesname": "Steven Universe",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1577854859000",
+        "pubdateasmilliseconds": "1577854859000",
+        "expdateasmilliseconds": "1609477199000",
+        "mediaid": "2bb9bff3e70c5d3b5dfdf8d094dfce1d1bb81d7c",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1012251900049888",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1056,7 +1056,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049888",
+        "airingid": "RADS1012251900049916",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1673,7 +1673,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049943",
+        "airingid": "RADS1012251900049893",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1716,7 +1716,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049893",
+        "airingid": "RADS1012251900049943",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3371,7 +3371,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049947",
+        "airingid": "RADS1012251900049939",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3414,7 +3414,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049939",
+        "airingid": "RADS1012251900049947",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3586,7 +3586,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049883",
+        "airingid": "RADS1012251900049920",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3629,7 +3629,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049920",
+        "airingid": "RADS1012251900049883",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -4025,7 +4025,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049955",
+        "airingid": "RADS1012251900049895",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -4068,7 +4068,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049895",
+        "airingid": "RADS1012251900049955",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
