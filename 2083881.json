@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1009251900023318",
+  "airingid": "RADS1001062000052238",
   "seasonnumber": "4",
   "seasonitemnumber": "19",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven's Gem family continues to grow.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2083881",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2017-03-11T00:30:00.000Z",
-  "pubdate": "2019-10-04T09:00:00.000Z",
-  "expdate": "2019-10-11T08:59:28.000Z",
+  "pubdate": "2020-01-24T10:00:00.000Z",
+  "expdate": "2020-02-03T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2083881_003_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Steven Universe",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1489192200000",
-  "pubdateasmilliseconds": "1570179600000",
-  "expdateasmilliseconds": "1570784368000",
+  "pubdateasmilliseconds": "1579860000000",
+  "expdateasmilliseconds": "1580723940000",
   "mediaid": "f9305749448c6ac3fc1f7297a1baa201ac52482c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1004251900085986",
+  "airingid": "RADS1001062000052174",
   "seasonnumber": "2",
   "seasonitemnumber": "22",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Over the course of a single day in Ms. Baker's class, we see how Clarence and his classmates deal with their individual trials during the school day.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2085288",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2016-05-19T21:30:00.000Z",
-  "pubdate": "2019-05-01T09:00:00.000Z",
-  "expdate": "2019-05-06T08:59:00.000Z",
+  "pubdate": "2020-01-24T10:00:00.000Z",
+  "expdate": "2020-02-03T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2085288_006_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Clarence",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1463693400000",
-  "pubdateasmilliseconds": "1556701200000",
-  "expdateasmilliseconds": "1557133140000",
+  "pubdateasmilliseconds": "1579860000000",
+  "expdateasmilliseconds": "1580723940000",
   "mediaid": "30d39b2389bdab7e37d3b14003d27e11c37b565d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
