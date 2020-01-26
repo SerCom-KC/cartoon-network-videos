@@ -1,12 +1,11 @@
 {
-    "updated": 1580032825,
-    "added": [],
-    "removed": [
+    "updated": 1580034626,
+    "added": [
         {
-            "airingid": "RADS1011051900034088",
+            "airingid": "RADS1001062000052071",
             "seasonnumber": "2",
             "seasonitemnumber": "22",
-            "seriesid": "2170837",
+            "seriesid": "10000000000",
             "id": "d271a7511e8773d38899d8e28119df276bffde3f",
             "collectionid": "",
             "seofriendlyurl": "/video/bakugan/at-the-beginning-an-endingthis-late-hour-episode.html",
@@ -21,15 +20,15 @@
             "isclip": false,
             "typesort": "1",
             "tvratingcode": "TV-Y7-FV",
-            "seriestitleid": "2170837",
-            "seriesname": "Bakugan: Battle Planet",
+            "seriestitleid": "10000000000",
+            "seriesname": "Unlocked",
             "originalpremieredate": "2020-01-05T12:00:00.000Z",
-            "pubdate": "2019-11-25T10:00:00.000Z",
-            "expdate": "2020-01-26T10:00:00.000Z",
+            "pubdate": "2020-01-26T10:01:00.000Z",
+            "expdate": "2020-02-09T09:59:00.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2203714_007_640x360.jpg",
-            "authtype": "auth",
+            "authtype": "unauth",
             "webflags": "",
-            "tags": "",
+            "tags": "unauth",
             "titleid": "2203714",
             "titletype": "Episode",
             "bannertext": "",
@@ -37,13 +36,14 @@
             "originalseriesname": "Bakugan: Battle Planet",
             "hasparent": false,
             "originalpremieredateasmilliseconds": "1578225600000",
-            "pubdateasmilliseconds": "1574676000000",
-            "expdateasmilliseconds": "1580032800000",
+            "pubdateasmilliseconds": "1580032860000",
+            "expdateasmilliseconds": "1581242340000",
             "mediaid": "d271a7511e8773d38899d8e28119df276bffde3f",
-            "isunlockedfullepisode": false,
-            "ismultipropertycollection": false,
+            "isunlockedfullepisode": true,
+            "ismultipropertycollection": true,
             "clipsonly": false,
             "includeshortform": false
         }
-    ]
+    ],
+    "removed": []
 }
