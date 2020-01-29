@@ -826,7 +826,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048793",
+        "airingid": "RADS1012201900048783",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -869,7 +869,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048783",
+        "airingid": "RADS1012201900048793",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -2090,7 +2090,7 @@
         "pubdate": "2020-01-10T10:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2181119_007_640x360.jpg",
         "authtype": "auth",
-        "expdate": "2020-04-05T03:59:59.000Z",
+        "expdate": "2020-02-03T09:59:00.000Z",
         "webflags": "",
         "tags": "dcshg - sweetjustice",
         "titleid": "2181119",
@@ -2103,7 +2103,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1555876800000",
         "pubdateasmilliseconds": "1578650400000",
-        "expdateasmilliseconds": "1586059199000",
+        "expdateasmilliseconds": "1580723940000",
         "mediaid": "5011773dc05c3803f33487e36cc2acdd8ecdcc3e",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
@@ -6278,7 +6278,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048780",
+        "airingid": "RADS1012201900048787",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -6321,7 +6321,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048787",
+        "airingid": "RADS1012201900048780",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
