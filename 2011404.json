@@ -669,7 +669,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049928",
+        "airingid": "RADS1012251900049951",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -712,7 +712,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049951",
+        "airingid": "RADS1012251900049928",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -798,7 +798,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049932",
+        "airingid": "RADS1012251900050006",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -841,7 +841,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050006",
+        "airingid": "RADS1012251900049932",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1412,7 +1412,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049897",
+        "airingid": "RADS1012251900050008",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1455,7 +1455,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050008",
+        "airingid": "RADS1012251900049897",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1673,7 +1673,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049893",
+        "airingid": "RADS1012251900049943",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1716,7 +1716,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049943",
+        "airingid": "RADS1012251900049893",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1977,7 +1977,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049923",
+        "airingid": "RADS1012251900049885",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2020,7 +2020,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049885",
+        "airingid": "RADS1012251900049923",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2313,7 +2313,7 @@
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2020143_003_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
-        "tags": "",
+        "tags": "bhm - su|black history month",
         "titleid": "2020143",
         "titletype": "Episode",
         "bannertext": "",
@@ -2330,7 +2330,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049873",
+        "airingid": "RADS1012251900049926",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2373,7 +2373,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049926",
+        "airingid": "RADS1012251900049873",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2660,7 +2660,7 @@
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2061275_010_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
-        "tags": "",
+        "tags": "bhm - su|black history month",
         "titleid": "2061275",
         "titletype": "Episode",
         "bannertext": "",
@@ -3586,7 +3586,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049920",
+        "airingid": "RADS1012251900049883",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3629,7 +3629,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049883",
+        "airingid": "RADS1012251900049920",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -4025,7 +4025,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049895",
+        "airingid": "RADS1012251900049955",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -4068,7 +4068,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049955",
+        "airingid": "RADS1012251900049895",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
