@@ -884,7 +884,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049924",
+        "airingid": "RADS1012251900049879",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -927,7 +927,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049879",
+        "airingid": "RADS1012251900049924",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1148,7 +1148,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049946",
+        "airingid": "RADS1012251900049901",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1191,7 +1191,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049901",
+        "airingid": "RADS1012251900049946",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1607,7 +1607,7 @@
         "originalpremieredate": "2017-01-31T00:00:00.000Z",
         "pubdate": "2020-01-02T10:00:00.000Z",
         "expdate": "2020-02-03T10:00:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2083875_003_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2083875_001_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "",
@@ -1673,49 +1673,6 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049943",
-        "seasonnumber": "4",
-        "seasonitemnumber": "",
-        "seriesid": "2011404",
-        "id": "5994c1ae3767f5f68cdc1d5d298c34f0c221aeb3",
-        "collectionid": "",
-        "seofriendlyurl": "/video/steven-universe/steven-reacts-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Steven Reacts",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Steven reacts live to a brand new episode of his favorite cartoon show.",
-        "duration": 211,
-        "freewheelid": "cn-2091143",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "2011404",
-        "seriesname": "Steven Universe",
-        "originalpremieredate": "2019-09-02T23:30:00.000Z",
-        "pubdate": "2020-01-01T05:00:59.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2091143_008_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts|vod",
-        "titleid": "2091143",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2011404",
-        "originalseriesname": "Steven Universe",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1567467000000",
-        "pubdateasmilliseconds": "1577854859000",
-        "expdateasmilliseconds": "1609477199000",
-        "mediaid": "5994c1ae3767f5f68cdc1d5d298c34f0c221aeb3",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
         "airingid": "RADS1012251900049893",
         "seasonnumber": "4",
         "seasonitemnumber": "",
@@ -1759,7 +1716,50 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049906",
+        "airingid": "RADS1012251900049943",
+        "seasonnumber": "4",
+        "seasonitemnumber": "",
+        "seriesid": "2011404",
+        "id": "5994c1ae3767f5f68cdc1d5d298c34f0c221aeb3",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe/steven-reacts-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Steven Reacts",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Steven reacts live to a brand new episode of his favorite cartoon show.",
+        "duration": 211,
+        "freewheelid": "cn-2091143",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "2011404",
+        "seriesname": "Steven Universe",
+        "originalpremieredate": "2019-09-02T23:30:00.000Z",
+        "pubdate": "2020-01-01T05:00:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2091143_008_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts|vod",
+        "titleid": "2091143",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2011404",
+        "originalseriesname": "Steven Universe",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1567467000000",
+        "pubdateasmilliseconds": "1577854859000",
+        "expdateasmilliseconds": "1609477199000",
+        "mediaid": "5994c1ae3767f5f68cdc1d5d298c34f0c221aeb3",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1012251900049950",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1802,7 +1802,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049950",
+        "airingid": "RADS1012251900049906",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1977,7 +1977,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049923",
+        "airingid": "RADS1012251900049885",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2020,7 +2020,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049885",
+        "airingid": "RADS1012251900049923",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2657,7 +2657,7 @@
         "originalpremieredate": "2016-01-06T22:30:00.000Z",
         "pubdate": "2020-01-02T10:00:00.000Z",
         "expdate": "2020-02-03T10:00:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2061275_005_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2061275_010_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "",
@@ -3024,7 +3024,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049900",
+        "airingid": "RADS1012251900049952",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3067,7 +3067,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049952",
+        "airingid": "RADS1012251900049900",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3153,7 +3153,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049941",
+        "airingid": "RADS1012251900049954",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3196,7 +3196,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049954",
+        "airingid": "RADS1012251900049941",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3586,7 +3586,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049883",
+        "airingid": "RADS1012251900049920",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3629,7 +3629,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049920",
+        "airingid": "RADS1012251900049883",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3896,7 +3896,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049899",
+        "airingid": "RADS1012251900049949",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3939,7 +3939,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049949",
+        "airingid": "RADS1012251900049899",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
