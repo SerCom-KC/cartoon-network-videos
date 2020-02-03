@@ -364,6 +364,13 @@
     border-color: #fdfda3;
 }
 
+.franchise-448012, .series-2162827 { /* Tigtone */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #37241a;
+    color: #bebebe;
+    border-color: #bebebe;
+}
+
 .franchise-449272, .series-2031611 { /* Dragon Ball Z Kai */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-image: linear-gradient(#1ab9db, #fef302, #1ab9db);
