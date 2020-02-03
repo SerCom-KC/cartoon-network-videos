@@ -23,7 +23,7 @@
   "pubdate": "2020-02-03T10:00:00.000Z",
   "expdate": "2020-02-10T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/645316_007_640x360.jpg",
-  "authtype": "unauth",
+  "authtype": "auth",
   "webflags": "",
   "tags": "ben 10 - classic",
   "titleid": "645316",
