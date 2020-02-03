@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1006191900000926",
+  "airingid": "RADS1001292000058845",
   "seasonnumber": "1",
   "seasonitemnumber": "15",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "An obsessed super fan goes to dangerous extremes just to be saved by her Warrior heroes: Vambre and Prohyas.",
-  "duration": 680,
+  "duration": 681,
   "freewheelid": "cn-2089142",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2016-11-15T23:30:00.000Z",
-  "pubdate": "2019-07-15T09:00:00.000Z",
-  "expdate": "2019-07-22T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2089142_003_640x360.jpg",
+  "pubdate": "2020-02-03T10:00:00.000Z",
+  "expdate": "2020-03-02T10:00:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2089142_009_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Magiswords",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1479252600000",
-  "pubdateasmilliseconds": "1563181200000",
-  "expdateasmilliseconds": "1563785940000",
+  "pubdateasmilliseconds": "1580724000000",
+  "expdateasmilliseconds": "1583143200000",
   "mediaid": "7534ef59474d48a2bfad4e488b71561e0304ef4a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

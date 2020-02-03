@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1009091900019518",
+  "airingid": "RADS1001272000057665",
   "seasonnumber": "1",
   "seasonitemnumber": "16",
   "seriesid": "100000000001182633",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Ben and Rook must stop the evil Robots from Dimension 12 while trapped in their own pre-pubescent bodies, thanks to Ben's childhood rival.  (Introducing Billy Billions.)",
-  "duration": 1344,
+  "duration": 1345,
   "freewheelid": "cn-871385",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "100000000001182633",
   "seriesname": "Ben 10 Classic",
   "originalpremieredate": "2013-01-05T14:00:00.000Z",
-  "pubdate": "2019-09-17T09:00:00.000Z",
-  "expdate": "2019-09-27T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/871385_002_640x360.jpg",
+  "pubdate": "2020-02-03T10:00:00.000Z",
+  "expdate": "2020-02-10T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/871385_001_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "ben 10 - classic",
@@ -33,9 +33,11 @@
   "originalseriesname": "Ben 10: Omniverse",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1357394400000",
-  "pubdateasmilliseconds": "1568710800000",
-  "expdateasmilliseconds": "1569574740000",
+  "pubdateasmilliseconds": "1580724000000",
+  "expdateasmilliseconds": "1581328740000",
   "mediaid": "6fb104966310e07d3dd6e77ad8ca10c3e17ae289",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1006191900000943",
+  "airingid": "RADS1001232000056976",
   "seasonnumber": "2",
   "seasonitemnumber": "33",
   "seriesid": "2079533",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Surf's up on a wacky beach adventure when our heroes are challenged to the ultimate beach battle.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2170253",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "2079533",
   "seriesname": "OK K.O.!",
   "originalpremieredate": "2019-06-23T20:30:00.000Z",
-  "pubdate": "2019-07-15T09:00:00.000Z",
-  "expdate": "2019-07-31T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2170253_008_640x360.jpg",
+  "pubdate": "2020-02-03T10:00:00.000Z",
+  "expdate": "2020-02-24T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2170253_005_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
   "tags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "OK K.O.!",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1561321800000",
-  "pubdateasmilliseconds": "1563181200000",
-  "expdateasmilliseconds": "1564563540000",
+  "pubdateasmilliseconds": "1580724000000",
+  "expdateasmilliseconds": "1582538340000",
   "mediaid": "bcd38b38b4e8e95ebd06e583df2c0020dfa224fd",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }

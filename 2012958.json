@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1004251900085981",
+  "airingid": "RADS1001232000056964",
   "seasonnumber": "1",
   "seasonitemnumber": "2",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Clarence and Amy, a unique girl from down the street, bond over a hunt for a monster-sized rock called an \"erratic.\"",
-  "duration": 685,
+  "duration": 686,
   "freewheelid": "cn-2012958",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2014-04-14T23:00:00.000Z",
-  "pubdate": "2019-05-01T09:00:00.000Z",
-  "expdate": "2019-05-06T08:59:00.000Z",
+  "pubdate": "2020-02-03T10:00:00.000Z",
+  "expdate": "2020-02-10T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2012958_007_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Clarence",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1397516400000",
-  "pubdateasmilliseconds": "1556701200000",
-  "expdateasmilliseconds": "1557133140000",
+  "pubdateasmilliseconds": "1580724000000",
+  "expdateasmilliseconds": "1581328740000",
   "mediaid": "ca87611d0e8956917f409ea0db14ba14861175f1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

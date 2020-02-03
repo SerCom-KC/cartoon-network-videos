@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1006241900002044",
+  "airingid": "RADS1001292000058888",
   "seasonnumber": "4",
   "seasonitemnumber": "12",
   "seriesid": "810150",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mordecai, Rigby and Muscle Man have to get fireworks for an event at the park because they used the ones Benson got.",
-  "duration": 675,
+  "duration": 676,
   "freewheelid": "cn-962463",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "810150",
   "seriesname": "Regular Show",
   "originalpremieredate": "2013-01-15T01:00:00.000Z",
-  "pubdate": "2019-07-01T09:00:00.000Z",
-  "expdate": "2019-08-01T08:59:00.000Z",
+  "pubdate": "2020-02-03T10:00:00.000Z",
+  "expdate": "2020-03-02T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/962463_007_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Regular Show",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1358211600000",
-  "pubdateasmilliseconds": "1561971600000",
-  "expdateasmilliseconds": "1564649940000",
+  "pubdateasmilliseconds": "1580724000000",
+  "expdateasmilliseconds": "1583143140000",
   "mediaid": "6829b89b750e81416cec7f95a431b2c9b9b0f69a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

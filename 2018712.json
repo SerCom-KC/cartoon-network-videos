@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1004251900085856",
+  "airingid": "RADS1001282000057947",
   "seasonnumber": "1",
   "seasonitemnumber": "50",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "After receiving an ominous fortune, Uncle Grandpa must snoop out whom among his friends is an enemy in disguise.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2018712",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2015-02-19T22:30:00.000Z",
-  "pubdate": "2019-05-29T09:00:00.000Z",
-  "expdate": "2019-06-03T08:59:00.000Z",
+  "pubdate": "2020-02-03T10:00:00.000Z",
+  "expdate": "2020-02-10T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2018712_009_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1424385000000",
-  "pubdateasmilliseconds": "1559120400000",
-  "expdateasmilliseconds": "1559552340000",
+  "pubdateasmilliseconds": "1580724000000",
+  "expdateasmilliseconds": "1581328740000",
   "mediaid": "8762f05c86c2ab50b3e8b4ca9287b3159d962ab3",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

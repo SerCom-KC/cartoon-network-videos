@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1008291900017123",
+  "airingid": "RADS1001272000057673",
   "seasonnumber": "1",
   "seasonitemnumber": "63",
   "seriesid": "100000000001182633",
@@ -20,10 +20,10 @@
   "seriestitleid": "100000000001182633",
   "seriesname": "Ben 10 Classic",
   "originalpremieredate": "2014-10-22T10:00:00.000Z",
-  "pubdate": "2019-09-03T09:00:00.000Z",
-  "expdate": "2019-09-27T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2008043_002_640x360.jpg",
-  "authtype": "auth",
+  "pubdate": "2020-02-03T10:00:00.000Z",
+  "expdate": "2020-02-10T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2008043_003_640x360.jpg",
+  "authtype": "unauth",
   "webflags": "",
   "tags": "ben 10 - classic",
   "titleid": "2008043",
@@ -33,9 +33,11 @@
   "originalseriesname": "Ben 10: Omniverse",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1413972000000",
-  "pubdateasmilliseconds": "1567501200000",
-  "expdateasmilliseconds": "1569574740000",
+  "pubdateasmilliseconds": "1580724000000",
+  "expdateasmilliseconds": "1581328740000",
   "mediaid": "0906ae4f08afa120a69a3d3114c95ce4fb67f3ba",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

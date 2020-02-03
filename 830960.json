@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1005281900094971",
+  "airingid": "RADS1001272000057602",
   "seasonnumber": "3",
   "seasonitemnumber": "5",
   "seriesid": "757073",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Princess Bubblegum's uncle attempts to usurp Ooo's throne.",
-  "duration": 702,
+  "duration": 703,
   "freewheelid": "cn-830960",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2011-08-09T00:00:00.000Z",
-  "pubdate": "2019-06-03T09:00:00.000Z",
-  "expdate": "2019-06-10T08:59:36.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/830960_004_640x360.jpg",
+  "pubdate": "2020-02-03T10:00:00.000Z",
+  "expdate": "2020-02-10T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/830960_008_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1312848000000",
-  "pubdateasmilliseconds": "1559552400000",
-  "expdateasmilliseconds": "1560157176000",
+  "pubdateasmilliseconds": "1580724000000",
+  "expdateasmilliseconds": "1581328740000",
   "mediaid": "12233d85c54c0bda94525753afdcdb55b4e55cf3",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
