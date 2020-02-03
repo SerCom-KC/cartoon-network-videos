@@ -3526,7 +3526,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020091",
+        "airingid": "RADS1009121900020322",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3569,7 +3569,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020322",
+        "airingid": "RADS1009121900020091",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -10191,7 +10191,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020089",
+        "airingid": "RADS1009121900020325",
         "seasonnumber": "2",
         "seasonitemnumber": "8",
         "seriesid": "100000000001179492",
@@ -10234,7 +10234,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020325",
+        "airingid": "RADS1009121900020089",
         "seasonnumber": "2",
         "seasonitemnumber": "8",
         "seriesid": "100000000001179492",
@@ -14835,7 +14835,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020087",
+        "airingid": "RADS1009121900020324",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -14878,7 +14878,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020324",
+        "airingid": "RADS1009121900020087",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -19000,6 +19000,49 @@
         "pubdateasmilliseconds": "1567465140000",
         "expdateasmilliseconds": "1609477199000",
         "mediaid": "b3538ea50e291d6b2b267a9657e54a4f36f8882b",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1001272000057362",
+        "seasonnumber": "6",
+        "seasonitemnumber": "",
+        "seriesid": "100000000001179492",
+        "id": "b45ff69cb5266198c02949ea36a5212d66ca32d4",
+        "collectionid": "",
+        "seofriendlyurl": "/video/the-amazing-world-of-gumball-en-espanol/clayton-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Clayton",
+        "episodenumber": "",
+        "type": "fullepisode",
+        "active": true,
+        "description": "Darwin necesita encontrar una foto de Clayton para ponerla en la portada del anuario escolar... ipero comete el error de pedirle ayuda de Tob\u00edas, que est\u00e1 interesado en aparecer en la portada!",
+        "duration": 696,
+        "freewheelid": "cn-2218573",
+        "isclip": false,
+        "typesort": "1",
+        "tvratingcode": "TV-Y7-FV",
+        "seriestitleid": "100000000001179492",
+        "seriesname": "En Espa\u00f1ol",
+        "originalpremieredate": "2020-02-03T10:00:00.000Z",
+        "pubdate": "2020-02-03T10:00:00.000Z",
+        "expdate": "2021-01-01T09:59:00.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2218573_008_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "espanol",
+        "titleid": "2218573",
+        "titletype": "Episode",
+        "bannertext": "LATEST EPISODE",
+        "originalseriesid": "2170039",
+        "originalseriesname": "The Amazing World of Gumball en Espanol",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1580724000000",
+        "pubdateasmilliseconds": "1580724000000",
+        "expdateasmilliseconds": "1609495140000",
+        "mediaid": "b45ff69cb5266198c02949ea36a5212d66ca32d4",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
         "clipsonly": false,
