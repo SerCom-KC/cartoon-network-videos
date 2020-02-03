@@ -2430,9 +2430,9 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2020-01-27T10:00:00.000Z",
         "pubdate": "2020-01-27T10:00:00.000Z",
-        "expdate": "2020-02-10T09:59:00.000Z",
+        "expdate": "2020-03-02T09:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2214085_002_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
         "titleid": "2214085",
@@ -2443,7 +2443,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1580119200000",
         "pubdateasmilliseconds": "1580119200000",
-        "expdateasmilliseconds": "1581328740000",
+        "expdateasmilliseconds": "1583143140000",
         "mediaid": "1be999ff154d2a03b7d52117d387cdff355ebe76",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -3526,7 +3526,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020091",
+        "airingid": "RADS1009121900020322",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3569,7 +3569,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020322",
+        "airingid": "RADS1009121900020091",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3849,9 +3849,9 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2019-12-30T10:00:00.000Z",
         "pubdate": "2019-12-30T10:00:00.000Z",
-        "expdate": "2020-02-10T09:59:00.000Z",
+        "expdate": "2020-03-02T09:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2199769_009_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
         "titleid": "2199769",
@@ -3862,7 +3862,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1577700000000",
         "pubdateasmilliseconds": "1577700000000",
-        "expdateasmilliseconds": "1581328740000",
+        "expdateasmilliseconds": "1583143140000",
         "mediaid": "2b4f617ce6eb0da30a408ad4fac1b757cfc531c1",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -10191,7 +10191,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020325",
+        "airingid": "RADS1009121900020089",
         "seasonnumber": "2",
         "seasonitemnumber": "8",
         "seriesid": "100000000001179492",
@@ -10234,7 +10234,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020089",
+        "airingid": "RADS1009121900020325",
         "seasonnumber": "2",
         "seasonitemnumber": "8",
         "seriesid": "100000000001179492",
@@ -17308,9 +17308,9 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2020-01-27T10:00:00.000Z",
         "pubdate": "2020-01-27T10:00:00.000Z",
-        "expdate": "2020-02-10T09:59:00.000Z",
+        "expdate": "2020-03-02T09:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2214087_007_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
         "titleid": "2214087",
@@ -17321,7 +17321,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1580119200000",
         "pubdateasmilliseconds": "1580119200000",
-        "expdateasmilliseconds": "1581328740000",
+        "expdateasmilliseconds": "1583143140000",
         "mediaid": "a39e786478b3190c323e1db53695b98e3a425681",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -19866,7 +19866,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -19909,7 +19909,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
