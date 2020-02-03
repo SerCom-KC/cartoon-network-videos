@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1001082000053008",
+  "airingid": "RADS1001082000053005",
   "seasonnumber": "2",
   "groupid": 1,
   "groupcontentid": "61643",
@@ -26,7 +26,7 @@
   "pubdate": "2020-01-08T04:00:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2188738_002_640x360.jpg",
   "authtype": "auth",
-  "expdate": "2020-12-31T05:15:00.000Z",
+  "expdate": "2021-01-01T04:59:59.000Z",
   "webflags": "",
   "tags": "it - book 2",
   "titleid": "2188738",
@@ -39,7 +39,7 @@
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1578444300000",
   "pubdateasmilliseconds": "1578456000000",
-  "expdateasmilliseconds": "1609391700000",
+  "expdateasmilliseconds": "1609477199000",
   "mediaid": "3bae3c2cfdb0d78a256010c3f5cc4e6f1ed20470",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": false
