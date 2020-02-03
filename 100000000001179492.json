@@ -3526,7 +3526,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020322",
+        "airingid": "RADS1009121900020091",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3569,7 +3569,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020091",
+        "airingid": "RADS1009121900020322",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -12169,7 +12169,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020326",
+        "airingid": "RADS1009121900020080",
         "seasonnumber": "2",
         "seasonitemnumber": "6",
         "seriesid": "100000000001179492",
@@ -12212,7 +12212,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020080",
+        "airingid": "RADS1009121900020326",
         "seasonnumber": "2",
         "seasonitemnumber": "6",
         "seriesid": "100000000001179492",
@@ -14835,7 +14835,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020324",
+        "airingid": "RADS1009121900020087",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -14878,7 +14878,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020087",
+        "airingid": "RADS1009121900020324",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -19157,9 +19157,9 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2020-01-24T10:00:00.000Z",
         "pubdate": "2020-01-24T10:00:00.000Z",
-        "expdate": "2020-09-04T03:59:59.000Z",
+        "expdate": "2020-03-02T09:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2191205_002_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
         "titleid": "2191205",
@@ -19170,7 +19170,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1579860000000",
         "pubdateasmilliseconds": "1579860000000",
-        "expdateasmilliseconds": "1599191999000",
+        "expdateasmilliseconds": "1583143140000",
         "mediaid": "b60d45fc40d738a5ec4b71658d3d84e193093d8b",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -19866,7 +19866,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -19909,7 +19909,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -23199,9 +23199,9 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2019-11-08T09:59:45.000Z",
         "pubdate": "2019-11-08T09:59:45.000Z",
-        "expdate": "2020-09-05T03:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2191196_002_640x360.jpg",
-        "authtype": "auth",
+        "expdate": "2020-03-02T09:59:00.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2191196_010_640x360.jpg",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
         "titleid": "2191196",
@@ -23212,7 +23212,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1573207185000",
         "pubdateasmilliseconds": "1573207185000",
-        "expdateasmilliseconds": "1599278399000",
+        "expdateasmilliseconds": "1583143140000",
         "mediaid": "dda455268dbe0acf2c3c964511e222d0957df040",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
