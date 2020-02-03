@@ -371,6 +371,13 @@
     border-color: #bebebe;
 }
 
+.franchise-448512, .series-2165429 { /* The Shivering Truth */ 
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+
 .franchise-449272, .series-2031611 { /* Dragon Ball Z Kai */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-image: linear-gradient(#1ab9db, #fef302, #1ab9db);
