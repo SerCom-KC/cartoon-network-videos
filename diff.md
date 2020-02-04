@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: February 3, 2020 at 22:30:30 EST_
+_Last Update: February 4, 2020 at 00:00:32 EST_
 ## Video added
 No videos were added.  
 ## Video removed
-### Summary
-2085313 Ben 10: 2  
-### 2094715
-**Ben 10 S02E12 - The 11th Alien Part 2**  
-TV-Y7-FV 🔒 11:16  
-⌛ December 31, 2020 at 23:59:59 EST  
-[Open in app](https://tinyurl.com/y6ozy4hb) or on the web: https://www.cartoonnetwork.com/video/ben-10/the-11th-alien-part-2-episode.html  
-seriesid=`2085313` titleid=`2094715` mediaid=`111a68905543b11759395467c5d03a7968a09d3f`  
-_After discovering that Vilgax has joined forces with the Weatherheads to trick him into turning over the Omnitrix, Ben must not only overcome his doubts, but fully embrace his new powers if he is to beat his foes._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2094715_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2094715_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2094715_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2094715_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2094715_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2094715_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2094715_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2094715_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2094715_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2094715_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2094715_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2094715_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2094715_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2094715_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2094715_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2094715_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2094715_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2094715_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2094715_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2094715_010_640x360.jpg" height="144px" /></a>
-### 2128277
-**Ben 10 S02E11 - The 11th Alien Part 1**  
-TV-Y7-FV 🔒 11:16  
-⌛ December 31, 2020 at 23:59:59 EST  
-[Open in app](https://tinyurl.com/y6neprf3) or on the web: https://www.cartoonnetwork.com/video/ben-10/the-11th-alien-part-1-episode.html  
-seriesid=`2085313` titleid=`2128277` mediaid=`26ab1b28b81b06419535ff46c0e89f6b63483d94`  
-_With new Omni-Enhancements in tow, Ben looks to save a town from a sudden mudslide, but his heroics are short lived once Vilgax appears to warn our hero about the consequences of the Omnitrix's mysterious new alien._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2128277_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128277_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128277_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128277_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128277_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128277_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128277_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128277_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128277_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128277_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128277_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128277_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128277_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128277_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128277_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128277_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128277_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128277_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2128277_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2128277_010_640x360.jpg" height="144px" /></a>
+No videos were removed.  
