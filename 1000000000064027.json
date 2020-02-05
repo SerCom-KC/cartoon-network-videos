@@ -626,7 +626,7 @@
         "pubdate": "2019-08-08T08:59:00.000Z",
         "expdate": "2020-03-02T09:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2157077_001_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "webflags": "",
         "tags": "black history month",
         "titleid": "2157077",
