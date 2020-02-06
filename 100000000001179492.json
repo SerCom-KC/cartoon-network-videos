@@ -6515,7 +6515,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2019-10-25T08:59:00.000Z",
         "pubdate": "2019-10-25T08:59:00.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-02-06T15:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2163305_003_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -6528,7 +6528,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1571993940000",
         "pubdateasmilliseconds": "1571993940000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1581001200000",
         "mediaid": "4553e3b0bc92912c37ebeb2fb3b65e62490f88ae",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -7590,7 +7590,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2019-11-01T08:59:00.000Z",
         "pubdate": "2019-11-01T08:59:00.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-02-06T15:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2163309_006_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -7603,7 +7603,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1572598740000",
         "pubdateasmilliseconds": "1572598740000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1581001200000",
         "mediaid": "502ce1ab969f5ef64cbc66516bca593bdc91c768",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -11546,7 +11546,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2019-10-18T08:59:00.000Z",
         "pubdate": "2019-10-18T08:59:00.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-02-06T15:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2163296_006_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -11559,7 +11559,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1571389140000",
         "pubdateasmilliseconds": "1571389140000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1581001200000",
         "mediaid": "70e645e026e927d8bbc376207de7de0cdc40dd87",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -12169,7 +12169,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020326",
+        "airingid": "RADS1009121900020080",
         "seasonnumber": "2",
         "seasonitemnumber": "6",
         "seriesid": "100000000001179492",
@@ -12212,7 +12212,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020080",
+        "airingid": "RADS1009121900020326",
         "seasonnumber": "2",
         "seasonitemnumber": "6",
         "seriesid": "100000000001179492",
@@ -12621,7 +12621,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2019-10-18T08:59:00.000Z",
         "pubdate": "2019-10-18T08:59:00.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-02-06T15:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2163314_005_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -12634,7 +12634,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1571389140000",
         "pubdateasmilliseconds": "1571389140000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1581001200000",
         "mediaid": "791d7f6964866830b6c176b1876b1d44634a6e3a",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -14835,7 +14835,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020087",
+        "airingid": "RADS1009121900020324",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -14878,7 +14878,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020324",
+        "airingid": "RADS1009121900020087",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -19866,7 +19866,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -19909,7 +19909,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
