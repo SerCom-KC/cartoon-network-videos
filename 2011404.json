@@ -1137,7 +1137,7 @@
         "originalpremieredate": "2016-01-05T22:30:00.000Z",
         "pubdate": "2020-02-03T10:00:00.000Z",
         "expdate": "2020-02-10T09:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2061278_009_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2061278_001_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "unauth",
@@ -2879,7 +2879,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049937",
+        "airingid": "RADS1012251900049892",
         "seasonnumber": "5",
         "groupid": 4,
         "groupcontentid": "10887",
@@ -4110,7 +4110,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900050007",
+        "airingid": "RADS1012251900049903",
         "seasonnumber": "1",
         "groupid": 4,
         "groupcontentid": "10887",
