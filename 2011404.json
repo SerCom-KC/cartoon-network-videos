@@ -896,7 +896,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050006",
+        "airingid": "RADS1012251900049932",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -939,7 +939,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049932",
+        "airingid": "RADS1012251900050006",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1157,7 +1157,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049888",
+        "airingid": "RADS1012251900049916",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1200,7 +1200,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049916",
+        "airingid": "RADS1012251900049888",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1708,7 +1708,7 @@
         "originalpremieredate": "2020-01-01T05:00:59.000Z",
         "pubdate": "2020-01-01T05:00:59.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2132167_007_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2132167_010_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "music video|shorts|vod",
@@ -1866,7 +1866,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049943",
+        "airingid": "RADS1012251900049893",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1909,7 +1909,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049893",
+        "airingid": "RADS1012251900049943",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2130,7 +2130,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049885",
+        "airingid": "RADS1012251900049923",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2173,7 +2173,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049923",
+        "airingid": "RADS1012251900049885",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2354,7 +2354,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049936",
+        "airingid": "RADS1012251900049891",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2397,7 +2397,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049891",
+        "airingid": "RADS1012251900049936",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3281,7 +3281,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049900",
+        "airingid": "RADS1012251900049952",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3324,7 +3324,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049952",
+        "airingid": "RADS1012251900049900",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3499,7 +3499,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049954",
+        "airingid": "RADS1012251900049941",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3542,7 +3542,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049941",
+        "airingid": "RADS1012251900049954",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3783,7 +3783,7 @@
         "originalpremieredate": "2019-09-02T23:30:00.000Z",
         "pubdate": "2020-01-01T05:00:59.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2055453_010_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2055453_002_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "shorts|vod",
@@ -3826,7 +3826,7 @@
         "originalpremieredate": "2019-09-02T23:30:00.000Z",
         "pubdate": "2020-01-01T05:00:59.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2055453_010_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2055453_006_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "shorts|vod",
@@ -3840,49 +3840,6 @@
         "pubdateasmilliseconds": "1577854859000",
         "expdateasmilliseconds": "1609477199000",
         "mediaid": "dd8845f4e1abbefe971d5590b7f70e1d264c57e8",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
-        "airingid": "RADS1012251900049920",
-        "seasonnumber": "2",
-        "seasonitemnumber": "",
-        "seriesid": "2011404",
-        "id": "dd95d9a5444bd16ebfe6dafeb3cd2d5716f55bba",
-        "collectionid": "",
-        "seofriendlyurl": "/video/steven-universe/we-are-the-crystal-gems-episode.html",
-        "seasonepisodenumber": "",
-        "title": "We Are the Crystal Gems",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Steven starts his life with the Crystal Gems in this extended version of the Steven Universe theme song.",
-        "duration": 253,
-        "freewheelid": "cn-2056371",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "2011404",
-        "seriesname": "Steven Universe",
-        "originalpremieredate": "2020-01-01T05:00:59.000Z",
-        "pubdate": "2020-01-01T05:00:59.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2056371_002_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts|vod",
-        "titleid": "2056371",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2011404",
-        "originalseriesname": "Steven Universe",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1577854859000",
-        "pubdateasmilliseconds": "1577854859000",
-        "expdateasmilliseconds": "1609477199000",
-        "mediaid": "dd95d9a5444bd16ebfe6dafeb3cd2d5716f55bba",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
@@ -3912,7 +3869,50 @@
         "originalpremieredate": "2020-01-01T05:00:59.000Z",
         "pubdate": "2020-01-01T05:00:59.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2056371_002_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2056371_001_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts|vod",
+        "titleid": "2056371",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2011404",
+        "originalseriesname": "Steven Universe",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1577854859000",
+        "pubdateasmilliseconds": "1577854859000",
+        "expdateasmilliseconds": "1609477199000",
+        "mediaid": "dd95d9a5444bd16ebfe6dafeb3cd2d5716f55bba",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1012251900049920",
+        "seasonnumber": "2",
+        "seasonitemnumber": "",
+        "seriesid": "2011404",
+        "id": "dd95d9a5444bd16ebfe6dafeb3cd2d5716f55bba",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe/we-are-the-crystal-gems-episode.html",
+        "seasonepisodenumber": "",
+        "title": "We Are the Crystal Gems",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Steven starts his life with the Crystal Gems in this extended version of the Steven Universe theme song.",
+        "duration": 253,
+        "freewheelid": "cn-2056371",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "2011404",
+        "seriesname": "Steven Universe",
+        "originalpremieredate": "2020-01-01T05:00:59.000Z",
+        "pubdate": "2020-01-01T05:00:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2056371_005_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "shorts|vod",
