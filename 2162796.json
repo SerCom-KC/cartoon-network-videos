@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1007291900010028",
+  "airingid": "RADS1001282000057859",
   "seasonnumber": "3",
   "seasonitemnumber": "27",
   "seriesid": "2064567",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Professor makes new friends, but they may be the wrong crowd.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2162796",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "2064567",
   "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2019-04-14T20:30:00.000Z",
-  "pubdate": "2019-08-22T08:59:00.000Z",
-  "expdate": "2019-09-03T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2162796_008_640x360.jpg",
+  "pubdate": "2020-02-10T10:00:00.000Z",
+  "expdate": "2020-02-17T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2162796_010_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1555273800000",
-  "pubdateasmilliseconds": "1566464340000",
-  "expdateasmilliseconds": "1567501140000",
+  "pubdateasmilliseconds": "1581328800000",
+  "expdateasmilliseconds": "1581933540000",
   "mediaid": "8ab08eb633eb1fc35b9740be503c39d5824915cd",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

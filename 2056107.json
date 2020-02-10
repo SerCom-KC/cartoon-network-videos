@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1002251900069967",
+  "airingid": "RADS1001282000057953",
   "seasonnumber": "3",
   "seasonitemnumber": "1",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The origin of Tiger is told as a flashback.  As the legend goes, Tiger used to be a mermaid.  One day the evil ruler of the sea, Bubble Grandpa, demanded a hamburger and picked Tiger to retrieve it.  He used his magic sea powers to give Tiger legs and send her ashore.  But Tiger grew to love the land, and with the help of her new friend, Uncle Grandpa, defeated the evil sea ruler and got to keep her legs.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2056107",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2015-12-16T22:30:00.000Z",
-  "pubdate": "2019-03-08T10:00:00.000Z",
-  "expdate": "2019-03-15T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2056107_008_640x360.jpg",
+  "pubdate": "2020-02-10T10:00:00.000Z",
+  "expdate": "2020-02-17T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2056107_001_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1450305000000",
-  "pubdateasmilliseconds": "1552039200000",
-  "expdateasmilliseconds": "1552640340000",
+  "pubdateasmilliseconds": "1581328800000",
+  "expdateasmilliseconds": "1581933540000",
   "mediaid": "03e746e41de1522537a8ccff4ca9ad1e10d976de",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

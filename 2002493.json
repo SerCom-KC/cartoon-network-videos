@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1001281900063345",
+  "airingid": "RADS1001282000057987",
   "seasonnumber": "1",
   "seasonitemnumber": "24",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When a computer dating program matches Beast Boy to Raven, he tries wooing her to disastrous effect.",
-  "duration": 665,
+  "duration": 666,
   "freewheelid": "cn-2002493",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2013-09-11T23:30:00.000Z",
-  "pubdate": "2019-02-08T10:00:00.000Z",
-  "expdate": "2019-02-15T09:59:00.000Z",
+  "pubdate": "2020-02-10T10:00:00.000Z",
+  "expdate": "2020-02-17T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2002493_006_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1378942200000",
-  "pubdateasmilliseconds": "1549620000000",
-  "expdateasmilliseconds": "1550224740000",
+  "pubdateasmilliseconds": "1581328800000",
+  "expdateasmilliseconds": "1581933540000",
   "mediaid": "088c8a6b3aa98454a34ad6e3b44894bc8bef7e6e",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
