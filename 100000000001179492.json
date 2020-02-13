@@ -3569,7 +3569,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020322",
+        "airingid": "RADS1009121900020091",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3612,7 +3612,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020091",
+        "airingid": "RADS1009121900020322",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -14018,7 +14018,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020087",
+        "airingid": "RADS1009121900020324",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -14061,7 +14061,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020324",
+        "airingid": "RADS1009121900020087",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -18576,7 +18576,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -18619,7 +18619,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -19387,49 +19387,6 @@
         "pubdateasmilliseconds": "1567465140000",
         "expdateasmilliseconds": "1609477199000",
         "mediaid": "c64d0d32e56fd5754f74559e3534239241d0979f",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": true,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
-        "airingid": "RADS1001082000053072",
-        "seasonnumber": "1",
-        "seasonitemnumber": "",
-        "seriesid": "100000000001179492",
-        "id": "c690a80268f3c5e1da4915b763c09cb80786d2e7",
-        "collectionid": "",
-        "seofriendlyurl": "/video/espanol/la-verdad-apesta-episode.html",
-        "seasonepisodenumber": "",
-        "title": "La Verdad Apesta",
-        "episodenumber": "",
-        "type": "fullepisode",
-        "active": true,
-        "description": "Colosal huele mal, pero Mao Mao y Adorabat no saben c\u00f3mo dec\u00edrselo.",
-        "duration": 677,
-        "freewheelid": "cn-2201645",
-        "isclip": false,
-        "typesort": "1",
-        "tvratingcode": "TV-Y7",
-        "seriestitleid": "100000000001179492",
-        "seriesname": "En Espa\u00f1ol",
-        "originalpremieredate": "2020-01-27T10:00:00.000Z",
-        "pubdate": "2020-01-27T10:00:00.000Z",
-        "expdate": "2020-02-17T10:00:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2201645_009_640x360.jpg",
-        "authtype": "auth",
-        "webflags": "",
-        "tags": "espanol",
-        "titleid": "2201645",
-        "titletype": "Episode",
-        "bannertext": "",
-        "originalseriesid": "2201634",
-        "originalseriesname": "Mao Mao en Espanol",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1580119200000",
-        "pubdateasmilliseconds": "1580119200000",
-        "expdateasmilliseconds": "1581933600000",
-        "mediaid": "c690a80268f3c5e1da4915b763c09cb80786d2e7",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
         "clipsonly": false,
