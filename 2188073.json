@@ -118,10 +118,10 @@
         "originalpremieredate": "2020-02-17T23:00:00.000Z",
         "pubdate": "2020-01-10T10:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2188074_008_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "expdate": "2020-12-31T05:00:00.000Z",
         "webflags": "",
-        "tags": "2020 preview|tcr - sif|unauth",
+        "tags": "2020 preview|tcr - sif",
         "titleid": "2188074",
         "titletype": "Episode",
         "bannertext": "SEE IT FIRST",
@@ -134,7 +134,7 @@
         "pubdateasmilliseconds": "1578650400000",
         "expdateasmilliseconds": "1609390800000",
         "mediaid": "a541a5d655df57bc3594eeb4ea350eda6bab4659",
-        "isunlockedfullepisode": true,
+        "isunlockedfullepisode": false,
         "ismultipropertycollection": false
     },
     {
@@ -302,13 +302,13 @@
         "originalpremieredate": "2020-01-10T10:00:00.000Z",
         "pubdate": "2020-01-10T10:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2188075_003_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "expdate": "2020-12-31T05:00:00.000Z",
         "webflags": "",
-        "tags": "2020 preview|tcr - sif|unauth",
+        "tags": "2020 preview|tcr - sif",
         "titleid": "2188075",
         "titletype": "Episode",
-        "bannertext": "UNLOCKED",
+        "bannertext": "",
         "originalseriesid": "2188073",
         "originalseriesname": "ThunderCats Roar!",
         "parentepisodetitleid": "",
@@ -318,7 +318,7 @@
         "pubdateasmilliseconds": "1578650400000",
         "expdateasmilliseconds": "1609390800000",
         "mediaid": "f4bc65d010946929315171f4bcb839b0b9c3dcac",
-        "isunlockedfullepisode": true,
+        "isunlockedfullepisode": false,
         "ismultipropertycollection": false
     }
 ]
