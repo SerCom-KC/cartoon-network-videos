@@ -106,7 +106,7 @@
             font-size: small;
         }
     </style>
-    <link rel="stylesheet" href="./colorcodes.css">
+    <link id="colorcodes" rel="stylesheet" href="./colorcodes.css">
 </head>
 
 <body>
@@ -126,6 +126,7 @@
         var firstLoad = true;
         var timer = setInterval(null, 1000);
         var update_lock = false;
+        var colorcodes_etag = "";
 
         function updateSettings() {
             if (document.getElementById("use-eastern-time").checked) {
@@ -238,6 +239,15 @@
             document.getElementById("countdown").innerText = "Loading...";
             document.getElementById("menu").style.display = "none";
             document.getElementById("menu").innerHTML = '<a href="javascript:scrollTo(&quot;.current&quot;);">Current</a>';
+            var xhr = new XMLHttpRequest();
+            xhr.open("HEAD", "./colorcodes.css")
+            xhr.setRequestHeader("If-None-Match", colorcodes_etag);
+            xhr.send();
+            xhr.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                colorcodes_etag = this.getResponseHeader("etag");
+                document.getElementById("colorcodes").href = "./colorcodes.css?v=" + colorcodes_etag;
+            }};
             var xhr = new XMLHttpRequest();
             xhr.open("GET", "https://time.ten.ngtv.io/v1/rundown?instance=as-east&endTime=2147483647&startTime=0")
             xhr.send();
