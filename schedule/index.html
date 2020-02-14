@@ -123,7 +123,8 @@
     <script>
         const date_display_config = { timeZone: "America/New_York", month: "short", day: "numeric" };
         var time_display_config = { timeZone: "America/New_York", hour12: true, hour: "numeric", minute: "2-digit" };
-        var firstLoad = true;
+        var first_load = true;
+        var page_ready = 0;
         var timer = setInterval(null, 1000);
         var update_lock = false;
         var colorcodes_etag = "";
@@ -149,6 +150,7 @@
         function countDown() {
             var i = 60;
             timer = setInterval(function() {
+                if (page_ready === 2) scrollTo(".current");
                 countdown = document.getElementById("countdown");
                 countdown.innerText = "";
                 if (document.getElementById("auto-refresh").checked) {
@@ -222,9 +224,9 @@
                         document.getElementById("menu").innerHTML += ' | <a href="javascript:scrollTo(&quot;#date-' + nextShowTimestampString.toLowerCase().replace(" ", "-") + '&quot;);">' + nextShowTimestampString + '</a>';
                     }
                 } else {
-                    if (firstLoad) {
-                        scrollTo(".current");
-                        firstLoad = false;
+                    if (first_load) {
+                        first_load = false;
+                        page_ready += 1;
                     }
                     document.getElementById("menu").style.display = "initial";
                     update_lock = false;
@@ -257,6 +259,11 @@
                 parseSchedule(allShows.shows);
             }};
         }
+        document.addEventListener('readystatechange', event => {
+            if (event.target.readyState === "complete") {
+                page_ready += 1;
+            }
+        });
         window.onload = function() {loadData();}
     </script>
 </body>
