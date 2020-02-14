@@ -150,7 +150,10 @@
         function countDown() {
             var i = 60;
             timer = setInterval(function() {
-                if (page_ready === 2) scrollTo(".current");
+                if (page_ready === 2) {
+                    scrollTo(".current");
+                    page_ready += 1;
+                }
                 countdown = document.getElementById("countdown");
                 countdown.innerText = "";
                 if (document.getElementById("auto-refresh").checked) {
