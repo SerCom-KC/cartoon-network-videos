@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1001031900058133",
+  "airingid": "RADS1001272000057600",
   "seasonnumber": "1",
   "seasonitemnumber": "24",
   "seriesid": "757073",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Finn and Jake befriend the Ice King in an attempt to save the ice cream people.",
-  "duration": 704,
+  "duration": 705,
   "freewheelid": "cn-791194",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2010-09-14T00:00:00.000Z",
-  "pubdate": "2019-01-08T10:00:00.000Z",
-  "expdate": "2019-01-15T09:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/791194_003_640x360.jpg",
+  "pubdate": "2020-02-17T10:00:00.000Z",
+  "expdate": "2020-02-24T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/791194_001_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1284422400000",
-  "pubdateasmilliseconds": "1546941600000",
-  "expdateasmilliseconds": "1547546340000",
+  "pubdateasmilliseconds": "1581933600000",
+  "expdateasmilliseconds": "1582538340000",
   "mediaid": "c2da1558d6364e7f77d79c45c1f622a27207da0b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

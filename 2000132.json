@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1004261900086897",
+  "airingid": "RADS1001272000057631",
   "seasonnumber": "2",
   "seasonitemnumber": "31",
   "seriesid": "835928",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Gumball and Darwin receive a scary email, everyone is a suspect... including themselves!",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2000132",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2013-09-10T23:30:00.000Z",
-  "pubdate": "2019-05-27T09:00:00.000Z",
-  "expdate": "2019-06-03T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2000132_009_640x360.jpg",
+  "pubdate": "2020-02-17T10:00:00.000Z",
+  "expdate": "2020-02-24T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2000132_001_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1378855800000",
-  "pubdateasmilliseconds": "1558947600000",
-  "expdateasmilliseconds": "1559552340000",
+  "pubdateasmilliseconds": "1581933600000",
+  "expdateasmilliseconds": "1582538340000",
   "mediaid": "b3f87402133f7fcb311935dbe06e38f3dda01151",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

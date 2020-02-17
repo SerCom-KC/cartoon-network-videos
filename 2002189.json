@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003151900074132",
+  "airingid": "RADS1001272000057604",
   "seasonnumber": "5",
   "seasonitemnumber": "39",
   "seriesid": "757073",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Finn finds an old truck, and Jake calls Banana Man to help with the repairs. But when BMO stays up all night working on the truck, he hears on a spooky radio talk show that Princess Bubblegum is a reptilian replicant. Is it just another one of Starchy's crazy conspiracy theories, or a fact?",
-  "duration": 701,
+  "duration": 702,
   "freewheelid": "cn-2002189",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2013-10-21T23:00:00.000Z",
-  "pubdate": "2019-03-15T09:00:00.000Z",
-  "expdate": "2019-03-22T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2002189_009_640x360.jpg",
+  "pubdate": "2020-02-17T10:00:00.000Z",
+  "expdate": "2020-02-24T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2002189_004_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1382396400000",
-  "pubdateasmilliseconds": "1552640400000",
-  "expdateasmilliseconds": "1553245140000",
+  "pubdateasmilliseconds": "1581933600000",
+  "expdateasmilliseconds": "1582538340000",
   "mediaid": "3b932d5bd17cf7cfea99a528ca1c2babed16fdcb",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
