@@ -45,7 +45,7 @@
     {
         "airingid": "RADS1001282000057973",
         "seasonnumber": "3",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "64033",
         "groupname": "BLACK HISTORY MONTH!",
         "seasonitemnumber": "22",
@@ -134,7 +134,7 @@
     {
         "airingid": "RADS1001272000057440",
         "seasonnumber": "6",
-        "groupid": 5,
+        "groupid": 6,
         "groupcontentid": "42233",
         "groupname": "SEE IT FIRST! ",
         "seasonitemnumber": "7",
@@ -180,7 +180,7 @@
     {
         "airingid": "RADS1001232000057027",
         "seasonnumber": "5",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "64033",
         "groupname": "BLACK HISTORY MONTH!",
         "seasonitemnumber": "38",
@@ -312,7 +312,7 @@
     {
         "airingid": "RADS1001272000057439",
         "seasonnumber": "6",
-        "groupid": 5,
+        "groupid": 6,
         "groupcontentid": "42233",
         "groupname": "SEE IT FIRST! ",
         "seasonitemnumber": "8",
@@ -444,7 +444,7 @@
     {
         "airingid": "RADS1001232000057025",
         "seasonnumber": "5",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "64033",
         "groupname": "BLACK HISTORY MONTH!",
         "seasonitemnumber": "45",
@@ -619,7 +619,7 @@
     {
         "airingid": "RADS1001282000057976",
         "seasonnumber": "2",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "64033",
         "groupname": "BLACK HISTORY MONTH!",
         "seasonitemnumber": "10",
@@ -708,7 +708,7 @@
     {
         "airingid": "RADS1001232000057019",
         "seasonnumber": "1",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "64033",
         "groupname": "BLACK HISTORY MONTH!",
         "seasonitemnumber": "45",
@@ -754,7 +754,7 @@
     {
         "airingid": "RADS1001232000057024",
         "seasonnumber": "4",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "64033",
         "groupname": "BLACK HISTORY MONTH!",
         "seasonitemnumber": "46",
@@ -843,7 +843,7 @@
     {
         "airingid": "RADS1012041900043215",
         "seasonnumber": "6",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "4",
@@ -889,7 +889,7 @@
     {
         "airingid": "RADS1001272000057437",
         "seasonnumber": "6",
-        "groupid": 5,
+        "groupid": 6,
         "groupcontentid": "42233",
         "groupname": "SEE IT FIRST! ",
         "seasonitemnumber": "10",
@@ -935,7 +935,7 @@
     {
         "airingid": "RADS1001282000057968",
         "seasonnumber": "3",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "64033",
         "groupname": "BLACK HISTORY MONTH!",
         "seasonitemnumber": "52",
@@ -1153,7 +1153,7 @@
     {
         "airingid": "RADS1012041900043212",
         "seasonnumber": "6",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "2",
@@ -1543,7 +1543,7 @@
     {
         "airingid": "RADS1001232000057022",
         "seasonnumber": "2",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "64033",
         "groupname": "BLACK HISTORY MONTH!",
         "seasonitemnumber": "50",
@@ -1718,7 +1718,7 @@
     {
         "airingid": "RADS1001232000057023",
         "seasonnumber": "1",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "64033",
         "groupname": "BLACK HISTORY MONTH!",
         "seasonitemnumber": "50",
@@ -1850,7 +1850,7 @@
     {
         "airingid": "RADS1012041900043213",
         "seasonnumber": "6",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "1",
@@ -2025,7 +2025,7 @@
     {
         "airingid": "RADS1001232000057021",
         "seasonnumber": "5",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "64033",
         "groupname": "BLACK HISTORY MONTH!",
         "seasonitemnumber": "39",
@@ -2071,7 +2071,7 @@
     {
         "airingid": "RADS1012041900043214",
         "seasonnumber": "6",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "64033",
         "groupname": "BLACK HISTORY MONTH!",
         "seasonitemnumber": "3",
@@ -2117,7 +2117,7 @@
     {
         "airingid": "RADS1012041900043214",
         "seasonnumber": "6",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "3",
@@ -2206,7 +2206,7 @@
     {
         "airingid": "RADS1001232000057026",
         "seasonnumber": "5",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "64033",
         "groupname": "BLACK HISTORY MONTH!",
         "seasonitemnumber": "41",
@@ -2252,7 +2252,7 @@
     {
         "airingid": "RADS1001232000057020",
         "seasonnumber": "1",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "64033",
         "groupname": "BLACK HISTORY MONTH!",
         "seasonitemnumber": "30",
@@ -2384,7 +2384,7 @@
     {
         "airingid": "RADS1001282000057945",
         "seasonnumber": "1",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "64033",
         "groupname": "BLACK HISTORY MONTH!",
         "seasonitemnumber": "37",
@@ -2688,7 +2688,7 @@
     {
         "airingid": "RADS1001272000057438",
         "seasonnumber": "6",
-        "groupid": 5,
+        "groupid": 6,
         "groupcontentid": "42233",
         "groupname": "SEE IT FIRST! ",
         "seasonitemnumber": "9",
@@ -2863,7 +2863,7 @@
     {
         "airingid": "RADS1001232000057028",
         "seasonnumber": "5",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "64033",
         "groupname": "BLACK HISTORY MONTH!",
         "seasonitemnumber": "33",
