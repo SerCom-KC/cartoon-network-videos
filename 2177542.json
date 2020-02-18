@@ -68,7 +68,7 @@
         "seriesname": "DC Super Hero Girls",
         "originalpremieredate": "2019-11-30T16:00:00.000Z",
         "pubdate": "2020-01-04T10:00:00.000Z",
-        "expdate": "2020-03-30T03:59:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2202282_004_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -81,7 +81,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1575129600000",
         "pubdateasmilliseconds": "1578132000000",
-        "expdateasmilliseconds": "1585540799000",
+        "expdateasmilliseconds": "1609477199000",
         "mediaid": "0333f8ccb5139e9cfef32a7c75650477b6fac88c",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -221,7 +221,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048789",
+        "airingid": "RADS1012201900048776",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -264,7 +264,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048776",
+        "airingid": "RADS1012201900048789",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -826,7 +826,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048793",
+        "airingid": "RADS1012201900048783",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -869,7 +869,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048783",
+        "airingid": "RADS1012201900048793",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -3699,7 +3699,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048869",
+        "airingid": "RADS1012201900048775",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -3742,7 +3742,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048775",
+        "airingid": "RADS1012201900048869",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -4117,7 +4117,7 @@
         "seriesname": "DC Super Hero Girls",
         "originalpremieredate": "2019-12-19T17:00:00.000Z",
         "pubdate": "2020-01-24T10:00:00.000Z",
-        "expdate": "2020-03-30T03:59:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2214527_004_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -4130,7 +4130,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1576774800000",
         "pubdateasmilliseconds": "1579860000000",
-        "expdateasmilliseconds": "1585540799000",
+        "expdateasmilliseconds": "1609477199000",
         "mediaid": "8a6f60804421471736fe3839e1627cbd0e0017d2",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -4206,7 +4206,7 @@
         "seriesname": "DC Super Hero Girls",
         "originalpremieredate": "2019-12-20T17:00:00.000Z",
         "pubdate": "2020-01-24T10:00:00.000Z",
-        "expdate": "2020-03-30T03:59:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2214526_007_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -4219,7 +4219,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1576861200000",
         "pubdateasmilliseconds": "1579860000000",
-        "expdateasmilliseconds": "1585540799000",
+        "expdateasmilliseconds": "1609477199000",
         "mediaid": "9241872651c18eda4a2ccad199909cc70d326688",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -4826,7 +4826,7 @@
         "seriesname": "DC Super Hero Girls",
         "originalpremieredate": "2019-12-18T17:00:00.000Z",
         "pubdate": "2020-01-24T10:00:00.000Z",
-        "expdate": "2020-03-30T03:59:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2214521_008_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -4839,7 +4839,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1576688400000",
         "pubdateasmilliseconds": "1579860000000",
-        "expdateasmilliseconds": "1585540799000",
+        "expdateasmilliseconds": "1609477199000",
         "mediaid": "abadab18c5fdca443425c41371a129f6b0e4fc6f",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -5599,7 +5599,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012201900048779",
+        "airingid": "RADS1012201900048801",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -5642,7 +5642,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048801",
+        "airingid": "RADS1012201900048779",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -6578,7 +6578,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048780",
+        "airingid": "RADS1012201900048787",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -6621,7 +6621,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048787",
+        "airingid": "RADS1012201900048780",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
