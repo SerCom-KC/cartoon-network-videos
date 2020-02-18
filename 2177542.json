@@ -221,7 +221,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048789",
+        "airingid": "RADS1012201900048776",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -264,7 +264,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048776",
+        "airingid": "RADS1012201900048789",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -1560,9 +1560,9 @@
         "seriesname": "DC Super Hero Girls",
         "originalpremieredate": "2019-09-13T09:00:00.000Z",
         "pubdate": "2019-09-13T09:00:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193721_002_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193721_010_640x360.jpg",
         "authtype": "unauth",
-        "expdate": "2020-03-29T08:59:00.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
         "webflags": "",
         "tags": "dcshg - meet the girls|shorts",
         "titleid": "2193721",
@@ -1575,7 +1575,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1568365200000",
         "pubdateasmilliseconds": "1568365200000",
-        "expdateasmilliseconds": "1585472340000",
+        "expdateasmilliseconds": "1609477199000",
         "mediaid": "3c2f460eb45a98f8d96bff7cda9885d32b19c3e8",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
@@ -3331,9 +3331,9 @@
         "seriesname": "DC Super Hero Girls",
         "originalpremieredate": "2019-08-23T09:00:00.000Z",
         "pubdate": "2019-08-23T09:00:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193731_005_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193731_004_640x360.jpg",
         "authtype": "unauth",
-        "expdate": "2020-03-10T03:59:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
         "webflags": "",
         "tags": "dcshg - meet the girls|shorts",
         "titleid": "2193731",
@@ -3346,7 +3346,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1566550800000",
         "pubdateasmilliseconds": "1566550800000",
-        "expdateasmilliseconds": "1583812799000",
+        "expdateasmilliseconds": "1609477199000",
         "mediaid": "6831ccdd441f39df708b80a2111788fe5d09b17f",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
@@ -3613,7 +3613,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048791",
+        "airingid": "RADS1012201900048785",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -3656,7 +3656,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048785",
+        "airingid": "RADS1012201900048791",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -4785,7 +4785,7 @@
         "pubdate": "2019-08-23T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193697_004_640x360.jpg",
         "authtype": "unauth",
-        "expdate": "2020-03-10T03:59:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
         "webflags": "",
         "tags": "dcshg - meet the girls|shorts",
         "titleid": "2193697",
@@ -4798,7 +4798,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1566550800000",
         "pubdateasmilliseconds": "1566550800000",
-        "expdateasmilliseconds": "1583812799000",
+        "expdateasmilliseconds": "1609477199000",
         "mediaid": "aaac0903c784b329065332c3f5582ad614d2c15f",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
@@ -5599,7 +5599,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012201900048801",
+        "airingid": "RADS1012201900048779",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -5642,7 +5642,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048779",
+        "airingid": "RADS1012201900048801",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -6578,7 +6578,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048787",
+        "airingid": "RADS1012201900048780",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -6621,7 +6621,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048780",
+        "airingid": "RADS1012201900048787",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
