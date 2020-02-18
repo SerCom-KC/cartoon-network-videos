@@ -1111,7 +1111,7 @@
         "pubdate": "2019-04-19T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193691_002_640x360.jpg",
         "authtype": "unauth",
-        "expdate": "2020-03-09T08:59:00.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
         "webflags": "",
         "tags": "shorts|dcshg - meet the girls",
         "titleid": "2193691",
@@ -1124,7 +1124,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1555664400000",
         "pubdateasmilliseconds": "1555664400000",
-        "expdateasmilliseconds": "1583744340000",
+        "expdateasmilliseconds": "1609477199000",
         "mediaid": "3569a36548cc1e5720f7e8728181cffb625fdc7d",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
@@ -2670,7 +2670,7 @@
         "pubdate": "2019-04-19T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193696_005_640x360.jpg",
         "authtype": "unauth",
-        "expdate": "2020-03-09T08:59:00.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
         "webflags": "",
         "tags": "shorts|dcshg - meet the girls",
         "titleid": "2193696",
@@ -2683,7 +2683,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1555664400000",
         "pubdateasmilliseconds": "1555664400000",
-        "expdateasmilliseconds": "1583744340000",
+        "expdateasmilliseconds": "1609477199000",
         "mediaid": "5867ef3fc000b7bd20fe75a13201a82243ca7bac",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
@@ -3613,7 +3613,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048791",
+        "airingid": "RADS1012201900048785",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -3656,7 +3656,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048785",
+        "airingid": "RADS1012201900048791",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -6912,7 +6912,7 @@
         "pubdate": "2019-04-19T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193704_006_640x360.jpg",
         "authtype": "unauth",
-        "expdate": "2020-03-09T08:59:00.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
         "webflags": "",
         "tags": "shorts|dcshg - meet the girls",
         "titleid": "2193704",
@@ -6925,7 +6925,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1555664400000",
         "pubdateasmilliseconds": "1555664400000",
-        "expdateasmilliseconds": "1583744340000",
+        "expdateasmilliseconds": "1609477199000",
         "mediaid": "f2269ecb8f4034792585bd8f2b2d470f5c15d75c",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
