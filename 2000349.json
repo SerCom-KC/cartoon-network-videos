@@ -134,7 +134,7 @@
     {
         "airingid": "RADS1001272000057440",
         "seasonnumber": "6",
-        "groupid": 6,
+        "groupid": 3,
         "groupcontentid": "42233",
         "groupname": "SEE IT FIRST! ",
         "seasonitemnumber": "7",
@@ -312,7 +312,7 @@
     {
         "airingid": "RADS1001272000057439",
         "seasonnumber": "6",
-        "groupid": 6,
+        "groupid": 3,
         "groupcontentid": "42233",
         "groupname": "SEE IT FIRST! ",
         "seasonitemnumber": "8",
@@ -889,7 +889,7 @@
     {
         "airingid": "RADS1012041900043215",
         "seasonnumber": "6",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "4",
@@ -935,7 +935,7 @@
     {
         "airingid": "RADS1001272000057437",
         "seasonnumber": "6",
-        "groupid": 6,
+        "groupid": 3,
         "groupcontentid": "42233",
         "groupname": "SEE IT FIRST! ",
         "seasonitemnumber": "10",
@@ -1199,7 +1199,7 @@
     {
         "airingid": "RADS1012041900043212",
         "seasonnumber": "6",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "2",
@@ -1896,7 +1896,7 @@
     {
         "airingid": "RADS1012041900043213",
         "seasonnumber": "6",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "1",
@@ -2163,7 +2163,7 @@
     {
         "airingid": "RADS1012041900043214",
         "seasonnumber": "6",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "3",
@@ -2734,7 +2734,7 @@
     {
         "airingid": "RADS1001272000057438",
         "seasonnumber": "6",
-        "groupid": 6,
+        "groupid": 3,
         "groupcontentid": "42233",
         "groupname": "SEE IT FIRST! ",
         "seasonitemnumber": "9",
