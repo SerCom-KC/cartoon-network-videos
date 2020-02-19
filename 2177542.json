@@ -3613,7 +3613,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048791",
+        "airingid": "RADS1012201900048785",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -3656,7 +3656,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1012201900048785",
+        "airingid": "RADS1012201900048791",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2177542",
@@ -4118,7 +4118,7 @@
         "originalpremieredate": "2019-12-19T17:00:00.000Z",
         "pubdate": "2020-01-24T10:00:00.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2214527_004_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2214527_001_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "",
