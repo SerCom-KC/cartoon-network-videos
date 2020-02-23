@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: February 22, 2020 at 17:30:29 EST_
+_Last Update: February 23, 2020 at 05:00:26 EST_
 ## Video added
 No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2129657 Power Players: 2  
+### 2129660
+**Power Players S01E06 - Swing Set Jet Set**  
+TV-Y7-FV 🔒 11:17  
+⌛ February 23, 2020 at 05:00:00 EST  
+[Open in app](https://tinyurl.com/vyxqq3v) or on the web: https://www.cartoonnetwork.com/video/power-players/swing-set-jet-set-episode.html  
+seriesid=`2129657` titleid=`2129660` mediaid=`023e9c7fac8a31c58dab3a83e3c24f2f5fa18db9`  
+_Axel and the team battle Princess SugarSalt for possession of Bearbarian's hammer, traded to her by one of their own - Galileo!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2129660_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129660_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129660_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129660_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129660_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129660_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129660_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129660_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129660_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129660_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129660_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129660_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129660_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129660_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129660_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129660_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129660_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129660_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129660_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129660_010_640x360.jpg" height="144px" /></a>
+### 2129665
+**Power Players S01E05 - Access Denied**  
+TV-Y7-FV 🔒 11:17  
+⌛ February 23, 2020 at 05:00:00 EST  
+[Open in app](https://tinyurl.com/uqh7tqf) or on the web: https://www.cartoonnetwork.com/video/power-players/access-denied-episode.html  
+seriesid=`2129657` titleid=`2129665` mediaid=`4f401ba1ff09579170575620bbba946ad462f550`  
+_When Axel and the team try to figure out what Sarge Charge's secret weapon is, they get ejected from the house by his newly upgraded security system and must fight their way back inside before Madcap does._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2129665_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129665_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129665_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129665_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129665_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129665_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129665_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129665_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129665_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129665_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129665_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129665_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129665_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129665_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129665_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129665_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129665_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129665_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129665_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129665_010_640x360.jpg" height="144px" /></a>
