@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1002261900070469",
+  "airingid": "RADS1001272000057636",
   "seasonnumber": "1",
   "seasonitemnumber": "29",
   "seriesid": "835928",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Gumball and Darwin make their dad believe in magic again.",
-  "duration": 707,
+  "duration": 708,
   "freewheelid": "cn-839532",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2012-01-25T00:30:00.000Z",
-  "pubdate": "2019-03-22T09:00:00.000Z",
-  "expdate": "2019-04-01T08:59:00.000Z",
+  "pubdate": "2020-02-24T10:00:00.000Z",
+  "expdate": "2020-03-02T09:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/839532_006_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1327451400000",
-  "pubdateasmilliseconds": "1553245200000",
-  "expdateasmilliseconds": "1554109140000",
+  "pubdateasmilliseconds": "1582538400000",
+  "expdateasmilliseconds": "1583143140000",
   "mediaid": "f627f4949066782d9d420c42eb7b2d1b254a3939",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
