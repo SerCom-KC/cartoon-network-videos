@@ -1231,7 +1231,7 @@
         "pubdate": "2019-12-13T10:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2198276_010_640x360.jpg",
         "authtype": "auth",
-        "expdate": "2020-03-02T10:00:00.000Z",
+        "expdate": "2020-12-31T05:00:00.000Z",
         "webflags": "",
         "tags": "2020 preview|mao - see it first",
         "titleid": "2198276",
@@ -1244,7 +1244,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1576231200000",
         "pubdateasmilliseconds": "1576231200000",
-        "expdateasmilliseconds": "1583143200000",
+        "expdateasmilliseconds": "1609390800000",
         "mediaid": "f2cb2c5e9c79d052bcaa89a99ea367bd2ae5d5cd",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
