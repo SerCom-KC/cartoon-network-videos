@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1007181900007433",
+  "airingid": "RADS1002272000067269",
   "seasonnumber": "7",
   "seasonitemnumber": "1",
   "seriesid": "10000000000",
@@ -20,9 +20,9 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2015-06-26T22:00:00.000Z",
-  "pubdate": "2019-08-01T09:00:00.000Z",
-  "expdate": "2019-08-08T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2056503_004_640x360.jpg",
+  "pubdate": "2020-03-02T10:00:00.000Z",
+  "expdate": "2020-03-09T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2056503_001_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Regular Show",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1435356000000",
-  "pubdateasmilliseconds": "1564650000000",
-  "expdateasmilliseconds": "1565254740000",
+  "pubdateasmilliseconds": "1583143200000",
+  "expdateasmilliseconds": "1583744340000",
   "mediaid": "f6f353c70b478f8ac72a0996862e7666e6701719",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

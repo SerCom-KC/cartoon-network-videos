@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1008021900011409",
+  "airingid": "RADS1002252000066275",
   "seasonnumber": "1",
   "seasonitemnumber": "22",
   "seriesid": "2011404",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Steven needs a musical partner for an upcoming show, and uses a time travel device to recruit the perfect bandmate, HIMSELF!",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2014415",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "2011404",
   "seriesname": "Steven Universe",
   "originalpremieredate": "2014-09-04T22:30:00.000Z",
-  "pubdate": "2019-08-26T22:00:00.000Z",
-  "expdate": "2019-09-02T21:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2014415_009_640x360.jpg",
+  "pubdate": "2020-03-02T10:00:00.000Z",
+  "expdate": "2020-04-01T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2014415_001_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
   "tags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Steven Universe",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1409869800000",
-  "pubdateasmilliseconds": "1566856800000",
-  "expdateasmilliseconds": "1567461540000",
+  "pubdateasmilliseconds": "1583143200000",
+  "expdateasmilliseconds": "1585731540000",
   "mediaid": "cb09077d0e3558d195d0921564a7c941e2e387f9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
