@@ -114,10 +114,23 @@
     </main>
     <footer>
         <p id="countdown">Loading...</p>
-        <p id="menu"></p><br>
+        <p id="menu"></p>
         <input type="checkbox" id="auto-refresh" name="auto-refresh" checked><label for="auto-refresh">Auto refresh</label>
         <input type="checkbox" id="use-guide-timestamp" name="use-guide-timestamp" onclick="loadData()"><label for="use-guide-timestamp">Use standard (guide) timestamp</label>
         <input type="checkbox" id="use-eastern-time" name="use-eastern-time" checked onclick="updateSettings()"><label for="use-eastern-time">Use Eastern times</label>
+        <select id="instance" onchange="switchInstance()">
+            <option value="as-east" selected>TOON (East)</option>
+            <option value="as-west">TOON (West)</option>
+            <option value="tbs-east">TBS (East)</option>
+            <option value="tbs-west">TBS (West)</option>
+            <option value="tnt-east">TNT (East)</option>
+            <option value="tnt-west">TNT (West)</option>
+            <option value="trutv-east">truTV (East)</option>
+            <option value="trutv-west">truTV (West)</option>
+            <option value="tcm">TCM</option>
+            <option value="cnnx">CNN</option>
+            <option value="nbatv">NBA TV</option>
+        </select>
         <p>UNOFFICIAL | Color codes by <a href="https://twitter.com/CNschedules">@CNschedules</a> | <a href="https://github.com/SerCom-KC/cartoon-network-schedule">GitHub</a></p>
     </footer>
     <script>
@@ -139,8 +152,12 @@
             }
         }
 
-        function scrollTo(e) {
-            document.querySelectorAll(e)[0].scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
+        function scrollTo(element, retry=false) {
+            try {
+                document.querySelectorAll(element)[0].scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
+            } catch(e) {
+                if (retry) setTimeout(scrollTo(element), 5000);
+            }
         }
 
         function padZero(number) {
@@ -151,7 +168,7 @@
             var i = 60;
             timer = setInterval(function() {
                 if (page_ready === 2) {
-                    scrollTo(".current");
+                    scrollTo(".current", true);
                     page_ready += 1;
                 }
                 countdown = document.getElementById("countdown");
@@ -171,9 +188,17 @@
             }, 1000);
         }
 
+        function switchInstance() {
+            document.getElementsByTagName("main")[0].innerHTML = "";
+            loadData();
+        }
+
         function parseSchedule (shows) {
             [].forEach.call(document.querySelectorAll(".current"), function (show) {
                 show.classList.remove("current");
+            });
+            [].forEach.call(document.querySelectorAll(".show"), function (show) {
+                show.classList.add("inactive");
             });
             shows.sort(function(prev, next) {return prev.show_timestamp - next.show_timestamp;});
             for (var i = 0; i < shows.length; i++) {
@@ -183,10 +208,10 @@
                     showDiv.id = "show-" + shows[i].show_id
                     document.getElementsByTagName("main")[0].appendChild(showDiv);
                 }
-                if (shows[i].status === "current") {showDiv.classList.add("current");}
-                else {showDiv.classList.remove("current");}
-                if (shows[i].status === "inactive") {showDiv.classList.add("inactive");}
-                else {showDiv.classList.remove("inactive");}
+                if (shows[i].status === "current") showDiv.classList.add("current");
+                else showDiv.classList.remove("current");
+                if (shows[i].status === "inactive") showDiv.classList.add("inactive");
+                else showDiv.classList.remove("inactive");
                 showDiv.classList.add("show");
                 showDiv.classList.add("franchise-" + shows[i].franchise_id);
                 if ("series_id" in shows[i]) showDiv.classList.add("series-" + shows[i].series_id);
@@ -201,14 +226,14 @@
                 seriesNameHTML = '<p class="series-name"><span class="show-timestamp">' + showTimestamp.toLocaleString("en-US", time_display_config).toLowerCase().replace(" ", "").replace("m", "") + "</span> ";
                 if (shows[i].series_name != "") {seriesNameHTML += shows[i].series_name;}
                 else {seriesNameHTML += shows[i].title;}
-                if ("episode_number" in shows[i]) {seriesNameHTML += ' <span class="episode-number">' + shows[i].episode_number + '</span>';}
+                if ("episode_number" in shows[i]) seriesNameHTML += ' <span class="episode-number">' + shows[i].episode_number + '</span>';
                 seriesNameHTML += '</p>';
                 showDiv.innerHTML = seriesNameHTML;
                 if (shows[i].series_name != "") showDiv.innerHTML += '<p class="title">' + shows[i].title + '</p>';
                 var minute = parseInt(showDuration / 60);
                 var second = parseInt(showDuration - minute * 60);
-                showDiv.innerHTML += '<p class="extra-info">' + shows[i].tv_rating + ' · ' + padZero(minute) + ':' + padZero(second) + '</p>'
-                showDiv.innerHTML += '<p class="summary">' + shows[i].summary + '</p>'
+                showDiv.innerHTML += '<p class="extra-info">' + shows[i].tv_rating + ' · ' + padZero(minute) + ':' + padZero(second) + '</p>';
+                if (shows[i].summary) showDiv.innerHTML += '<p class="summary">' + shows[i].summary + '</p>';
                 if (i < shows.length - 1) {
                     nextShowTimestamp = new Date(parseInt(shows[i+1].show_timestamp)*1000);
                     if (showTimestamp.toLocaleString("en-US", date_display_config) != nextShowTimestamp.toLocaleString("en-US", date_display_config)) {
@@ -231,14 +256,17 @@
                         first_load = false;
                         page_ready += 1;
                     }
+                    document.getElementById("menu").innerHTML += "<br>";
                     document.getElementById("menu").style.display = "initial";
                     update_lock = false;
+                    document.getElementById("instance").disabled = false;
                     countDown();
                 }
             }
         }
         function loadData() {
-            if (update_lock) { return; }
+            if (update_lock) return;
+            document.getElementById("instance").disabled = true;
             update_lock = true;
             clearInterval(timer);
             document.getElementById("countdown").innerText = "Loading...";
@@ -254,13 +282,18 @@
                 document.getElementById("colorcodes").href = "./colorcodes.css?v=" + colorcodes_etag;
             }};
             var xhr = new XMLHttpRequest();
-            xhr.open("GET", "https://time.ten.ngtv.io/v1/rundown?instance=as-east&endTime=2147483647&startTime=0")
+            xhr.open("GET", "https://time.ten.ngtv.io/v1/rundown?instance=" + document.getElementById("instance").value + "&endTime=2147483647&startTime=0")
             xhr.send();
             xhr.onreadystatechange = function () {
-            if (this.readyState === 4 && this.status === 200) {
-                var allShows = JSON.parse(this.responseText);
-                parseSchedule(allShows.shows);
-            }};
+                if (this.readyState === XMLHttpRequest.DONE) {
+                    if (this.status === 200) {
+                        var allShows = JSON.parse(this.responseText);
+                        parseSchedule(allShows.shows);
+                    } else {
+                        document.getElementById("countdown").innerText = "Connection failed, please try refreshing the page.";
+                    }
+                }
+            };
         }
         document.addEventListener('readystatechange', event => {
             if (event.target.readyState === "complete") {
