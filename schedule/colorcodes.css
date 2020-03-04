@@ -525,6 +525,13 @@
     border-color: #ffff98;
 }
 
+.franchise-459852, .series-2211157 { /* Genndy Tartakovksy's Primal */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #641300;
+    color: white;
+    border-color: white;
+}
+
 .franchise-462593, .series-2188073 { /* ThunderCats Roar! */
     font-family: "Avenir Std", sans-serif;
     background-color: #921029;
