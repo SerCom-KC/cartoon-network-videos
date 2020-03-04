@@ -1914,7 +1914,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2019-12-01T09:59:00.000Z",
         "pubdate": "2019-12-01T09:59:00.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-03-15T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2172450_009_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -1927,7 +1927,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1575194340000",
         "pubdateasmilliseconds": "1575194340000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1584262740000",
         "mediaid": "195766d2bb15875f5e09f1432001f951ae7136b4",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -3483,7 +3483,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020322",
+        "airingid": "RADS1009121900020091",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3526,7 +3526,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020091",
+        "airingid": "RADS1009121900020322",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -9525,7 +9525,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2019-12-01T09:59:00.000Z",
         "pubdate": "2019-12-01T09:59:00.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-03-15T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2172444_008_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -9538,7 +9538,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1575194340000",
         "pubdateasmilliseconds": "1575194340000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1584262740000",
         "mediaid": "638b11cb015be99a8d719e0a62121587485f781d",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -13846,7 +13846,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020324",
+        "airingid": "RADS1009121900020087",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -13889,7 +13889,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020087",
+        "airingid": "RADS1009121900020324",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -13911,7 +13911,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2019-12-01T09:59:00.000Z",
         "pubdate": "2019-12-01T09:59:00.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-03-07T09:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2172442_001_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -13924,7 +13924,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1575194340000",
         "pubdateasmilliseconds": "1575194340000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1583575140000",
         "mediaid": "8e5a90cc2f78ec601bd91bfb98981336bcbf4a18",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -18275,7 +18275,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -18318,7 +18318,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
