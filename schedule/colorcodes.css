@@ -107,6 +107,13 @@
     border-color: #696d69;
 }
 
+.franchise-304555, .series-322328 { /* Space Ghost Coast to Coast */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #fedb74;
+    color: black;
+    border-color: black;
+}
+
 .franchise-316905, .series-340537, .franchise-377032, .series-847246, .franchise-387072, .series-896639 { /* Aqua Teen Hunger Force / Aqua Unit Patrol Squad / Aqua Something You Know Whatever */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #b82717;
