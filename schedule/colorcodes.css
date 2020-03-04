@@ -420,6 +420,13 @@
     border-color: #f66e7a;
 }
 
+.franchise-444812, .series-2133085 { /* Final Space */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #6e5aa5;
+    color: white;
+    border-color: white;
+}
+
 .franchise-446772, .series-2137894 { /* Ballmastrz: 9009 */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #ea271c;
