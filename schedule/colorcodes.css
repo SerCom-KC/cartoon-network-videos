@@ -64,7 +64,7 @@
 /* Special (Cartoon Network) end */
 
 /* Movies (Cartoon Network) start */
-.franchise-327186 {
+.franchise-327186, .franchise-359849 {
     font-family: "Avenir Std", sans-serif;
     background-color: #bfbfbf;
     color: black;
@@ -78,7 +78,7 @@
     border-color: yellow;
 }
 
-.title-2191376 { /* Steven Universe the Movie */
+.title-2191376, .title-2219737 { /* Steven Universe the Movie / Steven Universe The Movie Sing-A-Long */
     font-family: "Avenir Std", sans-serif;
     background-color: #f04937;
     color: #ffdc4f;
