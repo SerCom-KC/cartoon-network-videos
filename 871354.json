@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1007181900007435",
+  "airingid": "RADS1003022000068543",
   "seasonnumber": "3",
   "seasonitemnumber": "38",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Everyone wants to give Pops some fuzzy dice for his birthday.",
-  "duration": 675,
+  "duration": 676,
   "freewheelid": "cn-871354",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2012-08-21T00:00:00.000Z",
-  "pubdate": "2019-08-22T09:00:00.000Z",
-  "expdate": "2019-08-29T08:59:00.000Z",
+  "pubdate": "2020-03-09T09:00:00.000Z",
+  "expdate": "2020-03-16T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/871354_008_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Regular Show",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1345507200000",
-  "pubdateasmilliseconds": "1566464400000",
-  "expdateasmilliseconds": "1567069140000",
+  "pubdateasmilliseconds": "1583744400000",
+  "expdateasmilliseconds": "1584349140000",
   "mediaid": "4bc8bcc7988b528cc8dd77520fd2ac7509d5023a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

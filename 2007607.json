@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1007181900007471",
+  "airingid": "RADS1003022000068648",
   "seasonnumber": "1",
   "seasonitemnumber": "9",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Uncle Grandpa shows up and mistakenly eats a kid's Egyptian diorama for school, he helps the kid bring an actual pyramid to class, but accidentally unleashes an evil mummy on the world.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2007607",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2013-10-08T00:00:00.000Z",
-  "pubdate": "2019-08-22T09:00:00.000Z",
-  "expdate": "2019-08-29T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2007607_003_640x360.jpg",
+  "pubdate": "2020-03-09T09:00:00.000Z",
+  "expdate": "2020-03-16T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2007607_005_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1381190400000",
-  "pubdateasmilliseconds": "1566464400000",
-  "expdateasmilliseconds": "1567069140000",
+  "pubdateasmilliseconds": "1583744400000",
+  "expdateasmilliseconds": "1584349140000",
   "mediaid": "fdb1d0bb2012a8f2131d9ea024672cd0c14167ac",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1006201900001051",
+  "airingid": "RADS1003022000068652",
   "seasonnumber": "1",
   "seasonitemnumber": "10",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When UG gets his head stuck in a peanut butter jar, Mr. Gus and Pizza Steve have to pretend to be UG and help a kid.",
-  "duration": 683,
+  "duration": 684,
   "freewheelid": "cn-2007608",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2013-10-15T00:00:00.000Z",
-  "pubdate": "2019-07-01T09:00:00.000Z",
-  "expdate": "2019-07-08T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2007608_007_640x360.jpg",
+  "pubdate": "2020-03-09T09:00:00.000Z",
+  "expdate": "2020-03-16T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2007608_001_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1381795200000",
-  "pubdateasmilliseconds": "1561971600000",
-  "expdateasmilliseconds": "1562576340000",
+  "pubdateasmilliseconds": "1583744400000",
+  "expdateasmilliseconds": "1584349140000",
   "mediaid": "dc539bef025a06c89a5c32b45609ce8de66c013a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
