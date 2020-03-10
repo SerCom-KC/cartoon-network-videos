@@ -3526,7 +3526,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020091",
+        "airingid": "RADS1009121900020322",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3569,7 +3569,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020322",
+        "airingid": "RADS1009121900020091",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -9784,7 +9784,7 @@
         "originalpremieredate": "2019-12-01T09:59:00.000Z",
         "pubdate": "2019-12-01T09:59:00.000Z",
         "expdate": "2020-03-15T08:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2172444_008_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2172444_007_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "espanol",
@@ -11590,7 +11590,7 @@
         "originalpremieredate": "2019-12-01T09:59:00.000Z",
         "pubdate": "2019-12-01T09:59:00.000Z",
         "expdate": "2020-03-15T08:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2172451_007_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2172451_002_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "espanol",
@@ -17008,7 +17008,7 @@
         "originalpremieredate": "2020-03-07T10:00:00.000Z",
         "pubdate": "2020-03-07T10:00:00.000Z",
         "expdate": "2020-03-15T08:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2172441_003_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2172441_008_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
@@ -18791,7 +18791,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -18834,7 +18834,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
