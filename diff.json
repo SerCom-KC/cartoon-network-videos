@@ -1,12 +1,11 @@
 {
-    "updated": 1584003626,
-    "added": [],
-    "removed": [
+    "updated": 1584005429,
+    "added": [
         {
-            "airingid": "RADS1001292000058442",
+            "airingid": "RADS1002272000067235",
             "seasonnumber": "1",
             "seasonitemnumber": "28",
-            "seriesid": "10000000000",
+            "seriesid": "2194742",
             "id": "3c7d83519c46bf2de310232772f467706ac6b232",
             "collectionid": "",
             "seofriendlyurl": "/video/ninjago/a-fragile-hope-episode.html",
@@ -21,15 +20,15 @@
             "isclip": false,
             "typesort": "1",
             "tvratingcode": "TV-Y7-FV",
-            "seriestitleid": "10000000000",
-            "seriesname": "Unlocked",
+            "seriestitleid": "2194742",
+            "seriesname": "Ninjago",
             "originalpremieredate": "2020-01-25T17:30:00.000Z",
-            "pubdate": "2020-02-28T10:00:00.000Z",
-            "expdate": "2020-03-12T09:00:00.000Z",
+            "pubdate": "2020-03-12T09:01:00.000Z",
+            "expdate": "2021-01-01T04:59:59.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2194770_002_640x360.jpg",
-            "authtype": "unauth",
+            "authtype": "auth",
             "webflags": "",
-            "tags": "unauth",
+            "tags": "",
             "titleid": "2194770",
             "titletype": "Episode",
             "bannertext": "",
@@ -37,13 +36,14 @@
             "originalseriesname": "Ninjago",
             "hasparent": false,
             "originalpremieredateasmilliseconds": "1579973400000",
-            "pubdateasmilliseconds": "1582884000000",
-            "expdateasmilliseconds": "1584003600000",
+            "pubdateasmilliseconds": "1584003660000",
+            "expdateasmilliseconds": "1609477199000",
             "mediaid": "3c7d83519c46bf2de310232772f467706ac6b232",
-            "isunlockedfullepisode": true,
-            "ismultipropertycollection": true,
+            "isunlockedfullepisode": false,
+            "ismultipropertycollection": false,
             "clipsonly": false,
             "includeshortform": false
         }
-    ]
+    ],
+    "removed": []
 }
