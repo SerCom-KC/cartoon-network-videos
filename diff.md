@@ -3,25 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: March 15, 2020 at 05:00:26 EDT_
+_Last Update: March 15, 2020 at 05:30:26 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 2085313 Ben 10: 2  
 ### 2193157
 **Ben 10 S04E09 - Queen of Bees**  
-TV-Y7-FV 🔒 11:16  
-⌛ March 15, 2020 at 05:00:00 EDT  
+TV-Y7-FV 🔓 11:16  
+⌛ March 29, 2020 at 04:59:00 EDT  
 [Open in app](https://tinyurl.com/tcday3a) or on the web: https://www.cartoonnetwork.com/video/ben-10/queen-of-bees-episode.html  
 seriesid=`2085313` titleid=`2193157` mediaid=`440c1048a1c65ed5398be433129f66a1a8dab1b5`  
 _Ben, Gwen and Grandpa Max arrive in Bismarck, North Dakota for its annual celebration of bee pollination, bringing them face-to-face with Queen Bee and a bold new scheme, forcing Ben to conquer his new fear of bees!_  
 <a href="https://s3.amazonaws.com/cartoonorchestrator/2193157_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193157_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193157_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193157_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193157_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193157_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193157_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193157_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193157_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193157_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193157_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193157_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193157_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193157_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193157_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193157_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193157_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193157_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193157_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193157_010_640x360.jpg" height="144px" /></a>
 ### 2193797
 **Ben 10 S04E10 - Falls, Falls, Falls**  
-TV-Y7-FV 🔒 11:16  
-⌛ March 15, 2020 at 05:00:00 EDT  
+TV-Y7-FV 🔓 11:16  
+⌛ March 29, 2020 at 04:59:00 EDT  
 [Open in app](https://tinyurl.com/sqrps62) or on the web: https://www.cartoonnetwork.com/video/ben-10/falls-falls-falls-episode.html  
 seriesid=`2085313` titleid=`2193797` mediaid=`7838aedafe104ddb0f6def1d0b702e67583ebd11`  
 _Team Tennyson looks to take in the sights of the Shoshone Falls, but when they arrive to find Steam Smythe siphoning off the water, it is up to Ben to distract the steam punk baddie long enough to allow Grandpa Max and Gwen the time to shut down the hydropower plant and save the Falls._  
 <a href="https://s3.amazonaws.com/cartoonorchestrator/2193797_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193797_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193797_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193797_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193797_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193797_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193797_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193797_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193797_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193797_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193797_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193797_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193797_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193797_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193797_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193797_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193797_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193797_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193797_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193797_010_640x360.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
