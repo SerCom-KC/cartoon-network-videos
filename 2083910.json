@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1007181900007423",
+  "airingid": "RADS1003022000068530",
   "seasonnumber": "1",
   "seasonitemnumber": "32",
   "seriesid": "2064567",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The girls get into trouble when left to entertain themselves on a rainy day.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2083910",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "2064567",
   "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2016-10-22T21:30:00.000Z",
-  "pubdate": "2019-08-22T09:00:00.000Z",
-  "expdate": "2019-09-03T08:59:00.000Z",
+  "pubdate": "2020-03-16T09:00:00.000Z",
+  "expdate": "2020-03-23T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2083910_001_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1477171800000",
-  "pubdateasmilliseconds": "1566464400000",
-  "expdateasmilliseconds": "1567501140000",
+  "pubdateasmilliseconds": "1584349200000",
+  "expdateasmilliseconds": "1584953940000",
   "mediaid": "095e6371950fe87714fad534bf34fd739780f5f5",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
