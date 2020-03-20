@@ -240,6 +240,14 @@
     border-color: #d61920;
 }
 
+.franchise-369632, .series-798427 { /* Check It Out! with Dr. Steve Brule */
+    /* TO-DO: Use lossless colorcodes */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #1862a6;
+    color: #4bf1ad;
+    border-color: #4bf1ad;
+}
+
 .franchise-374155, .series-830073 { /* Off The Air */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-image: linear-gradient(
