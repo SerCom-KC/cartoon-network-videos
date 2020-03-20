@@ -142,6 +142,13 @@
     border-color: #f37e1e;
 }
 
+.franchise-325518, .series-439722 { /* The Venture Bros. */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #89201b;
+    color: white;
+    border-color: white;
+}
+
 .franchise-325795, .series-440990 { /* Family Guy */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #00a1d4;
