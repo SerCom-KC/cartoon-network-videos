@@ -240,6 +240,13 @@
     border-color: #d61920;
 }
 
+.franchise-368594, .series-757073 { /* Adventure Time */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #a61d26;
+    color: white;
+    border-color: white;
+}
+
 .franchise-369632, .series-798427 { /* Check It Out! with Dr. Steve Brule */
     /* TO-DO: Use lossless colorcodes */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
