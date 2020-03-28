@@ -3,34 +3,17 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: March 28, 2020 at 05:00:26 EDT_
+_Last Update: March 28, 2020 at 05:30:27 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2133648 Apple & Onion: 1  
-2000349 Teen Titans Go!: 2  
-### 2208484
-**Apple & Onion S01E32 - Falafel's in Jail**  
-TV-Y7 🔓 11:18  
-⌛ March 28, 2020 at 04:59:00 EDT  
-[Open in app](https://tinyurl.com/trz9wqh) or on the web: https://www.cartoonnetwork.com/video/apple-and-onion/falafels-in-jail-episode.html  
-seriesid=`2133648` titleid=`2208484` mediaid=`0447fa521d085ed65065aacae5db42a00b788876`  
-_Apple & Onion must get Falafel out of jail for a crime he did not commit._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2208484_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208484_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208484_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208484_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208484_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208484_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208484_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208484_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208484_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208484_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208484_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208484_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208484_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208484_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208484_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208484_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208484_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208484_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208484_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208484_010_640x360.jpg" height="144px" /></a>
-### 2188580
-**Teen Titans Go! S05E28 - TV Knight 4**  
-TV-PG 🔓 10:16  
-⌛ March 28, 2020 at 04:59:00 EDT  
-[Open in app](https://tinyurl.com/yxua2yjb) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/tv-knight-4-episode.html  
-seriesid=`2000349` titleid=`2188580` mediaid=`44187b3d8046ecec9ccfcd701cc4b9ff334eb5af`  
-_Batman and Commissioner Gordon go camping but instead of fun outdoor activities they'd rather watch TV._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2188580_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188580_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188580_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188580_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188580_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188580_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188580_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188580_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188580_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188580_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188580_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188580_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188580_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188580_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188580_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188580_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188580_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188580_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188580_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188580_010_640x360.jpg" height="144px" /></a>
+2000349 Teen Titans Go!: 1  
 ### 2214544
 **Teen Titans Go! S06E10 - Record Book**  
-TV-PG 🔒 10:42  
-⌛ March 28, 2020 at 05:00:00 EDT  
+TV-PG 🔓 10:42  
+⌛ April 13, 2020 at 04:59:00 EDT  
 [Open in app](https://tinyurl.com/wy9qcwu) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/record-book-episode.html  
 seriesid=`2000349` titleid=`2214544` mediaid=`57abf685077c6524a32892e4da01620bbcaba8a6`  
 _Starfire wants a world record, so she decides to grow her fingernails._  
 <a href="https://s3.amazonaws.com/cartoonorchestrator/2214544_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214544_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214544_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214544_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214544_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214544_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214544_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214544_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214544_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214544_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214544_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214544_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214544_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214544_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214544_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214544_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214544_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214544_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214544_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214544_010_640x360.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
