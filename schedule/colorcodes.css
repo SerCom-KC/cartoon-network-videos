@@ -26,7 +26,7 @@
 }
 /* TOONAMI fonts end */
 
-/* Special (Cartoon Network) start */
+/* Special start */
 .franchise-324534 {
     font-family: "Avenir Std", sans-serif;
     background-color: #bfbfbf;
@@ -39,6 +39,13 @@
     background-color: #ffff00;
     color: black;
     border-color: black;
+}
+
+.title-2137405 { /* The Robot Chicken Walking Dead Special: Look Who's Walking */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #b30810;
+    color: #d9d9da;
+    border-color: #d9d9da;
 }
 
 .title-2149008 { /* Teen Titans Go! Titans vs. Santa */
