@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: March 30, 2020 at 10:30:28 EDT_
+_Last Update: March 30, 2020 at 11:00:27 EDT_
 ## Video added
-### Summary
-2200958 Ninjago en Espanol: 2 (2 new)  
-### 2200976
-**Ninjago en Espanol S01E?? - Un Aliado Peculiar**  
-🆕 TV-Y7-FV 🔒 11:01  
-⌛ January 1, 2021 at 23:59:59 EST  
-[Open in app](https://tinyurl.com/t4rvllp) or on the web: https://www.cartoonnetwork.com/video/espanol/un-aliado-peculiar-episode.html  
-seriesid=`2200958` titleid=`2200976` mediaid=`f44dfd04ff55817a9e32de8c6faec35e6def5382`  
-_Lloyd se enfrenta a los Samurais Blizzard del Emperador de Hielo, pero es rescatado por un lobo extraño con quien desarrolla una amistad peculiar._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2200976_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200976_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200976_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200976_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200976_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200976_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200976_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200976_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200976_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200976_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200976_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200976_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200976_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200976_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200976_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200976_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200976_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200976_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200976_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200976_010_640x360.jpg" height="144px" /></a>
-### 2200975
-**Ninjago en Espanol S01E?? - El Hacedor de Fuego**  
-🆕 TV-Y7-FV 🔒 11:01  
-⌛ January 1, 2021 at 23:59:59 EST  
-[Open in app](https://tinyurl.com/tb5kn8u) or on the web: https://www.cartoonnetwork.com/video/espanol/el-hacedor-de-fuego-episode.html  
-seriesid=`2200958` titleid=`2200975` mediaid=`2044db335520ffc9c27acdda0601d04965100b93`  
-_El Emperador de Hielo se entera de la llegada de los ninjas y envía a sus guerreros Samurais Blizzard a destruirlos, y a todos los aldeanos que los albergaron._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2200975_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200975_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200975_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200975_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200975_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200975_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200975_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200975_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200975_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200975_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200975_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200975_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200975_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200975_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200975_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200975_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200975_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200975_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200975_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200975_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
