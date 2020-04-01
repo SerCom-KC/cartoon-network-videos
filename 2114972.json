@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1008161900013718",
+  "airingid": "RADS1003252000076665",
   "seasonnumber": "4",
   "seasonitemnumber": "18",
   "seriesid": "2000349",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "It's Easter and the Tooth Fairy is trying to take over the holiday.\n",
-  "duration": 630,
+  "duration": 631,
   "freewheelid": "cn-2114972",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "2000349",
   "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2017-04-14T22:00:00.000Z",
-  "pubdate": "2019-08-18T09:00:00.000Z",
-  "expdate": "2019-09-01T08:59:40.000Z",
+  "pubdate": "2020-04-01T09:00:00.000Z",
+  "expdate": "2020-05-01T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2114972_010_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1492207200000",
-  "pubdateasmilliseconds": "1566118800000",
-  "expdateasmilliseconds": "1567328380000",
+  "pubdateasmilliseconds": "1585731600000",
+  "expdateasmilliseconds": "1588323540000",
   "mediaid": "25d1f245c1f3444728ce104feff3d2970bf10a0d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

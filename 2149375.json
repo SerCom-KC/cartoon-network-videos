@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1009041900018848",
+  "airingid": "RADS1003272000077502",
   "seasonnumber": "6",
   "seasonitemnumber": "6",
   "seriesid": "835928",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When Frankie attends a party at The Watterson's he realizes it's a holiday Granny Jojo made up to celebrate the day he left. Richard is feeling sad about the years he lost with Frankie so the kids try anything to cheer him up.\n",
-  "duration": 685,
+  "duration": 686,
   "freewheelid": "cn-2149375",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2018-01-26T23:00:00.000Z",
-  "pubdate": "2019-09-10T09:00:00.000Z",
-  "expdate": "2019-09-17T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2149375_002_640x360.jpg",
+  "pubdate": "2020-04-01T09:00:00.000Z",
+  "expdate": "2020-04-08T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2149375_004_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1517007600000",
-  "pubdateasmilliseconds": "1568106000000",
-  "expdateasmilliseconds": "1568710740000",
+  "pubdateasmilliseconds": "1585731600000",
+  "expdateasmilliseconds": "1586336340000",
   "mediaid": "0c8abc210b2ee62cafb5532f6f06c93be9d35ed7",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

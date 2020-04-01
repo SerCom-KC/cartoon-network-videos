@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1008291900017077",
+  "airingid": "RADS1003252000076485",
   "seasonnumber": "3",
   "seasonitemnumber": "16",
   "seriesid": "835928",
@@ -20,12 +20,12 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2014-09-11T23:00:00.000Z",
-  "pubdate": "2019-09-03T09:00:00.000Z",
-  "expdate": "2019-09-27T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2014444_002_640x360.jpg",
+  "pubdate": "2020-04-01T09:00:00.000Z",
+  "expdate": "2020-05-01T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2014444_004_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
-  "tags": "vod",
+  "tags": "",
   "titleid": "2014444",
   "titletype": "Element",
   "bannertext": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1410476400000",
-  "pubdateasmilliseconds": "1567501200000",
-  "expdateasmilliseconds": "1569574740000",
+  "pubdateasmilliseconds": "1585731600000",
+  "expdateasmilliseconds": "1588323540000",
   "mediaid": "bb9a70f99ddbe79acac352993f687fd84688b6aa",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

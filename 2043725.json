@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1009031900017990",
+  "airingid": "RADS1003252000076516",
   "seasonnumber": "1",
   "seasonitemnumber": "42",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "While Clarence spends a lazy Saturday playing 8-bit adventure game Dragon's Cusp, Mary asks him to return some mail to the guy across the street Chalmers Santiago, whom they've never seen. Clarence makes it his mission to befriend the mysterious neighbor, only to find out it's someone he knows quite well.",
-  "duration": 684,
+  "duration": 685,
   "freewheelid": "cn-2043725",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2015-07-21T22:00:00.000Z",
-  "pubdate": "2019-09-03T04:00:00.000Z",
-  "expdate": "2019-09-27T08:59:00.000Z",
+  "pubdate": "2020-04-01T09:00:00.000Z",
+  "expdate": "2020-04-08T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2043725_007_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Clarence",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1437516000000",
-  "pubdateasmilliseconds": "1567483200000",
-  "expdateasmilliseconds": "1569574740000",
+  "pubdateasmilliseconds": "1585731600000",
+  "expdateasmilliseconds": "1586336340000",
   "mediaid": "e66c3a53d60786695de16fc1746e520f9d32f63d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

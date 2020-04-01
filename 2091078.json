@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1005291900095433",
+  "airingid": "RADS1003252000076588",
   "seasonnumber": "1",
   "seasonitemnumber": "44",
   "seriesid": "2079533",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A Real Magic Skeleton discovers a new job opportunity.",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-2091078",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "2079533",
   "seriesname": "OK K.O.!",
   "originalpremieredate": "2018-02-26T23:30:00.000Z",
-  "pubdate": "2019-06-10T09:00:00.000Z",
-  "expdate": "2019-07-01T08:59:21.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2091078_003_640x360.jpg",
+  "pubdate": "2020-04-01T09:00:00.000Z",
+  "expdate": "2020-05-01T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2091078_010_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
   "tags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "OK K.O.!",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1519687800000",
-  "pubdateasmilliseconds": "1560157200000",
-  "expdateasmilliseconds": "1561971561000",
+  "pubdateasmilliseconds": "1585731600000",
+  "expdateasmilliseconds": "1588323540000",
   "mediaid": "06b655936a7da47bc9cd624e0da7f04119c57a2b",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": true,
+  "includeshortform": false
 }
