@@ -2991,7 +2991,7 @@
         "pubdate": "2020-04-01T09:00:00.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2196839_009_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
         "titleid": "2196839",
@@ -3827,7 +3827,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020322",
+        "airingid": "RADS1009121900020091",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3870,7 +3870,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020091",
+        "airingid": "RADS1009121900020322",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -12923,8 +12923,8 @@
         "originalpremieredate": "2020-04-01T09:00:00.000Z",
         "pubdate": "2020-04-01T09:00:00.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2197799_006_640x360.jpg",
-        "authtype": "auth",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2197799_008_640x360.jpg",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
         "titleid": "2197799",
@@ -24749,7 +24749,7 @@
         "pubdate": "2020-04-01T09:00:00.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2197800_003_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
         "titleid": "2197800",
