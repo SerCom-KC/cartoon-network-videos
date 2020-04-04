@@ -752,7 +752,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050006",
+        "airingid": "RADS1012251900049932",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -795,7 +795,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049932",
+        "airingid": "RADS1012251900050006",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1145,7 +1145,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049946",
+        "airingid": "RADS1012251900049901",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1188,7 +1188,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049901",
+        "airingid": "RADS1012251900049946",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1627,7 +1627,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049943",
+        "airingid": "RADS1012251900049893",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1670,7 +1670,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049893",
+        "airingid": "RADS1012251900049943",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1845,7 +1845,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049923",
+        "airingid": "RADS1012251900049885",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1888,7 +1888,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049885",
+        "airingid": "RADS1012251900049923",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1975,6 +1975,49 @@
         "mediaid": "76a67e0833def37b6422f0760d2b6e7b86bda3e5",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
+    },
+    {
+        "airingid": "RADS1012251900049891",
+        "seasonnumber": "",
+        "seasonitemnumber": "",
+        "seriesid": "2011404",
+        "id": "79567c4588a7e2a44ba38b4b05f7684bde5b43f7",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe/be-wherever-you-are-music-video-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Be Wherever You Are Music Video",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Music and lyrics by Rebecca Sugar. Additional music by Aivi Tran, Steven Velema, and Patti Rudisill. Performed by Zach Callison.",
+        "duration": 148,
+        "freewheelid": "cn-2132165",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "2011404",
+        "seriesname": "Steven Universe",
+        "originalpremieredate": "2020-01-01T05:00:59.000Z",
+        "pubdate": "2020-01-01T05:00:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2132165_003_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts|music video|vod",
+        "titleid": "2132165",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2011404",
+        "originalseriesname": "Steven Universe",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1577854859000",
+        "pubdateasmilliseconds": "1577854859000",
+        "expdateasmilliseconds": "1609477199000",
+        "mediaid": "79567c4588a7e2a44ba38b4b05f7684bde5b43f7",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
     },
     {
         "airingid": "RADS1012251900049936",
@@ -2109,7 +2152,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049873",
+        "airingid": "RADS1012251900049926",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2152,7 +2195,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049926",
+        "airingid": "RADS1012251900049873",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2800,7 +2843,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049952",
+        "airingid": "RADS1012251900049900",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2843,7 +2886,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049900",
+        "airingid": "RADS1012251900049952",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2929,7 +2972,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049954",
+        "airingid": "RADS1012251900049941",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2972,7 +3015,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049941",
+        "airingid": "RADS1012251900049954",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3061,7 +3104,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049947",
+        "airingid": "RADS1012251900049939",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3104,7 +3147,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049939",
+        "airingid": "RADS1012251900049947",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3319,7 +3362,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049886",
+        "airingid": "RADS1012251900049921",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3362,7 +3405,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049921",
+        "airingid": "RADS1012251900049886",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3626,7 +3669,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049899",
+        "airingid": "RADS1012251900049949",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3669,7 +3712,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049949",
+        "airingid": "RADS1012251900049899",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
