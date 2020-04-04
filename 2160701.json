@@ -1322,10 +1322,10 @@
         "originalpremieredate": "2020-04-01T09:00:00.000Z",
         "pubdate": "2020-04-01T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2180947_006_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "expdate": "2021-01-01T04:59:59.000Z",
         "webflags": "",
-        "tags": "v&v underworld",
+        "tags": "v&v underworld|unauth",
         "titleid": "2180947",
         "titletype": "Episode",
         "bannertext": "LATEST EPISODE",
@@ -1338,7 +1338,7 @@
         "pubdateasmilliseconds": "1585731600000",
         "expdateasmilliseconds": "1609477199000",
         "mediaid": "a03761884dff923a6289045fbc9c99739f3da49e",
-        "isunlockedfullepisode": false,
+        "isunlockedfullepisode": true,
         "ismultipropertycollection": false
     },
     {
