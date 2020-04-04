@@ -623,7 +623,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049928",
+        "airingid": "RADS1012251900049951",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -666,7 +666,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049951",
+        "airingid": "RADS1012251900049928",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -752,7 +752,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049932",
+        "airingid": "RADS1012251900050006",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -795,7 +795,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050006",
+        "airingid": "RADS1012251900049932",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -967,7 +967,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049916",
+        "airingid": "RADS1012251900049888",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1010,7 +1010,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049888",
+        "airingid": "RADS1012251900049916",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1452,7 +1452,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900050008",
+        "airingid": "RADS1012251900049897",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1495,7 +1495,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049897",
+        "airingid": "RADS1012251900050008",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1845,7 +1845,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049923",
+        "airingid": "RADS1012251900049885",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1888,7 +1888,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049885",
+        "airingid": "RADS1012251900049923",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2109,7 +2109,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049926",
+        "airingid": "RADS1012251900049873",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2152,7 +2152,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049873",
+        "airingid": "RADS1012251900049926",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2880,6 +2880,49 @@
         "pubdateasmilliseconds": "1567465140000",
         "expdateasmilliseconds": "1609477199000",
         "mediaid": "c08ab113d43997fdcbcb50665a0806c0e682347d",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1012251900049941",
+        "seasonnumber": "3",
+        "seasonitemnumber": "",
+        "seriesid": "2011404",
+        "id": "cccebaa855dc8c30468ab9dcd13c395368165e06",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe/something-entirely-new-music-video-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Something Entirely New Music Video",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Music and lyrics by Rebecca Sugar. Additional music by Aivi Tran and Steven Velema. Performed by Erica Luttrell and Charlyne Yi.",
+        "duration": 160,
+        "freewheelid": "cn-2133133",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "2011404",
+        "seriesname": "Steven Universe",
+        "originalpremieredate": "2020-01-01T05:00:59.000Z",
+        "pubdate": "2020-01-01T05:00:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2133133_004_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "music video|shorts|vod",
+        "titleid": "2133133",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2011404",
+        "originalseriesname": "Steven Universe",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1577854859000",
+        "pubdateasmilliseconds": "1577854859000",
+        "expdateasmilliseconds": "1609477199000",
+        "mediaid": "cccebaa855dc8c30468ab9dcd13c395368165e06",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
@@ -3620,6 +3663,49 @@
         "pubdateasmilliseconds": "1577854859000",
         "expdateasmilliseconds": "1609477199000",
         "mediaid": "f142708c24d720b40626c72a655c54bb3b2ca4ec",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1012251900049895",
+        "seasonnumber": "2",
+        "seasonitemnumber": "",
+        "seriesid": "2011404",
+        "id": "f3a8d5501be74595e9a29e892f57bcbffab3805d",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe/stronger-than-you-music-video-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Stronger Than You Music Video",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Music by Rebecca Sugar, Jeff Liu, Aivi Tran and Steven Velema. Lyrics by Rebecca Sugar. Performed by Estelle.",
+        "duration": 235,
+        "freewheelid": "cn-2133131",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "2011404",
+        "seriesname": "Steven Universe",
+        "originalpremieredate": "2020-01-01T05:00:59.000Z",
+        "pubdate": "2020-01-01T05:00:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2133131_001_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts|music video|vod",
+        "titleid": "2133131",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2011404",
+        "originalseriesname": "Steven Universe",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1577854859000",
+        "pubdateasmilliseconds": "1577854859000",
+        "expdateasmilliseconds": "1609477199000",
+        "mediaid": "f3a8d5501be74595e9a29e892f57bcbffab3805d",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
