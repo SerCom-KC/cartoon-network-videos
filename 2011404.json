@@ -623,7 +623,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049928",
+        "airingid": "RADS1012251900049951",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -666,7 +666,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049951",
+        "airingid": "RADS1012251900049928",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -752,7 +752,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050006",
+        "airingid": "RADS1012251900049932",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -795,7 +795,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049932",
+        "airingid": "RADS1012251900050006",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1145,7 +1145,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049946",
+        "airingid": "RADS1012251900049901",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1188,7 +1188,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049901",
+        "airingid": "RADS1012251900049946",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1845,7 +1845,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049923",
+        "airingid": "RADS1012251900049885",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1888,7 +1888,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049885",
+        "airingid": "RADS1012251900049923",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2152,7 +2152,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049926",
+        "airingid": "RADS1012251900049873",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2195,7 +2195,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049873",
+        "airingid": "RADS1012251900049926",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3104,7 +3104,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049947",
+        "airingid": "RADS1012251900049939",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3147,7 +3147,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049939",
+        "airingid": "RADS1012251900049947",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3491,6 +3491,49 @@
         "includeshortform": false
     },
     {
+        "airingid": "RADS1012251900049883",
+        "seasonnumber": "2",
+        "seasonitemnumber": "",
+        "seriesid": "2011404",
+        "id": "dd95d9a5444bd16ebfe6dafeb3cd2d5716f55bba",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe/we-are-the-crystal-gems-episode.html",
+        "seasonepisodenumber": "",
+        "title": "We Are the Crystal Gems",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Steven starts his life with the Crystal Gems in this extended version of the Steven Universe theme song.",
+        "duration": 253,
+        "freewheelid": "cn-2056371",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "2011404",
+        "seriesname": "Steven Universe",
+        "originalpremieredate": "2020-01-01T05:00:59.000Z",
+        "pubdate": "2020-01-01T05:00:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2056371_002_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts|vod",
+        "titleid": "2056371",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2011404",
+        "originalseriesname": "Steven Universe",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1577854859000",
+        "pubdateasmilliseconds": "1577854859000",
+        "expdateasmilliseconds": "1609477199000",
+        "mediaid": "dd95d9a5444bd16ebfe6dafeb3cd2d5716f55bba",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
         "airingid": "RADS1008021900011378",
         "seasonnumber": "5",
         "seasonitemnumber": "8",
@@ -3669,49 +3712,6 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049949",
-        "seasonnumber": "5",
-        "seasonitemnumber": "",
-        "seriesid": "2011404",
-        "id": "f142708c24d720b40626c72a655c54bb3b2ca4ec",
-        "collectionid": "",
-        "seofriendlyurl": "/video/steven-universe/mystery-of-rose-quartz-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Mystery of Rose Quartz",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Recap of previous events before Steven learns more about what happened to Rose Quartz.",
-        "duration": 229,
-        "freewheelid": "cn-2120902",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "2011404",
-        "seriesname": "Steven Universe",
-        "originalpremieredate": "2020-01-01T05:00:59.000Z",
-        "pubdate": "2020-01-01T05:00:59.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2120902_009_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts|vod",
-        "titleid": "2120902",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2011404",
-        "originalseriesname": "Steven Universe",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1577854859000",
-        "pubdateasmilliseconds": "1577854859000",
-        "expdateasmilliseconds": "1609477199000",
-        "mediaid": "f142708c24d720b40626c72a655c54bb3b2ca4ec",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
         "airingid": "RADS1012251900049899",
         "seasonnumber": "5",
         "seasonitemnumber": "",
@@ -3755,7 +3755,50 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049955",
+        "airingid": "RADS1012251900049949",
+        "seasonnumber": "5",
+        "seasonitemnumber": "",
+        "seriesid": "2011404",
+        "id": "f142708c24d720b40626c72a655c54bb3b2ca4ec",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe/mystery-of-rose-quartz-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Mystery of Rose Quartz",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Recap of previous events before Steven learns more about what happened to Rose Quartz.",
+        "duration": 229,
+        "freewheelid": "cn-2120902",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "2011404",
+        "seriesname": "Steven Universe",
+        "originalpremieredate": "2020-01-01T05:00:59.000Z",
+        "pubdate": "2020-01-01T05:00:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2120902_009_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts|vod",
+        "titleid": "2120902",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2011404",
+        "originalseriesname": "Steven Universe",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1577854859000",
+        "pubdateasmilliseconds": "1577854859000",
+        "expdateasmilliseconds": "1609477199000",
+        "mediaid": "f142708c24d720b40626c72a655c54bb3b2ca4ec",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1012251900049895",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3798,7 +3841,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049895",
+        "airingid": "RADS1012251900049955",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
