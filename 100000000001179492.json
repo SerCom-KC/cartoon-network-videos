@@ -20468,7 +20468,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -20511,7 +20511,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -24774,7 +24774,7 @@
         "seriesid": "100000000001179492",
         "id": "e4a9e1a85af36ea500944e3a0106ec54c68501bc",
         "collectionid": "",
-        "seofriendlyurl": "/video/ninjago-en-espanol/las-noticias-nunca-duermen-episode.html",
+        "seofriendlyurl": "/video/espanol/las-noticias-nunca-duermen-episode.html",
         "seasonepisodenumber": "6",
         "title": "Las Noticias Nunca Duermen",
         "episodenumber": "6",
@@ -24790,9 +24790,9 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2020-03-02T10:00:00.000Z",
         "pubdate": "2020-03-02T10:00:00.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-04-13T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2200964_007_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
         "titleid": "2200964",
@@ -24803,7 +24803,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1583143200000",
         "pubdateasmilliseconds": "1583143200000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1586768400000",
         "mediaid": "e4a9e1a85af36ea500944e3a0106ec54c68501bc",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
