@@ -3870,7 +3870,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020322",
+        "airingid": "RADS1009121900020091",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3913,7 +3913,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020091",
+        "airingid": "RADS1009121900020322",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -7918,7 +7918,7 @@
         "seriesid": "100000000001179492",
         "id": "4da27235c83852581b263ee5b24a439b3cec863e",
         "collectionid": "",
-        "seofriendlyurl": "/video/ninjago-en-espanol/trampas-y-como-sobrevivir-a-ellas-episode.html",
+        "seofriendlyurl": "/video/espanol/trampas-y-como-sobrevivir-a-ellas-episode.html",
         "seasonepisodenumber": "5",
         "title": "Trampas y Como Sobrevivir a Ellas",
         "episodenumber": "5",
@@ -7934,9 +7934,9 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2020-03-02T10:00:00.000Z",
         "pubdate": "2020-03-02T10:00:00.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-04-13T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2200963_005_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
         "titleid": "2200963",
@@ -7947,7 +7947,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1583143200000",
         "pubdateasmilliseconds": "1583143200000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1586768400000",
         "mediaid": "4da27235c83852581b263ee5b24a439b3cec863e",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
