@@ -587,3 +587,10 @@
     color: #e6c130;
     border-color: #e6c130;
 }
+
+.franchise-464252, .series-2224853 { /* No Data Available (Adult Swim April Fool's Day 2020) */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+    border-color: black;
+}
