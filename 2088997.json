@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003251900076031",
+  "airingid": "RADS1003302000078137",
   "seasonnumber": "5",
   "seasonitemnumber": "2",
   "seriesid": "835928",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Gumball and Darwin put Anais' new friend, Josh, through a series of tests, to see if he's good enough for their sister. However, when the boys' extreme methods start freaking Josh out, he questions whether being Anais's friend is worth the trouble. So Gumball and Darwin end up having to convince Josh to give Anais a second chance.",
-  "duration": 685,
+  "duration": 686,
   "freewheelid": "cn-2088997",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2016-09-08T21:00:00.000Z",
-  "pubdate": "2019-04-08T09:00:00.000Z",
-  "expdate": "2019-04-15T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2088997_008_640x360.jpg",
+  "pubdate": "2020-04-08T09:00:00.000Z",
+  "expdate": "2020-04-15T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2088997_003_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1473368400000",
-  "pubdateasmilliseconds": "1554714000000",
-  "expdateasmilliseconds": "1555318740000",
+  "pubdateasmilliseconds": "1586336400000",
+  "expdateasmilliseconds": "1586941140000",
   "mediaid": "05efb2464e382181f10e8fa2c3f23b60d0ae57e7",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
