@@ -88,7 +88,7 @@
     {
         "airingid": "RADS1003252000076660",
         "seasonnumber": "5",
-        "groupid": 7,
+        "groupid": 1,
         "groupcontentid": "47849",
         "groupname": "EASTER WITH THE TITANS",
         "seasonitemnumber": "27",
@@ -263,7 +263,7 @@
     {
         "airingid": "RADS1003252000076665",
         "seasonnumber": "4",
-        "groupid": 7,
+        "groupid": 1,
         "groupcontentid": "47849",
         "groupname": "EASTER WITH THE TITANS",
         "seasonitemnumber": "18",
@@ -524,7 +524,7 @@
     {
         "airingid": "RADS1003252000076666",
         "seasonnumber": "5",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "60285",
         "groupname": "TEEN TITANS GO FORCE!",
         "seasonitemnumber": "53",
@@ -828,7 +828,7 @@
     {
         "airingid": "RADS1012041900043215",
         "seasonnumber": "6",
-        "groupid": 4,
+        "groupid": 5,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "4",
@@ -1132,7 +1132,7 @@
     {
         "airingid": "RADS1012041900043212",
         "seasonnumber": "6",
-        "groupid": 4,
+        "groupid": 5,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "2",
@@ -1436,7 +1436,7 @@
     {
         "airingid": "RADS1003252000076661",
         "seasonnumber": "5",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "60285",
         "groupname": "TEEN TITANS GO FORCE!",
         "seasonitemnumber": "52",
@@ -1955,7 +1955,7 @@
     {
         "airingid": "RADS1012041900043213",
         "seasonnumber": "6",
-        "groupid": 4,
+        "groupid": 5,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "1",
@@ -2130,7 +2130,7 @@
     {
         "airingid": "RADS1012041900043214",
         "seasonnumber": "6",
-        "groupid": 4,
+        "groupid": 5,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "3",
@@ -2348,7 +2348,7 @@
     {
         "airingid": "RADS1003252000076663",
         "seasonnumber": "3",
-        "groupid": 7,
+        "groupid": 1,
         "groupcontentid": "47849",
         "groupname": "EASTER WITH THE TITANS",
         "seasonitemnumber": "27",
