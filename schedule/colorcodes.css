@@ -26,75 +26,19 @@
 }
 /* TOONAMI fonts end */
 
-/* Special start */
+/* Specials start */
 .franchise-324534 {
     font-family: "Avenir Std", sans-serif;
     background-color: #bfbfbf;
     color: black;
     border-color: black;
 }
-
-.title-2098468 { /* Teen Titans Go!: Island Adventures */
-    font-family: "Avenir Std", sans-serif;
-    background-color: #ffff00;
-    color: black;
-    border-color: black;
-}
-
-.title-2137405 { /* The Robot Chicken Walking Dead Special: Look Who's Walking */
-    font-family: "Helvetica Neue", Helvetica, sans-serif;
-    background-color: #b30810;
-    color: #d9d9da;
-    border-color: #d9d9da;
-}
-
-.title-2149008 { /* Teen Titans Go! Titans vs. Santa */
-    font-family: "Avenir Std", sans-serif;
-    background-color: #ffff00;
-    color: black;
-    border-color: black;
-}
-
-.title-2159877 { /* Teen Titans Go! in Love: Beast Boy & Raven */
-    font-family: "Avenir Std", sans-serif;
-    background-color: #ffff00;
-    color: black;
-    border-color: black;
-}
-
-.title-2159879 { /* The Amazing Dates of Gumball & Penny */
-    font-family: "Avenir Std", sans-serif;
-    background-color: #48c1e4;
-    color: black;
-    border-color: black;
-}
-/* Special (Cartoon Network) end */
+/* Specials end */
 
 /* Movies (Cartoon Network) start */
 .franchise-327186, .franchise-359849 {
     font-family: "Avenir Std", sans-serif;
     background-color: #bfbfbf;
-    color: black;
-    border-color: black;
-}
-
-.title-649826 { /* Teen Titans: Trouble in Tokyo */
-    font-family: "Avenir Std", sans-serif;
-    background-color: black;
-    color: yellow;
-    border-color: yellow;
-}
-
-.title-2191376, .title-2219737 { /* Steven Universe the Movie / Steven Universe The Movie Sing-A-Long */
-    font-family: "Avenir Std", sans-serif;
-    background-color: #f04937;
-    color: #ffdc4f;
-    border-color: #ffdc4f;
-}
-
-.title-2214278 { /* Teen Titans Go! vs. Teen Titans */
-    font-family: "Avenir Std", sans-serif;
-    background-color: #ffff00;
     color: black;
     border-color: black;
 }
@@ -163,7 +107,8 @@
     border-color: black;
 }
 
-.franchise-326561, .series-444972 { /* Teen Titans */
+.franchise-326561, .series-444972, /* Teen Titans */
+.title-649826 { /* Teen Titans: Trouble in Tokyo */
     font-family: "Avenir Std", sans-serif;
     background-color: black;
     color: yellow;
@@ -177,7 +122,8 @@
     border-color: black;
 }
 
-.franchise-331864, .series-608360 { /* Robot Chicken */
+.franchise-331864, .series-608360, /* Robot Chicken */
+.title-2137405 { /* The Robot Chicken Walking Dead Special: Look Who's Walking */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #b30810;
     color: #d9d9da;
@@ -280,7 +226,8 @@
     border-color: #fb7f75;
 }
 
-.franchise-376453, .series-835928 { /* The Amazing World of Gumball */
+.franchise-376453, .series-835928, /* The Amazing World of Gumball */
+.title-2159879 { /* The Amazing Dates of Gumball & Penny */
     font-family: "Avenir Std", sans-serif;
     background-color: #48c1e4;
     color: black;
@@ -308,9 +255,11 @@
     border-color: #fff8e6;
 }
 
-.franchise-393474, .series-2000349 { /* Teen Titans Go! */
+.franchise-393474, .series-2000349, /* Teen Titans Go! */
+.title-2098468, .title-2149008, .title-2159877, /* Teen Titans Go!: Island Adventures / Teen Titans Go! Titans vs. Santa / Teen Titans Go! in Love: Beast Boy & Raven */
+.title-2214278 { /* Teen Titans Go! vs. Teen Titans */
     font-family: "Avenir Std", sans-serif;
-    background-color: #ffff00;
+    background-color: yellow;
     color: black;
     border-color: black;
 }
@@ -329,7 +278,8 @@
     border-color: #7bd349;
 }
 
-.franchise-399692, .series-2011404, .franchise-461193, .series-2208494 { /* Steven Universe / Steven Universe Future */
+.franchise-399692, .series-2011404, .franchise-461193, .series-2208494, /* Steven Universe / Steven Universe Future */
+.title-2191376, .title-2219737 { /* Steven Universe the Movie / Steven Universe The Movie Sing-A-Long */
     font-family: "Avenir Std", sans-serif;
     background-color: #f04937;
     color: #ffdc4f;
