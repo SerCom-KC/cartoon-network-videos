@@ -524,7 +524,7 @@
     {
         "airingid": "RADS1003252000076666",
         "seasonnumber": "5",
-        "groupid": 4,
+        "groupid": 5,
         "groupcontentid": "60285",
         "groupname": "TEEN TITANS GO FORCE!",
         "seasonitemnumber": "53",
@@ -742,7 +742,7 @@
     {
         "airingid": "RADS1003302000078311",
         "seasonnumber": "4",
-        "groupid": 10,
+        "groupid": 2,
         "groupcontentid": "43280",
         "groupname": "FLASHBACK",
         "seasonitemnumber": "48",
@@ -917,7 +917,7 @@
     {
         "airingid": "RADS1012041900043215",
         "seasonnumber": "6",
-        "groupid": 5,
+        "groupid": 6,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "4",
@@ -1006,7 +1006,7 @@
     {
         "airingid": "RADS1003302000078309",
         "seasonnumber": "4",
-        "groupid": 10,
+        "groupid": 2,
         "groupcontentid": "43280",
         "groupname": "FLASHBACK",
         "seasonitemnumber": "49",
@@ -1224,7 +1224,7 @@
     {
         "airingid": "RADS1012041900043212",
         "seasonnumber": "6",
-        "groupid": 5,
+        "groupid": 6,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "2",
@@ -1528,7 +1528,7 @@
     {
         "airingid": "RADS1003252000076661",
         "seasonnumber": "5",
-        "groupid": 4,
+        "groupid": 5,
         "groupcontentid": "60285",
         "groupname": "TEEN TITANS GO FORCE!",
         "seasonitemnumber": "52",
@@ -2004,7 +2004,7 @@
     {
         "airingid": "RADS1012041900043213",
         "seasonnumber": "6",
-        "groupid": 5,
+        "groupid": 6,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "1",
@@ -2179,7 +2179,7 @@
     {
         "airingid": "RADS1012041900043214",
         "seasonnumber": "6",
-        "groupid": 5,
+        "groupid": 6,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "3",
