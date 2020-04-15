@@ -473,7 +473,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012201900048554",
+        "airingid": "RADS1012201900048499",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2007332",
@@ -516,7 +516,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012201900048499",
+        "airingid": "RADS1012201900048554",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2007332",
@@ -690,14 +690,14 @@
     {
         "airingid": "RADS1012201900048496",
         "seasonnumber": "2",
-        "seasonitemnumber": "",
+        "seasonitemnumber": "2",
         "seriesid": "2007332",
         "id": "8276cead1dbe58b8ea4a271df38c6270fd8c41e1",
         "collectionid": "",
         "seofriendlyurl": "/video/uncle-grandpa/will-it-stick-episode.html",
-        "seasonepisodenumber": "",
+        "seasonepisodenumber": "2",
         "title": "Will It Stick?",
-        "episodenumber": "",
+        "episodenumber": "2",
         "type": "short",
         "active": true,
         "description": "The guys have a contest to see what item will stick to the wall.",
@@ -711,7 +711,7 @@
         "originalpremieredate": "2020-01-01T05:00:59.000Z",
         "pubdate": "2020-01-01T05:00:59.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2055172_005_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2055172_007_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "shorts|vod",
