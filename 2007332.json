@@ -174,14 +174,14 @@
     {
         "airingid": "RADS1012201900048502",
         "seasonnumber": "2",
-        "seasonitemnumber": "",
+        "seasonitemnumber": "1",
         "seriesid": "2007332",
         "id": "1da96a26899a48214ec4e13669258dd4e83fcc69",
         "collectionid": "",
         "seofriendlyurl": "/video/uncle-grandpa/uncle-grandpas-journey-episode.html",
-        "seasonepisodenumber": "",
+        "seasonepisodenumber": "1",
         "title": "Uncle Grandpa's Journey",
-        "episodenumber": "",
+        "episodenumber": "1",
         "type": "short",
         "active": true,
         "description": "Quick clips of false moments from the show's hilarious past and future.",
@@ -195,7 +195,7 @@
         "originalpremieredate": "2020-01-01T05:00:59.000Z",
         "pubdate": "2020-01-01T05:00:59.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2055171_004_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2055171_002_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "shorts|vod",
@@ -473,7 +473,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012201900048499",
+        "airingid": "RADS1012201900048554",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2007332",
@@ -516,7 +516,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012201900048554",
+        "airingid": "RADS1012201900048499",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2007332",
