@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1010041900025606",
+  "airingid": "RADS1004022000079485",
   "seasonnumber": "2",
   "seasonitemnumber": "4",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Clarence draws a comic for the school paper and it becomes a huge hit with the kids. When angry parents step in and censor the comic's crass humor, Clarence must stand up for his artistic vision.",
-  "duration": 684,
+  "duration": 685,
   "freewheelid": "cn-2065509",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2016-01-20T22:00:00.000Z",
-  "pubdate": "2019-10-14T09:00:00.000Z",
-  "expdate": "2019-10-18T08:59:58.000Z",
+  "pubdate": "2020-04-22T09:00:00.000Z",
+  "expdate": "2020-05-01T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2065509_004_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Clarence",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1453327200000",
-  "pubdateasmilliseconds": "1571043600000",
-  "expdateasmilliseconds": "1571389198000",
+  "pubdateasmilliseconds": "1587546000000",
+  "expdateasmilliseconds": "1588323540000",
   "mediaid": "913fb59abc878ce8aacac016b441ae1989e049aa",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
