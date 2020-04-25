@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: April 25, 2020 at 05:30:29 EDT_
+_Last Update: April 25, 2020 at 06:30:30 EDT_
 ## Video added
-### Summary
-2188073 ThunderCats Roar!: 2  
-### 2188629
-**ThunderCats Roar! S01E09 - Lost Sword**  
-TV-Y7-FV 🔓 11:12  
-⌛ May 9, 2020 at 04:59:00 EDT  
-[Open in app](https://tinyurl.com/uqub6my) or on the web: https://www.cartoonnetwork.com/video/thundercats-roar/lost-sword-episode.html  
-seriesid=`2188073` titleid=`2188629` mediaid=`bdea37aa84452cbcc1138b985d35cc3b5b1aa889`  
-_Lion-O is reminded that he needs to plug the Sword of Omens into the Cats' Lair each night or else the base will run out of power. That's fine, it's not like Lion-O's going to accidentally lose the sword or anything. Right?_  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2188629_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188629_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188629_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188629_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188629_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188629_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188629_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188629_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188629_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188629_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188629_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188629_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188629_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188629_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188629_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188629_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188629_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188629_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188629_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188629_010_640x360.jpg" height="144px" /></a>
-### 2188630
-**ThunderCats Roar! S01E10 - The Horror of Hook Mountain**  
-TV-Y7-FV 🔓 11:11  
-⌛ May 9, 2020 at 04:59:00 EDT  
-[Open in app](https://tinyurl.com/wybj24p) or on the web: https://www.cartoonnetwork.com/video/thundercats-roar/the-horror-of-hook-mountain-episode.html  
-seriesid=`2188073` titleid=`2188630` mediaid=`5900151be3e53cfbe73fc8832da6aea70edb694e`  
-_Tygra takes Lion-O climbing up the peak of Hook Mountain to teach him a lesson about trust. But when they get trapped by a snowstorm and take refuge in a creepy cabin owned by the creepy Snowman - it's Tygra's ability to the trust that's gonna be tested._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2188630_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188630_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188630_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188630_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188630_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188630_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188630_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188630_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188630_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188630_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188630_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188630_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188630_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188630_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188630_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188630_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188630_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188630_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188630_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188630_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
