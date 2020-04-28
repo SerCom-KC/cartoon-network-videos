@@ -72,14 +72,29 @@
 }
 /* Movies (Cartoon Network) end */
 
-.franchise-391933, .franchise-406152, .franchise-429752, .franchise-433992,.franchise-443752, .franchise-448434, .franchise-456292, .franchise-457432, .franchise-458272, .franchise-458812, .franchise-459432, .franchise-460432, .franchise-460433, .franchise-461352, .franchise-462132 { /* Toonami */
+/* Toonami */
+.franchise-391933, .series-812206, /* Naruto: Shippuden */
+.franchise-406152, .series-2020945, /* Attack on Titan */
+.franchise-429752, .series-2091991, /* One-Punch Man */
+.franchise-433992, .series-2108819, /* Scavengers */
+.franchise-443752, .series-2143080, /* Black Clover */
+.franchise-448434, .series-2142267, /* My Hero Academia */
+.franchise-456292, .series-2194658, /* The Promised Neverland */
+.franchise-457432, .series-2193927, /* Lupin the 3rd Part 5 */
+.franchise-458272, .series-2201017, /* Food Wars! */
+.franchise-458812, .series-2203556, /* Fire Force */
+.franchise-459432, .series-2207385, /* Dr. Stone */
+.franchise-460432, .series-2209292, /* Demon Slayer: Kimetsu no Yaiba */
+.franchise-460433, .series-2193955, /* JoJo's Bizarre Adventure: Golden Wind */
+.franchise-461352, .series-2193952, /* Lupin the 3rd: Is Lupin Still Burning? */
+.franchise-462132, .series-2215991 { /* Sword Art Online: Alicization War of Underworld */
     font-family: "BB Strata Pro ML", sans-serif;
     background-color: #1b0120;
     color: #17b7dd;
     border-color: #17b7dd;
 }
 
-.franchise-415552, .franchise-449334, .franchise-449335, .franchise-449336, .series-2116814 { /* Williams Stream */
+.series-2116814 { /* Williams Stream */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #babfbb;
     color: #696d69;
@@ -93,7 +108,11 @@
     border-color: black;
 }
 
-.franchise-316905, .series-340537, .franchise-377032, .series-847246, .franchise-387072, .series-896639, .franchise-397292, .series-2005986, .franchise-418932, .series-2059880 { /* Aqua Teen Hunger Force / Aqua Unit Patrol Squad / Aqua Something You Know Whatever / Aqua TV Show Show / Aqua Teen Hunger Force Forever */
+.franchise-316905, .series-340537, /* Aqua Teen Hunger Force */
+.franchise-377032, .series-847246, /* Aqua Unit Patrol Squad */
+.franchise-387072, .series-896639, /* Aqua Something You Know Whatever */
+.franchise-397292, .series-2005986, /* Aqua TV Show Show */
+.franchise-418932, .series-2059880 { /* Aqua Teen Hunger Force Forever */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #b82717;
     color: #e0e9c1;
@@ -284,7 +303,9 @@
 }
 
 .franchise-393474, .series-2000349, /* Teen Titans Go! */
-.title-2098468, .title-2149008, .title-2159877, /* Teen Titans Go!: Island Adventures / Teen Titans Go! Titans vs. Santa / Teen Titans Go! in Love: Beast Boy & Raven */
+.title-2098468, /* Teen Titans Go!: Island Adventures */
+.title-2149008, /* Teen Titans Go! Titans vs. Santa */
+.title-2159877, /* Teen Titans Go! in Love: Beast Boy & Raven */
 .title-2214278 { /* Teen Titans Go! vs. Teen Titans */
     font-family: "Avenir Std", sans-serif;
     background-color: yellow;
@@ -299,15 +320,18 @@
     border-color: #ed202d;
 }
 
-.franchise-398292, .series-2007539, .franchise-457612, .series-2196566 { /* Mr. Pickles / Momma Named Me Sheriff */
+.franchise-398292, .series-2007539, /* Mr. Pickles */
+.franchise-457612, .series-2196566 { /* Momma Named Me Sheriff */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #bd3240;
     color: #7bd349;
     border-color: #7bd349;
 }
 
-.franchise-399692, .series-2011404, .franchise-461193, .series-2208494, /* Steven Universe / Steven Universe Future */
-.title-2191376, .title-2219737 { /* Steven Universe the Movie / Steven Universe The Movie Sing-A-Long */
+.franchise-399692, .series-2011404, /* Steven Universe */
+.franchise-461193, .series-2208494, /* Steven Universe Future */
+.title-2191376, /* Steven Universe the Movie */
+.title-2219737 { /* Steven Universe The Movie Sing-A-Long */
     font-family: "Avenir Std", sans-serif;
     background-color: #f04937;
     color: #ffdc4f;
@@ -377,7 +401,8 @@
     border-color: #a39d48;
 }
 
-.franchise-433512, .series-2106835, .franchise-448014, .series-2161118 { /* Joe Pera Helps You Find The Perfect Christmas Tree / Joe Pera Talks With You */
+.franchise-433512, .series-2106835, /* Joe Pera Helps You Find The Perfect Christmas Tree */
+.franchise-448014, .series-2161118 { /* Joe Pera Talks With You */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #ece3df;
     color: #2d3860;
