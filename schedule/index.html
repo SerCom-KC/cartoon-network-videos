@@ -273,13 +273,13 @@
             document.getElementById("menu").style.display = "none";
             document.getElementById("menu").innerHTML = '<a href="javascript:scrollTo(&quot;.current&quot;);">Current</a>';
             var xhr = new XMLHttpRequest();
-            xhr.open("HEAD", "./colorcodes.css")
+            xhr.open("HEAD", "./colorcodes.min.css")
             xhr.setRequestHeader("If-None-Match", colorcodes_etag);
             xhr.send();
             xhr.onreadystatechange = function () {
             if (this.readyState === 4 && this.status === 200) {
                 colorcodes_etag = this.getResponseHeader("etag");
-                document.getElementById("colorcodes").href = "./colorcodes.css?v=" + colorcodes_etag;
+                document.getElementById("colorcodes").href = "./colorcodes.min.css?v=" + colorcodes_etag;
             }};
             var xhr = new XMLHttpRequest();
             xhr.open("GET", "https://time.ten.ngtv.io/v1/rundown?instance=" + document.getElementById("instance").value + "&endTime=2147483647&startTime=0")
