@@ -3827,7 +3827,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020322",
+        "airingid": "RADS1009121900020091",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3870,7 +3870,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020091",
+        "airingid": "RADS1009121900020322",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -19502,7 +19502,7 @@
         "originalpremieredate": "2019-08-01T09:00:00.000Z",
         "pubdate": "2019-08-01T09:00:00.000Z",
         "expdate": "2020-05-01T03:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2162031_007_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2162031_002_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
