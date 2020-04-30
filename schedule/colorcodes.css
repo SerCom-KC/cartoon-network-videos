@@ -79,7 +79,6 @@
 .franchise-429752, .series-2091991, /* One-Punch Man */
 .franchise-433992, .series-2108819, /* Scavengers */
 .franchise-443752, .series-2143080, /* Black Clover */
-.franchise-448434, .series-2142267, /* My Hero Academia */
 .franchise-456292, .series-2194658, /* The Promised Neverland */
 .franchise-457432, .series-2193927, /* Lupin the 3rd Part 5 */
 .franchise-458272, .series-2201017, /* Food Wars! */
@@ -478,6 +477,13 @@
     background-color: #37241a;
     color: #bebebe;
     border-color: #bebebe;
+}
+
+.franchise-448434, .series-2142267 { /* My Hero Academia */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-image: linear-gradient(#7d0c0f, #eb2128, #7d0c0f);
+    color: #eddd00;
+    border-color: #eddd00;
 }
 
 .franchise-448512, .series-2165429 { /* The Shivering Truth */ 
