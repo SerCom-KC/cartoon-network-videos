@@ -2591,7 +2591,7 @@
         "pubdate": "2020-04-11T02:15:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2215222_005_640x360.jpg",
         "authtype": "auth",
-        "expdate": "2020-12-31T05:00:00.000Z",
+        "expdate": "2020-05-04T09:00:00.000Z",
         "webflags": "",
         "tags": "ttg - easter",
         "titleid": "2215222",
@@ -2604,7 +2604,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1586871000000",
         "pubdateasmilliseconds": "1586571300000",
-        "expdateasmilliseconds": "1609390800000",
+        "expdateasmilliseconds": "1588582800000",
         "mediaid": "dde2214d68f4279f5b4002ba2ab0b2936b4937b6",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
