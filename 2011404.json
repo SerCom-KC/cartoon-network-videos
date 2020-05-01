@@ -88,7 +88,7 @@
     {
         "airingid": "RADS1008021900011383",
         "seasonnumber": "5",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "40894",
         "groupname": "DIAMOND DAYS",
         "seasonitemnumber": "25",
@@ -263,7 +263,7 @@
     {
         "airingid": "RADS1008021900011395",
         "seasonnumber": "5",
-        "groupid": 4,
+        "groupid": 5,
         "groupcontentid": "381",
         "groupname": "LARS OF THE STARS",
         "seasonitemnumber": "11",
@@ -309,7 +309,7 @@
     {
         "airingid": "RADS1012251900049881",
         "seasonnumber": "3",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "10887",
         "groupname": "SEASON RECAPS",
         "seasonitemnumber": "",
@@ -355,7 +355,7 @@
     {
         "airingid": "RADS1008021900011387",
         "seasonnumber": "5",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "10883",
         "groupname": "PINK DIAMOND",
         "seasonitemnumber": "18",
@@ -401,7 +401,7 @@
     {
         "airingid": "RADS1008021900011382",
         "seasonnumber": "5",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "10883",
         "groupname": "PINK DIAMOND",
         "seasonitemnumber": "16",
@@ -447,7 +447,7 @@
     {
         "airingid": "RADS1012251900049861",
         "seasonnumber": "2",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "10887",
         "groupname": "SEASON RECAPS",
         "seasonitemnumber": "",
@@ -493,7 +493,7 @@
     {
         "airingid": "RADS1008021900011380",
         "seasonnumber": "5",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "40894",
         "groupname": "DIAMOND DAYS",
         "seasonitemnumber": "24",
@@ -969,7 +969,7 @@
     {
         "airingid": "RADS1008021900011390",
         "seasonnumber": "5",
-        "groupid": 5,
+        "groupid": 6,
         "groupcontentid": "10888",
         "groupname": "WANTED",
         "seasonitemnumber": "2",
@@ -1015,7 +1015,7 @@
     {
         "airingid": "RADS1008021900011381",
         "seasonnumber": "5",
-        "groupid": 4,
+        "groupid": 5,
         "groupcontentid": "381",
         "groupname": "LARS OF THE STARS",
         "seasonitemnumber": "12",
@@ -1233,7 +1233,7 @@
     {
         "airingid": "RADS1008021900011400",
         "seasonnumber": "5",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "10883",
         "groupname": "PINK DIAMOND",
         "seasonitemnumber": "13",
@@ -1279,7 +1279,7 @@
     {
         "airingid": "RADS1008021900011393",
         "seasonnumber": "5",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "10883",
         "groupname": "PINK DIAMOND",
         "seasonitemnumber": "17",
@@ -1454,7 +1454,7 @@
     {
         "airingid": "RADS1008021900011389",
         "seasonnumber": "5",
-        "groupid": 5,
+        "groupid": 6,
         "groupcontentid": "10888",
         "groupname": "WANTED",
         "seasonitemnumber": "3",
@@ -1715,7 +1715,7 @@
     {
         "airingid": "RADS1008021900011398",
         "seasonnumber": "5",
-        "groupid": 5,
+        "groupid": 6,
         "groupcontentid": "10888",
         "groupname": "WANTED",
         "seasonitemnumber": "1",
@@ -1890,7 +1890,7 @@
     {
         "airingid": "RADS1008021900011397",
         "seasonnumber": "5",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "10883",
         "groupname": "PINK DIAMOND",
         "seasonitemnumber": "15",
@@ -2108,7 +2108,7 @@
     {
         "airingid": "RADS1008021900011394",
         "seasonnumber": "5",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "10883",
         "groupname": "PINK DIAMOND",
         "seasonitemnumber": "14",
@@ -2152,7 +2152,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049926",
+        "airingid": "RADS1012251900049873",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2195,7 +2195,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049873",
+        "airingid": "RADS1012251900049926",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2541,7 +2541,7 @@
     {
         "airingid": "RADS1012251900049892",
         "seasonnumber": "5",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "10887",
         "groupname": "SEASON RECAPS",
         "seasonitemnumber": "",
@@ -3060,7 +3060,7 @@
     {
         "airingid": "RADS1012251900049862",
         "seasonnumber": "4",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "10887",
         "groupname": "SEASON RECAPS",
         "seasonitemnumber": "",
@@ -3276,7 +3276,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049886",
+        "airingid": "RADS1012251900049921",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3319,7 +3319,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049921",
+        "airingid": "RADS1012251900049886",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3493,7 +3493,7 @@
     {
         "airingid": "RADS1008021900011396",
         "seasonnumber": "5",
-        "groupid": 5,
+        "groupid": 6,
         "groupcontentid": "10888",
         "groupname": "WANTED",
         "seasonitemnumber": "4",
@@ -3625,7 +3625,7 @@
     {
         "airingid": "RADS1012251900049903",
         "seasonnumber": "1",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "10887",
         "groupname": "SEASON RECAPS",
         "seasonitemnumber": "",
@@ -3843,7 +3843,7 @@
     {
         "airingid": "RADS1008121900012987",
         "seasonnumber": "",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "10887",
         "groupname": "SEASON RECAPS",
         "seasonitemnumber": "",
