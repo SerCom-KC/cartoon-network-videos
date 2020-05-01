@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1004251900085898",
+  "airingid": "RADS1004272000088759",
   "seasonnumber": "6",
   "seasonitemnumber": "5",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The guys want to help Muscle Man finish his bucket list.",
-  "duration": 674,
+  "duration": 675,
   "freewheelid": "cn-2028702",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2014-10-30T23:30:00.000Z",
-  "pubdate": "2019-05-29T09:00:00.000Z",
-  "expdate": "2019-06-03T12:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2028702_004_640x360.jpg",
+  "pubdate": "2020-05-01T09:00:00.000Z",
+  "expdate": "2020-05-08T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2028702_008_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Regular Show",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1414711800000",
-  "pubdateasmilliseconds": "1559120400000",
-  "expdateasmilliseconds": "1559566740000",
+  "pubdateasmilliseconds": "1588323600000",
+  "expdateasmilliseconds": "1588928340000",
   "mediaid": "a8a27c67645f1d3c8a0d285f8a6bee6ea9044ad7",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
