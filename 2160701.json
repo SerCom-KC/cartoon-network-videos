@@ -45,7 +45,7 @@
     {
         "airingid": "RADS1004212000084750",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "45679",
         "groupname": "SEE IT FIRST!",
         "seasonitemnumber": "7",
@@ -91,7 +91,7 @@
     {
         "airingid": "RADS1005042000091282",
         "seasonnumber": "1",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "49967",
         "groupname": "Mother's Day",
         "seasonitemnumber": "8",
@@ -266,7 +266,7 @@
     {
         "airingid": "RADS1005042000091278",
         "seasonnumber": "1",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "49967",
         "groupname": "Mother's Day",
         "seasonitemnumber": "10",
@@ -355,7 +355,7 @@
     {
         "airingid": "RADS1004282000089234",
         "seasonnumber": "1",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "49967",
         "groupname": "Mother's Day",
         "seasonitemnumber": "4",
@@ -834,7 +834,7 @@
     {
         "airingid": "RADS1005042000091280",
         "seasonnumber": "1",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "49967",
         "groupname": "Mother's Day",
         "seasonitemnumber": "7",
@@ -880,7 +880,7 @@
     {
         "airingid": "RADS1004282000089236",
         "seasonnumber": "1",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "49967",
         "groupname": "Mother's Day",
         "seasonitemnumber": "1",
@@ -969,7 +969,7 @@
     {
         "airingid": "RADS1005042000091273",
         "seasonnumber": "1",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "49967",
         "groupname": "Mother's Day",
         "seasonitemnumber": "6",
@@ -1187,7 +1187,7 @@
     {
         "airingid": "RADS1004212000084752",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "45679",
         "groupname": "SEE IT FIRST!",
         "seasonitemnumber": "8",
@@ -1276,7 +1276,7 @@
     {
         "airingid": "RADS1004012000079305",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "45679",
         "groupname": "SEE IT FIRST!",
         "seasonitemnumber": "3",
@@ -1451,7 +1451,7 @@
     {
         "airingid": "RADS1004212000084753",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "45679",
         "groupname": "SEE IT FIRST!",
         "seasonitemnumber": "9",
@@ -1629,7 +1629,7 @@
     {
         "airingid": "RADS1004292000089743",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "45679",
         "groupname": "SEE IT FIRST!",
         "seasonitemnumber": "10",
@@ -1675,7 +1675,7 @@
     {
         "airingid": "RADS1004012000079306",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "45679",
         "groupname": "SEE IT FIRST!",
         "seasonitemnumber": "4",
@@ -1936,7 +1936,7 @@
     {
         "airingid": "RADS1004282000089233",
         "seasonnumber": "1",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "49967",
         "groupname": "Mother's Day",
         "seasonitemnumber": "3",
