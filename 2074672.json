@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1005301900096026",
+  "airingid": "RADS1005052000091677",
   "seasonnumber": "4",
   "seasonitemnumber": "25",
   "seriesid": "835928",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Anais has made a new friend, but Gumball and Darwin aren't sure their relationship is equal.",
-  "duration": 680,
+  "duration": 681,
   "freewheelid": "cn-2074672",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2016-05-05T21:30:00.000Z",
-  "pubdate": "2019-06-17T09:00:00.000Z",
-  "expdate": "2019-06-24T08:59:00.000Z",
+  "pubdate": "2020-05-15T09:00:00.000Z",
+  "expdate": "2020-05-22T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2074672_002_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1462483800000",
-  "pubdateasmilliseconds": "1560762000000",
-  "expdateasmilliseconds": "1561366740000",
+  "pubdateasmilliseconds": "1589533200000",
+  "expdateasmilliseconds": "1590137940000",
   "mediaid": "58f96b8d30a04eeaccbdfdfc708c092c0d8d3d42",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
