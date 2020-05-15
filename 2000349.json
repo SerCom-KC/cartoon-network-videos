@@ -217,7 +217,7 @@
     {
         "airingid": "RADS1012181800053399",
         "seasonnumber": "",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "11205",
         "groupname": "TOP OF THE TITANS",
         "seasonitemnumber": "",
@@ -392,7 +392,7 @@
     {
         "airingid": "RADS1012181800053400",
         "seasonnumber": "",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "11205",
         "groupname": "TOP OF THE TITANS",
         "seasonitemnumber": "",
@@ -567,7 +567,7 @@
     {
         "airingid": "RADS1012181800053401",
         "seasonnumber": "",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "11205",
         "groupname": "TOP OF THE TITANS",
         "seasonitemnumber": "",
@@ -656,9 +656,9 @@
     {
         "airingid": "RADS1005052000091860",
         "seasonnumber": "3",
-        "groupid": 4,
+        "groupid": 1,
         "groupcontentid": "43281",
-        "groupname": "BIRTHDAYS",
+        "groupname": "BIRTHDAYS!",
         "seasonitemnumber": "15",
         "seriesid": "2000349",
         "id": "378767cb6b332ae578fff89800e918a71507b41a",
@@ -788,7 +788,7 @@
     {
         "airingid": "RADS1012181800053402",
         "seasonnumber": "",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "11205",
         "groupname": "TOP OF THE TITANS",
         "seasonitemnumber": "",
@@ -963,9 +963,9 @@
     {
         "airingid": "RADS1005052000091861",
         "seasonnumber": "4",
-        "groupid": 4,
+        "groupid": 1,
         "groupcontentid": "43281",
-        "groupname": "BIRTHDAYS",
+        "groupname": "BIRTHDAYS!",
         "seasonitemnumber": "42",
         "seriesid": "2000349",
         "id": "4f277c5244c77bfe021439177fdd46a289f756fb",
@@ -1052,7 +1052,7 @@
     {
         "airingid": "RADS1012041900043215",
         "seasonnumber": "6",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "4",
@@ -1270,9 +1270,9 @@
     {
         "airingid": "RADS1005052000091862",
         "seasonnumber": "4",
-        "groupid": 4,
+        "groupid": 1,
         "groupcontentid": "43281",
-        "groupname": "BIRTHDAYS",
+        "groupname": "BIRTHDAYS!",
         "seasonitemnumber": "7",
         "seriesid": "2000349",
         "id": "63af64fdd1c3cab5866799128a91278cc5bd9a68",
@@ -1488,7 +1488,7 @@
     {
         "airingid": "RADS1012041900043212",
         "seasonnumber": "6",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "2",
@@ -2222,7 +2222,7 @@
     {
         "airingid": "RADS1012041900043213",
         "seasonnumber": "6",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "1",
@@ -2397,7 +2397,7 @@
     {
         "airingid": "RADS1012041900043214",
         "seasonnumber": "6",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "3",
@@ -2787,7 +2787,7 @@
     {
         "airingid": "RADS1012181800053403",
         "seasonnumber": "",
-        "groupid": 3,
+        "groupid": 4,
         "groupcontentid": "11205",
         "groupname": "TOP OF THE TITANS",
         "seasonitemnumber": "",
