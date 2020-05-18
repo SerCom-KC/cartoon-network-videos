@@ -34,14 +34,16 @@
     border-color: black;
 }
 
-.title-2055681 { /* The Pound Hole */
+.title-627871 { /* Tom Goes to the Mayor: Special */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
-    background-color: #bfbfbf;
-    color: black;
-    border-color: black;
+    background-color: #887c0a;
+    color: #e8de68;
+    border-color: #e8de68;
 }
 
-.title-2211291 { /* Whenever */
+.title-2055681, /* The Pound Hole */
+.title-2211291, /* Whenever */
+.title-2226752 { /* Space Man */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #bfbfbf;
     color: black;
@@ -50,13 +52,6 @@
 
 .title-2226490 { /* Sesame Street: Elmo's Playdate */
     font-family: "Avenir Std", sans-serif;
-    background-color: #bfbfbf;
-    color: black;
-    border-color: black;
-}
-
-.title-2226752 { /* Space Man */
-    font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #bfbfbf;
     color: black;
     border-color: black;
