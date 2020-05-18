@@ -290,6 +290,13 @@
     border-color: #f00184;
 }
 
+.franchise-380074, .series-862772 { /* China, IL */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #ff983d;
+    color: black;
+    border-color: black;
+}
+
 .franchise-380952, .series-867968 { /* The Heart, She Holler */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #ede248;
