@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1010041900025689",
+  "airingid": "RADS1005052000091768",
   "seasonnumber": "1",
   "seasonitemnumber": "17",
   "seriesid": "2064567",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When a dainty princess on a mission comes to Townsville, the girls must learn the superhero way isn't always the right way.",
-  "duration": 671,
+  "duration": 672,
   "freewheelid": "cn-2085297",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "2064567",
   "seriesname": "Powerpuff Girls",
   "originalpremieredate": "2016-05-26T22:30:00.000Z",
-  "pubdate": "2019-10-11T09:00:00.000Z",
-  "expdate": "2019-10-18T08:59:56.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2085297_009_640x360.jpg",
+  "pubdate": "2020-05-22T09:00:00.000Z",
+  "expdate": "2020-05-29T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2085297_001_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Powerpuff Girls",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1464301800000",
-  "pubdateasmilliseconds": "1570784400000",
-  "expdateasmilliseconds": "1571389196000",
+  "pubdateasmilliseconds": "1590138000000",
+  "expdateasmilliseconds": "1590742740000",
   "mediaid": "1f919c1ec327aa2f86560393c32a9821b774cc1e",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

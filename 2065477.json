@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1009041900018875",
+  "airingid": "RADS1005052000091797",
   "seasonnumber": "4",
   "seasonitemnumber": "12",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Uncle Grandpa helps a kid who can't get rid of the hiccups.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-2065477",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2016-12-06T21:30:00.000Z",
-  "pubdate": "2019-09-10T09:00:00.000Z",
-  "expdate": "2019-09-17T08:59:00.000Z",
+  "pubdate": "2020-05-22T09:00:00.000Z",
+  "expdate": "2020-05-29T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2065477_008_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Uncle Grandpa",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1481059800000",
-  "pubdateasmilliseconds": "1568106000000",
-  "expdateasmilliseconds": "1568710740000",
+  "pubdateasmilliseconds": "1590138000000",
+  "expdateasmilliseconds": "1590742740000",
   "mediaid": "9f0eb4d55542520382887650c015bf27f4603f9f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
