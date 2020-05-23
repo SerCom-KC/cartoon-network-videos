@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: May 23, 2020 at 05:30:26 EDT_
+_Last Update: May 23, 2020 at 09:00:27 EDT_
 ## Video added
-### Summary
-2188073 ThunderCats Roar!: 2  
-### 2192237
-**ThunderCats Roar! S01E13 - Mandora - The Evil Chaser**  
-TV-Y7-FV 🔓 11:14  
-⌛ June 6, 2020 at 04:59:00 EDT  
-[Open in app](https://tinyurl.com/u6xqyzd) or on the web: https://www.cartoonnetwork.com/video/thundercats-roar/mandora-the-evil-chaser-episode.html  
-seriesid=`2188073` titleid=`2192237` mediaid=`ff9b20c46e77a0568523ec899cfec8ee4fc4e122`  
-_Lion-O "accidentally" releases a whole space prison-full of space criminals and winds up on the wrong side of the law. On the right side of the law is Mandora the Evil Chaser, a no nonsense space cop! Lion-O's gonna have to work real hard to prove he's not a criminal, just a little bit of an oaf!_  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2192237_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192237_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192237_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192237_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192237_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192237_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192237_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192237_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192237_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192237_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192237_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192237_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192237_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192237_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192237_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192237_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192237_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192237_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192237_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192237_010_640x360.jpg" height="144px" /></a>
-### 2192238
-**ThunderCats Roar! S01E14 - Dr. Dometome**  
-TV-Y7-FV 🔓 11:08  
-⌛ June 6, 2020 at 04:59:00 EDT  
-[Open in app](https://tinyurl.com/yxx8p2us) or on the web: https://www.cartoonnetwork.com/video/thundercats-roar/dr-dometome-episode.html  
-seriesid=`2188073` titleid=`2192238` mediaid=`ff11068bd88bb1144c2b62bde7e8973e9a0497eb`  
-_Lion-O is tasked with mapping the beaches of Third Earth, which leads to him somehow draining the oceans of all water entirely. Woops! But a mysterious scientist with a robotic frog says they can fix everything by traveling under the earth, which is just the kinda crazy adventure Lion-O is all about!_  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2192238_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192238_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192238_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192238_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192238_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192238_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192238_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192238_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192238_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192238_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192238_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192238_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192238_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192238_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192238_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192238_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192238_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192238_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2192238_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2192238_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
