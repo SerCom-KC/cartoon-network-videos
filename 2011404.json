@@ -197,7 +197,7 @@
         "seriesname": "Steven Universe",
         "originalpremieredate": "2019-01-01T00:30:00.000Z",
         "pubdate": "2020-03-09T09:00:00.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-05-27T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2132074_008_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -210,7 +210,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1546302600000",
         "pubdateasmilliseconds": "1583744400000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1590569940000",
         "mediaid": "1425bab16b5c5656409db67253cdf26ddc3e8f5b",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -537,7 +537,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049928",
+        "airingid": "RADS1012251900049951",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -580,7 +580,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049951",
+        "airingid": "RADS1012251900049928",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -752,7 +752,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049924",
+        "airingid": "RADS1012251900049879",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -795,7 +795,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049879",
+        "airingid": "RADS1012251900049924",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -884,7 +884,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049916",
+        "airingid": "RADS1012251900049888",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -927,7 +927,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049888",
+        "airingid": "RADS1012251900049916",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1062,7 +1062,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049901",
+        "airingid": "RADS1012251900049946",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1105,7 +1105,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049946",
+        "airingid": "RADS1012251900049901",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1587,7 +1587,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049950",
+        "airingid": "RADS1012251900049906",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1630,7 +1630,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049906",
+        "airingid": "RADS1012251900049950",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1762,7 +1762,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049885",
+        "airingid": "RADS1012251900049923",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1805,7 +1805,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049923",
+        "airingid": "RADS1012251900049885",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1980,7 +1980,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049891",
+        "airingid": "RADS1012251900049936",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2023,7 +2023,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049936",
+        "airingid": "RADS1012251900049891",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2155,7 +2155,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049873",
+        "airingid": "RADS1012251900049926",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2198,7 +2198,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049926",
+        "airingid": "RADS1012251900049873",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2739,7 +2739,7 @@
         "seriesname": "Steven Universe",
         "originalpremieredate": "2017-12-30T00:30:00.000Z",
         "pubdate": "2019-09-02T22:59:00.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-05-27T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2115520_007_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -2752,7 +2752,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1514593800000",
         "pubdateasmilliseconds": "1567465140000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1590569940000",
         "mediaid": "b0dd82b4495ffb878d8739e063202776213d6c97",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -2803,7 +2803,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049952",
+        "airingid": "RADS1012251900049900",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2846,7 +2846,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049900",
+        "airingid": "RADS1012251900049952",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2975,7 +2975,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049941",
+        "airingid": "RADS1012251900049954",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3018,7 +3018,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049954",
+        "airingid": "RADS1012251900049941",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3678,7 +3678,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049899",
+        "airingid": "RADS1012251900049949",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3721,7 +3721,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049949",
+        "airingid": "RADS1012251900049899",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
