@@ -426,7 +426,7 @@
         "pubdate": "2019-09-02T22:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2117706_006_640x360.jpg",
         "authtype": "auth",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-05-27T08:59:00.000Z",
         "webflags": "",
         "tags": "su - pink diamond",
         "titleid": "2117706",
@@ -439,7 +439,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1525131000000",
         "pubdateasmilliseconds": "1567465140000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1590569940000",
         "mediaid": "22c32b8af79466c2f26dada2f8c7909677ba5e57",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
@@ -537,7 +537,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049951",
+        "airingid": "RADS1012251900049928",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -580,7 +580,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049928",
+        "airingid": "RADS1012251900049951",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1326,7 +1326,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900050008",
+        "airingid": "RADS1012251900049897",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1369,7 +1369,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049897",
+        "airingid": "RADS1012251900050008",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1587,7 +1587,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049906",
+        "airingid": "RADS1012251900049950",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1630,7 +1630,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049950",
+        "airingid": "RADS1012251900049906",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2155,7 +2155,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049926",
+        "airingid": "RADS1012251900049873",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2198,7 +2198,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049873",
+        "airingid": "RADS1012251900049926",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2542,7 +2542,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049892",
+        "airingid": "RADS1012251900049937",
         "seasonnumber": "5",
         "groupid": 2,
         "groupcontentid": "10887",
@@ -2653,7 +2653,7 @@
         "seriesname": "Steven Universe",
         "originalpremieredate": "2017-12-30T00:30:00.000Z",
         "pubdate": "2019-09-02T22:59:00.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-05-27T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2115035_005_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -2666,7 +2666,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1514593800000",
         "pubdateasmilliseconds": "1567465140000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1590569940000",
         "mediaid": "a7af4d458bdd6e87ef86fed9b63260c19422edea",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -2803,7 +2803,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049900",
+        "airingid": "RADS1012251900049952",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2846,7 +2846,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049952",
+        "airingid": "RADS1012251900049900",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2975,7 +2975,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049954",
+        "airingid": "RADS1012251900049941",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3018,7 +3018,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049941",
+        "airingid": "RADS1012251900049954",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3524,7 +3524,7 @@
         "pubdate": "2019-09-02T22:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2109050_003_640x360.jpg",
         "authtype": "auth",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-05-27T08:59:00.000Z",
         "webflags": "",
         "tags": "su - wanted",
         "titleid": "2109050",
@@ -3537,7 +3537,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1496358000000",
         "pubdateasmilliseconds": "1567465140000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1590569940000",
         "mediaid": "e4167b28b3b01bbd623a839797743b3706c07fe1",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
@@ -3632,7 +3632,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050007",
+        "airingid": "RADS1012251900049903",
         "seasonnumber": "1",
         "groupid": 2,
         "groupcontentid": "10887",
@@ -3678,7 +3678,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049949",
+        "airingid": "RADS1012251900049899",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3721,7 +3721,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049899",
+        "airingid": "RADS1012251900049949",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
