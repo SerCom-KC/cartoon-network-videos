@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: May 25, 2020 at 20:30:28 EDT_
+_Last Update: May 25, 2020 at 21:30:30 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2000349 Teen Titans Go!: 2 (2 new)  
+### 2215226
+**Teen Titans Go! S06E16 - Justice League's Next Top Talent Idol Star: Justice League Edition Part 1**  
+🆕 TV-PG 🔒 11:07  
+⌛ December 31, 2020 at 00:00:00 EST  
+[Open in app](https://tinyurl.com/y7vxkt54) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/justice-leagues-next-top-talent-idol-star-justice-league-edition-part-1-episode.html  
+seriesid=`2000349` titleid=`2215226` mediaid=`7c24b70c6051ba9768f0eeb12aec066c0f7f8fad`  
+_The Justice League holds yet another talent competition, only this time they're facing off against the Titans._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2215226_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215226_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215226_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215226_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215226_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215226_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215226_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215226_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215226_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215226_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215226_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215226_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215226_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215226_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215226_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215226_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215226_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215226_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215226_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215226_010_640x360.jpg" height="144px" /></a>
+### 2217848
+**Teen Titans Go! S06E17 - Justice League's Next Top Talent Idol Star: Justice League Edition Part 2**  
+🆕 TV-PG 🔒 11:30  
+⌛ December 31, 2020 at 00:00:00 EST  
+[Open in app](https://tinyurl.com/ybjnxcbk) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/justice-leagues-next-top-talent-idol-star-justice-league-edition-part-2-episode.html  
+seriesid=`2000349` titleid=`2217848` mediaid=`5d71c5a69247fdc5985ef4dab3d0db1762e07cdc`  
+_In order to be the most talented superhero team in the DC universe, Robin and Beast Boy must work together on a jazz performance._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2217848_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2217848_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2217848_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2217848_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2217848_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2217848_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2217848_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2217848_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2217848_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2217848_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2217848_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2217848_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2217848_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2217848_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2217848_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2217848_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2217848_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2217848_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2217848_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2217848_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
