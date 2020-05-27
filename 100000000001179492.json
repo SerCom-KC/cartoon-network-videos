@@ -3569,7 +3569,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020091",
+        "airingid": "RADS1009121900020322",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3612,7 +3612,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020322",
+        "airingid": "RADS1009121900020091",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -6515,7 +6515,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2020-05-01T09:00:00.000Z",
         "pubdate": "2020-05-01T09:00:00.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-05-29T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2199751_008_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -6528,7 +6528,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1588323600000",
         "pubdateasmilliseconds": "1588323600000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1590742740000",
         "mediaid": "47c060de91795aa2b5bd6eb2171bca5e74abef56",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -18275,7 +18275,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -18318,7 +18318,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -23285,7 +23285,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2020-05-01T09:00:00.000Z",
         "pubdate": "2020-05-01T09:00:00.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-05-29T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2199752_005_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -23298,7 +23298,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1588323600000",
         "pubdateasmilliseconds": "1588323600000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1590742740000",
         "mediaid": "f3fd9b3cd408ad050209bbfb68fb33ac2036c6b7",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -23887,7 +23887,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2020-05-01T09:00:00.000Z",
         "pubdate": "2020-05-01T09:00:00.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-05-29T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2204292_010_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -23900,7 +23900,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1588323600000",
         "pubdateasmilliseconds": "1588323600000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1590742740000",
         "mediaid": "f9b9fcf3316ef337a2029c012809e3e1e80068d4",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
