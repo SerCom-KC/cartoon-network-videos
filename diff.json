@@ -1,7 +1,6 @@
 {
-    "updated": 1590764360,
-    "added": [],
-    "removed": [
+    "updated": 1590764427,
+    "added": [
         {
             "airingid": "RADS1004282000089085",
             "seasonnumber": "1",
@@ -27,12 +26,12 @@
             "pubdate": "2020-05-23T09:00:00.000Z",
             "expdate": "2021-01-01T04:59:59.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2214531_004_640x360.jpg",
-            "authtype": "unauth",
+            "authtype": "auth",
             "webflags": "",
-            "tags": "unauth",
+            "tags": "",
             "titleid": "2214531",
             "titletype": "Episode",
-            "bannertext": "UNLOCKED",
+            "bannertext": "",
             "originalseriesid": "2133648",
             "originalseriesname": "Apple & Onion",
             "hasparent": false,
@@ -40,10 +39,11 @@
             "pubdateasmilliseconds": "1590224400000",
             "expdateasmilliseconds": "1609477199000",
             "mediaid": "ab3b6ba8e67c466b5666766ba6c26a3177e6f9b2",
-            "isunlockedfullepisode": true,
+            "isunlockedfullepisode": false,
             "ismultipropertycollection": false,
             "clipsonly": false,
             "includeshortform": false
         }
-    ]
+    ],
+    "removed": []
 }
