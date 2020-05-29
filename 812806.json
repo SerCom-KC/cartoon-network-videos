@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1004241900085313",
+  "airingid": "RADS1005252000097137",
   "seasonnumber": "2",
   "seasonitemnumber": "4",
   "seriesid": "810150",
@@ -20,12 +20,12 @@
   "seriestitleid": "810150",
   "seriesname": "Regular Show",
   "originalpremieredate": "2011-01-18T01:15:00.000Z",
-  "pubdate": "2019-05-01T09:00:00.000Z",
-  "expdate": "2019-06-03T08:59:09.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/812806_008_640x360.jpg",
+  "pubdate": "2020-05-29T09:00:00.000Z",
+  "expdate": "2020-06-26T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/812806_003_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
-  "tags": "vod",
+  "tags": "",
   "titleid": "812806",
   "titletype": "Episode",
   "bannertext": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Regular Show",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1295313300000",
-  "pubdateasmilliseconds": "1556701200000",
-  "expdateasmilliseconds": "1559552349000",
+  "pubdateasmilliseconds": "1590742800000",
+  "expdateasmilliseconds": "1593161940000",
   "mediaid": "3e47b7ef33a824ad42c0205b44387edc9b414a82",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
