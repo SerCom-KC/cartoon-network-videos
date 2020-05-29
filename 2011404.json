@@ -69,7 +69,7 @@
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2128748_006_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
-        "tags": "",
+        "tags": "su - pride",
         "titleid": "2128748",
         "titletype": "Episode",
         "bannertext": "",
@@ -565,7 +565,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049946",
+        "airingid": "RADS1012251900049901",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -608,7 +608,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049901",
+        "airingid": "RADS1012251900049946",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -823,7 +823,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049893",
+        "airingid": "RADS1012251900049943",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -866,7 +866,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049943",
+        "airingid": "RADS1012251900049893",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
