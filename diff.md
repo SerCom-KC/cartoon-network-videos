@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: May 30, 2020 at 17:30:27 EDT_
+_Last Update: May 31, 2020 at 06:30:27 EDT_
 ## Video added
-### Summary
-2167202 Transformers Cyberverse: 2 (2 new)  
-### 2208201
-**Transformers Cyberverse S02E08 - Bring Me the Spark of Optimus Prime Part 2**  
-🆕 TV-Y7-FV 🔒 05:02  
-⌛ December 31, 2020 at 23:59:59 EST  
-[Open in app](https://tinyurl.com/w344vyj) or on the web: https://www.cartoonnetwork.com/video/transformers-cyberverse/bring-me-the-spark-of-optimus-prime-part-2-episode.html  
-seriesid=`2167202` titleid=`2208201` mediaid=`91f35055e9585152044c5ba34a469c8d2dea99ca`  
-_Slipstream searches for her missing Seekers while Hot Rod's "Moon Cheetah" chase brings him unexpectedly aboard the Nemesis._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2208201_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208201_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208201_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208201_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208201_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208201_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208201_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208201_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208201_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208201_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208201_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208201_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208201_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208201_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208201_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208201_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208201_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208201_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208201_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208201_010_640x360.jpg" height="144px" /></a>
-### 2208203
-**Transformers Cyberverse S02E12 - Dark Birth Part 2**  
-🆕 TV-Y7-FV 🔒 06:12  
-⌛ December 31, 2020 at 23:59:59 EST  
-[Open in app](https://tinyurl.com/y79dr9uy) or on the web: https://www.cartoonnetwork.com/video/transformers-cyberverse/dark-birth-part-2-episode.html  
-seriesid=`2167202` titleid=`2208203` mediaid=`f596a8314fe31d04d433a397d2e3b847d85e567a`  
-_The Autobots and Decepticons battle aboard the Nemesis while Starscream uses the Allspark and Vector Sigma to create new allies._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2208203_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208203_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208203_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208203_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208203_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208203_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208203_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208203_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208203_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208203_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208203_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208203_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208203_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208203_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208203_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208203_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208203_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208203_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2208203_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2208203_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
