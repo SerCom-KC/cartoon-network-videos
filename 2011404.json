@@ -92,7 +92,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049881",
+        "airingid": "RADS1012251900049925",
         "seasonnumber": "3",
         "groupid": 2,
         "groupcontentid": "10887",
@@ -184,7 +184,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049951",
+        "airingid": "RADS1012251900049928",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -227,7 +227,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049928",
+        "airingid": "RADS1012251900049951",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1176,7 +1176,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049873",
+        "airingid": "RADS1012251900049926",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1219,7 +1219,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049926",
+        "airingid": "RADS1012251900049873",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1704,7 +1704,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049900",
+        "airingid": "RADS1012251900049952",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1747,7 +1747,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049952",
+        "airingid": "RADS1012251900049900",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2173,7 +2173,7 @@
         "pubdate": "2020-05-29T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2020138_005_640x360.jpg",
         "authtype": "unauth",
-        "expdate": "2020-06-26T08:59:00.000Z",
+        "expdate": "2020-06-08T09:00:00.000Z",
         "webflags": "",
         "tags": "su - pride|pride month|unauth",
         "titleid": "2020138",
@@ -2186,7 +2186,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1421364600000",
         "pubdateasmilliseconds": "1590742800000",
-        "expdateasmilliseconds": "1593161940000",
+        "expdateasmilliseconds": "1591606800000",
         "mediaid": "db74dfa8264527f53f5c3240e0ba1ad97f0d201b",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false
@@ -2278,7 +2278,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049920",
+        "airingid": "RADS1012251900049883",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2321,7 +2321,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049883",
+        "airingid": "RADS1012251900049920",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2407,7 +2407,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049903",
+        "airingid": "RADS1012251900050007",
         "seasonnumber": "1",
         "groupid": 2,
         "groupcontentid": "10887",
@@ -2539,7 +2539,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049895",
+        "airingid": "RADS1012251900049955",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2582,7 +2582,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049955",
+        "airingid": "RADS1012251900049895",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
