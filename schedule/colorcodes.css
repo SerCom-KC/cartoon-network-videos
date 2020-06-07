@@ -571,6 +571,13 @@
     border-color: #f07aaf;
 }
 
+.franchise-456072, .series-2194549 { /* Gemusetto Machu Picchu */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-image: radial-gradient(#f27f15, #ff4400, #f27f15);
+    color: white;
+    border-color: white;
+}
+
 .franchise-457052, .series-2194742 { /* Ninjago */
     font-family: "Avenir Std", sans-serif;
     background-color: #375623;
