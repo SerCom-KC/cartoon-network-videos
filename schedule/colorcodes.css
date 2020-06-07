@@ -573,7 +573,7 @@
 
 .franchise-456072, .series-2194549 { /* Gemusetto Machu Picchu */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
-    background-image: radial-gradient(#f27f15, #ff4400, #f27f15);
+    background-image: linear-gradient(#f27f15, #ff4400, #f27f15);
     color: white;
     border-color: white;
 }
