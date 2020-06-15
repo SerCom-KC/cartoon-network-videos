@@ -177,7 +177,7 @@
     {
         "airingid": "RADS1004282000089115",
         "seasonnumber": "1",
-        "groupid": 4,
+        "groupid": 2,
         "groupcontentid": "51685",
         "groupname": "Father's Day",
         "seasonitemnumber": "1",
@@ -484,7 +484,7 @@
     {
         "airingid": "RADS1005072000093195",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "10875",
         "groupname": "SEE IT FIRST",
         "seasonitemnumber": "37",
@@ -573,7 +573,7 @@
     {
         "airingid": "RADS1005072000093196",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "10875",
         "groupname": "SEE IT FIRST",
         "seasonitemnumber": "35",
@@ -923,7 +923,7 @@
     {
         "airingid": "RADS1005052000092098",
         "seasonnumber": "1",
-        "groupid": 4,
+        "groupid": 2,
         "groupcontentid": "51685",
         "groupname": "Father's Day",
         "seasonitemnumber": "8",
@@ -1144,7 +1144,7 @@
     {
         "airingid": "RADS1005072000093194",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "10875",
         "groupname": "SEE IT FIRST",
         "seasonitemnumber": "34",
@@ -1405,7 +1405,7 @@
     {
         "airingid": "RADS1005072000093193",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "10875",
         "groupname": "SEE IT FIRST",
         "seasonitemnumber": "33",
@@ -1798,7 +1798,7 @@
     {
         "airingid": "RADS1005072000093199",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "10875",
         "groupname": "SEE IT FIRST",
         "seasonitemnumber": "36",
@@ -2191,7 +2191,7 @@
     {
         "airingid": "RADS1005052000092100",
         "seasonnumber": "1",
-        "groupid": 4,
+        "groupid": 2,
         "groupcontentid": "51685",
         "groupname": "Father's Day",
         "seasonitemnumber": "9",
@@ -2412,7 +2412,7 @@
     {
         "airingid": "RADS1005072000093191",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "10875",
         "groupname": "SEE IT FIRST",
         "seasonitemnumber": "32",
@@ -2630,7 +2630,7 @@
     {
         "airingid": "RADS1005072000093192",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "10875",
         "groupname": "SEE IT FIRST",
         "seasonitemnumber": "31",
@@ -2848,7 +2848,7 @@
     {
         "airingid": "RADS1005072000093190",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "10875",
         "groupname": "SEE IT FIRST",
         "seasonitemnumber": "38",
@@ -3066,7 +3066,7 @@
     {
         "airingid": "RADS1006032000099643",
         "seasonnumber": "1",
-        "groupid": 4,
+        "groupid": 2,
         "groupcontentid": "51685",
         "groupname": "Father's Day",
         "seasonitemnumber": "4",
