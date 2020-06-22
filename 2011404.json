@@ -46,7 +46,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049925",
+        "airingid": "RADS1012251900049881",
         "seasonnumber": "3",
         "groupid": 3,
         "groupcontentid": "10887",
@@ -138,7 +138,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049928",
+        "airingid": "RADS1012251900049951",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -181,7 +181,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049951",
+        "airingid": "RADS1012251900049928",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -270,49 +270,6 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049932",
-        "seasonnumber": "4",
-        "seasonitemnumber": "",
-        "seriesid": "2011404",
-        "id": "2b905912a2798c339b8a6301c2e1372e70fd11fc",
-        "collectionid": "",
-        "seofriendlyurl": "/video/steven-universe/video-chat-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Video Chat",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Steven and Peridot introduce Lapis to a new way to communicate.",
-        "duration": 182,
-        "freewheelid": "cn-2091141",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "2011404",
-        "seriesname": "Steven Universe",
-        "originalpremieredate": "2019-09-02T23:30:00.000Z",
-        "pubdate": "2020-01-01T05:00:59.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2091141_010_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts|vod",
-        "titleid": "2091141",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2011404",
-        "originalseriesname": "Steven Universe",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1567467000000",
-        "pubdateasmilliseconds": "1577854859000",
-        "expdateasmilliseconds": "1609477199000",
-        "mediaid": "2b905912a2798c339b8a6301c2e1372e70fd11fc",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
         "airingid": "RADS1012251900050006",
         "seasonnumber": "4",
         "seasonitemnumber": "",
@@ -356,7 +313,50 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049879",
+        "airingid": "RADS1012251900049932",
+        "seasonnumber": "4",
+        "seasonitemnumber": "",
+        "seriesid": "2011404",
+        "id": "2b905912a2798c339b8a6301c2e1372e70fd11fc",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe/video-chat-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Video Chat",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Steven and Peridot introduce Lapis to a new way to communicate.",
+        "duration": 182,
+        "freewheelid": "cn-2091141",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "2011404",
+        "seriesname": "Steven Universe",
+        "originalpremieredate": "2019-09-02T23:30:00.000Z",
+        "pubdate": "2020-01-01T05:00:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2091141_010_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts|vod",
+        "titleid": "2091141",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2011404",
+        "originalseriesname": "Steven Universe",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1567467000000",
+        "pubdateasmilliseconds": "1577854859000",
+        "expdateasmilliseconds": "1609477199000",
+        "mediaid": "2b905912a2798c339b8a6301c2e1372e70fd11fc",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1012251900049924",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -399,7 +399,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049924",
+        "airingid": "RADS1012251900049879",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1096,7 +1096,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049923",
+        "airingid": "RADS1012251900049885",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1139,7 +1139,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049885",
+        "airingid": "RADS1012251900049923",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1268,7 +1268,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049926",
+        "airingid": "RADS1012251900049873",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1311,7 +1311,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049873",
+        "airingid": "RADS1012251900049926",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1713,7 +1713,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049937",
+        "airingid": "RADS1012251900049892",
         "seasonnumber": "5",
         "groupid": 3,
         "groupcontentid": "10887",
@@ -2468,7 +2468,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049921",
+        "airingid": "RADS1012251900049886",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2511,7 +2511,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049886",
+        "airingid": "RADS1012251900049921",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
