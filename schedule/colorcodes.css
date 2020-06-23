@@ -302,6 +302,13 @@
     border-color: black;
 }
 
+.franchise-385014, .series-887688 { /* Loiter Squad */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #f15424;
+    color: #ecd276;
+    border-color: #ecd276;
+}
+
 .franchise-386452, .series-895948 { /* The Eric Andre Show */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #e96645;
