@@ -342,6 +342,13 @@
     border-color: #7bd349;
 }
 
+.franchise-398352, .series-2012265 { /* Hot Package */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #a90f76;
+    color: #f4de2c;
+    border-color: #f4de2c;
+}
+
 .franchise-399692, .series-2011404, /* Steven Universe */
 .franchise-461193, .series-2208494, /* Steven Universe Future */
 .title-2191376, /* Steven Universe the Movie */
