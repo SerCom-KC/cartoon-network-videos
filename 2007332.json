@@ -324,7 +324,7 @@
         "originalpremieredate": "2015-12-18T22:30:00.000Z",
         "pubdate": "2020-06-26T09:00:00.000Z",
         "expdate": "2020-07-31T08:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2056109_005_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2056109_004_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "",
@@ -430,7 +430,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012201900048554",
+        "airingid": "RADS1012201900048499",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2007332",
@@ -473,7 +473,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012201900048499",
+        "airingid": "RADS1012201900048554",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2007332",
@@ -625,7 +625,7 @@
         "originalpremieredate": "2015-03-19T21:30:00.000Z",
         "pubdate": "2020-06-26T09:00:00.000Z",
         "expdate": "2020-07-31T08:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2018707_009_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2018707_006_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "",
