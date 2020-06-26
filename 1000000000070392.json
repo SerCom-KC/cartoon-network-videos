@@ -282,7 +282,7 @@
         "pubdate": "2020-06-03T04:00:00.000Z",
         "expdate": "2020-07-01T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2228836_006_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "pride month",
         "titleid": "2228836",
