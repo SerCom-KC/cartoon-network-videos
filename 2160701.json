@@ -1667,7 +1667,7 @@
         "pubdate": "2020-05-29T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2180947_006_640x360.jpg",
         "authtype": "auth",
-        "expdate": "2021-01-01T04:59:59.000Z",
+        "expdate": "2020-07-01T08:59:00.000Z",
         "webflags": "",
         "tags": "v&v underworld",
         "titleid": "2180947",
@@ -1680,7 +1680,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1590742800000",
         "pubdateasmilliseconds": "1590742800000",
-        "expdateasmilliseconds": "1609477199000",
+        "expdateasmilliseconds": "1593593940000",
         "mediaid": "a03761884dff923a6289045fbc9c99739f3da49e",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
