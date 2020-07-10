@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1001031900058149",
+  "airingid": "RADS1006302000007251",
   "seasonnumber": "2",
   "seasonitemnumber": "21",
   "seriesid": "835928",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Gumball and Darwin race home to spend quality time with Anais, but every likely obstacle gets in way... and some unlikely ones too! ",
-  "duration": 686,
+  "duration": 687,
   "freewheelid": "cn-894319",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2013-06-12T23:30:00.000Z",
-  "pubdate": "2019-01-08T10:00:00.000Z",
-  "expdate": "2019-01-15T09:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/894319_003_640x360.jpg",
+  "pubdate": "2020-07-10T09:00:00.000Z",
+  "expdate": "2020-07-17T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/894319_004_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1371079800000",
-  "pubdateasmilliseconds": "1546941600000",
-  "expdateasmilliseconds": "1547546340000",
+  "pubdateasmilliseconds": "1594371600000",
+  "expdateasmilliseconds": "1594976340000",
   "mediaid": "5ad3abee294f96c69cf37c38ce90814acf2ead21",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
