@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1004261900086886",
+  "airingid": "RADS1007062000008403",
   "seasonnumber": "8",
   "seasonitemnumber": "18",
   "seriesid": "757073",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "When disaster befalls James Baxter, it's up to Finn and Jake to help him pick up the pieces.",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2088556",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2017-01-27T00:45:00.000Z",
-  "pubdate": "2019-05-20T09:00:00.000Z",
-  "expdate": "2019-05-27T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2088556_006_640x360.jpg",
+  "pubdate": "2020-07-17T09:00:00.000Z",
+  "expdate": "2020-07-24T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2088556_003_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1485477900000",
-  "pubdateasmilliseconds": "1558342800000",
-  "expdateasmilliseconds": "1558947540000",
+  "pubdateasmilliseconds": "1594976400000",
+  "expdateasmilliseconds": "1595581140000",
   "mediaid": "aa0eecc679114942d72e13821840444a502a0d04",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

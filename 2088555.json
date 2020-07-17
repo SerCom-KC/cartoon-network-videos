@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1012041800049916",
+  "airingid": "RADS1007062000008404",
   "seasonnumber": "8",
   "seasonitemnumber": "17",
   "seriesid": "757073",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "An otherworldly encounter puts Tree Trunks on the trail of a conspiracy in the Candy Kingdom.\n",
-  "duration": 677,
+  "duration": 678,
   "freewheelid": "cn-2088555",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2017-01-26T00:45:00.000Z",
-  "pubdate": "2018-12-08T10:00:00.000Z",
-  "expdate": "2018-12-15T09:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2088555_007_640x360.jpg",
+  "pubdate": "2020-07-17T09:00:00.000Z",
+  "expdate": "2020-07-24T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2088555_009_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1485391500000",
-  "pubdateasmilliseconds": "1544263200000",
-  "expdateasmilliseconds": "1544867940000",
+  "pubdateasmilliseconds": "1594976400000",
+  "expdateasmilliseconds": "1595581140000",
   "mediaid": "9fe32998dbfc67d93d7460aaaeaef2b48830dc1e",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
