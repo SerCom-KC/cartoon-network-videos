@@ -1,7 +1,6 @@
 {
-    "updated": 1595011700,
-    "added": [],
-    "removed": [
+    "updated": 1595011822,
+    "added": [
         {
             "airingid": "RADS1012251900049851",
             "seasonnumber": "",
@@ -33,7 +32,7 @@
             "titleid": "879051",
             "titletype": "Feature Film",
             "bannertext": "",
-            "originalseriesid": "0",
+            "originalseriesid": "72541",
             "originalseriesname": "",
             "hasparent": false,
             "originalpremieredateasmilliseconds": "1332543600000",
@@ -45,5 +44,6 @@
             "clipsonly": false,
             "includeshortform": false
         }
-    ]
+    ],
+    "removed": []
 }
