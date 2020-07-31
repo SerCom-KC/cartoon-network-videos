@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1008161900013716",
+  "airingid": "RADS1007062000008256",
   "seasonnumber": "4",
   "seasonitemnumber": "10",
   "seriesid": "2000349",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "The Titans play Spin The Bottle as Starfire tries to improve her vocabulary through kissing.",
-  "duration": 675,
+  "duration": 676,
   "freewheelid": "cn-2105999",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "2000349",
   "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2017-02-03T23:00:00.000Z",
-  "pubdate": "2019-08-18T09:00:00.000Z",
-  "expdate": "2019-09-01T08:59:40.000Z",
+  "pubdate": "2020-07-31T09:00:00.000Z",
+  "expdate": "2020-08-15T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2105999_005_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Teen Titans Go!",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1486162800000",
-  "pubdateasmilliseconds": "1566118800000",
-  "expdateasmilliseconds": "1567328380000",
+  "pubdateasmilliseconds": "1596186000000",
+  "expdateasmilliseconds": "1597481940000",
   "mediaid": "d2be39f5672383ce6934541e236a5ed87f55cde9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

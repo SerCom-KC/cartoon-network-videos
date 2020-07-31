@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1002251900069988",
+  "airingid": "RADS1007272000013930",
   "seasonnumber": "3",
   "seasonitemnumber": "7",
   "seriesid": "757073",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Finn and Jake find themselves paralyzed from the neck down and at the Ice King's mercy!",
-  "duration": 702,
+  "duration": 703,
   "freewheelid": "cn-830965",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2011-08-23T00:00:00.000Z",
-  "pubdate": "2019-03-01T10:00:00.000Z",
-  "expdate": "2019-03-08T09:59:00.000Z",
+  "pubdate": "2020-07-31T09:00:00.000Z",
+  "expdate": "2020-08-07T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/830965_003_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1314057600000",
-  "pubdateasmilliseconds": "1551434400000",
-  "expdateasmilliseconds": "1552039140000",
+  "pubdateasmilliseconds": "1596186000000",
+  "expdateasmilliseconds": "1596790740000",
   "mediaid": "d4398b42c950d48c5ac25bc3831b5ad0b7fc9f00",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

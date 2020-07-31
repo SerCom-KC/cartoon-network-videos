@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1006261900003218",
+  "airingid": "RADS1007272000013603",
   "seasonnumber": "1",
   "seasonitemnumber": "5",
   "seriesid": "2055199",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "House sitting for Omnibus is boring work for the Warriors, but their decision to allow Jest-O and his Taunting Jester Magisword come in from the rain to entertain them turns out to be their worst idea yet!",
-  "duration": 679,
+  "duration": 680,
   "freewheelid": "cn-2089131",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "2055199",
   "seriesname": "Magiswords",
   "originalpremieredate": "2016-10-13T22:30:00.000Z",
-  "pubdate": "2019-07-15T08:59:00.000Z",
-  "expdate": "2019-08-01T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2089131_004_640x360.jpg",
+  "pubdate": "2020-07-31T09:00:00.000Z",
+  "expdate": "2020-08-28T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2089131_007_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
   "tags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Magiswords",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1476397800000",
-  "pubdateasmilliseconds": "1563181140000",
-  "expdateasmilliseconds": "1564649940000",
+  "pubdateasmilliseconds": "1596186000000",
+  "expdateasmilliseconds": "1598605140000",
   "mediaid": "9ba04fa73904fae5508d2bd21a39f8c54e9ccdc1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
