@@ -1,7 +1,6 @@
 {
-    "updated": 1596413064,
-    "added": [],
-    "removed": [
+    "updated": 1596413123,
+    "added": [
         {
             "airingid": "RADS1003042000069446",
             "seasonnumber": "1",
@@ -26,7 +25,7 @@
             "originalpremieredate": "2020-03-13T09:00:00.000Z",
             "pubdate": "2020-03-13T09:00:00.000Z",
             "expdate": "2020-08-07T09:00:00.000Z",
-            "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2197599_009_640x360.jpg",
+            "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2197599_003_640x360.jpg",
             "authtype": "auth",
             "webflags": "",
             "tags": "espanol",
@@ -45,5 +44,6 @@
             "clipsonly": false,
             "includeshortform": false
         }
-    ]
+    ],
+    "removed": []
 }
