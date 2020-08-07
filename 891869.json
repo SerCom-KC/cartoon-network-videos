@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1002251900069993",
+  "airingid": "RADS1007282000014530",
   "seasonnumber": "4",
   "seasonitemnumber": "14",
   "seriesid": "757073",
@@ -11,8 +11,8 @@
   "episodenumber": "14",
   "type": "fullepisode",
   "active": true,
-  "description": "Finn & Jake are called on to solve a Candy Kingdom hostage crisis when a rogue cookie takes over.",
-  "duration": 697,
+  "description": "Finn and Jake are called on to solve a Candy Kingdom hostage crisis when a rogue cookie takes over.",
+  "duration": 698,
   "freewheelid": "cn-891869",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2012-07-16T23:30:00.000Z",
-  "pubdate": "2019-03-01T10:00:00.000Z",
-  "expdate": "2019-03-08T09:59:00.000Z",
+  "pubdate": "2020-08-07T09:00:00.000Z",
+  "expdate": "2020-08-14T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/891869_008_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1342481400000",
-  "pubdateasmilliseconds": "1551434400000",
-  "expdateasmilliseconds": "1552039140000",
+  "pubdateasmilliseconds": "1596790800000",
+  "expdateasmilliseconds": "1597395540000",
   "mediaid": "5ac846d8dff47e156e5320e662830719c6698f53",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
