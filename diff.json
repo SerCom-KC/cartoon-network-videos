@@ -1,7 +1,6 @@
 {
-    "updated": 1597274300,
-    "added": [],
-    "removed": [
+    "updated": 1597274362,
+    "added": [
         {
             "airingid": "RADS1005052000092081",
             "seasonnumber": "1",
@@ -45,5 +44,6 @@
             "clipsonly": false,
             "includeshortform": false
         }
-    ]
+    ],
+    "removed": []
 }
