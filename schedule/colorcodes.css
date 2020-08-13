@@ -662,6 +662,13 @@
     border-color: black;
 }
 
+.franchise-464352, .series-2224723 { /* YOLO: Crystal Fantasy */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #fbc578;
+    color: #c843e2;
+    border-color: #c843e2;
+}
+
 .franchise-464353, .series-2213494 { /* JJ Villard's Fairy Tales */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #7c1507;
