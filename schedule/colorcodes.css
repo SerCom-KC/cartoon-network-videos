@@ -641,6 +641,13 @@
     border-color: #cc3595;
 }
 
+.franchise-463453, .series-618253 { /* 12 oz. Mouse */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #6665dc;
+    color: white;
+    border-color: white;
+}
+
 .franchise-463473, .series-2215447 { /* Beef House */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #002e2b;
