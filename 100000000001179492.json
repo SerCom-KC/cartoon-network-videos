@@ -15695,7 +15695,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -15738,7 +15738,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -21373,14 +21373,14 @@
     {
         "airingid": "RADS1008102000018192",
         "seasonnumber": "1",
-        "seasonitemnumber": "",
+        "seasonitemnumber": "26",
         "seriesid": "100000000001179492",
         "id": "fff701ab66ebde5bd53977394f320941c995eeeb",
         "collectionid": "",
         "seofriendlyurl": "/video/victor-and-valentino-en-espanol/aluxes-episode.html",
-        "seasonepisodenumber": "",
+        "seasonepisodenumber": "26",
         "title": "Aluxes",
-        "episodenumber": "27",
+        "episodenumber": "26",
         "type": "fullepisode",
         "active": true,
         "description": "Vic encuentra una antigua reliquia que invoca a una pandilla de traviesas criaturas, iy las consecuencias son desastrosas!",
@@ -21394,7 +21394,7 @@
         "originalpremieredate": "2020-08-14T09:00:00.000Z",
         "pubdate": "2020-08-14T09:00:00.000Z",
         "expdate": "2020-08-21T08:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2206421_009_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2206421_006_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
