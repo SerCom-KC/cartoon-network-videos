@@ -13848,12 +13848,12 @@
     {
         "airingid": "RADS1008102000018183",
         "seasonnumber": "1",
-        "seasonitemnumber": "",
+        "seasonitemnumber": "28",
         "seriesid": "100000000001179492",
         "id": "a80c76e43fdbb08f60f90f8b09806d31c5c9f16d",
         "collectionid": "",
         "seofriendlyurl": "/video/victor-and-valentino-en-espanol/ninos-de-globo-episode.html",
-        "seasonepisodenumber": "",
+        "seasonepisodenumber": "28",
         "title": "Ninos de Globo",
         "episodenumber": "28",
         "type": "fullepisode",
@@ -15695,7 +15695,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -15738,7 +15738,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
