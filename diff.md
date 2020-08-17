@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 17, 2020 at 04:30:23 EDT_
+_Last Update: August 17, 2020 at 05:00:24 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2129657 Power Players: 2  
+### 2129682
+**Power Players S01E36 - Bringing Up Baby**  
+TV-Y7-FV 🔓 11:17  
+⌛ August 17, 2020 at 05:00:00 EDT  
+[Open in app](https://tinyurl.com/yyhwk2dr) or on the web: https://www.cartoonnetwork.com/video/power-players/bringing-up-baby-episode.html  
+seriesid=`2129657` titleid=`2129682` mediaid=`09f8b694c6a2689c05aa009123b9d96c6a95079e`  
+_Zoe leaves Axel in charge of the school project - watching over an infant simulator doll - but when MadCap brings the doll to life, Axel and the team must stop the baby without damaging it or risk getting a failing grade!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2129682_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129682_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129682_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129682_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129682_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129682_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129682_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129682_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129682_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129682_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129682_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129682_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129682_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129682_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129682_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129682_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129682_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129682_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129682_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129682_010_640x360.jpg" height="144px" /></a>
+### 2129692
+**Power Players S01E35 - Party On**  
+TV-Y7-FV 🔓 11:17  
+⌛ August 17, 2020 at 05:00:00 EDT  
+[Open in app](https://tinyurl.com/y5tjs2l8) or on the web: https://www.cartoonnetwork.com/video/power-players/party-on-episode.html  
+seriesid=`2129657` titleid=`2129692` mediaid=`3bc885324bd998147a78916b489dcf272494465e`  
+_As Zoe preps Cleo LeBall's birthday party, Axel and the team run damage control against a jealous crasher - Princess SugarSalt, who has turned the decorations and gifts into instruments of chaos!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2129692_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129692_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129692_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129692_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129692_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129692_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129692_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129692_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129692_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129692_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129692_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129692_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129692_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129692_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129692_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129692_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129692_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129692_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129692_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129692_010_640x360.jpg" height="144px" /></a>
