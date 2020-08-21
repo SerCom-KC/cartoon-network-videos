@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1007181900007311",
+  "airingid": "RADS1008112000018597",
   "seasonnumber": "6",
   "seasonitemnumber": "22",
   "seriesid": "835928",
@@ -11,8 +11,8 @@
   "episodenumber": "22",
   "type": "fullepisode",
   "active": true,
-  "description": "Penny's family is unhappy that she's decided to come out of her shell… literally. And Penny wants her family to come out of their shells...also literally.  They are at an impasse so who do they turn to in their time of trouble? Gumball of course!  Needless to say he is way outside of his comfort zone...",
-  "duration": 686,
+  "description": "Penny's family is unhappy that she's decided to come out of her shell literally. And Penny wants her family to come out of their shells...also literally. They are at an impasse so who do they turn to in their time of trouble? Gumball of course! Needless to say he is way outside of his comfort zone.",
+  "duration": 687,
   "freewheelid": "cn-2164872",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2018-07-16T13:00:00.000Z",
-  "pubdate": "2019-08-29T09:00:00.000Z",
-  "expdate": "2019-09-03T08:59:00.000Z",
+  "pubdate": "2020-08-21T09:00:00.000Z",
+  "expdate": "2020-08-28T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2164872_003_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1531746000000",
-  "pubdateasmilliseconds": "1567069200000",
-  "expdateasmilliseconds": "1567501140000",
+  "pubdateasmilliseconds": "1598000400000",
+  "expdateasmilliseconds": "1598605140000",
   "mediaid": "88951a1cf3972ca934efcb838fa5e4c441731b3f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
