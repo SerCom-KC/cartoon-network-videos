@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 22, 2020 at 05:00:22 EDT_
+_Last Update: August 22, 2020 at 15:30:22 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2177542 DC Super Hero Girls: 2 (2 new)  
+### 2218529
+**DC Super Hero Girls S01E?? - #LeagueOfShadows Part 1**  
+🆕 TV-PG 🔒 11:18  
+⌛ December 31, 2020 at 15:29:00 EST  
+[Open in app](https://tinyurl.com/y5j2wmam) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/leagueofshadows-part-1-episode.html  
+seriesid=`2177542` titleid=`2218529` mediaid=`c96b075439dba84127b65ef8b71f92eb20d180bc`  
+_Under the control of Red Kryptonite, Kara Danvers is brainwashed by rock 'n' roll front man Ra's al Ghul and sent on a mission to purify the world... starting with the terrible music of Karen Beecher's favorite boy band!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2218529_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218529_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218529_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218529_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218529_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218529_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218529_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218529_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218529_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218529_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218529_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218529_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218529_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218529_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218529_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218529_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218529_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218529_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218529_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218529_010_640x360.jpg" height="144px" /></a>
+### 2218530
+**DC Super Hero Girls S01E?? - #LeagueOfShadows Part 2**  
+🆕 TV-PG 🔒 11:12  
+⌛ December 31, 2020 at 15:29:00 EST  
+[Open in app](https://tinyurl.com/y5p3yjcf) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/leagueofshadows-part-2-episode.html  
+seriesid=`2177542` titleid=`2218530` mediaid=`f99c550ccc74b81e08cc24c50549d2d414886771`  
+_Under the control of Red Kryptonite, Kara Danvers is brainwashed by rock 'n' roll front man Ra's al Ghul and sent on a mission to purify the world... starting with the terrible music of Karen Beecher's favorite boy band!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2218530_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218530_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218530_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218530_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218530_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218530_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218530_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218530_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218530_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218530_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218530_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218530_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218530_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218530_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218530_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218530_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218530_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218530_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2218530_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2218530_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
