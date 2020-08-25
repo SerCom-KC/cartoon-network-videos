@@ -178,49 +178,6 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049951",
-        "seasonnumber": "4",
-        "seasonitemnumber": "",
-        "seriesid": "2011404",
-        "id": "284eab805bf0a3921cdfc79c17e96bf089eb24b1",
-        "collectionid": "",
-        "seofriendlyurl": "/video/steven-universe/cooking-with-lion-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Cooking with Lion",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Steven and Lion host an educational online cooking show.",
-        "duration": 180,
-        "freewheelid": "cn-2091140",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "2011404",
-        "seriesname": "Steven Universe",
-        "originalpremieredate": "2019-09-02T23:30:00.000Z",
-        "pubdate": "2020-01-01T05:00:59.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2091140_006_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts|vod",
-        "titleid": "2091140",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2011404",
-        "originalseriesname": "Steven Universe",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1567467000000",
-        "pubdateasmilliseconds": "1577854859000",
-        "expdateasmilliseconds": "1609477199000",
-        "mediaid": "284eab805bf0a3921cdfc79c17e96bf089eb24b1",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
         "airingid": "RADS1012251900049928",
         "seasonnumber": "4",
         "seasonitemnumber": "",
@@ -264,7 +221,50 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049932",
+        "airingid": "RADS1012251900049951",
+        "seasonnumber": "4",
+        "seasonitemnumber": "",
+        "seriesid": "2011404",
+        "id": "284eab805bf0a3921cdfc79c17e96bf089eb24b1",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe/cooking-with-lion-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Cooking with Lion",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Steven and Lion host an educational online cooking show.",
+        "duration": 180,
+        "freewheelid": "cn-2091140",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "2011404",
+        "seriesname": "Steven Universe",
+        "originalpremieredate": "2019-09-02T23:30:00.000Z",
+        "pubdate": "2020-01-01T05:00:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2091140_006_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts|vod",
+        "titleid": "2091140",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2011404",
+        "originalseriesname": "Steven Universe",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1567467000000",
+        "pubdateasmilliseconds": "1577854859000",
+        "expdateasmilliseconds": "1609477199000",
+        "mediaid": "284eab805bf0a3921cdfc79c17e96bf089eb24b1",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1012251900050006",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -307,7 +307,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050006",
+        "airingid": "RADS1012251900049932",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -737,7 +737,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049897",
+        "airingid": "RADS1012251900050008",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -780,7 +780,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050008",
+        "airingid": "RADS1012251900049897",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1296,7 +1296,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049936",
+        "airingid": "RADS1012251900049891",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1339,7 +1339,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049891",
+        "airingid": "RADS1012251900049936",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1944,7 +1944,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049941",
+        "airingid": "RADS1012251900049954",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1987,7 +1987,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049954",
+        "airingid": "RADS1012251900049941",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2076,7 +2076,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049939",
+        "airingid": "RADS1012251900049947",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2119,7 +2119,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049947",
+        "airingid": "RADS1012251900049939",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
