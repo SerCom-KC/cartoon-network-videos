@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1006191900001002",
+  "airingid": "RADS1008242000021332",
   "seasonnumber": "3",
   "seasonitemnumber": "35",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mordecai and Rigby have to return an overdue VHS to the store so they won't be banned from renting new movies.",
-  "duration": 674,
+  "duration": 675,
   "freewheelid": "cn-871356",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2012-07-31T00:00:00.000Z",
-  "pubdate": "2019-07-08T09:00:00.000Z",
-  "expdate": "2019-07-15T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/871356_009_640x360.jpg",
+  "pubdate": "2020-08-28T09:00:00.000Z",
+  "expdate": "2020-09-04T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/871356_005_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Regular Show",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1343692800000",
-  "pubdateasmilliseconds": "1562576400000",
-  "expdateasmilliseconds": "1563181140000",
+  "pubdateasmilliseconds": "1598605200000",
+  "expdateasmilliseconds": "1599209940000",
   "mediaid": "696f3f45bde1e5e101e2ffc3122c46bcfae9f3e3",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

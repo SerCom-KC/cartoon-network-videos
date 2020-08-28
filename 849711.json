@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1006191900000991",
+  "airingid": "RADS1008242000021312",
   "seasonnumber": "3",
   "seasonitemnumber": "15",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Pops orders Benson to stop yelling at Mordecai and Rigby.",
-  "duration": 676,
+  "duration": 677,
   "freewheelid": "cn-849711",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2012-01-31T01:00:00.000Z",
-  "pubdate": "2019-07-01T09:00:00.000Z",
-  "expdate": "2019-07-08T08:59:00.000Z",
+  "pubdate": "2020-08-28T09:00:00.000Z",
+  "expdate": "2020-09-04T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/849711_006_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Regular Show",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1327971600000",
-  "pubdateasmilliseconds": "1561971600000",
-  "expdateasmilliseconds": "1562576340000",
+  "pubdateasmilliseconds": "1598605200000",
+  "expdateasmilliseconds": "1599209940000",
   "mediaid": "ea0e45027570557def42733eaa8fb2397e4abe1f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }
