@@ -536,6 +536,13 @@
     border-color: white;
 }
 
+.franchise-448733, .series-2159875 { /* Mostly 4 Millennials */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #7ddde7;
+    color: #e92983;
+    border-color: #e92983;
+}
+
 .franchise-449272, .series-2031611 { /* Dragon Ball Z Kai */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-image: linear-gradient(#1ab9db, #fef302, #1ab9db);
