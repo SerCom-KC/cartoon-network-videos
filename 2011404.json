@@ -264,7 +264,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049932",
+        "airingid": "RADS1012251900050006",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -307,7 +307,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050006",
+        "airingid": "RADS1012251900049932",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1190,7 +1190,7 @@
         "originalpremieredate": "2016-07-27T23:00:00.000Z",
         "pubdate": "2020-09-11T09:00:00.000Z",
         "expdate": "2020-09-18T08:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2065542_001_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2065542_008_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "unauth",
@@ -1620,7 +1620,7 @@
         "originalpremieredate": "2016-07-29T23:00:00.000Z",
         "pubdate": "2020-09-11T09:00:00.000Z",
         "expdate": "2020-09-18T08:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2065544_008_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2065544_007_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "unauth",
@@ -2334,7 +2334,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049883",
+        "airingid": "RADS1012251900049920",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2377,7 +2377,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049920",
+        "airingid": "RADS1012251900049883",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2552,7 +2552,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049899",
+        "airingid": "RADS1012251900049949",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2595,7 +2595,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049949",
+        "airingid": "RADS1012251900049899",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
