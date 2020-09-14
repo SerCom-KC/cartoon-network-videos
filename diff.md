@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: September 14, 2020 at 05:30:21 EDT_
+_Last Update: September 14, 2020 at 07:00:22 EDT_
 ## Video added
-### Summary
-2129657 Power Players: 2  
-### 2129675
-**Power Players S01E39 - Winner Takes All**  
-TV-Y7-FV 🔒 11:17  
-⌛ December 31, 2020 at 08:22:34 EST  
-[Open in app](https://tinyurl.com/r3gjvbj) or on the web: https://www.cartoonnetwork.com/video/power-players/winner-takes-all-episode.html  
-seriesid=`2129657` titleid=`2129675` mediaid=`353c679c0265110c348bd228bec694bde5bc3034`  
-_After months of training for Luchador Day, Axel needs Masko to coach him against a pair of uninvited competitors - Madcap and Dynamo!_  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2129675_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129675_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129675_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129675_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129675_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129675_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129675_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129675_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129675_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129675_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129675_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129675_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129675_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129675_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129675_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129675_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129675_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129675_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129675_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129675_010_640x360.jpg" height="144px" /></a>
-### 2129693
-**Power Players S01E40 - Prepare for the Worst**  
-TV-Y7-FV 🔒 11:17  
-⌛ December 31, 2020 at 08:22:34 EST  
-[Open in app](https://tinyurl.com/rvc5883) or on the web: https://www.cartoonnetwork.com/video/power-players/prepare-for-the-worst-episode.html  
-seriesid=`2129657` titleid=`2129693` mediaid=`07b1652d591d4ca84af3fc5f042c618c7de83976`  
-_Axel and Bobbie Blobby skip out on Sarge's disaster-prep drills, leaving enough of a gap in the team's defenses for a crow to swoop in and snatch Sarge! Feeling responsible, Axel leads the team on a search-and-rescue mission._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2129693_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129693_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129693_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129693_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129693_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129693_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129693_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129693_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129693_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129693_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129693_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129693_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129693_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129693_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129693_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129693_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129693_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129693_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2129693_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2129693_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
