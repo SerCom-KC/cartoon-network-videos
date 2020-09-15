@@ -2324,14 +2324,14 @@
     {
         "airingid": "RADS1008312000023288",
         "seasonnumber": "1",
-        "seasonitemnumber": "",
+        "seasonitemnumber": "17",
         "seriesid": "100000000001179492",
         "id": "1eb1409bb4048216cbc36a1ea478c9ac92e3aa24",
         "collectionid": "",
         "seofriendlyurl": "/video/victor-and-valentino-en-espanol/crece-episode.html",
-        "seasonepisodenumber": "",
+        "seasonepisodenumber": "17",
         "title": "Crece",
-        "episodenumber": "",
+        "episodenumber": "17",
         "type": "fullepisode",
         "active": true,
         "description": "Mientras todo el mundo celebra a Valentino porque le creci\u00f3 su primer vello facial, Vic se pone celoso y recurre a m\u00e9todos m\u00e1gicos para dejarse crecer el bigote y competir por la atenci\u00f3n.",
@@ -2345,7 +2345,7 @@
         "originalpremieredate": "2020-09-15T09:00:00.000Z",
         "pubdate": "2020-09-15T09:00:00.000Z",
         "expdate": "2020-09-18T08:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2196839_002_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2196839_008_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
@@ -16383,7 +16383,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -16426,7 +16426,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
