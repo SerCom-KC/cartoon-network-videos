@@ -16254,7 +16254,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -16297,7 +16297,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -20986,14 +20986,14 @@
     {
         "airingid": "RADS1008312000023276",
         "seasonnumber": "1",
-        "seasonitemnumber": "",
+        "seasonitemnumber": "22",
         "seriesid": "100000000001179492",
         "id": "f3fd9b3cd408ad050209bbfb68fb33ac2036c6b7",
         "collectionid": "",
         "seofriendlyurl": "/video/victor-and-valentino-en-espanol/sabelotodo-episode.html",
-        "seasonepisodenumber": "",
+        "seasonepisodenumber": "22",
         "title": "Sabelotodo",
-        "episodenumber": "",
+        "episodenumber": "22",
         "type": "fullepisode",
         "active": true,
         "description": "Cuando Vic accidentalmente libera malvados murci\u00e9lagos de una cueva, depende de los chicos y de Don proteger el pueblo, pero la actitud de sabelotodo de Vic pone en peligro la tarea.",
@@ -21007,7 +21007,7 @@
         "originalpremieredate": "2020-09-15T09:00:00.000Z",
         "pubdate": "2020-09-15T09:00:00.000Z",
         "expdate": "2020-09-18T08:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2199752_004_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2199752_005_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
