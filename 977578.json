@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003261900076251",
+  "airingid": "RADS1009092000024941",
   "seasonnumber": "4",
   "seasonitemnumber": "19",
   "seriesid": "10000000000",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Mordecai and Rigby want to help their favorite 80's sitcom star escape to the mountains.",
-  "duration": 675,
+  "duration": 676,
   "freewheelid": "cn-977578",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "10000000000",
   "seriesname": "Unlocked",
   "originalpremieredate": "2013-03-05T01:00:00.000Z",
-  "pubdate": "2019-04-22T09:00:00.000Z",
-  "expdate": "2019-05-01T08:59:00.000Z",
+  "pubdate": "2020-09-18T09:00:00.000Z",
+  "expdate": "2020-09-25T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/977578_009_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Regular Show",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1362445200000",
-  "pubdateasmilliseconds": "1555923600000",
-  "expdateasmilliseconds": "1556701140000",
+  "pubdateasmilliseconds": "1600419600000",
+  "expdateasmilliseconds": "1601024340000",
   "mediaid": "3db004161fbb86fbaf92fae1822fac2dd9053345",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true
+  "ismultipropertycollection": true,
+  "clipsonly": false,
+  "includeshortform": false
 }

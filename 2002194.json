@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003151900074131",
+  "airingid": "RADS1009092000024824",
   "seasonnumber": "5",
   "seasonitemnumber": "43",
   "seriesid": "757073",
@@ -11,7 +11,7 @@
   "episodenumber": "43",
   "type": "fullepisode",
   "active": true,
-  "description": "Root Beer Guy works a boring job during the day and tries to write mystery stories at night. But his life is about to change when he witnesses Finn and Jake kidnapping Princess Bubblegum! There's only one problem: no one believes Root Beer Guy.",
+  "description": "Root Beer Guy works a boring job during the day and tries to write mystery stories at night. But his life is about to change when he witnesses Finn and Jake kidnapping Princess Bubblegum!",
   "duration": 702,
   "freewheelid": "cn-2002194",
   "isclip": false,
@@ -20,9 +20,9 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2013-12-03T00:00:00.000Z",
-  "pubdate": "2019-03-15T09:00:00.000Z",
-  "expdate": "2019-03-22T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2002194_003_640x360.jpg",
+  "pubdate": "2020-09-18T09:00:00.000Z",
+  "expdate": "2020-09-25T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2002194_008_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1386028800000",
-  "pubdateasmilliseconds": "1552640400000",
-  "expdateasmilliseconds": "1553245140000",
+  "pubdateasmilliseconds": "1600419600000",
+  "expdateasmilliseconds": "1601024340000",
   "mediaid": "07d8e64b630e75dc60a370a9eb1fb398bcebcb0f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }

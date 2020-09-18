@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1003151900074133",
+  "airingid": "RADS1009092000024826",
   "seasonnumber": "5",
   "seasonitemnumber": "46",
   "seriesid": "757073",
@@ -11,8 +11,8 @@
   "episodenumber": "46",
   "type": "fullepisode",
   "active": true,
-  "description": "Finn practices his sword fighting skills at the candy junkyard, where he meets an old gumball robot named Rattleballs. To Finn's shock, he finds out he's NOT the master swordsman he thinks he is. What the what?! Finn begs Rattleballs to train him, but he soon discovers his mentor's deep, dark secret... a secret that will ultimately test Finn's loyalty to Princess Bubblegum. ",
-  "duration": 701,
+  "description": "Finn practices his sword fighting skills at the candy junkyard, where he meets an old gumball robot named Rattleballs. To Finn's shock, he finds out he's not the master swordsman he thinks he is.",
+  "duration": 702,
   "freewheelid": "cn-2002198",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2014-01-28T00:00:00.000Z",
-  "pubdate": "2019-03-15T09:00:00.000Z",
-  "expdate": "2019-03-22T08:59:00.000Z",
+  "pubdate": "2020-09-18T09:00:00.000Z",
+  "expdate": "2020-09-25T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2002198_007_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1390867200000",
-  "pubdateasmilliseconds": "1552640400000",
-  "expdateasmilliseconds": "1553245140000",
+  "pubdateasmilliseconds": "1600419600000",
+  "expdateasmilliseconds": "1601024340000",
   "mediaid": "9ddaec417e769bce49f24da236da787ad7fbacbf",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
