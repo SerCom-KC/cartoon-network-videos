@@ -152,7 +152,7 @@
         "originalpremieredate": "2016-07-01T23:00:00.000Z",
         "pubdate": "2020-10-02T09:00:00.000Z",
         "expdate": "2020-11-06T09:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2056121_004_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2056121_010_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "",
@@ -439,7 +439,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012201900048554",
+        "airingid": "RADS1012201900048499",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2007332",
@@ -482,7 +482,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012201900048499",
+        "airingid": "RADS1012201900048554",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2007332",
@@ -808,7 +808,7 @@
         "seriesname": "Uncle Grandpa",
         "originalpremieredate": "2013-10-22T00:00:00.000Z",
         "pubdate": "2020-10-02T09:00:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2007604_002_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2007604_003_640x360.jpg",
         "authtype": "unauth",
         "expdate": "2020-11-06T09:59:00.000Z",
         "webflags": "",
