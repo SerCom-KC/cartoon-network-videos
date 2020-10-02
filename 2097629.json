@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1002251900069429",
+  "airingid": "RADS1009282000029855",
   "seasonnumber": "5",
   "seasonitemnumber": "9",
   "seriesid": "835928",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "A chance encounter with the woman of his dreams inspires Rocky to stop living life online and find love with the help of the latest dating app. Gumball and Darwin try to help Rocky through the tricky world of online romance. In the race to find Rocky's dream girl, they discover people can forgive almost anything when you tell them you're acting in the name of love.",
-  "duration": 685,
+  "duration": 686,
   "freewheelid": "cn-2097629",
   "isclip": false,
   "typesort": "1",
@@ -20,8 +20,8 @@
   "seriestitleid": "835928",
   "seriesname": "Gumball",
   "originalpremieredate": "2016-11-11T00:30:00.000Z",
-  "pubdate": "2019-03-01T10:00:00.000Z",
-  "expdate": "2019-03-08T09:59:00.000Z",
+  "pubdate": "2020-10-02T09:00:00.000Z",
+  "expdate": "2020-10-09T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2097629_009_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Gumball",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1478824200000",
-  "pubdateasmilliseconds": "1551434400000",
-  "expdateasmilliseconds": "1552039140000",
+  "pubdateasmilliseconds": "1601629200000",
+  "expdateasmilliseconds": "1602233940000",
   "mediaid": "8c5fcd2a00c05526ef6ccc08b9788d7b80d40982",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
