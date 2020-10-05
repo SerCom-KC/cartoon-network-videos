@@ -3,34 +3,34 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: October 5, 2020 at 16:00:29 EDT_
+_Last Update: October 5, 2020 at 16:30:28 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2141710 Total Dramarama: 2 (2 new)  
 2000349 Teen Titans Go!: 1 (1 new)  
-### 2223225
-**Total Dramarama S02E?? - Ghoul Spirit**  
-🆕 TV-Y7 🔒 10:42  
-⌛ January 1, 2021 at 04:59:00 EST  
-[Open in app](https://tinyurl.com/yyc3g4x4) or on the web: https://www.cartoonnetwork.com/video/total-dramarama/ghoul-spirit-episode.html  
-seriesid=`2141710` titleid=`2223225` mediaid=`c08a01fdd6f652a5cde6120edcfdb06420db4685`  
-_Gwen rejects the friendship of a friendly ghost._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_010_640x360.jpg" height="144px" /></a>
+2141710 Total Dramarama: 2 (2 new)  
 ### 2215225
 **Teen Titans Go! S06E29 - TV Knight 6**  
 🆕 TV-PG 🔒 10:46  
-⌛ October 5, 2020 at 16:00:00 EDT  
+⌛ January 1, 2021 at 13:31:11 EST  
 [Open in app](https://tinyurl.com/y25khawz) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/tv-knight-6-episode.html  
 seriesid=`2000349` titleid=`2215225` mediaid=`d1697db1cd01a1723c085b70e25535a5253a4d12`  
 _Batman is forced to go to the department store with Alfred, but runs off to watch TV with Commissioner Gordon._  
 <a href="https://s3.amazonaws.com/cartoonorchestrator/2215225_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215225_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215225_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215225_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215225_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215225_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215225_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215225_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215225_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215225_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215225_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215225_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215225_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215225_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215225_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215225_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215225_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215225_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2215225_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2215225_010_640x360.jpg" height="144px" /></a>
-### 2223226
-**Total Dramarama S02E?? - Duncan Carving**  
+### 2223225
+**Total Dramarama S02E26 - Ghoul Spirit**  
 🆕 TV-Y7 🔒 10:42  
-⌛ January 1, 2021 at 04:59:00 EST  
+⌛ January 1, 2021 at 13:30:04 EST  
+[Open in app](https://tinyurl.com/y5cbhda4) or on the web: https://www.cartoonnetwork.com/video/total-dramarama/ghoul-spirit-episode.html  
+seriesid=`2141710` titleid=`2223225` mediaid=`c08a01fdd6f652a5cde6120edcfdb06420db4685`  
+_Gwen rejects the friendship of a friendly ghost._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223225_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223225_010_640x360.jpg" height="144px" /></a>
+### 2223226
+**Total Dramarama S02E27 - Duncan Carving**  
+🆕 TV-Y7 🔒 10:42  
+⌛ January 1, 2021 at 13:30:33 EST  
 [Open in app](https://tinyurl.com/yxj59fh7) or on the web: https://www.cartoonnetwork.com/video/total-dramarama/duncan-carving-episode.html  
 seriesid=`2141710` titleid=`2223226` mediaid=`3b713b96e6aacde46676556fdfd625d485c75be1`  
 _Duncan takes advantage of a questionable Halloween legend to steal candy from his classmates._  
 <a href="https://s3.amazonaws.com/cartoonorchestrator/2223226_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223226_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223226_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223226_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223226_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223226_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223226_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223226_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223226_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223226_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223226_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223226_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223226_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223226_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223226_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223226_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223226_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223226_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2223226_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2223226_010_640x360.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
