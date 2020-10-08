@@ -1,12 +1,11 @@
 {
-    "updated": 1602124162,
-    "added": [],
-    "removed": [
+    "updated": 1602131427,
+    "added": [
         {
             "airingid": "RADS1009022000023805",
             "seasonnumber": "",
             "seasonitemnumber": "",
-            "seriesid": "10000000000602100",
+            "seriesid": "2056641",
             "id": "37891c4404131f5f502f67d5bbc1ecbf940fe7c3",
             "collectionid": "",
             "seofriendlyurl": "/video/we-bare-bears/we-bare-bears-the-movie-episode.html",
@@ -21,29 +20,30 @@
             "isclip": false,
             "typesort": "3",
             "tvratingcode": "TV-Y7",
-            "seriestitleid": "10000000000602100",
-            "seriesname": "Movies",
+            "seriestitleid": "2056641",
+            "seriesname": "We Bare Bears",
             "originalpremieredate": "2020-09-07T22:00:00.000Z",
             "pubdate": "2020-09-08T02:30:00.000Z",
-            "expdate": "2020-10-08T02:29:00.000Z",
+            "expdate": "2021-01-01T09:59:00.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2208493_009_640x360.jpg",
             "authtype": "auth",
             "webflags": "",
-            "tags": "movies",
+            "tags": "movies|wbb movie playlist",
             "titleid": "2208493",
             "titletype": "Feature Film",
-            "bannertext": "",
+            "bannertext": "MOVIE",
             "originalseriesid": "2056641",
             "originalseriesname": "We Bare Bears",
             "hasparent": false,
             "originalpremieredateasmilliseconds": "1599516000000",
             "pubdateasmilliseconds": "1599532200000",
-            "expdateasmilliseconds": "1602124140000",
+            "expdateasmilliseconds": "1609495140000",
             "mediaid": "37891c4404131f5f502f67d5bbc1ecbf940fe7c3",
             "isunlockedfullepisode": false,
-            "ismultipropertycollection": true,
+            "ismultipropertycollection": false,
             "clipsonly": false,
             "includeshortform": false
         }
-    ]
+    ],
+    "removed": []
 }
