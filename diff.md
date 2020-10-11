@@ -3,26 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: October 10, 2020 at 14:30:30 EDT_
+_Last Update: October 11, 2020 at 06:30:29 EDT_
 ## Video added
-### Summary
-2085313 Ben 10: 1  
-2153899 Ben 10 en Espanol: 1  
-### 2240064
-**Ben 10 S??E?? - Ben 10 vs. The Universe: The Movie**  
-TV-Y7-FV 🔒 72:10  
-⌛ December 31, 2020 at 23:59:00 EST  
-[Open in app](https://tinyurl.com/y64umyjm) or on the web: https://www.cartoonnetwork.com/video/ben-10/ben-10-vs-the-universe-the-movie-episode.html  
-seriesid=`2085313` titleid=`2240064` mediaid=`5511f63e9f0e27f4ac6fb8ac37bc9db5fdc3c9d5`  
-_When a blast from Ben's past - Vilgax - returns to do double the damage on Team Tennyson and planet Earth itself, Ben must go interstellar to save the day while Gwen and Grandpa Max team-up with Kevin to protect the world in Ben's absence, but when our boy hero is confused for the villain in space, Ben is forced to defend himself in the trial of a century!_  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2240064_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240064_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240064_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240064_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240064_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240064_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240064_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240064_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240064_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240064_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240064_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240064_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240064_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240064_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240064_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240064_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240064_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240064_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240064_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240064_010_640x360.jpg" height="144px" /></a>
-### 2240281
-**Ben 10 en Espanol S??E?? - Ben 10 contra el Universo: La Pelicula**  
-TV-Y7-FV 🔒 72:06  
-⌛ January 1, 2021 at 14:29:00 EST  
-[Open in app](https://tinyurl.com/y65pvool) or on the web: https://www.cartoonnetwork.com/video/espanol/ben-10-contra-el-universo-la-pelicula-episode.html  
-seriesid=`2153899` titleid=`2240281` mediaid=`55a58590c01a916f1cf3f22e035968f471c7c1fa`  
-_Cuando Vilgax, un viejo conocido de Ben, vuelve para dañar por partida doble al Equipo Tennyson y al planeta Tierra, Ben debe viajar al espacio interestelar para resolver el problema mientras Gwen y el abuelo Max se unen a Kevin para proteger el mundo en ausencia de Ben._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2240281_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240281_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240281_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240281_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240281_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240281_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240281_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240281_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240281_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240281_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240281_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240281_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240281_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240281_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240281_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240281_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240281_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240281_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2240281_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2240281_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
