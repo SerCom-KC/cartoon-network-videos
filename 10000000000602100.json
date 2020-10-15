@@ -258,7 +258,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049855",
+        "airingid": "RADS1012251900049927",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000602100",
@@ -301,7 +301,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049927",
+        "airingid": "RADS1012251900049855",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000602100",
@@ -522,7 +522,7 @@
         "seriesid": "10000000000602100",
         "id": "6410b6401769c5e82d778487a542304a814cfe96",
         "collectionid": "",
-        "seofriendlyurl": "",
+        "seofriendlyurl": "/video/ninjago/the-lego-ninjago-movie-episode.html",
         "seasonepisodenumber": "",
         "title": "The Lego Ninjago Movie",
         "episodenumber": "",
@@ -546,8 +546,8 @@
         "titleid": "2028674",
         "titletype": "Feature Film",
         "bannertext": "",
-        "originalseriesid": "0",
-        "originalseriesname": "",
+        "originalseriesid": "2194742",
+        "originalseriesname": "Ninjago",
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1576278000000",
         "pubdateasmilliseconds": "1602493200000",
