@@ -15566,7 +15566,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -15609,7 +15609,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -16190,7 +16190,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2020-08-14T09:00:00.000Z",
         "pubdate": "2020-08-14T09:00:00.000Z",
-        "expdate": "2020-12-31T18:25:00.000Z",
+        "expdate": "2020-10-23T17:25:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2153919_004_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -16203,7 +16203,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1597395600000",
         "pubdateasmilliseconds": "1597395600000",
-        "expdateasmilliseconds": "1609439100000",
+        "expdateasmilliseconds": "1603473900000",
         "mediaid": "c3e993599cefe4ee3c9750d72437031ebbe1c219",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -18469,7 +18469,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2020-08-14T09:00:00.000Z",
         "pubdate": "2020-08-14T09:00:00.000Z",
-        "expdate": "2020-12-31T18:25:00.000Z",
+        "expdate": "2020-10-23T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2153909_006_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -18482,7 +18482,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1597395600000",
         "pubdateasmilliseconds": "1597395600000",
-        "expdateasmilliseconds": "1609439100000",
+        "expdateasmilliseconds": "1603443540000",
         "mediaid": "dccfddc0b475014bbfe1acadc7e6d9e77e103eea",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
