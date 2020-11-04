@@ -40,7 +40,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": true
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010162000036055",
@@ -83,7 +83,7 @@
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": true
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010162000036051",
@@ -126,7 +126,7 @@
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": true
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009252000029197",
@@ -169,7 +169,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": true
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010162000036058",
@@ -212,7 +212,7 @@
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": true
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010162000036049",
@@ -255,7 +255,7 @@
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": true
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009252000029236",
@@ -298,7 +298,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": true
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009252000029174",
@@ -341,7 +341,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": true
+        "includeshortform": false
     },
     {
         "airingid": "RADS1010162000036045",
@@ -384,7 +384,7 @@
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": true
+        "includeshortform": false
     },
     {
         "airingid": "RADS1009252000029157",
@@ -427,6 +427,6 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": true
+        "includeshortform": false
     }
 ]
