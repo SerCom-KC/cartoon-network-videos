@@ -86,49 +86,6 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009252000029247",
-        "seasonnumber": "1",
-        "seasonitemnumber": "41",
-        "seriesid": "2011404",
-        "id": "109dc14afdd159116612266575b28721c30e249f",
-        "collectionid": "",
-        "seofriendlyurl": "/video/steven-universe/horror-club-episode.html",
-        "seasonepisodenumber": "41",
-        "title": "Horror Club",
-        "episodenumber": "41",
-        "type": "fullepisode",
-        "active": true,
-        "description": "Steven goes to the lighthouse to watch scary movies with Ronaldo, Lars and Sadie.",
-        "duration": 687,
-        "freewheelid": "cn-2020145",
-        "isclip": false,
-        "typesort": "1",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "2011404",
-        "seriesname": "Steven Universe",
-        "originalpremieredate": "2015-02-12T23:30:00.000Z",
-        "pubdate": "2020-10-02T09:00:00.000Z",
-        "expdate": "2020-11-06T15:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2020145_005_640x360.jpg",
-        "authtype": "auth",
-        "webflags": "",
-        "tags": "halloween|steven - halloween",
-        "titleid": "2020145",
-        "titletype": "Episode",
-        "bannertext": "",
-        "originalseriesid": "2011404",
-        "originalseriesname": "Steven Universe",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1423783800000",
-        "pubdateasmilliseconds": "1601629200000",
-        "expdateasmilliseconds": "1604678340000",
-        "mediaid": "109dc14afdd159116612266575b28721c30e249f",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
         "airingid": "RADS1010302000039873",
         "seasonnumber": "5",
         "seasonitemnumber": "26",
@@ -436,7 +393,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049932",
+        "airingid": "RADS1012251900050006",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -479,7 +436,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050006",
+        "airingid": "RADS1012251900049932",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1038,7 +995,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049897",
+        "airingid": "RADS1012251900050008",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1081,7 +1038,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050008",
+        "airingid": "RADS1012251900049897",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1253,7 +1210,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049943",
+        "airingid": "RADS1012251900049893",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1296,7 +1253,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049893",
+        "airingid": "RADS1012251900049943",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2460,7 +2417,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049954",
+        "airingid": "RADS1012251900049941",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2503,7 +2460,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049941",
+        "airingid": "RADS1012251900049954",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2635,7 +2592,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049947",
+        "airingid": "RADS1012251900049939",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2678,7 +2635,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049939",
+        "airingid": "RADS1012251900049947",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2850,7 +2807,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049920",
+        "airingid": "RADS1012251900049883",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2893,7 +2850,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049883",
+        "airingid": "RADS1012251900049920",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3025,7 +2982,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049899",
+        "airingid": "RADS1012251900049949",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -3068,7 +3025,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049949",
+        "airingid": "RADS1012251900049899",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
