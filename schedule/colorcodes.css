@@ -530,6 +530,13 @@
     border-color: #fdfda3;
 }
 
+.franchise-446892, .series-2132940 { /* Craig of the Creek */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #90ad58;
+    color: black;
+    border-color: black;
+}
+
 .franchise-448012, .series-2162827 { /* Tigtone */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #37241a;
@@ -565,11 +572,11 @@
     border-color: #f4182b;
 }
 
-.franchise-446892, .series-2132940 { /* Craig of the Creek */
-    font-family: "Avenir Std", sans-serif;
-    background-color: #90ad58;
-    color: black;
-    border-color: black;
+.franchise-449992, .series-2140484 { /* Tropical Cop Tales */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-image: linear-gradient(90deg, #fe4402, #9966ff, #fe4402);
+    color: white;
+    border-color: white;
 }
 
 .franchise-450712, .series-2141710 { /* Total Dramarama */
