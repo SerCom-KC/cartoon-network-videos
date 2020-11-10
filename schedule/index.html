@@ -229,6 +229,18 @@
                 showDiv.classList.add("franchise-" + shows[i].franchise_id);
                 if ("series_id" in shows[i]) showDiv.classList.add("series-" + shows[i].series_id);
                 if ("title_id" in shows[i]) showDiv.classList.add("title-" + shows[i].title_id);
+                switch (shows[i].subnetwork) {
+                    case "CTN":
+                    case "CTNW": 
+                        showDiv.classList.add("ctn-show");
+                        break;
+                    case "ASM":
+                    case "ASMW":
+                        showDiv.classList.add("asm-show");
+                        break;
+                    default:
+                        break;
+                }
                 showDiv.dataset["guidets"] = shows[i].guide_timestamp;
                 showDiv.dataset["guidedur"] = shows[i].scheduled_duration;
                 showDiv.dataset["showts"] = shows[i].show_timestamp;
