@@ -261,7 +261,7 @@
             });
             shows.sort(function(prev, next) {return prev.show_timestamp - next.show_timestamp;});
             for (var i = 0; i < shows.length; i++) {
-                showDiv = document.getElementById("show-" + shows[i].show_id)
+                var showDiv = document.getElementById("show-" + shows[i].show_id)
                 if (showDiv === null) {
                     showDiv = document.createElement("div");
                     showDiv.id = "show-" + shows[i].show_id
@@ -291,8 +291,7 @@
                 showDiv.dataset["guidedur"] = shows[i].scheduled_duration;
                 showDiv.dataset["showts"] = shows[i].show_timestamp;
                 showDiv.dataset["showdur"] = shows[i].show_duration;
-                var showTimestamp = new Date(parseInt(showDiv.dataset["guidets"])*1000);
-                seriesNameHTML = '<p class="series-name"><span class="show-timestamp">--:--</span> ';
+                var seriesNameHTML = '<p class="series-name"><span class="show-timestamp">--:--</span> ';
                 if (shows[i].series_name != "") {seriesNameHTML += shows[i].series_name;}
                 else {seriesNameHTML += shows[i].title;}
                 if ("episode_number" in shows[i]) seriesNameHTML += ' <span class="episode-number">' + shows[i].episode_number + '</span>';
@@ -302,17 +301,18 @@
                 showDiv.innerHTML += '<p class="extra-info">' + shows[i].tv_rating + ' · <span class="show-duration">--:--</span></p>';
                 if (shows[i].summary) showDiv.innerHTML += '<p class="summary">' + shows[i].summary + '</p>';
                 if (i < shows.length - 1) {
-                    nextShowTimestamp = new Date(parseInt(shows[i+1].show_timestamp)*1000);
+                    var showTimestamp = new Date(parseInt(shows[i].guide_timestamp)*1000);
+                    var nextShowTimestamp = new Date(parseInt(shows[i+1].guide_timestamp)*1000);
                     if (showTimestamp.toLocaleString("en-US", date_display_config) != nextShowTimestamp.toLocaleString("en-US", date_display_config)) {
-                        nextShowTimestampString = nextShowTimestamp.toLocaleString("en-US", date_display_config);
-                        dateSeparator = document.getElementById("date-" + nextShowTimestampString.toLowerCase().replace(" ", "-"));
+                        var nextShowTimestampString = nextShowTimestamp.toLocaleString("en-US", date_display_config);
+                        var dateSeparator = document.getElementById("date-" + nextShowTimestampString.toLowerCase().replace(" ", "-"));
                         if (dateSeparator === null) {
                             dateSeparator = document.createElement("div");
                             dateSeparator.classList.add("separator");
                             dateSeparator.classList.add("date-" + nextShowTimestampString.toLowerCase().replace(" ", "-"));
                             dateSeparator.innerText = nextShowTimestampString;
                             document.getElementsByTagName("main")[0].appendChild(dateSeparator);
-                            dateSeparatorAnchor = document.createElement("i");
+                            var dateSeparatorAnchor = document.createElement("i");
                             dateSeparatorAnchor.id = "date-" + nextShowTimestampString.toLowerCase().replace(" ", "-");
                             document.getElementsByTagName("main")[0].appendChild(dateSeparatorAnchor);
                         }
