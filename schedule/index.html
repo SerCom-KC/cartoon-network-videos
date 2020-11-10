@@ -39,6 +39,10 @@
             font-weight: 500;
         }
 
+        .show--hide {
+            display: none;
+        }
+
         .show-timestamp {
             font-size: xx-large;
             font-weight: bold;
@@ -131,6 +135,11 @@
             <option value="cnnx">CNN</option>
             <option value="nbatv">NBA TV</option>
         </select>
+        <select id="asfilter" onchange="applyDisplaySettings()">
+            <option value="none" selected>Show all</option>
+            <option value="ctn">Show CN only</option>
+            <option value="asm">Show [as] only</option>
+        </select>
         <p>UNOFFICIAL | Color codes by <a href="https://twitter.com/CNschedules">@CNschedules</a> | <a href="https://github.com/SerCom-KC/cartoon-network-schedule">GitHub</a></p>
     </footer>
     <script>
@@ -142,6 +151,31 @@
         var colorcodes_etag = "";
 
         function applyDisplaySettings() {
+            switch (document.getElementById("asfilter").value) {
+                case "ctn":
+                    [].forEach.call(document.querySelectorAll(".asm-show"), (show) => {
+                        show.classList.add("show--hide");
+                    });
+                    [].forEach.call(document.querySelectorAll(".ctn-show"), (show) => {
+                        show.classList.remove("show--hide");
+                    });
+                    break;
+                case "asm":
+                    [].forEach.call(document.querySelectorAll(".ctn-show"), (show) => {
+                        show.classList.add("show--hide");
+                    });
+                    [].forEach.call(document.querySelectorAll(".asm-show"), (show) => {
+                        show.classList.remove("show--hide");
+                    });
+                    break;
+                case "none":
+                default:
+                    [].forEach.call(document.querySelectorAll(".show--hide"), (show) => {
+                        show.classList.remove("show--hide");
+                    });
+                    break;
+            }
+
             [].forEach.call(document.querySelectorAll(".show"), (showDiv) => {
                 var showTimestamp;
                 var showDuration;
@@ -203,6 +237,18 @@
 
         function switchInstance() {
             document.getElementsByTagName("main")[0].innerHTML = "";
+
+            switch (document.getElementById("instance").value) {
+                case "as-east":
+                case "as-west":
+                    document.getElementById("asfilter").disabled = false;
+                    break;
+                default:
+                    document.getElementById("asfilter").disabled = true;
+                    document.getElementById("asfilter").value = "none";
+                    break;
+            }
+
             loadData();
         }
 
