@@ -26,6 +26,10 @@
 }
 /* TOONAMI fonts end */
 
+/* Default fallback font */
+.ctn-show {font-family: "Avenir Std", sans-serif;}
+.asm-show {font-family: "Helvetica Neue", Helvetica, sans-serif;}
+
 /* Specials start */
 .franchise-324534 {
     font-family: "Avenir Std", sans-serif;
