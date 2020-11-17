@@ -307,49 +307,6 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050006",
-        "seasonnumber": "4",
-        "seasonitemnumber": "",
-        "seriesid": "2011404",
-        "id": "2b905912a2798c339b8a6301c2e1372e70fd11fc",
-        "collectionid": "",
-        "seofriendlyurl": "/video/steven-universe/video-chat-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Video Chat",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Steven and Peridot introduce Lapis to a new way to communicate.",
-        "duration": 182,
-        "freewheelid": "cn-2091141",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "2011404",
-        "seriesname": "Steven Universe",
-        "originalpremieredate": "2019-09-02T23:30:00.000Z",
-        "pubdate": "2020-01-01T05:00:59.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2091141_010_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts|vod",
-        "titleid": "2091141",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2011404",
-        "originalseriesname": "Steven Universe",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1567467000000",
-        "pubdateasmilliseconds": "1577854859000",
-        "expdateasmilliseconds": "1609477199000",
-        "mediaid": "2b905912a2798c339b8a6301c2e1372e70fd11fc",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
         "airingid": "RADS1012251900049932",
         "seasonnumber": "4",
         "seasonitemnumber": "",
@@ -393,43 +350,43 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049879",
+        "airingid": "RADS1012251900050006",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
-        "id": "2bb9bff3e70c5d3b5dfdf8d094dfce1d1bb81d7c",
+        "id": "2b905912a2798c339b8a6301c2e1372e70fd11fc",
         "collectionid": "",
-        "seofriendlyurl": "/video/steven-universe/both-of-you-music-video-episode.html",
+        "seofriendlyurl": "/video/steven-universe/video-chat-episode.html",
         "seasonepisodenumber": "",
-        "title": "Both of You Music Video",
+        "title": "Video Chat",
         "episodenumber": "",
         "type": "short",
         "active": true,
-        "description": "Music and lyrics by Rebecca Sugar. Additional music by Aivi Tran and Steven Velema. Performed by Zach Callison, Tom Scharpling (speaking) and Deedee Magno Hall (speaking).",
-        "duration": 169,
-        "freewheelid": "cn-2133132",
+        "description": "Steven and Peridot introduce Lapis to a new way to communicate.",
+        "duration": 182,
+        "freewheelid": "cn-2091141",
         "isclip": false,
         "typesort": "2",
         "tvratingcode": "TV-PG",
         "seriestitleid": "2011404",
         "seriesname": "Steven Universe",
-        "originalpremieredate": "2020-01-01T05:00:59.000Z",
+        "originalpremieredate": "2019-09-02T23:30:00.000Z",
         "pubdate": "2020-01-01T05:00:59.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2133132_004_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2091141_010_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
-        "tags": "shorts|music video|vod",
-        "titleid": "2133132",
+        "tags": "shorts|vod",
+        "titleid": "2091141",
         "titletype": "Element",
         "bannertext": "",
         "originalseriesid": "2011404",
         "originalseriesname": "Steven Universe",
         "hasparent": false,
-        "originalpremieredateasmilliseconds": "1577854859000",
+        "originalpremieredateasmilliseconds": "1567467000000",
         "pubdateasmilliseconds": "1577854859000",
         "expdateasmilliseconds": "1609477199000",
-        "mediaid": "2bb9bff3e70c5d3b5dfdf8d094dfce1d1bb81d7c",
+        "mediaid": "2b905912a2798c339b8a6301c2e1372e70fd11fc",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
@@ -479,7 +436,50 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049888",
+        "airingid": "RADS1012251900049879",
+        "seasonnumber": "4",
+        "seasonitemnumber": "",
+        "seriesid": "2011404",
+        "id": "2bb9bff3e70c5d3b5dfdf8d094dfce1d1bb81d7c",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe/both-of-you-music-video-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Both of You Music Video",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Music and lyrics by Rebecca Sugar. Additional music by Aivi Tran and Steven Velema. Performed by Zach Callison, Tom Scharpling (speaking) and Deedee Magno Hall (speaking).",
+        "duration": 169,
+        "freewheelid": "cn-2133132",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "2011404",
+        "seriesname": "Steven Universe",
+        "originalpremieredate": "2020-01-01T05:00:59.000Z",
+        "pubdate": "2020-01-01T05:00:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2133132_004_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts|music video|vod",
+        "titleid": "2133132",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2011404",
+        "originalseriesname": "Steven Universe",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1577854859000",
+        "pubdateasmilliseconds": "1577854859000",
+        "expdateasmilliseconds": "1609477199000",
+        "mediaid": "2bb9bff3e70c5d3b5dfdf8d094dfce1d1bb81d7c",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1012251900049916",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -522,7 +522,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049916",
+        "airingid": "RADS1012251900049888",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -780,7 +780,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050008",
+        "airingid": "RADS1012251900049897",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -823,7 +823,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049897",
+        "airingid": "RADS1012251900050008",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -952,7 +952,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049943",
+        "airingid": "RADS1012251900049893",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -995,7 +995,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049893",
+        "airingid": "RADS1012251900049943",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1167,7 +1167,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049885",
+        "airingid": "RADS1012251900049923",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1210,7 +1210,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049923",
+        "airingid": "RADS1012251900049885",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1468,7 +1468,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049926",
+        "airingid": "RADS1012251900049873",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1511,7 +1511,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049873",
+        "airingid": "RADS1012251900049926",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2116,7 +2116,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049954",
+        "airingid": "RADS1012251900049941",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2159,7 +2159,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049941",
+        "airingid": "RADS1012251900049954",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2463,7 +2463,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049883",
+        "airingid": "RADS1012251900049920",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2506,7 +2506,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049920",
+        "airingid": "RADS1012251900049883",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2638,7 +2638,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049949",
+        "airingid": "RADS1012251900049899",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2681,7 +2681,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049899",
+        "airingid": "RADS1012251900049949",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
