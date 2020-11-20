@@ -370,7 +370,7 @@
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2088658_010_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
-        "tags": "clarence - holiday|holiday 2019|unauth",
+        "tags": "clarence - holiday|holiday 2019|cl - tg|unauth",
         "titleid": "2088658",
         "titletype": "Episode",
         "bannertext": "UNLOCKED",
@@ -731,7 +731,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012201900048524",
+        "airingid": "RADS1012201900048452",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2012957",
@@ -774,7 +774,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012201900048452",
+        "airingid": "RADS1012201900048524",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2012957",
