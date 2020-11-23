@@ -15136,7 +15136,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -15179,7 +15179,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -16987,14 +16987,14 @@
     {
         "airingid": "RADS1001272000057364",
         "seasonnumber": "6",
-        "seasonitemnumber": "",
+        "seasonitemnumber": "42",
         "seriesid": "100000000001179492",
         "id": "d34c0b5dac406253b4c3b5bdd98d79ab64eddc2f",
         "collectionid": "",
-        "seofriendlyurl": "/video/the-amazing-world-of-gumball-en-espanol/sarah-episode.html",
-        "seasonepisodenumber": "",
+        "seofriendlyurl": "/video/espanol/sarah-episode.html",
+        "seasonepisodenumber": "42",
         "title": "Sarah",
-        "episodenumber": "",
+        "episodenumber": "42",
         "type": "fullepisode",
         "active": true,
         "description": "Darwin le pide a Sarah una foto para poner en la portada del anuario escolar. Pero cuando Sarah trata de ayudar, las cosas se complican un poco.",
@@ -17008,7 +17008,7 @@
         "originalpremieredate": "2020-02-03T10:00:00.000Z",
         "pubdate": "2020-02-03T10:00:00.000Z",
         "expdate": "2021-01-01T09:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2218576_007_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2218576_006_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
