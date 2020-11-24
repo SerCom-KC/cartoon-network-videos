@@ -26,7 +26,7 @@
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2018721_003_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
-        "tags": "holiday 2019|uncle grandpa - holiday|unauth",
+        "tags": "holiday 2019|uncle grandpa - holiday|holiday 2020|unauth",
         "titleid": "2018721",
         "titletype": "Episode",
         "bannertext": "UNLOCKED",
@@ -430,7 +430,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012201900048554",
+        "airingid": "RADS1012201900048499",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2007332",
@@ -473,7 +473,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012201900048499",
+        "airingid": "RADS1012201900048554",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2007332",
