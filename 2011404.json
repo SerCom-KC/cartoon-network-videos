@@ -112,7 +112,7 @@
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2083873_003_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
-        "tags": "holiday 2019|steven universe - holiday|holiday 2020|unauth",
+        "tags": "steven universe - holiday|holiday 2020|unauth",
         "titleid": "2083873",
         "titletype": "Episode",
         "bannertext": "UNLOCKED",
@@ -651,7 +651,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049901",
+        "airingid": "RADS1012251900049946",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -694,7 +694,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049946",
+        "airingid": "RADS1012251900049901",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1382,7 +1382,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049936",
+        "airingid": "RADS1012251900049891",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1425,7 +1425,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049891",
+        "airingid": "RADS1012251900049936",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1666,7 +1666,7 @@
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2020147_001_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
-        "tags": "holiday 2019|steven universe - holiday|holiday 2020|unauth",
+        "tags": "steven universe - holiday|holiday 2020|unauth",
         "titleid": "2020147",
         "titletype": "Episode",
         "bannertext": "UNLOCKED",
@@ -2205,7 +2205,7 @@
         "ismultipropertycollection": false
     },
     {
-        "airingid": "RADS1012251900049947",
+        "airingid": "RADS1012251900049939",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2248,7 +2248,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049939",
+        "airingid": "RADS1012251900049947",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
