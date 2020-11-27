@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1006241900002027",
+  "airingid": "RADS1011232000046013",
   "seasonnumber": "1",
   "seasonitemnumber": "8",
   "seriesid": "810150",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "In order to impress Margret and ask her out, Mordecai hangs with a bunch of punk Unicorns who say they can help him get his lady.",
-  "duration": 678,
+  "duration": 679,
   "freewheelid": "cn-810155",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "810150",
   "seriesname": "Regular Show",
   "originalpremieredate": "2010-10-26T00:15:00.000Z",
-  "pubdate": "2019-07-01T09:00:00.000Z",
-  "expdate": "2019-08-01T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/810155_007_640x360.jpg",
+  "pubdate": "2020-11-27T10:00:00.000Z",
+  "expdate": "2021-01-01T09:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/810155_005_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
   "tags": "",
@@ -33,9 +33,11 @@
   "originalseriesname": "Regular Show",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1288052100000",
-  "pubdateasmilliseconds": "1561971600000",
-  "expdateasmilliseconds": "1564649940000",
+  "pubdateasmilliseconds": "1606471200000",
+  "expdateasmilliseconds": "1609495140000",
   "mediaid": "7df8e15cbf66e9188d48fe4cae3895bc84d88824",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
