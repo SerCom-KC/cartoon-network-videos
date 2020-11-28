@@ -258,7 +258,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049924",
+        "airingid": "RADS1012251900049879",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
@@ -301,7 +301,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049879",
+        "airingid": "RADS1012251900049924",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
@@ -430,7 +430,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049916",
+        "airingid": "RADS1012251900049888",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
@@ -473,7 +473,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049888",
+        "airingid": "RADS1012251900049916",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
@@ -1204,7 +1204,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049885",
+        "airingid": "RADS1012251900049923",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
@@ -1247,7 +1247,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049923",
+        "airingid": "RADS1012251900049885",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
@@ -1327,49 +1327,6 @@
         "pubdateasmilliseconds": "1577854859000",
         "expdateasmilliseconds": "1609477199000",
         "mediaid": "6aa6820e804d6af57a27cf606295a3e2e18ad9e9",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": true,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
-        "airingid": "RADS1011092000042296",
-        "seasonnumber": "",
-        "seasonitemnumber": "",
-        "seriesid": "100000000001088695",
-        "id": "6bedcc8e076dfed07bd6b6cd4f980e5dbeb1a38b",
-        "collectionid": "",
-        "seofriendlyurl": "/video/teen-titans-go/teen-titans-go-to-the-movies-lil-yachty-music-video-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Teen Titans Go! to the Movies: Lil Yachty Music Video",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Lil Yachty performs \"GO!\" (REMIX) from Teen Titans Go! to the Movies.",
-        "duration": 130,
-        "freewheelid": "cn-2168191",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "100000000001088695",
-        "seriesname": "Music Videos",
-        "originalpremieredate": "2018-06-26T22:00:00.000Z",
-        "pubdate": "2020-11-13T10:00:00.000Z",
-        "expdate": "2020-11-28T09:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2168191_003_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "music video",
-        "titleid": "2168191",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2000349",
-        "originalseriesname": "Teen Titans Go!",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1530050400000",
-        "pubdateasmilliseconds": "1605261600000",
-        "expdateasmilliseconds": "1606557540000",
-        "mediaid": "6bedcc8e076dfed07bd6b6cd4f980e5dbeb1a38b",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
         "clipsonly": false,
@@ -1714,49 +1671,6 @@
         "pubdateasmilliseconds": "1577854859000",
         "expdateasmilliseconds": "1609477199000",
         "mediaid": "9270266621ad3c4220cd56b7770d69982ede52c5",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": true,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
-        "airingid": "RADS1011092000042297",
-        "seasonnumber": "",
-        "seasonitemnumber": "",
-        "seriesid": "100000000001088695",
-        "id": "92f30dbe675f782740c9a2f2b0a7dbd7c6b85451",
-        "collectionid": "",
-        "seofriendlyurl": "/video/teen-titans-go/teen-titans-go-to-the-movies-red-carpet-mayhem-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Teen Titans Go! to the Movies: Red Carpet Mayhem",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Red Carpet interviews with the animated characters of Teen Titans Go! to the Movies.",
-        "duration": 125,
-        "freewheelid": "cn-2168192",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "100000000001088695",
-        "seriesname": "Music Videos",
-        "originalpremieredate": "2020-11-13T10:00:00.000Z",
-        "pubdate": "2020-11-13T10:00:00.000Z",
-        "expdate": "2020-11-28T09:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2168192_005_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "music video",
-        "titleid": "2168192",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2000349",
-        "originalseriesname": "Teen Titans Go!",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1605261600000",
-        "pubdateasmilliseconds": "1605261600000",
-        "expdateasmilliseconds": "1606557540000",
-        "mediaid": "92f30dbe675f782740c9a2f2b0a7dbd7c6b85451",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
         "clipsonly": false,
@@ -2193,7 +2107,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049900",
+        "airingid": "RADS1012251900049952",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
@@ -2236,7 +2150,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049952",
+        "airingid": "RADS1012251900049900",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
@@ -2322,7 +2236,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049941",
+        "airingid": "RADS1012251900049954",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
@@ -2365,7 +2279,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049954",
+        "airingid": "RADS1012251900049941",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
@@ -2795,7 +2709,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049955",
+        "airingid": "RADS1012251900049895",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
@@ -2838,7 +2752,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049895",
+        "airingid": "RADS1012251900049955",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
