@@ -224,7 +224,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049932",
+        "airingid": "RADS1012251900050006",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -267,7 +267,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050006",
+        "airingid": "RADS1012251900049932",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -912,49 +912,6 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049950",
-        "seasonnumber": "2",
-        "seasonitemnumber": "",
-        "seriesid": "2011404",
-        "id": "5a6148334289491b7db61d3b9d6a79f7d4b9beba",
-        "collectionid": "",
-        "seofriendlyurl": "/video/steven-universe/dear-old-dad-music-video-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Dear Old Dad Music Video",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Music and lyrics by Hellen Jo. Additional music by Aivi Tran and Steven Velema. Performed by Zach Callison and Tom Scharpling.",
-        "duration": 142,
-        "freewheelid": "cn-2133127",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "2011404",
-        "seriesname": "Steven Universe",
-        "originalpremieredate": "2020-01-01T05:00:59.000Z",
-        "pubdate": "2020-01-01T05:00:59.000Z",
-        "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2133127_001_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts|music video|vod",
-        "titleid": "2133127",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2011404",
-        "originalseriesname": "Steven Universe",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1577854859000",
-        "pubdateasmilliseconds": "1577854859000",
-        "expdateasmilliseconds": "1609477199000",
-        "mediaid": "5a6148334289491b7db61d3b9d6a79f7d4b9beba",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
         "airingid": "RADS1012251900049906",
         "seasonnumber": "2",
         "seasonitemnumber": "",
@@ -998,7 +955,50 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049885",
+        "airingid": "RADS1012251900049950",
+        "seasonnumber": "2",
+        "seasonitemnumber": "",
+        "seriesid": "2011404",
+        "id": "5a6148334289491b7db61d3b9d6a79f7d4b9beba",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe/dear-old-dad-music-video-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Dear Old Dad Music Video",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Music and lyrics by Hellen Jo. Additional music by Aivi Tran and Steven Velema. Performed by Zach Callison and Tom Scharpling.",
+        "duration": 142,
+        "freewheelid": "cn-2133127",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "2011404",
+        "seriesname": "Steven Universe",
+        "originalpremieredate": "2020-01-01T05:00:59.000Z",
+        "pubdate": "2020-01-01T05:00:59.000Z",
+        "expdate": "2021-01-01T04:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2133127_001_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts|music video|vod",
+        "titleid": "2133127",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2011404",
+        "originalseriesname": "Steven Universe",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1577854859000",
+        "pubdateasmilliseconds": "1577854859000",
+        "expdateasmilliseconds": "1609477199000",
+        "mediaid": "5a6148334289491b7db61d3b9d6a79f7d4b9beba",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1012251900049923",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1041,7 +1041,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049923",
+        "airingid": "RADS1012251900049885",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1864,7 +1864,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049941",
+        "airingid": "RADS1012251900049954",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1907,7 +1907,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049954",
+        "airingid": "RADS1012251900049941",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2168,7 +2168,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049921",
+        "airingid": "RADS1012251900049886",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2211,7 +2211,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049886",
+        "airingid": "RADS1012251900049921",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2515,7 +2515,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049949",
+        "airingid": "RADS1012251900049899",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2558,7 +2558,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049899",
+        "airingid": "RADS1012251900049949",
         "seasonnumber": "5",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2644,7 +2644,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049955",
+        "airingid": "RADS1012251900049895",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2687,7 +2687,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049895",
+        "airingid": "RADS1012251900049955",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
