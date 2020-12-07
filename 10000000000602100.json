@@ -215,7 +215,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049927",
+        "airingid": "RADS1012251900049855",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000602100",
@@ -258,7 +258,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049855",
+        "airingid": "RADS1012251900049927",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000602100",
@@ -847,7 +847,7 @@
         "titleid": "2117014",
         "titletype": "Special",
         "bannertext": "",
-        "originalseriesid": "0",
+        "originalseriesid": "1000000000079262",
         "originalseriesname": "",
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1607126400000",
