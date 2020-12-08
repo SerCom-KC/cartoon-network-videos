@@ -2,7 +2,7 @@
   "airingid": "RADS1010162000036318",
   "seasonnumber": "2",
   "seasonitemnumber": "18",
-  "seriesid": "2141710",
+  "seriesid": "1000000000079184",
   "id": "292bf936f7e8ac4ee218862c61f7566435a958fc",
   "collectionid": "",
   "seofriendlyurl": "/video/total-dramarama/for-a-few-duncans-more-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2141710",
-  "seriesname": "Total Dramarama",
+  "seriestitleid": "1000000000079184",
+  "seriesname": "Best of 2020",
   "originalpremieredate": "2020-09-14T21:00:00.000Z",
   "pubdate": "2020-10-30T09:00:00.000Z",
   "expdate": "2020-12-31T16:39:13.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1609432753000",
   "mediaid": "292bf936f7e8ac4ee218862c61f7566435a958fc",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
