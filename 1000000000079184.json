@@ -540,7 +540,7 @@
         "pubdate": "2020-11-20T10:00:00.000Z",
         "expdate": "2021-01-01T18:36:30.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2222825_002_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "best of 2020",
         "titleid": "2222825",
