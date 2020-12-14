@@ -194,7 +194,7 @@
         "seriesname": "Movies",
         "originalpremieredate": "2017-11-19T13:00:00.000Z",
         "pubdate": "2018-01-08T08:00:00.000Z",
-        "expdate": "2021-01-01T04:59:00.000Z",
+        "expdate": "2022-01-01T04:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2131873_010_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -207,7 +207,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1511096400000",
         "pubdateasmilliseconds": "1515398400000",
-        "expdateasmilliseconds": "1609477140000",
+        "expdateasmilliseconds": "1641013140000",
         "mediaid": "3a9451bf83d4045b84273d37cc66ea5048361d28",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -215,7 +215,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049855",
+        "airingid": "RADS1012251900049927",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000602100",
@@ -258,7 +258,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049927",
+        "airingid": "RADS1012251900049855",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000602100",
@@ -753,7 +753,7 @@
         "seriesname": "Movies",
         "originalpremieredate": "2017-09-04T11:00:00.000Z",
         "pubdate": "2018-01-02T15:00:00.000Z",
-        "expdate": "2020-12-31T11:59:00.000Z",
+        "expdate": "2021-12-31T11:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2116850_007_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -766,7 +766,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1504522800000",
         "pubdateasmilliseconds": "1514905200000",
-        "expdateasmilliseconds": "1609415940000",
+        "expdateasmilliseconds": "1640951940000",
         "mediaid": "df3f01e5f097e2d26ba138760f1ed7e5d4ef3202",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
