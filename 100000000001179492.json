@@ -16426,7 +16426,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020086",
+        "airingid": "RADS1009121900020323",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -16469,7 +16469,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1009121900020323",
+        "airingid": "RADS1009121900020086",
         "seasonnumber": "2",
         "seasonitemnumber": "27",
         "seriesid": "100000000001179492",
@@ -20825,7 +20825,7 @@
         "type": "fullepisode",
         "active": true,
         "description": "Darwin quiere poner a Alan en la portada del anuario escolar, pero la aparente modestia de Alan se interpone.",
-        "duration": 697,
+        "duration": 696,
         "freewheelid": "cn-2218575",
         "isclip": false,
         "typesort": "1",
