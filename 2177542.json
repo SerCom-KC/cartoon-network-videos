@@ -3886,7 +3886,7 @@
         "pubdate": "2019-03-15T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193715_010_640x360.jpg",
         "authtype": "unauth",
-        "expdate": "2020-12-31T05:00:00.000Z",
+        "expdate": "2022-01-01T04:59:59.000Z",
         "webflags": "",
         "tags": "shorts|dcshg - meet the girls",
         "titleid": "2193715",
@@ -3899,7 +3899,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1564762500000",
         "pubdateasmilliseconds": "1552640400000",
-        "expdateasmilliseconds": "1609390800000",
+        "expdateasmilliseconds": "1641013199000",
         "mediaid": "7edabd4bcef8365975d8e7d770acc08aa8c4282c",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
