@@ -3579,7 +3579,7 @@
         "pubdate": "2018-03-27T04:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2086425_008_640x360.jpg",
         "authtype": "unauth",
-        "expdate": "2020-12-31T05:00:00.000Z",
+        "expdate": "2021-12-31T05:00:00.000Z",
         "webflags": "",
         "tags": "dcshg - specials|movies",
         "titleid": "2086425",
@@ -3592,7 +3592,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1464609600000",
         "pubdateasmilliseconds": "1522123200000",
-        "expdateasmilliseconds": "1609390800000",
+        "expdateasmilliseconds": "1640926800000",
         "mediaid": "71e34e5a84320cc04db145b78e1547e47cd8551a",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false
