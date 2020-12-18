@@ -310,7 +310,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049924",
+        "airingid": "RADS1012251900049879",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -353,7 +353,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049879",
+        "airingid": "RADS1012251900049924",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -482,7 +482,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049901",
+        "airingid": "RADS1012251900049946",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -525,7 +525,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049946",
+        "airingid": "RADS1012251900049901",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -654,7 +654,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049897",
+        "airingid": "RADS1012251900050008",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -697,7 +697,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900050008",
+        "airingid": "RADS1012251900049897",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -998,50 +998,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012042000049933",
-        "seasonnumber": "3",
-        "seasonitemnumber": "7",
-        "seriesid": "2011404",
-        "id": "6710c9bb0809d048bcdc52a84aaf94ad3684b9e3",
-        "collectionid": "",
-        "seofriendlyurl": "/video/steven-universe/same-old-world-episode.html",
-        "seasonepisodenumber": "7",
-        "title": "Same Old World",
-        "episodenumber": "7",
-        "type": "fullepisode",
-        "active": true,
-        "description": "Steven flies around the world.",
-        "duration": 687,
-        "freewheelid": "cn-2065532",
-        "isclip": false,
-        "typesort": "1",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "2011404",
-        "seriesname": "Steven Universe",
-        "originalpremieredate": "2016-05-19T23:00:00.000Z",
-        "pubdate": "2020-12-11T10:00:00.000Z",
-        "expdate": "2020-12-18T09:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2065532_006_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "unauth",
-        "titleid": "2065532",
-        "titletype": "Episode",
-        "bannertext": "UNLOCKED",
-        "originalseriesid": "2011404",
-        "originalseriesname": "Steven Universe",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1463698800000",
-        "pubdateasmilliseconds": "1607680800000",
-        "expdateasmilliseconds": "1608285540000",
-        "mediaid": "6710c9bb0809d048bcdc52a84aaf94ad3684b9e3",
-        "isunlockedfullepisode": true,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
-        "airingid": "RADS1012251900049923",
+        "airingid": "RADS1012251900049885",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1084,7 +1041,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049885",
+        "airingid": "RADS1012251900049923",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1213,7 +1170,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049873",
+        "airingid": "RADS1012251900049926",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1256,7 +1213,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049926",
+        "airingid": "RADS1012251900049873",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1429,49 +1386,6 @@
         "mediaid": "85b3c17070c514c38073e588b7e0b9b7e4df60d2",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false
-    },
-    {
-        "airingid": "RADS1012042000049942",
-        "seasonnumber": "3",
-        "seasonitemnumber": "8",
-        "seriesid": "2011404",
-        "id": "93afbe4fb97205e285a9b567e4ebc7ce35ca113e",
-        "collectionid": "",
-        "seofriendlyurl": "/video/steven-universe/barn-mates-episode.html",
-        "seasonepisodenumber": "8",
-        "title": "Barn Mates",
-        "episodenumber": "8",
-        "type": "fullepisode",
-        "active": true,
-        "description": "Steven helps two friends get along at the barn.",
-        "duration": 686,
-        "freewheelid": "cn-2064301",
-        "isclip": false,
-        "typesort": "1",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "2011404",
-        "seriesname": "Steven Universe",
-        "originalpremieredate": "2016-05-26T23:00:00.000Z",
-        "pubdate": "2020-12-11T10:00:00.000Z",
-        "expdate": "2020-12-18T09:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2064301_005_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "unauth",
-        "titleid": "2064301",
-        "titletype": "Episode",
-        "bannertext": "UNLOCKED",
-        "originalseriesid": "2011404",
-        "originalseriesname": "Steven Universe",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1464303600000",
-        "pubdateasmilliseconds": "1607680800000",
-        "expdateasmilliseconds": "1608285540000",
-        "mediaid": "93afbe4fb97205e285a9b567e4ebc7ce35ca113e",
-        "isunlockedfullepisode": true,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
     },
     {
         "airingid": "RADS1012251900049867",
@@ -1907,7 +1821,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049954",
+        "airingid": "RADS1012251900049941",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -1950,7 +1864,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049941",
+        "airingid": "RADS1012251900049954",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2037,49 +1951,6 @@
         "mediaid": "ce125acfb7f6fc7693bccc780406650b34135201",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
-    },
-    {
-        "airingid": "RADS1012042000049935",
-        "seasonnumber": "3",
-        "seasonitemnumber": "9",
-        "seriesid": "2011404",
-        "id": "d25bc53de1e35ef1b0fd12a2772a03cce4db4f5b",
-        "collectionid": "",
-        "seofriendlyurl": "/video/steven-universe/hit-the-diamond-episode.html",
-        "seasonepisodenumber": "9",
-        "title": "Hit the Diamond",
-        "episodenumber": "9",
-        "type": "fullepisode",
-        "active": true,
-        "description": "Steven and the Gems play an old fashioned game of baseball.",
-        "duration": 686,
-        "freewheelid": "cn-2065533",
-        "isclip": false,
-        "typesort": "1",
-        "tvratingcode": "TV-PG",
-        "seriestitleid": "2011404",
-        "seriesname": "Steven Universe",
-        "originalpremieredate": "2016-06-02T23:00:00.000Z",
-        "pubdate": "2020-12-11T10:00:00.000Z",
-        "expdate": "2020-12-18T09:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2065533_010_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "unauth",
-        "titleid": "2065533",
-        "titletype": "Episode",
-        "bannertext": "UNLOCKED",
-        "originalseriesid": "2011404",
-        "originalseriesname": "Steven Universe",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1464908400000",
-        "pubdateasmilliseconds": "1607680800000",
-        "expdateasmilliseconds": "1608285540000",
-        "mediaid": "d25bc53de1e35ef1b0fd12a2772a03cce4db4f5b",
-        "isunlockedfullepisode": true,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
     },
     {
         "airingid": "RADS1012251900049947",
@@ -2211,7 +2082,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049886",
+        "airingid": "RADS1012251900049921",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2254,7 +2125,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049921",
+        "airingid": "RADS1012251900049886",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2644,7 +2515,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049955",
+        "airingid": "RADS1012251900049895",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
@@ -2687,7 +2558,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049895",
+        "airingid": "RADS1012251900049955",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2011404",
