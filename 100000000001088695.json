@@ -860,7 +860,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049950",
+        "airingid": "RADS1012251900049906",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
@@ -903,7 +903,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049906",
+        "airingid": "RADS1012251900049950",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
@@ -2107,7 +2107,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049952",
+        "airingid": "RADS1012251900049900",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
@@ -2150,7 +2150,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012251900049900",
+        "airingid": "RADS1012251900049952",
         "seasonnumber": "4",
         "seasonitemnumber": "",
         "seriesid": "100000000001088695",
@@ -2818,7 +2818,7 @@
         "originalpremieredate": "2019-12-31T05:00:00.000Z",
         "pubdate": "2019-12-31T05:00:00.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2187326_006_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2187326_003_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "music video",
