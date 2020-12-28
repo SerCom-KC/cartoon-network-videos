@@ -23,7 +23,7 @@
         "originalpremieredate": "2019-12-31T10:00:00.000Z",
         "pubdate": "2019-12-31T10:00:00.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2086505_003_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2086505_007_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "vod|shorts",
@@ -66,7 +66,7 @@
         "originalpremieredate": "2018-06-24T18:00:00.000Z",
         "pubdate": "2020-01-01T05:00:00.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2099328_009_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2099328_003_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "vod|shorts",
@@ -367,7 +367,7 @@
         "originalpremieredate": "2018-06-24T18:00:00.000Z",
         "pubdate": "2020-01-01T05:00:00.000Z",
         "expdate": "2021-01-01T04:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2099324_003_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2099324_002_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
         "tags": "vod|shorts",
@@ -1164,7 +1164,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012201900048525",
+        "airingid": "RADS1012201900048444",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2012957",
@@ -1207,7 +1207,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012201900048444",
+        "airingid": "RADS1012201900048525",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2012957",
