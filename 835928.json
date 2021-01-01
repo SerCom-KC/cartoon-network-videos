@@ -45,7 +45,7 @@
     {
         "airingid": "RADS1011022000040490",
         "seasonnumber": "",
-        "groupid": 3,
+        "groupid": 2,
         "groupcontentid": "78572",
         "groupname": "GUMBALL CHRONICLES",
         "seasonitemnumber": "",
@@ -134,7 +134,7 @@
     {
         "airingid": "RADS1012301900051100",
         "seasonnumber": "6",
-        "groupid": 4,
+        "groupid": 3,
         "groupcontentid": "61189",
         "groupname": "DARWIN'S YEARBOOK! ",
         "seasonitemnumber": "",
@@ -266,7 +266,7 @@
     {
         "airingid": "RADS1001062000052053",
         "seasonnumber": "6",
-        "groupid": 4,
+        "groupid": 3,
         "groupcontentid": "61189",
         "groupname": "DARWIN'S YEARBOOK! ",
         "seasonitemnumber": "",
@@ -312,7 +312,7 @@
     {
         "airingid": "RADS1001062000052054",
         "seasonnumber": "6",
-        "groupid": 4,
+        "groupid": 3,
         "groupcontentid": "61189",
         "groupname": "DARWIN'S YEARBOOK! ",
         "seasonitemnumber": "",
@@ -444,7 +444,7 @@
     {
         "airingid": "RADS1001032000051641",
         "seasonnumber": "6",
-        "groupid": 4,
+        "groupid": 3,
         "groupcontentid": "61189",
         "groupname": "DARWIN'S YEARBOOK! ",
         "seasonitemnumber": "",
@@ -533,7 +533,7 @@
     {
         "airingid": "RADS1012301900051072",
         "seasonnumber": "6",
-        "groupid": 4,
+        "groupid": 3,
         "groupcontentid": "61189",
         "groupname": "DARWIN'S YEARBOOK! ",
         "seasonitemnumber": "",
@@ -665,7 +665,7 @@
     {
         "airingid": "RADS1011162000045380",
         "seasonnumber": "",
-        "groupid": 2,
+        "groupid": 1,
         "groupcontentid": "76417",
         "groupname": "ELECTION SPECIAL!",
         "seasonitemnumber": "",
@@ -1098,7 +1098,7 @@
     {
         "airingid": "RADS1011162000045383",
         "seasonnumber": "",
-        "groupid": 2,
+        "groupid": 1,
         "groupcontentid": "76417",
         "groupname": "ELECTION SPECIAL!",
         "seasonitemnumber": "",
@@ -1273,7 +1273,7 @@
     {
         "airingid": "RADS1001032000051642",
         "seasonnumber": "6",
-        "groupid": 4,
+        "groupid": 3,
         "groupcontentid": "61189",
         "groupname": "DARWIN'S YEARBOOK! ",
         "seasonitemnumber": "",
@@ -1319,7 +1319,7 @@
     {
         "airingid": "RADS1011162000045377",
         "seasonnumber": "",
-        "groupid": 2,
+        "groupid": 1,
         "groupcontentid": "76417",
         "groupname": "ELECTION SPECIAL!",
         "seasonitemnumber": "",
@@ -1408,7 +1408,7 @@
     {
         "airingid": "RADS1011162000045381",
         "seasonnumber": "",
-        "groupid": 2,
+        "groupid": 1,
         "groupcontentid": "76417",
         "groupname": "ELECTION SPECIAL!",
         "seasonitemnumber": "",
@@ -1669,7 +1669,7 @@
     {
         "airingid": "RADS1012282000058920",
         "seasonnumber": "",
-        "groupid": 3,
+        "groupid": 2,
         "groupcontentid": "78572",
         "groupname": "GUMBALL CHRONICLES",
         "seasonitemnumber": "",
