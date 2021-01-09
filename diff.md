@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: January 8, 2021 at 11:00:27 EST_
+_Last Update: January 8, 2021 at 21:30:27 EST_
 ## Video added
-No videos were added.  
+### Summary
+2000349 Teen Titans Go!: 2 (2 new)  
+### 2239476
+**Teen Titans Go! S06E37 - Justice League's Next Top Talent Idol Star: Dance Crew Edition Part 1**  
+🆕 TV-PG 🔒 11:03  
+⌛ December 31, 2021 at 21:29:00 EST  
+[Open in app](https://tinyurl.com/y3gt9k9e) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/justice-leagues-next-top-talent-idol-star-dance-crew-edition-part-1-episode.html  
+seriesid=`2000349` titleid=`2239476` mediaid=`b392a9e1017119ca0cfa724b533455e9f1fe0e14`  
+_It's time for another Justice League talent competition and Vibe is joining the judges' panel to critique the moves of the DC universe dance crews._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2239476_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239476_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239476_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239476_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239476_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239476_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239476_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239476_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239476_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239476_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239476_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239476_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239476_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239476_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239476_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239476_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239476_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239476_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239476_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239476_010_640x360.jpg" height="144px" /></a>
+### 2239477
+**Teen Titans Go! S06E38 - Justice League's Next Top Talent Idol Star: Dance Crew Edition Part 2**  
+🆕 TV-PG 🔒 11:19  
+⌛ December 31, 2021 at 21:29:00 EST  
+[Open in app](https://tinyurl.com/y5bbxztq) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/justice-leagues-next-top-talent-idol-star-dance-crew-edition-part-2-episode.html  
+seriesid=`2000349` titleid=`2239477` mediaid=`4350290e8b8f9e9faea4e1157b40b60d8565dc30`  
+_Robin is left without a dance crew so Vibe gives him lessons on how to be a world class break-dancer and team player._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2239477_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239477_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239477_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239477_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239477_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239477_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239477_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239477_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239477_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239477_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239477_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239477_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239477_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239477_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239477_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239477_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239477_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239477_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239477_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239477_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
