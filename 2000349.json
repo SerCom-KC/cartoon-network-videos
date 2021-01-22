@@ -174,7 +174,7 @@
     {
         "airingid": "RADS1001112100062801",
         "seasonnumber": "6",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "42233",
         "groupname": "SEE IT FIRST! ",
         "seasonitemnumber": "41",
@@ -220,7 +220,7 @@
     {
         "airingid": "RADS1001082100061816",
         "seasonnumber": "4",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "40614",
         "groupname": "TITANS TOP TALENT ",
         "seasonitemnumber": "36",
@@ -880,7 +880,7 @@
     {
         "airingid": "RADS1001082100061818",
         "seasonnumber": "4",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "40614",
         "groupname": "TITANS TOP TALENT ",
         "seasonitemnumber": "37",
@@ -1058,7 +1058,7 @@
     {
         "airingid": "RADS1012242000058693",
         "seasonnumber": "6",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "40614",
         "groupname": "TITANS TOP TALENT ",
         "seasonitemnumber": "38",
@@ -1325,7 +1325,7 @@
     {
         "airingid": "RADS1001082100061817",
         "seasonnumber": "5",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "40614",
         "groupname": "TITANS TOP TALENT ",
         "seasonitemnumber": "13",
@@ -1549,7 +1549,7 @@
     {
         "airingid": "RADS1012282000059006",
         "seasonnumber": "6",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "40614",
         "groupname": "TITANS TOP TALENT ",
         "seasonitemnumber": "17",
@@ -2341,7 +2341,7 @@
     {
         "airingid": "RADS1001112100062808",
         "seasonnumber": "6",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "42233",
         "groupname": "SEE IT FIRST! ",
         "seasonitemnumber": "39",
@@ -2387,7 +2387,7 @@
     {
         "airingid": "RADS1012282000059005",
         "seasonnumber": "6",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "40614",
         "groupname": "TITANS TOP TALENT ",
         "seasonitemnumber": "16",
@@ -2433,7 +2433,7 @@
     {
         "airingid": "RADS1001112100062799",
         "seasonnumber": "6",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "42233",
         "groupname": "SEE IT FIRST! ",
         "seasonitemnumber": "42",
@@ -2826,7 +2826,7 @@
     {
         "airingid": "RADS1001082100061819",
         "seasonnumber": "5",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "40614",
         "groupname": "TITANS TOP TALENT ",
         "seasonitemnumber": "14",
@@ -3308,7 +3308,7 @@
     {
         "airingid": "RADS1012242000058670",
         "seasonnumber": "6",
-        "groupid": 1,
+        "groupid": 2,
         "groupcontentid": "40614",
         "groupname": "TITANS TOP TALENT ",
         "seasonitemnumber": "37",
@@ -4401,7 +4401,7 @@
     {
         "airingid": "RADS1001112100062805",
         "seasonnumber": "6",
-        "groupid": 3,
+        "groupid": 1,
         "groupcontentid": "42233",
         "groupname": "SEE IT FIRST! ",
         "seasonitemnumber": "40",
