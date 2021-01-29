@@ -2,7 +2,7 @@
   "airingid": "RADS1012242000058503",
   "seasonnumber": "1",
   "seasonitemnumber": "39",
-  "seriesid": "2133648",
+  "seriesid": "1000000000079184",
   "id": "8e21489ac918f0e7bb7d03e3acb5d6c630283360",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/election-day-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2133648",
-  "seriesname": "Apple & Onion",
+  "seriestitleid": "1000000000079184",
+  "seriesname": "Best of 2020",
   "originalpremieredate": "2020-04-11T13:30:00.000Z",
   "pubdate": "2021-01-15T10:00:00.000Z",
   "expdate": "2021-01-29T10:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1611914400000",
   "mediaid": "8e21489ac918f0e7bb7d03e3acb5d6c630283360",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
