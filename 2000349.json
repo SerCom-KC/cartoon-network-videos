@@ -217,7 +217,7 @@
     {
         "airingid": "RADS1012181800053399",
         "seasonnumber": "",
-        "groupid": 8,
+        "groupid": 7,
         "groupcontentid": "11205",
         "groupname": "TOP OF THE TITANS",
         "seasonitemnumber": "",
@@ -349,7 +349,7 @@
     {
         "airingid": "RADS1012181800053400",
         "seasonnumber": "",
-        "groupid": 8,
+        "groupid": 7,
         "groupcontentid": "11205",
         "groupname": "TOP OF THE TITANS",
         "seasonitemnumber": "",
@@ -481,7 +481,7 @@
     {
         "airingid": "RADS1007062000008105",
         "seasonnumber": "6",
-        "groupid": 6,
+        "groupid": 5,
         "groupcontentid": "73312",
         "groupname": "WHERE IS CARL SANPEDRO?",
         "seasonitemnumber": "24",
@@ -613,7 +613,7 @@
     {
         "airingid": "RADS1012181800053401",
         "seasonnumber": "",
-        "groupid": 8,
+        "groupid": 7,
         "groupcontentid": "11205",
         "groupname": "TOP OF THE TITANS",
         "seasonitemnumber": "",
@@ -788,7 +788,7 @@
     {
         "airingid": "RADS1001252100066934",
         "seasonnumber": "6",
-        "groupid": 4,
+        "groupid": 3,
         "groupcontentid": "40614",
         "groupname": "TITANS TOP TALENT ",
         "seasonitemnumber": "38",
@@ -818,7 +818,7 @@
         "tags": "ttg - top talent",
         "titleid": "2239477",
         "titletype": "Episode",
-        "bannertext": "LATEST EPISODE",
+        "bannertext": "",
         "originalseriesid": "2000349",
         "originalseriesname": "Teen Titans Go!",
         "parentepisodetitleid": "",
@@ -834,7 +834,7 @@
     {
         "airingid": "RADS1012181800053402",
         "seasonnumber": "",
-        "groupid": 8,
+        "groupid": 7,
         "groupcontentid": "11205",
         "groupname": "TOP OF THE TITANS",
         "seasonitemnumber": "",
@@ -923,7 +923,7 @@
     {
         "airingid": "RADS1009082000024605",
         "seasonnumber": "6",
-        "groupid": 9,
+        "groupid": 8,
         "groupcontentid": "71587",
         "groupname": "THE NIGHT BEGINS TO SHINE!",
         "seasonitemnumber": "21",
@@ -1236,7 +1236,7 @@
     {
         "airingid": "RADS1008252000021583",
         "seasonnumber": "6",
-        "groupid": 9,
+        "groupid": 8,
         "groupcontentid": "71587",
         "groupname": "THE NIGHT BEGINS TO SHINE!",
         "seasonitemnumber": "19",
@@ -1325,7 +1325,7 @@
     {
         "airingid": "RADS1012041900043215",
         "seasonnumber": "6",
-        "groupid": 7,
+        "groupid": 6,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "4",
@@ -1414,7 +1414,7 @@
     {
         "airingid": "RADS1012282000059006",
         "seasonnumber": "6",
-        "groupid": 4,
+        "groupid": 3,
         "groupcontentid": "40614",
         "groupname": "TITANS TOP TALENT ",
         "seasonitemnumber": "17",
@@ -1549,7 +1549,7 @@
     {
         "airingid": "RADS1009082000024607",
         "seasonnumber": "6",
-        "groupid": 9,
+        "groupid": 8,
         "groupcontentid": "71587",
         "groupname": "THE NIGHT BEGINS TO SHINE!",
         "seasonitemnumber": "20",
@@ -1595,7 +1595,7 @@
     {
         "airingid": "RADS1009102000025214",
         "seasonnumber": "6",
-        "groupid": 6,
+        "groupid": 5,
         "groupcontentid": "73312",
         "groupname": "WHERE IS CARL SANPEDRO?",
         "seasonitemnumber": "23",
@@ -1770,7 +1770,7 @@
     {
         "airingid": "RADS1007062000008103",
         "seasonnumber": "6",
-        "groupid": 6,
+        "groupid": 5,
         "groupcontentid": "73312",
         "groupname": "WHERE IS CARL SANPEDRO?",
         "seasonitemnumber": "26",
@@ -1816,7 +1816,7 @@
     {
         "airingid": "RADS1012041900043212",
         "seasonnumber": "6",
-        "groupid": 7,
+        "groupid": 6,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "2",
@@ -2209,7 +2209,7 @@
     {
         "airingid": "RADS1012282000059005",
         "seasonnumber": "6",
-        "groupid": 4,
+        "groupid": 3,
         "groupcontentid": "40614",
         "groupname": "TITANS TOP TALENT ",
         "seasonitemnumber": "16",
@@ -2473,7 +2473,7 @@
     {
         "airingid": "RADS1008252000021582",
         "seasonnumber": "6",
-        "groupid": 9,
+        "groupid": 8,
         "groupcontentid": "71587",
         "groupname": "THE NIGHT BEGINS TO SHINE!",
         "seasonitemnumber": "18",
@@ -3096,7 +3096,7 @@
     {
         "airingid": "RADS1012041900043213",
         "seasonnumber": "6",
-        "groupid": 7,
+        "groupid": 6,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "1",
@@ -3317,7 +3317,7 @@
     {
         "airingid": "RADS1001252100066933",
         "seasonnumber": "6",
-        "groupid": 4,
+        "groupid": 3,
         "groupcontentid": "40614",
         "groupname": "TITANS TOP TALENT ",
         "seasonitemnumber": "37",
@@ -3347,7 +3347,7 @@
         "tags": "ttg - top talent",
         "titleid": "2239476",
         "titletype": "Episode",
-        "bannertext": "LATEST EPISODE",
+        "bannertext": "",
         "originalseriesid": "2000349",
         "originalseriesname": "Teen Titans Go!",
         "parentepisodetitleid": "",
@@ -3363,7 +3363,7 @@
     {
         "airingid": "RADS1002022100070035",
         "seasonnumber": "6",
-        "groupid": 3,
+        "groupid": 2,
         "groupcontentid": "42233",
         "groupname": "SEE IT FIRST! ",
         "seasonitemnumber": "45",
@@ -3455,7 +3455,7 @@
     {
         "airingid": "RADS1012041900043214",
         "seasonnumber": "6",
-        "groupid": 7,
+        "groupid": 6,
         "groupcontentid": "59975",
         "groupname": "BEAST BOY'S THAT'S WHAT'S UP!",
         "seasonitemnumber": "3",
@@ -3762,7 +3762,7 @@
     {
         "airingid": "RADS1007062000008106",
         "seasonnumber": "6",
-        "groupid": 6,
+        "groupid": 5,
         "groupcontentid": "73312",
         "groupname": "WHERE IS CARL SANPEDRO?",
         "seasonitemnumber": "25",
@@ -3937,7 +3937,7 @@
     {
         "airingid": "RADS1009102000025212",
         "seasonnumber": "6",
-        "groupid": 9,
+        "groupid": 8,
         "groupcontentid": "71587",
         "groupname": "THE NIGHT BEGINS TO SHINE!",
         "seasonitemnumber": "22",
@@ -4026,7 +4026,7 @@
     {
         "airingid": "RADS1012181800053403",
         "seasonnumber": "",
-        "groupid": 8,
+        "groupid": 7,
         "groupcontentid": "11205",
         "groupname": "TOP OF THE TITANS",
         "seasonitemnumber": "",
