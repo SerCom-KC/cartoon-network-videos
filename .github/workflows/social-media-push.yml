@@ -1,4 +1,4 @@
-﻿name: Push updates to our social media accounts
+name: Push updates to our social media accounts
 
 on:
   push:
