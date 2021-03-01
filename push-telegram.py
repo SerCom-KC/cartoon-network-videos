@@ -184,6 +184,8 @@ def main():
 
     if len(added_videos) > 0 or len(removed_videos) > 0:
         log("%s: Processing %s added video(s) and %s removed video(s)." % (ref, len(added_videos), len(removed_videos)))
+    else:
+        print("No changes detected, nothing to do")
 
     if ref == "refs/heads/master":
         new_count = 0
@@ -242,6 +244,7 @@ def main():
             send_preview(video)
 
 if __name__ == "__main__":
+    print("Update processing begin")
     try:
         main()
     except Exception:
