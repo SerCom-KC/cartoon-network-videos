@@ -34,11 +34,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          sudo apt-get install ffmpeg -y
-          pip3 install requests
-          pip3 install datetime
-          pip3 install youtube-dl
-          pip3 install pytz
+          pip3 install requests datetime youtube-dl pytz
 
       - name: Do the actual push
         env:
