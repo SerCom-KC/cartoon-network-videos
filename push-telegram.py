@@ -17,6 +17,7 @@ tg_dbg_chatid = os.environ["TG_DBG_CHAT_ID"]
 s = requests.Session()
 
 DIFF_URL = "https://raw.githubusercontent.com/%s/%s/diff.json?"
+PREVIEW_OUTPUT_PATH = "/tmp/%s_preview.mp4"
 
 # Resets the spanish episode counter
 espanol = 0
@@ -35,6 +36,11 @@ def log(text):
 
 def escape(string):
     return string.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+def is_new_video(video):
+    banner_text = video.get("bannertext", "").upper()
+    # Using the banner text to decide whether the video is a new one (not accurate but probably no other solutions)
+    return banner_text in ["SEE IT FIRST", "LATEST EPISODE"]
 
 def parse_video(video):
     global espanol
@@ -56,8 +62,7 @@ def parse_video(video):
         ep_result += " - "
     ep_result += "%s</b>\n" % (escape(video["title"]))
     new_flag = False
-    # Using the banner text to decide whether the video is a new one (not accurate but probably no other solutions)
-    if "bannertext" in video and (video["bannertext"].upper() == "SEE IT FIRST" or video["bannertext"].upper() == "LATEST EPISODE"):
+    if is_new_video(video):
         ep_result += "🆕 "
         new_flag = True
         if escape(video["originalseriesname"]).rstrip().endswith("en Espanol"):
@@ -120,7 +125,7 @@ def parse_video(video):
 
 def send_preview(video):
     if video["telegram_msg_id"] == -1: return
-    output_path = "/tmp/%s_preview.mp4" % video["mediaid"]
+    output_path = PREVIEW_OUTPUT_PATH % (video["mediaid"])
 
     try:
         opts = {
@@ -155,7 +160,7 @@ def send_preview(video):
         pass
 
     try:
-        os.system("rm " + output_path)
+        os.remove(output_path)
     except Exception:
         pass
 
@@ -190,7 +195,7 @@ def main():
     if ref == "refs/heads/master":
         new_count = 0
         for video in added_videos:
-            if "bannertext" in video and (video["bannertext"].upper() == "SEE IT FIRST" or video["bannertext"].upper() == "LATEST EPISODE"):
+            if is_new_video(video):
                 new_count += 1
 
         text = format_wording(added_videos, "added")
@@ -240,8 +245,10 @@ def main():
             except requests.exception.ReadTimeout:
                 pass
 
-        for video in added_videos:
-            send_preview(video)
+        if added_videos:
+            os.system("sudo apt-get install ffmpeg -y")
+            for video in added_videos:
+                send_preview(video)
 
 if __name__ == "__main__":
     print("Update processing begin")
