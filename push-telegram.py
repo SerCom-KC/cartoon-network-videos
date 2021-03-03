@@ -227,9 +227,10 @@ def main():
         prev_rm_video_list = prev_video_list["removed"]
         prev_rm_titleid_list = [i["titleid"] for i in prev_rm_video_list]
 
+        added_videos = [video for video in added_videos if video["titleid"] not in prev_rm_titleid_list]
+
         for video in added_videos:
             video["telegram_msg_id"] = -1
-            if video["titleid"] in prev_rm_titleid_list: continue
             video["telegram_msg_id"] = parse_video(video)
 
         if espanol > 3:
