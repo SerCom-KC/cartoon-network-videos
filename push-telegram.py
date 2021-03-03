@@ -1,13 +1,13 @@
-﻿# coding: utf-8
+# coding: utf-8
 
-import requests
-import sys
-import youtube_dl
 import os
 import re
-import pytz
 import traceback
 from datetime import datetime
+
+import pytz
+import requests
+import youtube_dl
 
 github_repo = os.environ["GITHUB_REPOSITORY"]
 tg_prod_chatid = os.environ["TG_PROD_CHAT_ID"]
