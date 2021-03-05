@@ -80,7 +80,7 @@ def parse_video(video):
     ep_result += expires.strftime("⌛ %B ")
     ep_result += expires.strftime("%d, %Y at %H:%M:%S %Z\n").lstrip("0")
     #app_url = s.get("https://tinyurl.com/api-create.php", params={"url": "cartoonnetwork://open?section=onDemand&series=%s&title=%s&media=%s" % (video["seriesid"], video["titleid"], video["mediaid"])}, timeout=10).text.replace('http://', 'https://')
-    app_url = f'Click <a href="https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid={video["seriesid"]}&titleid={video["titleid"]}&mediaid={video["mediaid"]}">here</a>'
+    app_url = f'https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid={video["seriesid"]}&titleid={video["titleid"]}&mediaid={video["mediaid"]}'
     ep_result += "APP: %s\n" % (app_url)
     if video["seofriendlyurl"] != "":
         ep_result += "WEB: https://www.cartoonnetwork.com%s\n" % (video["seofriendlyurl"])
