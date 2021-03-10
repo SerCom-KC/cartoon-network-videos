@@ -23,7 +23,7 @@
   "pubdate": "2020-12-25T10:00:00.000Z",
   "expdate": "2026-09-01T03:59:59.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2199648_004_640x360.jpg",
-  "authtype": "unauth",
+  "authtype": "auth",
   "webflags": "",
   "tags": "espanol",
   "titleid": "2199648",
