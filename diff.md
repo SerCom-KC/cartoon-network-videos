@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: March 30, 2021 at 11:30:17 EDT_
+_Last Update: March 30, 2021 at 12:30:19 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2199328 Elliott from Earth: 2 (2 new)  
+### 2222880
+**Elliott from Earth S01E05 - Idiosyncratic Induction**  
+🆕 TV-Y7 🔒 12:04  
+⌛ December 31, 2021 at 23:59:59 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2199328&titleid=2222880&mediaid=b6981e7952e7793a4a3dc7f9bbfb3e7ffe30c4bd) or on the web: https://www.cartoonnetwork.com/video/elliott-from-earth/idiosyncratic-induction-episode.html  
+seriesid=`2199328` titleid=`2222880` mediaid=`b6981e7952e7793a4a3dc7f9bbfb3e7ffe30c4bd`  
+_On Elliott's first day at the Hive, he meets the most unusual characters on his adventure so far._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2222880_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222880_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222880_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222880_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222880_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222880_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222880_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222880_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222880_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222880_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222880_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222880_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222880_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222880_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222880_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222880_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222880_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222880_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222880_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222880_010_640x360.jpg" height="144px" /></a>
+### 2222881
+**Elliott from Earth S01E06 - Memory Mayhem**  
+🆕 TV-Y7 🔒 12:15  
+⌛ December 31, 2021 at 23:59:59 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2199328&titleid=2222881&mediaid=4959c25e4a9ef0947733147ecfc68e11d48c95a2) or on the web: https://www.cartoonnetwork.com/video/elliott-from-earth/memory-mayhem-episode.html  
+seriesid=`2199328` titleid=`2222881` mediaid=`4959c25e4a9ef0947733147ecfc68e11d48c95a2`  
+_Frankie tries to discover more about the mysterious rock that bought them to their new home, with the help of an entity called The Head._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2222881_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222881_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222881_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222881_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222881_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222881_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222881_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222881_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222881_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222881_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222881_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222881_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222881_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222881_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222881_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222881_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222881_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222881_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222881_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222881_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
