@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: April 1, 2021 at 07:30:18 EDT_
+_Last Update: April 1, 2021 at 12:30:17 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2199328 Elliott from Earth: 2 (2 new)  
+### 2227466
+**Elliott from Earth S01E09 - Regurgitated Reminiscence**  
+🆕 TV-Y7 🔒 12:04  
+⌛ December 31, 2021 at 23:59:59 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2199328&titleid=2227466&mediaid=cc7138ea230a7188f8dfbafb8f9185df6807238d) or on the web: https://www.cartoonnetwork.com/video/elliott-from-earth/regurgitated-reminiscence-episode.html  
+seriesid=`2199328` titleid=`2227466` mediaid=`cc7138ea230a7188f8dfbafb8f9185df6807238d`  
+_Elliott and Mo go to great lengths to retrieve Frankie's old coffee machine._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2227466_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227466_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227466_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227466_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227466_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227466_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227466_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227466_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227466_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227466_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227466_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227466_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227466_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227466_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227466_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227466_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227466_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227466_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227466_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227466_010_640x360.jpg" height="144px" /></a>
+### 2227467
+**Elliott from Earth S01E10 - Chaotic Clumping**  
+🆕 TV-Y7 🔒 11:58  
+⌛ December 31, 2021 at 23:59:59 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2199328&titleid=2227467&mediaid=d2f681d3d8a4bdea6e1ec161b70a0f75229c0af9) or on the web: https://www.cartoonnetwork.com/video/elliott-from-earth/chaotic-clumping-episode.html  
+seriesid=`2199328` titleid=`2227467` mediaid=`d2f681d3d8a4bdea6e1ec161b70a0f75229c0af9`  
+_Elliott and Mo accidentally take a teleporter together, and find themselves closer than they've ever been before. Will they decide to mutually part ways?_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2227467_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227467_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227467_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227467_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227467_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227467_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227467_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227467_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227467_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227467_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227467_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227467_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227467_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227467_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227467_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227467_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227467_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227467_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2227467_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2227467_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
