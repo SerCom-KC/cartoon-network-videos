@@ -3609,10 +3609,10 @@
         "originalpremieredate": "2021-04-01T04:00:00.000Z",
         "pubdate": "2021-04-01T04:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2266418_005_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "expdate": "2021-04-05T08:59:00.000Z",
         "webflags": "",
-        "tags": "ttg - april fools|unauth",
+        "tags": "ttg - april fools",
         "titleid": "2266418",
         "titletype": "Episode",
         "bannertext": "LATEST EPISODE",
@@ -3625,7 +3625,7 @@
         "pubdateasmilliseconds": "1617249600000",
         "expdateasmilliseconds": "1617613140000",
         "mediaid": "c052792bee2474373c423d0dacbab025b4ea2f0e",
-        "isunlockedfullepisode": true,
+        "isunlockedfullepisode": false,
         "ismultipropertycollection": false
     },
     {
