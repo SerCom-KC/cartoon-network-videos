@@ -2,7 +2,7 @@
   "airingid": "RADS1003112100081719",
   "seasonnumber": "4",
   "seasonitemnumber": "42",
-  "seriesid": "10000000000",
+  "seriesid": "2011437",
   "id": "2d3b2596bcdb7d5d28517f49b6ec6e8eee22b97c",
   "collectionid": "",
   "seofriendlyurl": "/video/tom-and-jerry/wild-goose-chase-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011437",
+  "seriesname": "The Tom and Jerry Show",
   "originalpremieredate": "2021-03-26T09:00:00.000Z",
   "pubdate": "2021-03-26T09:00:00.000Z",
   "expdate": "2021-04-02T09:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1617354000000",
   "mediaid": "2d3b2596bcdb7d5d28517f49b6ec6e8eee22b97c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
