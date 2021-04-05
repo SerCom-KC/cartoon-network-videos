@@ -1,7 +1,6 @@
 {
-    "updated": 1617613152,
-    "added": [],
-    "removed": [
+    "updated": 1617631266,
+    "added": [
         {
             "airingid": "RADS1003312100086062",
             "seasonnumber": "1",
@@ -30,7 +29,7 @@
             "pubdate": "2021-04-01T04:00:00.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2266418_005_640x360.jpg",
             "authtype": "auth",
-            "expdate": "2021-04-05T08:59:00.000Z",
+            "expdate": "2021-04-12T08:59:00.000Z",
             "webflags": "",
             "tags": "ttg - april fools",
             "titleid": "2266418",
@@ -43,7 +42,7 @@
             "hasparent": false,
             "originalpremieredateasmilliseconds": "1617271200000",
             "pubdateasmilliseconds": "1617249600000",
-            "expdateasmilliseconds": "1617613140000",
+            "expdateasmilliseconds": "1618217940000",
             "mediaid": "c052792bee2474373c423d0dacbab025b4ea2f0e",
             "isunlockedfullepisode": false,
             "ismultipropertycollection": false
@@ -76,7 +75,7 @@
             "pubdate": "2021-04-01T04:00:00.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2266419_003_640x360.jpg",
             "authtype": "auth",
-            "expdate": "2021-04-05T08:59:00.000Z",
+            "expdate": "2021-04-12T08:59:00.000Z",
             "webflags": "",
             "tags": "cotc - april fools",
             "titleid": "2266419",
@@ -89,10 +88,11 @@
             "hasparent": false,
             "originalpremieredateasmilliseconds": "1617271200000",
             "pubdateasmilliseconds": "1617249600000",
-            "expdateasmilliseconds": "1617613140000",
+            "expdateasmilliseconds": "1618217940000",
             "mediaid": "d20096a2046904346eff45a8781cea7c3ace763d",
             "isunlockedfullepisode": false,
             "ismultipropertycollection": false
         }
-    ]
+    ],
+    "removed": []
 }
