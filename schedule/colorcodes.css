@@ -335,6 +335,7 @@
 .title-2098468, /* Teen Titans Go!: Island Adventures */
 .title-2149008, /* Teen Titans Go! Titans vs. Santa */
 .title-2159877, /* Teen Titans Go! in Love: Beast Boy & Raven */
+.title-2160800, /* Teen Titans Go! To the Movies */
 .title-2214278 { /* Teen Titans Go! vs. Teen Titans */
     font-family: "Avenir Std", sans-serif;
     background-color: yellow;
@@ -711,4 +712,18 @@
     background-color: #b13625;
     color: #12d043;
     border-color: #12d043;
+}
+
+.franchise-470812, .series-2262180 { /* Birdgirl */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #d54039;
+    color: #f6c800;
+    border-color: #f6c800;
+}
+
+.franchise-471013, .series-2266417 { /* CN April Fool's Day 2021: Cat-Toon Network */
+    font-family: "Avenir Std", sans-serif;
+    background-color: white;
+    color: black;
+    border-color: black;
 }
