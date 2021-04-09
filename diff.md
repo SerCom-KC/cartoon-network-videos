@@ -3,26 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: April 9, 2021 at 08:00:16 EDT_
+_Last Update: April 9, 2021 at 09:00:18 EDT_
 ## Video added
-### Summary
-835928 Gumball: 1  
-### 2062744
-**Gumball S04E02 - The Nemesis**  
-TV-Y7-FV 🔓 11:35  
-⌛ April 16, 2021 at 04:59:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=835928&titleid=2062744&mediaid=edacfeb9314e9f651441795bca231d11727d9455) or on the web: https://www.cartoonnetwork.com/video/gumball/the-nemesis-episode.html  
-seriesid=`835928` titleid=`2062744` mediaid=`edacfeb9314e9f651441795bca231d11727d9455`  
-_Gumball and Darwin discover that Rob, who once swore to wreak vengeance on them, has been trying to destroy them for some time but his traps never work. Taking pity on him, the kids make it their mission to help Rob become a better nemesis. But they do their job too well, creating a super-villain they may not be able to control._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2062744_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062744_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062744_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062744_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062744_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062744_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062744_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062744_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062744_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062744_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062744_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062744_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062744_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062744_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062744_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062744_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062744_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062744_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062744_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062744_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-### Summary
-2012957 Clarence: 1  
-### 2032722
-**Clarence S01E38 - Hoofin' It**  
-TV-PG 🔓 11:25  
-⌛ April 16, 2021 at 04:59:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2032722&mediaid=541b19fce69de6cbbab050cffcc902dd0dc0ecec) or on the web: https://www.cartoonnetwork.com/video/clarence/hoofin-it-episode.html  
-seriesid=`2012957` titleid=`2032722` mediaid=`541b19fce69de6cbbab050cffcc902dd0dc0ecec`  
-_It's time for the annual Aberdale Greased Pig Chase and everyone's excited except Clarence. He feels so bad for poor little pig Butterscotch that he takes her place in the pig chase, running from townsfolk eager to take home the prized barrel full of hot dogs!_  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2032722_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2032722_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2032722_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2032722_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2032722_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2032722_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2032722_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2032722_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2032722_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2032722_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2032722_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2032722_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2032722_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2032722_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2032722_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2032722_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2032722_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2032722_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2032722_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2032722_010_640x360.jpg" height="144px" /></a>
+No videos were removed.  
