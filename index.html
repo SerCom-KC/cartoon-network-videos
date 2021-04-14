@@ -223,8 +223,8 @@
                         html_result += 'short';
                         if (is_espanol) html_result += ' espanol-release';
                         html_result += '" title="' + release.description.replace(/\"/g, '&quot;') + '">';
-                        if (release.thumbnailurl.startsWith("https://i.cartoonnetwork.com/orchestrator/" + release.titleid)) html_result += '<img class="thumbnail" src="' + release.thumbnailurl.replace("https://i.cartoonnetwork.com/", "https://s3.amazonaws.com/cartoon").replace("640x360", "1280x720") + '">';
-                        else html_result += '<img class="thumbnail" src="https://s3.amazonaws.com/cartoonorchestrator/' + release.titleid + '_001_1280x720.jpg">';
+                        if (release.thumbnailurl.startsWith("https://i.cartoonnetwork.com/orchestrator/" + release.titleid)) html_result += '<img class="thumbnail" loading="lazy" src="' + release.thumbnailurl.replace("https://i.cartoonnetwork.com/", "https://s3.amazonaws.com/cartoon").replace("640x360", "1280x720") + '">';
+                        else html_result += '<img class="thumbnail" loading="lazy" src="https://s3.amazonaws.com/cartoonorchestrator/' + release.titleid + '_001_1280x720.jpg">';
                         html_result += '<div class="info">';
                         html_result += '<b>';
                         if (release.originalseriesname) html_result += release.originalseriesname + ' ' + parseEpisodeNo(release.seasonnumber, release.seasonepisodenumber, release.type) + ' - ';
