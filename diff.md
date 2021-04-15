@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: April 14, 2021 at 12:00:19 EDT_
+_Last Update: April 14, 2021 at 23:00:18 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2133648 Apple & Onion: 2 (2 new)  
+### 2239390
+**Apple & Onion S02E18 - Broccoli**  
+🆕 TV-Y7 🔒 11:17  
+⌛ December 31, 2021 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2133648&titleid=2239390&mediaid=93d01cdead38889a0b6c4679929a7e2282be1c97) or on the web: https://www.cartoonnetwork.com/video/apple-and-onion/broccoli-episode.html  
+seriesid=`2133648` titleid=`2239390` mediaid=`93d01cdead38889a0b6c4679929a7e2282be1c97`  
+_Apple and Onion must get Hoagie to finish replacing their building's roof so that they can get on with their lives._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2239390_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239390_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239390_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239390_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239390_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239390_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239390_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239390_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239390_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239390_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239390_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239390_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239390_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239390_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239390_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239390_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239390_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239390_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239390_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239390_010_640x360.jpg" height="144px" /></a>
+### 2239391
+**Apple & Onion S02E19 - Cousin's Day**  
+🆕 TV-Y7 🔒 11:18  
+⌛ December 31, 2021 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2133648&titleid=2239391&mediaid=0e178492bd54d07e95a7eaee68057b0cd37dfada) or on the web: https://www.cartoonnetwork.com/video/apple-and-onion/cousins-day-episode.html  
+seriesid=`2133648` titleid=`2239391` mediaid=`0e178492bd54d07e95a7eaee68057b0cd37dfada`  
+_Apple & Onion have to sell a lot of Cousin's Day mugs before Patty gets back from vacation._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2239391_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239391_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239391_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239391_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239391_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239391_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239391_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239391_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239391_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239391_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239391_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239391_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239391_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239391_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239391_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239391_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239391_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239391_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2239391_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2239391_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
