@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: April 16, 2021 at 23:00:19 EDT_
+_Last Update: April 17, 2021 at 10:00:19 EDT_
 ## Video added
-### Summary
-2133648 Apple & Onion: 2 (2 new)  
-### 2242209
-**Apple & Onion S02E22 - One Hit Wonder**  
-🆕 TV-Y7 🔒 11:12  
-⌛ December 31, 2021 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2133648&titleid=2242209&mediaid=822479b250bcf480a2ec4cd92d68acfb24e7edc2) or on the web: https://www.cartoonnetwork.com/video/apple-and-onion/one-hit-wonder-episode.html  
-seriesid=`2133648` titleid=`2242209` mediaid=`822479b250bcf480a2ec4cd92d68acfb24e7edc2`  
-_Apple & Onion have to keep a couple together so they can sing their new love song at the couple's wedding._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2242209_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242209_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242209_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242209_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242209_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242209_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242209_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242209_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242209_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242209_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242209_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242209_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242209_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242209_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242209_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242209_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242209_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242209_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242209_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242209_010_640x360.jpg" height="144px" /></a>
-### 2243209
-**Apple & Onion S02E23 - A Matter of Pride**  
-🆕 TV-Y7 🔒 11:11  
-⌛ December 31, 2021 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2133648&titleid=2243209&mediaid=92baefb1480238ad5f9b4feccb6373b6b35423a3) or on the web: https://www.cartoonnetwork.com/video/apple-and-onion/a-matter-of-pride-episode.html  
-seriesid=`2133648` titleid=`2243209` mediaid=`92baefb1480238ad5f9b4feccb6373b6b35423a3`  
-_Apple & Onion quit their demeaning jobs at the Dollar Store as a matter of pride._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2243209_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243209_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243209_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243209_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243209_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243209_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243209_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243209_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243209_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243209_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243209_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243209_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243209_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243209_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243209_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243209_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243209_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243209_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243209_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243209_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
