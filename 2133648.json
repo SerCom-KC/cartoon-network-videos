@@ -40,7 +40,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004062100087424",
@@ -83,7 +83,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1012142000053586",
@@ -126,7 +126,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004062100087421",
@@ -169,7 +169,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004062100087416",
@@ -212,7 +212,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1003292100084506",
@@ -255,7 +255,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1007062000008085",
@@ -298,7 +298,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1012142000053594",
@@ -341,7 +341,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1011022000040500",
@@ -384,7 +384,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1011022000040496",
@@ -427,7 +427,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1007062000008084",
@@ -470,7 +470,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1011022000040494",
@@ -513,7 +513,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1001052100060606",
@@ -556,7 +556,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004132100089370",
@@ -599,7 +599,7 @@
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004132100089349",
@@ -642,7 +642,7 @@
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004062100087418",
@@ -685,7 +685,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004062100087425",
@@ -728,7 +728,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1001082100061723",
@@ -771,7 +771,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004062100087422",
@@ -814,7 +814,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1012142000053593",
@@ -857,7 +857,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004062100087415",
@@ -900,7 +900,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004062100087417",
@@ -943,7 +943,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1012042000049812",
@@ -986,7 +986,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1003292100084510",
@@ -1029,7 +1029,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1003292100084511",
@@ -1072,7 +1072,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004132100089332",
@@ -1115,7 +1115,7 @@
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1003292100084527",
@@ -1158,7 +1158,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004062100087419",
@@ -1201,7 +1201,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1003292100084577",
@@ -1244,7 +1244,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1012142000053590",
@@ -1287,7 +1287,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1012142000053585",
@@ -1330,7 +1330,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1012142000053581",
@@ -1373,7 +1373,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004062100087414",
@@ -1416,7 +1416,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004132100089336",
@@ -1459,7 +1459,7 @@
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1007062000008087",
@@ -1502,7 +1502,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1003292100084507",
@@ -1545,7 +1545,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1003292100084565",
@@ -1588,7 +1588,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1003292100084562",
@@ -1631,7 +1631,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1001052100060602",
@@ -1674,7 +1674,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004132100089337",
@@ -1717,7 +1717,7 @@
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1001052100060604",
@@ -1760,7 +1760,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1003292100084522",
@@ -1803,7 +1803,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1012142000053589",
@@ -1846,7 +1846,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1012282000058921",
@@ -1889,7 +1889,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1011022000040492",
@@ -1932,7 +1932,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1003292100084544",
@@ -1975,6 +1975,6 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     }
 ]
