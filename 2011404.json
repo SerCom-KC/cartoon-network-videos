@@ -260,7 +260,7 @@
     {
         "airingid": "RADS1012142000054560",
         "seasonnumber": "3",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "10887",
         "groupname": "SEASON RECAPS",
         "seasonitemnumber": "",
@@ -1080,7 +1080,7 @@
     {
         "airingid": "RADS1012142000054540",
         "seasonnumber": "4",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "10887",
         "groupname": "SEASON RECAPS",
         "seasonitemnumber": "",
@@ -1513,7 +1513,7 @@
     {
         "airingid": "RADS1012142000054533",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "10887",
         "groupname": "SEASON RECAPS",
         "seasonitemnumber": "",
@@ -1731,7 +1731,7 @@
     {
         "airingid": "RADS1012142000054548",
         "seasonnumber": "1",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "10887",
         "groupname": "SEASON RECAPS",
         "seasonitemnumber": "",
@@ -1949,7 +1949,7 @@
     {
         "airingid": "RADS1012142000054557",
         "seasonnumber": "5",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "10887",
         "groupname": "SEASON RECAPS",
         "seasonitemnumber": "",
@@ -2038,7 +2038,7 @@
     {
         "airingid": "RADS1012142000054572",
         "seasonnumber": "",
-        "groupid": 2,
+        "groupid": 3,
         "groupcontentid": "10887",
         "groupname": "SEASON RECAPS",
         "seasonitemnumber": "",
