@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: May 8, 2021 at 14:00:20 EDT_
+_Last Update: May 9, 2021 at 16:00:21 EDT_
 ## Video added
-### Summary
-2160701 Victor and Valentino: 2 (2 new)  
-### 2230119
-**Victor and Valentino S02E33 - My Thirsty Little Monster**  
-🆕 TV-Y7-FV 🔒 11:17  
-⌛ December 31, 2021 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2160701&titleid=2230119&mediaid=3dc91b62719918497545cbbec71819ab9f3e8485) or on the web: https://www.cartoonnetwork.com/video/victor-and-valentino/my-thirsty-little-monster-episode.html  
-seriesid=`2160701` titleid=`2230119` mediaid=`3dc91b62719918497545cbbec71819ab9f3e8485`  
-_When Valentino discovers Victor has been hiding a baby vampire bat in the house, Victor must convince his brother that he can handle having a pet._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2230119_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2230119_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2230119_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2230119_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2230119_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2230119_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2230119_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2230119_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2230119_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2230119_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2230119_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2230119_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2230119_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2230119_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2230119_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2230119_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2230119_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2230119_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2230119_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2230119_010_640x360.jpg" height="144px" /></a>
-### 2201727
-**Victor and Valentino S02E34 - La Planchada**  
-🆕 TV-Y7-FV 🔒 11:17  
-⌛ December 31, 2021 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2160701&titleid=2201727&mediaid=e25d55dab46e1d28831272d4a16b3439ba696114) or on the web: https://www.cartoonnetwork.com/video/victor-and-valentino/la-planchada-episode.html  
-seriesid=`2160701` titleid=`2201727` mediaid=`e25d55dab46e1d28831272d4a16b3439ba696114`  
-_When Vic gets the chicken pox and is forbidden from playing in a tag tournament, he summons a mythical ghost nurse to cure him._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2201727_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2201727_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2201727_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2201727_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2201727_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2201727_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2201727_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2201727_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2201727_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2201727_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2201727_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2201727_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2201727_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2201727_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2201727_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2201727_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2201727_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2201727_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2201727_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2201727_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
