@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1002222100075685",
+  "airingid": "RADS1005042100094884",
   "seasonnumber": "1",
   "seasonitemnumber": "35",
   "seriesid": "2133648",
@@ -20,8 +20,8 @@
   "seriestitleid": "2133648",
   "seriesname": "Apple & Onion",
   "originalpremieredate": "2020-03-14T13:30:00.000Z",
-  "pubdate": "2021-02-26T10:00:00.000Z",
-  "expdate": "2021-03-05T09:59:00.000Z",
+  "pubdate": "2021-05-28T09:00:00.000Z",
+  "expdate": "2021-06-04T08:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2213501_009_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
@@ -33,11 +33,11 @@
   "originalseriesname": "Apple & Onion",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1584192600000",
-  "pubdateasmilliseconds": "1614333600000",
-  "expdateasmilliseconds": "1614938340000",
+  "pubdateasmilliseconds": "1622192400000",
+  "expdateasmilliseconds": "1622797140000",
   "mediaid": "b8aa6ddef210f0f8a04d65d2388fc6ed18793a61",
   "isunlockedfullepisode": true,
   "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
