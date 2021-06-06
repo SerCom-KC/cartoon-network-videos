@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: June 5, 2021 at 10:30:20 EDT_
+_Last Update: June 6, 2021 at 11:30:19 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2177542 DC Super Hero Girls: 2 (2 new)  
+### 2242289
+**DC Super Hero Girls S02E01 - #AmBatgirl Part 1**  
+🆕 TV-PG 🔒 11:19  
+⌛ December 31, 2021 at 11:29:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242289&mediaid=1d8f5a89e4be8d5a6d7f1b283e56787e9eb8e310) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/ambatgirl-part-1-episode.html  
+seriesid=`2177542` titleid=`2242289` mediaid=`1d8f5a89e4be8d5a6d7f1b283e56787e9eb8e310`  
+_Batgirl finally has the chance to live out her life's dream and be the sidekick to her hero and inspiration - the Batman!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242289_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242289_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242289_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242289_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242289_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242289_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242289_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242289_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242289_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242289_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242289_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242289_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242289_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242289_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242289_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242289_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242289_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242289_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242289_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242289_010_640x360.jpg" height="144px" /></a>
+### 2242290
+**DC Super Hero Girls S02E02 - #AmBatgirl Part 2**  
+🆕 TV-PG 🔒 11:20  
+⌛ December 31, 2021 at 11:29:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242290&mediaid=ba3f63caaea980ab1898fad58fe7505bd6ce7ceb) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/ambatgirl-part-2-episode.html  
+seriesid=`2177542` titleid=`2242290` mediaid=`ba3f63caaea980ab1898fad58fe7505bd6ce7ceb`  
+_Batgirl finally has the chance to live out her life's dream and be the sidekick to her hero and inspiration - the Batman!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242290_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242290_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242290_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242290_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242290_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242290_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242290_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242290_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242290_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242290_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242290_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242290_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242290_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242290_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242290_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242290_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242290_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242290_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242290_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242290_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
