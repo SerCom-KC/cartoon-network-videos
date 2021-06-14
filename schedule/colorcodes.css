@@ -10,22 +10,6 @@
 }
 /* Adult Swim fonts end */
 
-/* TOONAMI fonts start */
-@font-face {
-	font-family: 'BB Strata Pro ML';
-	src: url('https://s3.amazonaws.com/toonami-2018-prod/assets/fonts/BBStrataProML-Bold.woff2') format('woff2'),
-	url('https://s3.amazonaws.com/toonami-2018-prod/assets/fonts/BBStrataProML-Bold.woff') format('woff');
-	font-weight: 600; font-style: normal;
-}
-
-@font-face {
-	font-family: 'BB Strata Pro ML';
-	src: url('https://s3.amazonaws.com/toonami-2018-prod/assets/fonts/BBStrataProML-Regular.woff2') format('woff2'),
-	url('https://s3.amazonaws.com/toonami-2018-prod/assets/fonts/BBStrataProML-Regular.woff') format('woff');
-	font-weight: normal; font-style: normal;
-}
-/* TOONAMI fonts end */
-
 /* Default fallback font */
 .ctn-show {font-family: "Avenir Std", sans-serif;}
 .asm-show {font-family: "Helvetica Neue", Helvetica, sans-serif;}
@@ -78,7 +62,6 @@
 
 /* Toonami */
 .franchise-333045, .series-612379, /* Paranoia Agent */
-.franchise-391933, .series-812206, /* Naruto: Shippuden */
 .franchise-406152, .series-2020945, /* Attack on Titan */
 .franchise-429752, .series-2091991, /* One-Punch Man */
 .franchise-433992, .series-2108819, /* Scavengers */
@@ -95,10 +78,10 @@
 .franchise-462132, .series-2215991, /* Sword Art Online: Alicization War of Underworld */
 .franchise-467352, .series-2238413, /* Assassination Classroom */
 .franchise-469352, .series-2236251 { /* SSSS.Gridman */
-    font-family: "BB Strata Pro ML", sans-serif;
-    background-color: #1b0120;
-    color: #17b7dd;
-    border-color: #17b7dd;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #110539;
+    color: #a387f4;
+    border-color: #a387f4;
 }
 
 .series-2116814 { /* Williams Stream */
@@ -329,6 +312,13 @@
     background-color: #e96645;
     color: #fff8e6;
     border-color: #fff8e6;
+}
+
+.franchise-391933, .series-812206 { /* Naruto: Shippuden */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: linear-gradient(90deg, #ffc000, #d86a36);
+    color: #1e4e6d;
+    border-color: #1e4e6d;
 }
 
 .franchise-393474, .series-2000349, /* Teen Titans Go! */
@@ -726,4 +716,18 @@
     background-color: white;
     color: black;
     border-color: black;
+}
+
+.franchise-471232, .series-2191380 { /* The Fungies! */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #50202f;
+    color: #f68d95;
+    border-color: #f68d95;
+}
+
+.franchise-472152, .series-2266164 { /* Tuca & Bertie */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #ff8fcf;
+    color: #55ffa8;
+    border-color: #55ffa8;
 }
