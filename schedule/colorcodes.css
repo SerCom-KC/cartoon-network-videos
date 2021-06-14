@@ -316,7 +316,7 @@
 
 .franchise-391933, .series-812206 { /* Naruto: Shippuden */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
-    background-color: linear-gradient(90deg, #ffc000, #d86a36);
+    background-image: linear-gradient(90deg, #ffc000, #d86a36);
     color: #1e4e6d;
     border-color: #1e4e6d;
 }
