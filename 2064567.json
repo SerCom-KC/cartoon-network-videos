@@ -175,7 +175,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1006142100006322",
+        "airingid": "RADS1005282100000997",
         "seasonnumber": "2",
         "groupid": 2,
         "groupcontentid": "10882",
@@ -201,13 +201,13 @@
         "originalpremieredate": "1999-11-27T02:30:00.000Z",
         "pubdate": "2021-06-18T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/331272_002_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "expdate": "2021-07-02T09:00:00.000Z",
         "webflags": "",
-        "tags": "ppg - classic|ppg dad|father's day|unauth",
+        "tags": "ppg - classic|ppg dad|father's day",
         "titleid": "331272",
         "titletype": "Episode",
-        "bannertext": "UNLOCKED",
+        "bannertext": "",
         "originalseriesid": "2064567",
         "originalseriesname": "The Powerpuff Girls",
         "parentepisodetitleid": "",
@@ -217,7 +217,7 @@
         "pubdateasmilliseconds": "1624006800000",
         "expdateasmilliseconds": "1625216400000",
         "mediaid": "194764c9af2a726dafd7ef818787b9b0fb89d5ca",
-        "isunlockedfullepisode": true,
+        "isunlockedfullepisode": false,
         "ismultipropertycollection": false
     },
     {
