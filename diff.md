@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: July 4, 2021 at 08:30:20 EDT_
+_Last Update: July 4, 2021 at 11:30:19 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2177542 DC Super Hero Girls: 2 (2 new)  
+### 2242684
+**DC Super Hero Girls S02E07 - #AngerManagement**  
+🆕 TV-PG 🔒 11:19  
+⌛ January 1, 2022 at 05:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242684&mediaid=68737601c681c8e53f25f8d62cbb808acf2b285b) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/angermanagement-episode.html  
+seriesid=`2177542` titleid=`2242684` mediaid=`68737601c681c8e53f25f8d62cbb808acf2b285b`  
+_When Jess coerces Kara into addressing her anger management issues, Supergirl's superhero abilities become seriously compromised!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242684_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242684_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242684_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242684_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242684_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242684_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242684_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242684_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242684_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242684_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242684_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242684_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242684_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242684_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242684_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242684_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242684_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242684_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242684_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242684_010_640x360.jpg" height="144px" /></a>
+### 2242685
+**DC Super Hero Girls S02E08 - #HappyBirthdayZee**  
+🆕 TV-PG 🔒 11:19  
+⌛ January 1, 2022 at 05:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242685&mediaid=13083deaa8ffe952551a7ee1f03da3557f3e312a) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/happybirthdayzee-episode.html  
+seriesid=`2177542` titleid=`2242685` mediaid=`13083deaa8ffe952551a7ee1f03da3557f3e312a`  
+_Zatanna makes a birthday wish that forces her to confront the dark side of her magic._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242685_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242685_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242685_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242685_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242685_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242685_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242685_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242685_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242685_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242685_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242685_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242685_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242685_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242685_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242685_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242685_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242685_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242685_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242685_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242685_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
