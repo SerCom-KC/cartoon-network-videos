@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1004261900086885",
+  "airingid": "RADS1006302100009815",
   "seasonnumber": "7",
   "seasonitemnumber": "21",
   "seriesid": "757073",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Finn takes a group of at-risk Candy Kingdom youth on a camping trip they'll never forget.",
-  "duration": 687,
+  "duration": 688,
   "freewheelid": "cn-2065575",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2016-01-22T00:30:00.000Z",
-  "pubdate": "2019-05-20T09:00:00.000Z",
-  "expdate": "2019-05-27T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2065575_008_640x360.jpg",
+  "pubdate": "2021-07-09T09:00:00.000Z",
+  "expdate": "2021-07-16T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2065575_001_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1453422600000",
-  "pubdateasmilliseconds": "1558342800000",
-  "expdateasmilliseconds": "1558947540000",
+  "pubdateasmilliseconds": "1625821200000",
+  "expdateasmilliseconds": "1626425940000",
   "mediaid": "49868811a74da9f6ecd30ccef834e4a4728721a3",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
