@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: July 11, 2021 at 08:30:20 EDT_
+_Last Update: July 11, 2021 at 11:30:20 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2177542 DC Super Hero Girls: 2 (2 new)  
+### 2242686
+**DC Super Hero Girls S02E08 - #TheGreenRoom**  
+🆕 TV-PG 🔒 11:19  
+⌛ January 1, 2022 at 05:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242686&mediaid=847339dca29dc1c164c43ce503033aa2216c3df3) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/thegreenroom-episode.html  
+seriesid=`2177542` titleid=`2242686` mediaid=`847339dca29dc1c164c43ce503033aa2216c3df3`  
+_When Jessica is faced with a Green Lantern Corps disciplinary hearing, Hal appoints himself to be her Peer Advocate._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242686_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242686_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242686_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242686_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242686_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242686_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242686_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242686_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242686_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242686_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242686_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242686_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242686_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242686_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242686_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242686_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242686_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242686_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242686_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242686_010_640x360.jpg" height="144px" /></a>
+### 2242687
+**DC Super Hero Girls S02E09 - #EnterNightSting**  
+🆕 TV-PG 🔒 11:19  
+⌛ January 1, 2022 at 05:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242687&mediaid=cdfff1bf98a2fa3bc47f2418dc367cb5bfc8fb63) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/enternightsting-episode.html  
+seriesid=`2177542` titleid=`2242687` mediaid=`cdfff1bf98a2fa3bc47f2418dc367cb5bfc8fb63`  
+_Karen is given a mission to prevent the apocalypse by DeathSting, a super-cool future version of herself._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242687_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242687_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242687_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242687_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242687_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242687_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242687_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242687_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242687_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242687_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242687_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242687_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242687_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242687_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242687_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242687_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242687_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242687_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242687_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242687_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
