@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: July 18, 2021 at 08:30:20 EDT_
+_Last Update: July 18, 2021 at 11:30:21 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2177542 DC Super Hero Girls: 2 (2 new)  
+### 2242688
+**DC Super Hero Girls S02E10 - #WorldsFinest**  
+🆕 TV-PG 🔒 11:19  
+⌛ January 1, 2022 at 05:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242688&mediaid=aab53191e905d8e143bab37a718680886e5a89f8) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/worldsfinest-episode.html  
+seriesid=`2177542` titleid=`2242688` mediaid=`aab53191e905d8e143bab37a718680886e5a89f8`  
+_When PR whiz Max Lord tells Batgirl and Supergirl he can improve their image by doing publicity stunts, the two friends forget what being a hero is really about._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242688_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242688_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242688_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242688_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242688_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242688_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242688_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242688_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242688_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242688_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242688_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242688_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242688_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242688_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242688_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242688_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242688_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242688_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242688_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242688_010_640x360.jpg" height="144px" /></a>
+### 2242689
+**DC Super Hero Girls S02E11 - #WorkingStiff**  
+🆕 TV-PG 🔒 11:19  
+⌛ January 1, 2022 at 05:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242689&mediaid=a3f64cc10944ae72b11588968eae160e02acf671) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/workingstiff-episode.html  
+seriesid=`2177542` titleid=`2242689` mediaid=`a3f64cc10944ae72b11588968eae160e02acf671`  
+_After Babs hooks Karen up with a job at the Burrito Bucket the two heroes encounter a new villain, the scourge of the fast-food underworld, the Condiment King!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242689_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242689_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242689_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242689_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242689_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242689_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242689_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242689_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242689_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242689_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242689_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242689_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242689_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242689_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242689_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242689_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242689_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242689_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242689_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242689_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
