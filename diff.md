@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: July 23, 2021 at 09:30:23 EDT_
+_Last Update: July 23, 2021 at 11:30:21 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2191380 The Fungies!: 2 (2 new)  
+### 2198283
+**The Fungies! S01E15 - Nevin's Cocoon**  
+🆕 TV-Y7 🔒 11:21  
+⌛ December 31, 2021 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2191380&titleid=2198283&mediaid=3373be581b9f0fac314345f26cdad8049b10c1cf) or on the web: https://www.cartoonnetwork.com/video/the-fungies/nevins-cocoon-episode.html  
+seriesid=`2191380` titleid=`2198283` mediaid=`3373be581b9f0fac314345f26cdad8049b10c1cf`  
+_After a beautiful statue makes Nevin self-conscious about his own looks, Seth helps seal Nevin in a cocoon so that he may turn into a beautiful butterfly._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2198283_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198283_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198283_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198283_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198283_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198283_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198283_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198283_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198283_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198283_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198283_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198283_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198283_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198283_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198283_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198283_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198283_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198283_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198283_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198283_010_640x360.jpg" height="144px" /></a>
+### 2200658
+**The Fungies! S01E16 - Cool Kids**  
+🆕 TV-Y7 🔒 11:21  
+⌛ December 31, 2021 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2191380&titleid=2200658&mediaid=2fa3005cb9168b941fe8cba5e2fa9c3357485526) or on the web: https://www.cartoonnetwork.com/video/the-fungies/cool-kids-episode.html  
+seriesid=`2191380` titleid=`2200658` mediaid=`2fa3005cb9168b941fe8cba5e2fa9c3357485526`  
+_When Pascal becomes obsessed with a group of cool kids, Seth promises to use his science skills to help Pascal become cool. But is coolness as cool as it seems?_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2200658_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200658_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200658_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200658_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200658_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200658_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200658_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200658_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200658_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200658_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200658_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200658_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200658_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200658_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200658_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200658_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200658_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200658_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200658_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200658_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
