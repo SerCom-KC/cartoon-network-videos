@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: July 25, 2021 at 08:30:22 EDT_
+_Last Update: July 25, 2021 at 11:30:21 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2177542 DC Super Hero Girls: 2 (2 new)  
+### 2242690
+**DC Super Hero Girls S02E12 - #MultipliciZee**  
+🆕 TV-PG 🔒 11:18  
+⌛ January 1, 2022 at 05:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242690&mediaid=76837bbb36c0e8ac168598f99cdad130ff965ab9) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/multiplicizee-episode.html  
+seriesid=`2177542` titleid=`2242690` mediaid=`76837bbb36c0e8ac168598f99cdad130ff965ab9`  
+_Zee magically duplicates herself so she can shirk work and watch TV. Things get out of hand when her copies start to make copies of themselves!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242690_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242690_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242690_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242690_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242690_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242690_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242690_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242690_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242690_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242690_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242690_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242690_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242690_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242690_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242690_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242690_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242690_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242690_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242690_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242690_010_640x360.jpg" height="144px" /></a>
+### 2242691
+**DC Super Hero Girls S02E13 - #TheMinus**  
+🆕 TV-PG 🔒 11:19  
+⌛ January 1, 2022 at 05:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242691&mediaid=3d77fc252bf2866e14b6ecc91d275792484cd100) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/theminus-episode.html  
+seriesid=`2177542` titleid=`2242691` mediaid=`3d77fc252bf2866e14b6ecc91d275792484cd100`  
+_Diana receives her first ever A minus and becomes convinced that she needs to work harder, however, in order to do so, she resorts to rather drastic measures._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242691_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242691_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242691_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242691_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242691_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242691_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242691_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242691_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242691_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242691_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242691_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242691_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242691_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242691_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242691_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242691_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242691_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242691_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242691_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242691_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
