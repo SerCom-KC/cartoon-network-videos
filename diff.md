@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 1, 2021 at 08:30:17 EDT_
+_Last Update: August 1, 2021 at 11:30:16 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2177542 DC Super Hero Girls: 2 (2 new)  
+### 2242692
+**DC Super Hero Girls S02E14 - #Powerless**  
+🆕 TV-PG 🔒 11:19  
+⌛ January 1, 2022 at 05:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242692&mediaid=24ff1e1540b8984fb678ef77a9f339ba166da2c0) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/powerless-episode.html  
+seriesid=`2177542` titleid=`2242692` mediaid=`24ff1e1540b8984fb678ef77a9f339ba166da2c0`  
+_Supergirl loses her powers and, with the help of BumbleBee, must rely on her street smarts to save Garth from vengeful Toyman._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242692_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242692_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242692_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242692_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242692_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242692_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242692_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242692_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242692_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242692_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242692_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242692_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242692_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242692_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242692_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242692_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242692_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242692_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242692_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242692_010_640x360.jpg" height="144px" /></a>
+### 2242693
+**DC Super Hero Girls S02E15 - #AcceptNoSubstitute**  
+🆕 TV-PG 🔒 11:18  
+⌛ January 1, 2022 at 05:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242693&mediaid=7fd9cc0dfc82dc3e52239cb787270c8be729ef07) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/acceptnosubstitute-episode.html  
+seriesid=`2177542` titleid=`2242693` mediaid=`7fd9cc0dfc82dc3e52239cb787270c8be729ef07`  
+_Feeling smothered, Babs urges her retired dad, Commissioner Gordon, to get a hobby, but her advice backfires when the Commissioner becomes a substitute teacher at her school!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242693_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242693_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242693_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242693_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242693_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242693_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242693_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242693_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242693_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242693_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242693_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242693_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242693_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242693_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242693_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242693_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242693_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242693_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242693_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242693_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
