@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 8, 2021 at 10:30:17 EDT_
+_Last Update: August 8, 2021 at 11:30:16 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2177542 DC Super Hero Girls: 2 (2 new)  
+### 2242694
+**DC Super Hero Girls S02E16 - #WarriorAndTheJester**  
+🆕 TV-PG 🔒 11:20  
+⌛ December 13, 2021 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242694&mediaid=2d67c9bbe6f555e52180f8b469a10894e3d751de) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/warriorandthejester-episode.html  
+seriesid=`2177542` titleid=`2242694` mediaid=`2d67c9bbe6f555e52180f8b469a10894e3d751de`  
+_After accidentally destroying one of Babs' beloved, one-of-a-kind Batman keepsakes, Diana enlists the help of Harleen Quinzel in order to find a replacement in Gotham City._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242694_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242694_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242694_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242694_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242694_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242694_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242694_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242694_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242694_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242694_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242694_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242694_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242694_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242694_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242694_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242694_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242694_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242694_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242694_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242694_010_640x360.jpg" height="144px" /></a>
+### 2242695
+**DC Super Hero Girls S02E17 - #MotherKnowsBest**  
+🆕 TV-PG 🔒 11:18  
+⌛ December 13, 2021 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242695&mediaid=75116810fe53d5483c7d2c6431ed747a1c737ba7) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/motherknowsbest-episode.html  
+seriesid=`2177542` titleid=`2242695` mediaid=`75116810fe53d5483c7d2c6431ed747a1c737ba7`  
+_Hippolyta visits town and Diana is desperate to win her approval. But when Hippolyta unexpectedly takes a shine to Kara, Diana must curb her envy before they all get hurt._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242695_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242695_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242695_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242695_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242695_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242695_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242695_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242695_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242695_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242695_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242695_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242695_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242695_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242695_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242695_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242695_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242695_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242695_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242695_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242695_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
