@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 8, 2021 at 05:30:18 EDT_
+_Last Update: August 8, 2021 at 08:00:17 EDT_
 ## Video added
-### Summary
-2177542 DC Super Hero Girls: 2  
-### 2242682
-**DC Super Hero Girls S02E05 - #SuperWonderBatBeeZeeLanterMobile**  
-TV-PG 🔒 11:19  
-⌛ December 31, 2021 at 00:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242682&mediaid=ea067143eff7e2721d952fe1bab180f309763e29) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/superwonderbatbeezeelantermobile-episode.html  
-seriesid=`2177542` titleid=`2242682` mediaid=`ea067143eff7e2721d952fe1bab180f309763e29`  
-_The Super Hero Girls decide to go in together to buy their first car, but quickly learn that splitting an automobile six ways may prove to be their deadliest foe yet!_  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2242682_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242682_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242682_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242682_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242682_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242682_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242682_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242682_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242682_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242682_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242682_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242682_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242682_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242682_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242682_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242682_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242682_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242682_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242682_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242682_010_640x360.jpg" height="144px" /></a>
-### 2242683
-**DC Super Hero Girls S02E06 - #SirensConch**  
-TV-PG 🔒 11:19  
-⌛ December 31, 2021 at 00:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242683&mediaid=f007849c7d5411612e5623d4f7445d72e7b93d88) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/sirensconch-episode.html  
-seriesid=`2177542` titleid=`2242683` mediaid=`f007849c7d5411612e5623d4f7445d72e7b93d88`  
-_Diana is asked to sing in a talent show, but when she uses a magical artifact to hide how bad she is at singing, she unleashes mayhem onto Metropolis._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2242683_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242683_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242683_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242683_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242683_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242683_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242683_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242683_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242683_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242683_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242683_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242683_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242683_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242683_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242683_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242683_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242683_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242683_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242683_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242683_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
