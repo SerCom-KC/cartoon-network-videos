@@ -3,8 +3,17 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 12, 2021 at 08:30:18 EDT_
+_Last Update: August 12, 2021 at 09:00:20 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+860668 NinjaGo: Masters of Spinjitzu: 1  
+### 2194651
+**NinjaGo: Masters of Spinjitzu S??E?? - March of the Oni**  
+TV-Y7-FV 🔒 82:54  
+⌛ August 12, 2021 at 09:00:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000602100&titleid=2194651&mediaid=1b8e4fce95596b4c0ed87ba43a1c900f96ab13b8) or on the web: https://www.cartoonnetwork.com/video/ninjago-spinjitzu/march-of-the-oni-episode.html  
+seriesid=`860668` titleid=`2194651` mediaid=`1b8e4fce95596b4c0ed87ba43a1c900f96ab13b8`  
+_As NinjaGo City rebuilds, Faith arrives with a dire warning: the Oni have returned and are destroying the realms, one by one. NinjaGo must prepare, and Lloyd must face the possibility that to defeat this foe, he may need the help of another enemy. / Having freed Lord Garmadon from Kryptarium Prison, the ninja are beset by doubts, particularly Lloyd. Lord Garmadon and Lloyd journey into the cloud of darkness in an effort to stop the Oni. / The Oni in NinjaGo City are stronger than anyone could have imagined, and the ninja must risk a daring rescue of Lloyd and Garmadon. Though there is still a slight hope, one ninja will pay a terrible price./The ninja race back to the Monastery of Spinjitzu. This is the last stand. The final battle against the Oni is now. Will their joined Spinjitzu powers defeat the Oni for good or tear apart Ninjago itself?_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2194651_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2194651_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2194651_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2194651_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2194651_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2194651_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2194651_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2194651_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2194651_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2194651_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2194651_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2194651_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2194651_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2194651_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2194651_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2194651_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2194651_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2194651_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2194651_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2194651_010_640x360.jpg" height="144px" /></a>
