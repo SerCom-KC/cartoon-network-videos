@@ -1162,7 +1162,7 @@
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/434162_004_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
-        "tags": "movies",
+        "tags": "movies|unauth|unauth movies",
         "titleid": "434162",
         "titletype": "Feature Film",
         "bannertext": "MOVIE",
