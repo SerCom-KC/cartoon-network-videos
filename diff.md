@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 20, 2021 at 10:00:24 EDT_
+_Last Update: August 20, 2021 at 11:30:18 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2191380 The Fungies!: 2 (2 new)  
+### 2213508
+**The Fungies! S01E25 - The Well Monster**  
+🆕 TV-Y7 🔒 11:21  
+⌛ December 31, 2021 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2191380&titleid=2213508&mediaid=361e3d1c291cfec4050c9ad938c94a77041e9eb9) or on the web: https://www.cartoonnetwork.com/video/the-fungies/the-well-monster-episode.html  
+seriesid=`2191380` titleid=`2213508` mediaid=`361e3d1c291cfec4050c9ad938c94a77041e9eb9`  
+_Seth wants to study the old well, but Nancy forbids it! So Seth lies and says he won't. But when Pascal gets stuck in the well, Seth's little white lie grows! Soon he has the whole town up in arms about a terrible "well monster."_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2213508_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2213508_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2213508_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2213508_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2213508_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2213508_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2213508_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2213508_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2213508_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2213508_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2213508_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2213508_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2213508_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2213508_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2213508_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2213508_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2213508_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2213508_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2213508_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2213508_010_640x360.jpg" height="144px" /></a>
+### 2214045
+**The Fungies! S01E26 - Queen Seth**  
+🆕 TV-Y7 🔒 11:21  
+⌛ December 31, 2021 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2191380&titleid=2214045&mediaid=9de341345bedd0a26b1c4372602e506e172aaa23) or on the web: https://www.cartoonnetwork.com/video/the-fungies/queen-seth-episode.html  
+seriesid=`2191380` titleid=`2214045` mediaid=`9de341345bedd0a26b1c4372602e506e172aaa23`  
+_Seth, sick of doing chores for his mom, wishes he was in charge. But when an act of kindness makes Seth queen to a hive of bees, he quickly learns: heavy is the head that wears the crown._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2214045_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214045_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214045_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214045_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214045_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214045_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214045_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214045_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214045_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214045_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214045_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214045_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214045_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214045_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214045_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214045_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214045_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214045_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214045_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214045_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
