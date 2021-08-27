@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 27, 2021 at 10:30:18 EDT_
+_Last Update: August 27, 2021 at 11:30:17 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2191380 The Fungies!: 2 (2 new)  
+### 2214538
+**The Fungies! S01E29 - Lil' Lemon for President**  
+🆕 TV-Y7 🔒 11:20  
+⌛ December 31, 2021 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2191380&titleid=2214538&mediaid=fe24c33f2dc7dad5a053295eb357fe3be649d734) or on the web: https://www.cartoonnetwork.com/video/the-fungies/lil-lemon-for-president-episode.html  
+seriesid=`2191380` titleid=`2214538` mediaid=`fe24c33f2dc7dad5a053295eb357fe3be649d734`  
+_Seth bets Mertha that with him as his campaign manager, Lil' Lemon will beat her in the class election! But when Mertha's dad gets involved, things get out of hand and Seth soon learns politics isn't worth putting his friend in jeopardy!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2214538_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214538_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214538_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214538_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214538_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214538_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214538_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214538_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214538_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214538_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214538_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214538_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214538_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214538_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214538_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214538_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214538_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214538_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214538_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214538_010_640x360.jpg" height="144px" /></a>
+### 2222832
+**The Fungies! S01E30 - Long Legs**  
+🆕 TV-Y7 🔒 11:20  
+⌛ December 31, 2021 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2191380&titleid=2222832&mediaid=437683753698aee009423dec5f418af9ab3ee162) or on the web: https://www.cartoonnetwork.com/video/the-fungies/long-legs-episode.html  
+seriesid=`2191380` titleid=`2222832` mediaid=`437683753698aee009423dec5f418af9ab3ee162`  
+_While playing in the river, Seth, Claudette, and Mertha discover the longest pair of Fungie legs they've ever seen! Now the three friends struggle over who gets to keep them._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2222832_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222832_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222832_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222832_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222832_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222832_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222832_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222832_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222832_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222832_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222832_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222832_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222832_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222832_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222832_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222832_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222832_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222832_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222832_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222832_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
