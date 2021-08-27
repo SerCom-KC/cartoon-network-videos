@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1007181900007276",
+  "airingid": "RADS1008112100020361",
   "seasonnumber": "7",
   "seasonitemnumber": "15",
   "seriesid": "757073",
@@ -12,7 +12,7 @@
   "type": "fullepisode",
   "active": true,
   "description": "Jake's daughter Viola is up for a role in a play by a hot new director, Lumpy Space Princess.",
-  "duration": 687,
+  "duration": 688,
   "freewheelid": "cn-2065573",
   "isclip": false,
   "typesort": "1",
@@ -20,9 +20,9 @@
   "seriestitleid": "757073",
   "seriesname": "Adventure Time",
   "originalpremieredate": "2016-01-08T00:30:00.000Z",
-  "pubdate": "2019-08-15T09:00:00.000Z",
-  "expdate": "2019-08-22T08:59:00.000Z",
-  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2065573_007_640x360.jpg",
+  "pubdate": "2021-08-27T09:00:00.000Z",
+  "expdate": "2021-09-03T08:59:00.000Z",
+  "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2065573_003_640x360.jpg",
   "authtype": "unauth",
   "webflags": "",
   "tags": "unauth",
@@ -33,9 +33,11 @@
   "originalseriesname": "Adventure Time",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1452213000000",
-  "pubdateasmilliseconds": "1565859600000",
-  "expdateasmilliseconds": "1566464340000",
+  "pubdateasmilliseconds": "1630054800000",
+  "expdateasmilliseconds": "1630659540000",
   "mediaid": "3f220347511224f2cc4c6fc1e3cd3c52b6216607",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false
+  "ismultipropertycollection": false,
+  "clipsonly": false,
+  "includeshortform": false
 }
