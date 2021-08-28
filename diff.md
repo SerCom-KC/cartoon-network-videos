@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 28, 2021 at 08:30:17 EDT_
+_Last Update: August 28, 2021 at 11:30:16 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2191380 The Fungies!: 2 (2 new)  
+### 2222836
+**The Fungies! S01E31 - Sir Tree House**  
+🆕 TV-Y7 🔒 11:21  
+⌛ December 31, 2021 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2191380&titleid=2222836&mediaid=1c0bdf8b830891756ccd8151c44aa62fdd9861d6) or on the web: https://www.cartoonnetwork.com/video/the-fungies/sir-tree-house-episode.html  
+seriesid=`2191380` titleid=`2222836` mediaid=`1c0bdf8b830891756ccd8151c44aa62fdd9861d6`  
+_Sir Tree is lonely, so Seth builds a tree house in his branches to keep him company. It's such a hit, soon all of Fungietown moves in! But when the added weight strains Sir Tree, can Seth convince him to take better care of himself?_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2222836_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222836_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222836_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222836_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222836_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222836_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222836_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222836_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222836_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222836_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222836_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222836_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222836_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222836_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222836_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222836_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222836_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222836_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222836_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222836_010_640x360.jpg" height="144px" /></a>
+### 2222833
+**The Fungies! S01E32 - Lord Clawly Caper**  
+🆕 TV-Y7 🔒 11:20  
+⌛ December 31, 2021 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2191380&titleid=2222833&mediaid=8b12518cec869d66bd659fa4f193edd4f16db2f2) or on the web: https://www.cartoonnetwork.com/video/the-fungies/lord-clawly-caper-episode.html  
+seriesid=`2191380` titleid=`2222833` mediaid=`8b12518cec869d66bd659fa4f193edd4f16db2f2`  
+_When his medals are stolen during a Fungietown school assembly, Seth and Claudette start an investigation to find the culprit before everyone is thrown into the Triloknight's dungeon!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2222833_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222833_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222833_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222833_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222833_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222833_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222833_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222833_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222833_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222833_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222833_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222833_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222833_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222833_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222833_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222833_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222833_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222833_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222833_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222833_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
