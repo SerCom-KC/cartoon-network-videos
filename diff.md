@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: September 3, 2021 at 23:00:17 EDT_
+_Last Update: September 4, 2021 at 08:00:17 EDT_
 ## Video added
-### Summary
-2191382 Tig n' Seek: 2 (2 new)  
-### 2228086
-**Tig n' Seek S02E09 - Hair Today**  
-🆕 TV-PG 🔒 11:21  
-⌛ January 1, 2022 at 22:44:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2191382&titleid=2228086&mediaid=1dad1f9017d999927e1c6406e4a0c11da516cc49) or on the web: https://www.cartoonnetwork.com/video/tig-n-seek/hair-today-episode.html  
-seriesid=`2191382` titleid=`2228086` mediaid=`1dad1f9017d999927e1c6406e4a0c11da516cc49`  
-_A mix-up at the groomers causes Tiggy to mistake a cranky, hairless cat for Gweeseek._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2228086_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2228086_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2228086_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2228086_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2228086_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2228086_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2228086_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2228086_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2228086_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2228086_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2228086_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2228086_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2228086_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2228086_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2228086_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2228086_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2228086_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2228086_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2228086_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2228086_010_640x360.jpg" height="144px" /></a>
-### 2193170
-**Tig n' Seek S01E10 - Who's This Guy?**  
-🆕 TV-PG 🔒 11:17  
-⌛ December 31, 2021 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2191382&titleid=2193170&mediaid=60dc2edc69a47df1cc07d5b1ab078b8f3538c898) or on the web: https://www.cartoonnetwork.com/video/tig-n-seek/whos-this-guy-episode.html  
-seriesid=`2191382` titleid=`2193170` mediaid=`60dc2edc69a47df1cc07d5b1ab078b8f3538c898`  
-_This Guy is more wound up than usual and Tiggy encourages him to take a relaxing day off. Left in charge of the office, Tig and Seek learn it's harder than they thought to keep things orderly._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2193170_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193170_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193170_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193170_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193170_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193170_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193170_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193170_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193170_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193170_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193170_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193170_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193170_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193170_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193170_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193170_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193170_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193170_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193170_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193170_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
