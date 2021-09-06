@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: September 5, 2021 at 08:00:17 EDT_
+_Last Update: September 6, 2021 at 05:00:18 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2199328 Elliott from Earth: 2  
+### 2222883
+**Elliott from Earth S01E08 - Inadvertant Inversion**  
+TV-Y7 🔒 12:17  
+⌛ September 6, 2021 at 05:00:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2199328&titleid=2222883&mediaid=5eb6da53f526fd1663ec57a924e47358daa275c1) or on the web: https://www.cartoonnetwork.com/video/elliott-from-earth/inadvertant-inversion-episode.html  
+seriesid=`2199328` titleid=`2222883` mediaid=`5eb6da53f526fd1663ec57a924e47358daa275c1`  
+_As Elliott, Mo and Frankie all try something new at the Hive, they find their worlds are about to be turned upside down again._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2222883_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222883_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222883_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222883_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222883_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222883_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222883_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222883_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222883_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222883_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222883_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222883_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222883_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222883_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222883_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222883_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222883_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222883_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222883_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222883_010_640x360.jpg" height="144px" /></a>
+### 2222882
+**Elliott from Earth S01E07 - Developing Dilemna**  
+TV-Y7 🔒 11:54  
+⌛ September 6, 2021 at 05:00:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2199328&titleid=2222882&mediaid=f53f385019ce41c169fdff61e2834b055af7c2b8) or on the web: https://www.cartoonnetwork.com/video/elliott-from-earth/developing-dilemna-episode.html  
+seriesid=`2199328` titleid=`2222882` mediaid=`f53f385019ce41c169fdff61e2834b055af7c2b8`  
+_Frankie lets Elliott get a pet, which doesn't go down well with their new neighbor._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2222882_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222882_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222882_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222882_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222882_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222882_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222882_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222882_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222882_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222882_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222882_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222882_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222882_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222882_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222882_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222882_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222882_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222882_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222882_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222882_010_640x360.jpg" height="144px" /></a>
