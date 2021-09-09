@@ -23,7 +23,7 @@
   "pubdate": "2021-01-01T05:00:59.000Z",
   "expdate": "2021-12-31T05:00:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/859166_002_640x360.jpg",
-  "authtype": "auth",
+  "authtype": "unauth",
   "webflags": "",
   "tags": "movies",
   "titleid": "859166",
