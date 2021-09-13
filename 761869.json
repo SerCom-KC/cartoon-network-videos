@@ -2,7 +2,7 @@
   "airingid": "RADS1009092100027980",
   "seasonnumber": "2",
   "seasonitemnumber": "1",
-  "seriesid": "753448",
+  "seriesid": "1000000000093702",
   "id": "0f79b4fd193754aa8f6f434c12ebe19a04e6928b",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/star-light-star-brightall-in-a-days-workthe-cats-meowcaillou-in-space-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "753448",
-  "seriesname": "Caillou",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-17T11:00:00.000Z",
   "pubdate": "2021-09-13T09:00:00.000Z",
   "expdate": "2021-12-31T09:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1640944740000",
   "mediaid": "0f79b4fd193754aa8f6f434c12ebe19a04e6928b",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
