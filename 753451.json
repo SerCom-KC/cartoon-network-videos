@@ -2,7 +2,7 @@
   "airingid": "RADS1009082100027444",
   "seasonnumber": "1",
   "seasonitemnumber": "4",
-  "seriesid": "753448",
+  "seriesid": "1000000000093702",
   "id": "ee9d23e25221b71a78ef9f0a1d11085df4edca4a",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/big-brotherhiding-placerainy-dayrakes-the-leavesgoes-shopping-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "753448",
-  "seriesname": "Caillou",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-14T11:00:00.000Z",
   "pubdate": "2021-09-13T09:00:00.000Z",
   "expdate": "2022-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1641013200000",
   "mediaid": "ee9d23e25221b71a78ef9f0a1d11085df4edca4a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
