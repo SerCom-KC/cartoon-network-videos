@@ -2,7 +2,7 @@
   "airingid": "RADS1009122100029021",
   "seasonnumber": "1",
   "seasonitemnumber": "26",
-  "seriesid": "686417",
+  "seriesid": "1000000000093702",
   "id": "7b2be6154547659cee6ef73965ef40e5b0aafa1f",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/puppy-love-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "686417",
-  "seriesname": "Pocoyo",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-16T12:35:00.000Z",
   "pubdate": "2021-09-13T09:00:00.000Z",
   "expdate": "2021-12-31T09:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1640944740000",
   "mediaid": "7b2be6154547659cee6ef73965ef40e5b0aafa1f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
