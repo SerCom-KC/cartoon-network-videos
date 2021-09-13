@@ -2,7 +2,7 @@
   "airingid": "RADS1009082100027459",
   "seasonnumber": "1",
   "seasonitemnumber": "18",
-  "seriesid": "686417",
+  "seriesid": "1000000000093702",
   "id": "03da90584766cf07336c45c5dd38b4e910a04fe1",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/the-great-race-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "686417",
-  "seriesname": "Pocoyo",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-15T12:05:00.000Z",
   "pubdate": "2021-09-13T09:00:00.000Z",
   "expdate": "2022-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1641013200000",
   "mediaid": "03da90584766cf07336c45c5dd38b4e910a04fe1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
