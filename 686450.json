@@ -2,7 +2,7 @@
   "airingid": "RADS1009082100027460",
   "seasonnumber": "1",
   "seasonitemnumber": "13",
-  "seriesid": "686417",
+  "seriesid": "1000000000093702",
   "id": "bf1fa94df66250d0dade65484e69334aab53d9b7",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/the-key-to-it-all-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "686417",
-  "seriesname": "Pocoyo",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-14T12:35:00.000Z",
   "pubdate": "2021-09-13T09:00:00.000Z",
   "expdate": "2022-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1641013200000",
   "mediaid": "bf1fa94df66250d0dade65484e69334aab53d9b7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
