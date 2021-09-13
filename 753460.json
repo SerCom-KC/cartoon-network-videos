@@ -2,7 +2,7 @@
   "airingid": "RADS1009082100027482",
   "seasonnumber": "1",
   "seasonitemnumber": "5",
-  "seriesid": "753448",
+  "seriesid": "1000000000093702",
   "id": "749405f27379d81090a5546c7936bfeca4caf5b3",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/plays-babyflies-on-a-planein-the-bathtubgoes-birdwatchingthe-doll-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "753448",
-  "seriesname": "Caillou",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-14T11:25:00.000Z",
   "pubdate": "2021-09-13T09:00:00.000Z",
   "expdate": "2022-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1641013200000",
   "mediaid": "749405f27379d81090a5546c7936bfeca4caf5b3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

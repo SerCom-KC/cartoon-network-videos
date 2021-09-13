@@ -2,7 +2,7 @@
   "airingid": "RADS1009082100027484",
   "seasonnumber": "1",
   "seasonitemnumber": "9",
-  "seriesid": "753448",
+  "seriesid": "1000000000093702",
   "id": "208bc3008bc8a80b8567545cd225115ad9ac7c3a",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/the-beachnew-shoessnowmanclownspecial-friend-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "753448",
-  "seriesname": "Caillou",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-15T11:45:00.000Z",
   "pubdate": "2021-09-13T09:00:00.000Z",
   "expdate": "2022-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1641013200000",
   "mediaid": "208bc3008bc8a80b8567545cd225115ad9ac7c3a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
