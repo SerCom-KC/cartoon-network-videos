@@ -2,7 +2,7 @@
   "airingid": "RADS1009112100029000",
   "seasonnumber": "1",
   "seasonitemnumber": "40",
-  "seriesid": "686417",
+  "seriesid": "1000000000093702",
   "id": "c6b867e9154f57ee51f8bf6fcd49c277855e75e4",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/pocoyolympics-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "686417",
-  "seriesname": "Pocoyo",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-21T12:05:00.000Z",
   "pubdate": "2021-09-13T09:00:00.000Z",
   "expdate": "2021-12-31T09:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1640944740000",
   "mediaid": "c6b867e9154f57ee51f8bf6fcd49c277855e75e4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
