@@ -2,7 +2,7 @@
   "airingid": "RADS1009122100029019",
   "seasonnumber": "1",
   "seasonitemnumber": "10",
-  "seriesid": "686417",
+  "seriesid": "1000000000093702",
   "id": "2fde8acfa729efdfd47ecc6e8e7269bcab4fabc6",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/a-mystery-most-puzzling-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "686417",
-  "seriesname": "Pocoyo",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-14T12:05:00.000Z",
   "pubdate": "2021-09-13T09:00:00.000Z",
   "expdate": "2021-12-31T09:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1640944740000",
   "mediaid": "2fde8acfa729efdfd47ecc6e8e7269bcab4fabc6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
