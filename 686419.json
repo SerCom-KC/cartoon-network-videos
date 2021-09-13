@@ -2,7 +2,7 @@
   "airingid": "RADS1009082100027448",
   "seasonnumber": "1",
   "seasonitemnumber": "8",
-  "seriesid": "686417",
+  "seriesid": "1000000000093702",
   "id": "c6ca9f00b4ecd2e734c30a9d08140b1669dea124",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/pocoyo-dance-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "686417",
-  "seriesname": "Pocoyo",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-14T12:05:00.000Z",
   "pubdate": "2021-09-13T09:00:00.000Z",
   "expdate": "2022-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1641013200000",
   "mediaid": "c6ca9f00b4ecd2e734c30a9d08140b1669dea124",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
