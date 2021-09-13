@@ -2,7 +2,7 @@
   "airingid": "RADS1009092100027499",
   "seasonnumber": "1",
   "seasonitemnumber": "33",
-  "seriesid": "686417",
+  "seriesid": "1000000000093702",
   "id": "315407d9a215572af5e79b12902bc13bd7b3ae1f",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/lets-go-camping-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "686417",
-  "seriesname": "Pocoyo",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-17T12:35:00.000Z",
   "pubdate": "2021-09-13T09:00:00.000Z",
   "expdate": "2022-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1641013200000",
   "mediaid": "315407d9a215572af5e79b12902bc13bd7b3ae1f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
