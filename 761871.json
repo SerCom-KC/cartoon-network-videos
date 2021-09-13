@@ -2,7 +2,7 @@
   "airingid": "RADS1009102100028374",
   "seasonnumber": "2",
   "seasonitemnumber": "3",
-  "seriesid": "753448",
+  "seriesid": "1000000000093702",
   "id": "dac5563d5def08f514a20c1a003487c136b9d255",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/caillou-beats-the-heatback-seat-driverlost-and-foundholiday-magic-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "753448",
-  "seriesname": "Caillou",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-17T11:45:00.000Z",
   "pubdate": "2021-09-13T09:00:00.000Z",
   "expdate": "2021-12-31T09:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1640944740000",
   "mediaid": "dac5563d5def08f514a20c1a003487c136b9d255",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
