@@ -2,7 +2,7 @@
   "airingid": "RADS1009082100027437",
   "seasonnumber": "1",
   "seasonitemnumber": "8",
-  "seriesid": "753448",
+  "seriesid": "1000000000093702",
   "id": "a0cca107b5b38abd37f5e5c63fd763e2f26f9558",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/goes-campinglearns-to-skategets-dresseddaddygrows-carrots-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "753448",
-  "seriesname": "Caillou",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-15T11:25:00.000Z",
   "pubdate": "2021-09-13T09:00:00.000Z",
   "expdate": "2022-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1641013200000",
   "mediaid": "a0cca107b5b38abd37f5e5c63fd763e2f26f9558",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
