@@ -2,7 +2,7 @@
   "airingid": "RADS1009092100027981",
   "seasonnumber": "1",
   "seasonitemnumber": "36",
-  "seriesid": "686417",
+  "seriesid": "1000000000093702",
   "id": "c4043cba639fd3437821f8125d6e86e6b9c7b1e4",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/pocoyo-gets-it-right-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "686417",
-  "seriesname": "Pocoyo",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-20T12:05:00.000Z",
   "pubdate": "2021-09-13T09:00:00.000Z",
   "expdate": "2021-12-31T09:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1640944740000",
   "mediaid": "c4043cba639fd3437821f8125d6e86e6b9c7b1e4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
