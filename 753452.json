@@ -2,7 +2,7 @@
   "airingid": "RADS1009092100027985",
   "seasonnumber": "1",
   "seasonitemnumber": "11",
-  "seriesid": "753448",
+  "seriesid": "1000000000093702",
   "id": "090f891edb907b7e228e69cffbe1762b52bdab69",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/birthday-presentgilbertsummer-goodnightscared-of-dogsthe-zoo-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "753448",
-  "seriesname": "Caillou",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-16T11:25:00.000Z",
   "pubdate": "2021-09-13T09:00:00.000Z",
   "expdate": "2021-12-31T09:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1640944740000",
   "mediaid": "090f891edb907b7e228e69cffbe1762b52bdab69",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
