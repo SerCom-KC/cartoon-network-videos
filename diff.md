@@ -3,17 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: September 18, 2021 at 00:00:20 EDT_
+_Last Update: September 18, 2021 at 07:00:19 EDT_
 ## Video added
-### Summary
-2141109 Care Bears: Unlock the Magic: 1 (1 new)  
-### 2141119
-**Care Bears: Unlock the Magic S01E10 - The Great Giggle**  
-🆕 TV-Y7 🔒 11:01  
-⌛ September 24, 2021 at 23:59:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2141119&mediaid=9c387c86c43aef6155ecd8b13da2b89e98d7dfcd) or on the web: https://www.cartoonnetwork.com/video/care-bears-unlock-the-magic/the-great-giggle-episode.html  
-seriesid=`2141109` titleid=`2141119` mediaid=`9c387c86c43aef6155ecd8b13da2b89e98d7dfcd`  
-_The Care Bears are to witness the annual blooming of the Pinata Tree, an ancient event that can only happen if the Keeper of the Tree sees something that makes him giggle. Good Luck's giggle-inducing entertainment act goes awry because he relies on his errant lucky shamrock for success. He must learn to forgo luck and practice his act instead._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2141119_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141119_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141119_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141119_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141119_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141119_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141119_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141119_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141119_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141119_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141119_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141119_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141119_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141119_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141119_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141119_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141119_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141119_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141119_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141119_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
