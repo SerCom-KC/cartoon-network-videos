@@ -61,7 +61,7 @@
 /* Specials end */
 
 /* Movies (Cartoon Network) start */
-.franchise-327186, .franchise-359849, .franchise-469533 {
+.franchise-327186, .franchise-359849, .franchise-469533, .franchise-474692 {
     font-family: "Avenir Std", sans-serif;
     background-color: #bfbfbf;
     color: black;
@@ -743,6 +743,13 @@
     border-color: #f68d95;
 }
 
+.franchise-471233, .series-2191382 { /* Tig n' Seek */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #78ccff;
+    color: #dd3027;
+    border-color: #dd3027;
+}
+
 .franchise-472152, .series-2266164 { /* Tuca & Bertie */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #ff8fcf;
@@ -755,6 +762,13 @@
     background-color: #0e7a74;
     color: #f6ee5c;
     border-color: #f6ee5c;
+}
+
+.franchise-473692, .series-2266513 { /* Lucas the Spider */
+    font-family: linotteregular, sans-serif;
+    background-color: #53738b;
+    color: #cea777;
+    border-color: #cea777;
 }
 
 .franchise-473693, .series-753448 { /* Caillou */
@@ -787,7 +801,21 @@
 
 .franchise-474134, .series-2179056 { /* Mush Mush and the Mushables */
     font-family: linotteregular, sans-serif;
-    background-color: rgb(155,110,109);
+    background-color: #9b6e6d;
     color: #e2d078;
     border-color: #e2d078;
+}
+
+.franchise-474172, .series-2242967 { /* Love Monster */
+    font-family: linotteregular, sans-serif;
+    background-color: #cd254f;
+    color: white;
+    border-color: white;
+}
+
+.franchise-474173, .series-2215265 { /* Esme & Roy */
+    font-family: linotteregular, sans-serif;
+    background-color: #e94a20;
+    color: #fbd891;
+    border-color: #fbd891;
 }
