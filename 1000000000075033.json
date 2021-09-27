@@ -927,7 +927,7 @@
         "pubdate": "2021-09-17T09:00:00.000Z",
         "expdate": "2021-10-01T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2196206_007_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "webflags": "",
         "tags": "hispanic heritage month",
         "titleid": "2196206",
