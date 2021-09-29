@@ -11247,7 +11247,7 @@
         "pubdate": "2021-09-03T09:00:00.000Z",
         "expdate": "2021-10-01T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2163292_007_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "espanol",
         "titleid": "2163292",
