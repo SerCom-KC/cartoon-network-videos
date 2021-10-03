@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: October 3, 2021 at 11:30:20 EDT_
+_Last Update: October 3, 2021 at 13:00:19 EDT_
 ## Video added
-### Summary
-2177542 DC Super Hero Girls: 2 (2 new)  
-### 2242699
-**DC Super Hero Girls S02E18 - #DetentionClub**  
-🆕 TV-PG 🔒 11:19  
-⌛ January 1, 2022 at 00:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242699&mediaid=f486d6b6eb581bec6fe1571170f1f521fcca7551) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/detentionclub-episode.html  
-seriesid=`2177542` titleid=`2242699` mediaid=`f486d6b6eb581bec6fe1571170f1f521fcca7551`  
-_Five socially disparate teens, Hal, Pam, Kara, Zee and Garth, find they have more in common than they thought after spending a Saturday in detention._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2242699_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242699_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242699_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242699_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242699_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242699_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242699_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242699_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242699_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242699_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242699_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242699_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242699_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242699_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242699_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242699_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242699_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242699_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242699_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242699_010_640x360.jpg" height="144px" /></a>
-### 2242700
-**DC Super Hero Girls S02E19 - #SmallVictories**  
-🆕 TV-PG 🔒 11:19  
-⌛ January 1, 2022 at 00:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242700&mediaid=d573367f7932f760921b1dab875412b49e2bae20) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/smallvictories-episode.html  
-seriesid=`2177542` titleid=`2242700` mediaid=`d573367f7932f760921b1dab875412b49e2bae20`  
-_A malfunctioning device shrinks Karen into the Microverse, leaving technophobic Diana as her only hope._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2242700_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242700_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242700_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242700_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242700_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242700_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242700_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242700_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242700_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242700_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242700_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242700_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242700_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242700_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242700_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242700_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242700_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242700_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242700_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242700_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
