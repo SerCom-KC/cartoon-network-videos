@@ -1529,7 +1529,7 @@
         "pubdate": "2021-09-13T09:00:00.000Z",
         "expdate": "2022-01-01T05:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/440381_010_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "cartoonito",
         "titleid": "440381",
