@@ -2,7 +2,7 @@
   "airingid": "RADS1010052100034755",
   "seasonnumber": "1",
   "seasonitemnumber": "19",
-  "seriesid": "686417",
+  "seriesid": "1000000000093702",
   "id": "106dcee6a3df754b2013f7fca0d9a5e32689404d",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/dont-touch-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "686417",
-  "seriesname": "Pocoyo",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-15T12:35:00.000Z",
   "pubdate": "2021-10-06T09:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "106dcee6a3df754b2013f7fca0d9a5e32689404d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
