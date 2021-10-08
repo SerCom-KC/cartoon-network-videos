@@ -1,7 +1,7 @@
 {
   "airingid": "RADS1009282100031966",
   "seasonnumber": "",
-  "groupid": 2,
+  "groupid": 3,
   "groupcontentid": "10882",
   "groupname": "The Powerpuff Girls Classic",
   "seasonitemnumber": "7",
@@ -28,7 +28,7 @@
   "authtype": "unauth",
   "expdate": "2021-11-01T09:00:00.000Z",
   "webflags": "",
-  "tags": "ppg - classic|unauth",
+  "tags": "ppg - classic|halloween|ppg new - halloween|unauth",
   "titleid": "335549",
   "titletype": "Episode",
   "bannertext": "UNLOCKED",
