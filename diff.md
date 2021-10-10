@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: October 10, 2021 at 08:30:20 EDT_
+_Last Update: October 10, 2021 at 11:30:20 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2177542 DC Super Hero Girls: 2 (2 new)  
+### 2242701
+**DC Super Hero Girls S02E20 - #CruzControl**  
+🆕 TV-PG 🔒 11:19  
+⌛ January 1, 2022 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242701&mediaid=c2c1df6b4fb2048d134acf53eef203bc8d34a20d) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/cruzcontrol-episode.html  
+seriesid=`2177542` titleid=`2242701` mediaid=`c2c1df6b4fb2048d134acf53eef203bc8d34a20d`  
+_Working toward her dream of making her school a better place, Jessica runs for class president. However, when her opponent, the corrupt Oswald Cobblepot, pulls ahead in the race using less-than-honest means, Jessica finds herself compromising the integrity of her honest campaign to beat him!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242701_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242701_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242701_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242701_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242701_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242701_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242701_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242701_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242701_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242701_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242701_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242701_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242701_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242701_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242701_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242701_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242701_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242701_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242701_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242701_010_640x360.jpg" height="144px" /></a>
+### 2242702
+**DC Super Hero Girls S02E21 - #WhySoBlue**  
+🆕 TV-PG 🔒 11:19  
+⌛ January 1, 2022 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2177542&titleid=2242702&mediaid=22b7fb50e0975b79d7ff4f38fd62d5dc7c14a36f) or on the web: https://www.cartoonnetwork.com/video/dc-super-hero-girls/whysoblue-episode.html  
+seriesid=`2177542` titleid=`2242702` mediaid=`22b7fb50e0975b79d7ff4f38fd62d5dc7c14a36f`  
+_Supergirl must rein in a reckless new hero, the Blue Beetle._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2242702_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242702_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242702_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242702_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242702_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242702_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242702_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242702_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242702_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242702_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242702_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242702_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242702_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242702_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242702_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242702_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242702_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242702_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2242702_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2242702_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
