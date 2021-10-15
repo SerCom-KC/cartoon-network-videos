@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: October 15, 2021 at 06:00:21 EDT_
+_Last Update: October 15, 2021 at 07:30:22 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2000349 Teen Titans Go!: 2  
+### 2225272
+**Teen Titans Go! S06E45 - Real Art**  
+TV-PG 🔓 10:52  
+⌛ October 22, 2021 at 04:59:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2225272&mediaid=b717cc1f876d6389a767125daa5974471131b01b) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/real-art-episode.html  
+seriesid=`2000349` titleid=`2225272` mediaid=`b717cc1f876d6389a767125daa5974471131b01b`  
+_After Starfire buys an ugly painting, the Titans take her to the museum so she can experience real art._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2225272_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225272_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225272_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225272_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225272_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225272_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225272_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225272_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225272_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225272_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225272_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225272_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225272_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225272_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225272_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225272_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225272_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225272_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225272_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225272_010_640x360.jpg" height="144px" /></a>
+### 2225273
+**Teen Titans Go! S06E46 - Just a Little Patience…Yeah…Yeah**  
+TV-PG 🔓 11:29  
+⌛ October 22, 2021 at 04:59:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2225273&mediaid=e956b89a569092499c4b5b414589e4a1c2e4abb1) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/just-a-little-patienceyeahyeah-episode.html  
+seriesid=`2000349` titleid=`2225273` mediaid=`e956b89a569092499c4b5b414589e4a1c2e4abb1`  
+_Robin tries to teach the other Titans to have patience._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2225273_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225273_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225273_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225273_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225273_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225273_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225273_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225273_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225273_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225273_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225273_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225273_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225273_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225273_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225273_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225273_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225273_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225273_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2225273_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2225273_010_640x360.jpg" height="144px" /></a>
