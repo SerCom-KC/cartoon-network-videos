@@ -755,7 +755,7 @@
         "pubdate": "2021-10-22T09:00:00.000Z",
         "expdate": "2021-11-01T09:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2196836_004_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "webflags": "",
         "tags": "halloween",
         "titleid": "2196836",
