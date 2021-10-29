@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: October 29, 2021 at 05:30:20 EDT_
+_Last Update: October 29, 2021 at 06:00:21 EDT_
 ## Video added
-### Summary
-2191380 The Fungies!: 2  
-### 2204208
-**The Fungies! S01E19 - New Pam in Town**  
-TV-Y7 🔒 11:20  
-⌛ December 31, 2021 at 00:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2191380&titleid=2204208&mediaid=eb7ef3e8e7d2fe4c748261b2591a2b7b2ed11455) or on the web: https://www.cartoonnetwork.com/video/the-fungies/new-pam-in-town-episode.html  
-seriesid=`2191380` titleid=`2204208` mediaid=`eb7ef3e8e7d2fe4c748261b2591a2b7b2ed11455`  
-_When Pam is chased by a huge scary dinosaur, a concerned Seth invites her to live with him in Fungietown. Pam adapts to city living, but the Fungies' newfound love for Pam attracts attention, putting the entire town in danger!_  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2204208_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204208_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204208_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204208_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204208_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204208_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204208_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204208_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204208_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204208_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204208_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204208_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204208_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204208_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204208_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204208_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204208_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204208_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204208_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204208_010_640x360.jpg" height="144px" /></a>
-### 2204209
-**The Fungies! S01E20 - Class Garden**  
-TV-Y7 🔒 11:20  
-⌛ December 31, 2021 at 00:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2191380&titleid=2204209&mediaid=001e7352b89b01a2a8f908b7fde30b13aa828eb1) or on the web: https://www.cartoonnetwork.com/video/the-fungies/class-garden-episode.html  
-seriesid=`2191380` titleid=`2204209` mediaid=`001e7352b89b01a2a8f908b7fde30b13aa828eb1`  
-_Seth tries to get the kids interested in his pumpkin garden by making it into a contest, but a healthy competition soon turns to all out war! Can Seth reunite the class to save the town from a new danger?_  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2204209_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204209_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204209_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204209_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204209_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204209_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204209_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204209_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204209_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204209_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204209_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204209_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204209_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204209_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204209_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204209_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204209_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204209_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2204209_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2204209_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
