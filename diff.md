@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: November 1, 2021 at 22:30:19 EDT_
+_Last Update: November 2, 2021 at 02:00:22 EDT_
 ## Video added
-### Summary
-2160701 Victor and Valentino: 2 (2 new)  
-### 2260363
-**Victor and Valentino S03E10 - Finding Posada**  
-🆕 TV-Y7-FV 🔓 11:17  
-⌛ November 15, 2021 at 05:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2160701&titleid=2260363&mediaid=7d72295c1029ba888989ab99d3200db6b84e590d) or on the web: https://www.cartoonnetwork.com/video/victor-and-valentino/finding-posada-episode.html  
-seriesid=`2160701` titleid=`2260363` mediaid=`7d72295c1029ba888989ab99d3200db6b84e590d`  
-_When Victor and Valentino attempt to win the grand prize of best ofrenda at the Dia de Muertos festival, they enlist the help of legendary artist Jose Guadalupe Posada himself!_  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260363_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260363_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260363_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260363_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260363_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260363_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260363_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260363_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260363_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260363_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260363_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260363_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260363_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260363_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260363_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260363_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260363_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260363_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260363_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260363_010_640x360.jpg" height="144px" /></a>
-### 2259687
-**Victor and Valentino S03E11 - La Catrina**  
-🆕 TV-Y7-FV 🔒 11:17  
-⌛ December 31, 2021 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2160701&titleid=2259687&mediaid=3f45d7391e48539b4926a7d78e10d8d50b740b8f) or on the web: https://www.cartoonnetwork.com/video/victor-and-valentino/la-catrina-episode.html  
-seriesid=`2160701` titleid=`2259687` mediaid=`3f45d7391e48539b4926a7d78e10d8d50b740b8f`  
-_Valentino is elated to get an exclusive invite to a performance by the famous singer La Catrina in the Underworld. There is just one problem: the invite is for grown-ups only._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2259687_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259687_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259687_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259687_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259687_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259687_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259687_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259687_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259687_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259687_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259687_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259687_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259687_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259687_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259687_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259687_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259687_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259687_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259687_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259687_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
