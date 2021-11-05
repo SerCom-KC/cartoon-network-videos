@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: November 5, 2021 at 05:30:21 EDT_
+_Last Update: November 5, 2021 at 06:00:23 EDT_
 ## Video added
-### Summary
-2141710 Total Dramarama: 2  
-### 2266586
-**Total Dramarama S03E21 - Erase Yer Head**  
-TV-Y7 🔒 10:42  
-⌛ December 31, 2021 at 05:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2141710&titleid=2266586&mediaid=66c9421c176a0d02e296963a28791594ed52c950) or on the web: https://www.cartoonnetwork.com/video/total-dramarama/erase-yer-head-episode.html  
-seriesid=`2141710` titleid=`2266586` mediaid=`66c9421c176a0d02e296963a28791594ed52c950`  
-_Gwen orders a personality modifying ray to tone her perky parents but decides to test it on the class first._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2266586_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266586_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266586_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266586_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266586_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266586_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266586_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266586_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266586_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266586_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266586_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266586_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266586_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266586_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266586_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266586_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266586_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266586_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266586_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266586_010_640x360.jpg" height="144px" /></a>
-### 2266587
-**Total Dramarama S03E22 - Teacher, Soldier, Chef, Spy**  
-TV-Y7 🔒 10:41  
-⌛ December 31, 2021 at 05:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2141710&titleid=2266587&mediaid=2b9cd388639fe122d2c49937267e16ac31c99384) or on the web: https://www.cartoonnetwork.com/video/total-dramarama/teacher-soldier-chef-spy-episode.html  
-seriesid=`2141710` titleid=`2266587` mediaid=`2b9cd388639fe122d2c49937267e16ac31c99384`  
-_When Beth, Duncan and Izzy break Chef's new VR helmet they have to recreate his game world to keep him from ever finding out the truth._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2266587_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266587_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266587_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266587_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266587_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266587_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266587_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266587_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266587_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266587_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266587_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266587_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266587_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266587_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266587_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266587_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266587_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266587_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266587_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266587_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
