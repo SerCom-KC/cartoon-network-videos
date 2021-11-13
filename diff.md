@@ -3,8 +3,17 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: November 13, 2021 at 10:00:20 EST_
+_Last Update: November 13, 2021 at 12:30:20 EST_
 ## Video added
-No videos were added.  
+### Summary
+2000349 Teen Titans Go!: 1 (1 new)  
+### 2259623
+**Teen Titans Go! S07E27 - Captain Cool**  
+🆕 TV-PG 🔒 10:52  
+⌛ January 1, 2022 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2000349&titleid=2259623&mediaid=f14d5848b36973c06a85efede8a6a7277b44ba42) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/captain-cool-episode.html  
+seriesid=`2000349` titleid=`2259623` mediaid=`f14d5848b36973c06a85efede8a6a7277b44ba42`  
+_The Titans' antics with their imaginary friend Captain Cool annoy Robin until make-believe starts becoming real._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2259623_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259623_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259623_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259623_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259623_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259623_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259623_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259623_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259623_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259623_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259623_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259623_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259623_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259623_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259623_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259623_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259623_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259623_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2259623_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2259623_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
