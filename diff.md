@@ -3,8 +3,17 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: November 19, 2021 at 08:00:23 EST_
+_Last Update: November 19, 2021 at 23:30:21 EST_
 ## Video added
-No videos were added.  
+### Summary
+2000349 Teen Titans Go!: 1 (1 new)  
+### 2266576
+**Teen Titans Go! S07E28 - A Doom Patrol Thanksgiving**  
+🆕 TV-PG 🔒 22:18  
+⌛ January 1, 2022 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2000349&titleid=2266576&mediaid=0bb0355554203bf9956eddff17518d21bd88c56f) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/a-doom-patrol-thanksgiving-episode.html  
+seriesid=`2000349` titleid=`2266576` mediaid=`0bb0355554203bf9956eddff17518d21bd88c56f`  
+_Beast Boy returns home for Thanksgiving and the Doom Patrol enter a float in the town's parade. / The Doom Patrol finds old home movies about themselves that The Chief had hidden._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2266576_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266576_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266576_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266576_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266576_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266576_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266576_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266576_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266576_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266576_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266576_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266576_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266576_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266576_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266576_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266576_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266576_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266576_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266576_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266576_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
