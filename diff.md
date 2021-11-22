@@ -3,25 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: November 22, 2021 at 00:00:21 EST_
+_Last Update: November 22, 2021 at 00:30:19 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 2223270 Looney Tunes Cartoons: 2  
 ### 2224204
 **Looney Tunes Cartoons S01E15 - The Case of Porky's Pants/Fully Vetted**  
-TV-PG 🔓 12:38  
-⌛ November 22, 2021 at 00:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2224204&mediaid=3c2d5d5d7dbbe5b94a738576033b18fadda062f3) or on the web: https://www.cartoonnetwork.com/video/looney-tunes-cartoons/the-case-of-porkys-pantsfully-vetted-episode.html  
+TV-PG 🔒 12:38  
+⌛ December 16, 2021 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2223270&titleid=2224204&mediaid=3c2d5d5d7dbbe5b94a738576033b18fadda062f3) or on the web: https://www.cartoonnetwork.com/video/looney-tunes-cartoons/the-case-of-porkys-pantsfully-vetted-episode.html  
 seriesid=`2223270` titleid=`2224204` mediaid=`3c2d5d5d7dbbe5b94a738576033b18fadda062f3`  
 _Detective Daffy takes on the case of Porky's missing pants. Tweety's trip to the veterinarian's office gives Sylvester the perfect opportunity for a lunchtime treat._  
 <a href="https://s3.amazonaws.com/cartoonorchestrator/2224204_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224204_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224204_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224204_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224204_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224204_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224204_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224204_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224204_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224204_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224204_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224204_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224204_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224204_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224204_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224204_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224204_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224204_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224204_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224204_010_640x360.jpg" height="144px" /></a>
 ### 2224205
 **Looney Tunes Cartoons S01E16 - ERabbitcator/Marvin Flag Gag: Planet Split in 2/The Sales Duck**  
-TV-PG 🔓 11:04  
-⌛ November 22, 2021 at 00:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2224205&mediaid=95e3be6b5984b1198faf3e659f8459c3c028968c) or on the web: https://www.cartoonnetwork.com/video/looney-tunes-cartoons/erabbitcatormarvin-flag-gag-planet-split-in-2the-sales-duck-episode.html  
+TV-PG 🔒 11:04  
+⌛ December 16, 2021 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2223270&titleid=2224205&mediaid=95e3be6b5984b1198faf3e659f8459c3c028968c) or on the web: https://www.cartoonnetwork.com/video/looney-tunes-cartoons/erabbitcatormarvin-flag-gag-planet-split-in-2the-sales-duck-episode.html  
 seriesid=`2223270` titleid=`2224205` mediaid=`95e3be6b5984b1198faf3e659f8459c3c028968c`  
 _Bugs must outsmart a new technological foe. Elmer is ready for bed, but persistent salesman Daffy stands in the way of a good night's rest._  
 <a href="https://s3.amazonaws.com/cartoonorchestrator/2224205_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224205_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224205_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224205_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224205_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224205_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224205_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224205_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224205_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224205_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224205_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224205_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224205_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224205_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224205_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224205_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224205_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224205_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224205_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224205_010_640x360.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
