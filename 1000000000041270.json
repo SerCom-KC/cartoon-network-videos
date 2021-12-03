@@ -755,7 +755,7 @@
         "pubdate": "2021-12-03T10:00:00.000Z",
         "expdate": "2021-12-31T10:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2157000_001_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "holiday 2020",
         "titleid": "2157000",
