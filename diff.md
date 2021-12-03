@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: December 2, 2021 at 15:30:21 EST_
+_Last Update: December 3, 2021 at 00:00:24 EST_
 ## Video added
-No videos were added.  
+### Summary
+2309749 Bing: 2 (2 new)  
+### 2309784
+**Bing S02E?? - Talkie Taxi**  
+🆕 TV-Y 🔒 07:34  
+⌛ December 31, 2022 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2309784&mediaid=482d5c6beafaf0fe250053d14c8178017728e49e) or on the web: https://www.cartoonnetwork.com/video/bing/talkie-taxi-episode.html  
+seriesid=`2309749` titleid=`2309784` mediaid=`482d5c6beafaf0fe250053d14c8178017728e49e`  
+_Bing and Sula discover a new toy at Amma's creche - Talkie Taxi. What will they do when they discover the taxi talks a lot?_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2309784_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309784_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309784_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309784_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309784_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309784_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309784_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309784_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309784_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309784_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309784_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309784_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309784_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309784_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309784_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309784_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309784_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309784_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309784_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309784_010_640x360.jpg" height="144px" /></a>
+### 2309783
+**Bing S02E?? - Boo**  
+🆕 TV-Y 🔒 07:34  
+⌛ December 31, 2022 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2309783&mediaid=a89921c5c29c2ae9ee4e4932020d22db7a3de945) or on the web: https://www.cartoonnetwork.com/video/bing/boo-episode.html  
+seriesid=`2309749` titleid=`2309783` mediaid=`a89921c5c29c2ae9ee4e4932020d22db7a3de945`  
+_Coco shows Bing how to do really big boos, but what will happen when Bing wants to practice on Charlie?_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2309783_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309783_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309783_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309783_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309783_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309783_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309783_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309783_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309783_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309783_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309783_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309783_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309783_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309783_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309783_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309783_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309783_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309783_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2309783_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2309783_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
