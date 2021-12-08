@@ -260,7 +260,7 @@
     {
         "airingid": "RADS1011272100047205",
         "seasonnumber": "3",
-        "groupid": 2,
+        "groupid": 1,
         "groupcontentid": "40968",
         "groupname": "HAPPY HOLIDAYS!",
         "seasonitemnumber": "38",
@@ -349,7 +349,7 @@
     {
         "airingid": "RADS1011272100047204",
         "seasonnumber": "2",
-        "groupid": 2,
+        "groupid": 1,
         "groupcontentid": "40968",
         "groupname": "HAPPY HOLIDAYS!",
         "seasonitemnumber": "23",
@@ -911,7 +911,7 @@
     {
         "airingid": "RADS1011272100047128",
         "seasonnumber": "4",
-        "groupid": 2,
+        "groupid": 1,
         "groupcontentid": "40968",
         "groupname": "HAPPY HOLIDAYS!",
         "seasonitemnumber": "15",
