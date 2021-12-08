@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: December 7, 2021 at 21:00:23 EST_
+_Last Update: December 7, 2021 at 22:30:23 EST_
 ## Video added
-No videos were added.  
+### Summary
+2133648 Apple & Onion: 2 (2 new)  
+### 2260146
+**Apple & Onion S02E35 - World Cup**  
+🆕 TV-Y7 🔒 11:11  
+⌛ January 1, 2022 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2133648&titleid=2260146&mediaid=a05daf79ac74bc517e3166f77d36158527d11ef0) or on the web: https://www.cartoonnetwork.com/video/apple-and-onion/world-cup-episode.html  
+seriesid=`2133648` titleid=`2260146` mediaid=`a05daf79ac74bc517e3166f77d36158527d11ef0`  
+_It's time to relax in the expensive massage chairs that Apple & Onion have rented for the month. It's also time for the Football (soccer) World Cup and Falafel's team, Egypt are in the tournament.._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2260146_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260146_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260146_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260146_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260146_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260146_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260146_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260146_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260146_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260146_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260146_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260146_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260146_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260146_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260146_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260146_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260146_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260146_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260146_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260146_010_640x360.jpg" height="144px" /></a>
+### 2260154
+**Apple & Onion S02E36 - Win It or Bin It**  
+🆕 TV-Y7 🔒 11:12  
+⌛ January 1, 2022 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2133648&titleid=2260154&mediaid=645aca0332baa0da373c74d84af4653c8f493825) or on the web: https://www.cartoonnetwork.com/video/apple-and-onion/win-it-or-bin-it-episode.html  
+seriesid=`2133648` titleid=`2260154` mediaid=`645aca0332baa0da373c74d84af4653c8f493825`  
+_Apple and Onion are about to take ownership of a brand new luxury penthouse apartment and be rid of their roof shack for ever! All they need is a good reference from a previous landlord… Falafel._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2260154_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260154_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260154_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260154_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260154_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260154_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260154_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260154_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260154_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260154_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260154_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260154_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260154_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260154_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260154_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260154_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260154_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260154_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260154_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260154_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
