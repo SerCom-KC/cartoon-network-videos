@@ -88,7 +88,10 @@
 .franchise-467352, .series-2238413, /* Assassination Classroom */
 .franchise-469352, .series-2236251, /* SSSS.Gridman */
 .franchise-472592, .series-2268280, /* Yashahime: Princess Half-Demon */
-.franchise-473592, .series-2218281 { /* Fena: Pirate Princess */
+.franchise-473592, .series-2218281, /* Fena: Pirate Princess */
+.franchise-475752, .series-2191456, /* Blade Runner: Black Lotus */
+.franchise-476592, /* The Animatrix */
+.franchise-471412, .series-2215150 { /* Rick and Morty: Extras */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #110539;
     color: #a387f4;
@@ -105,6 +108,20 @@
 .franchise-304555, .series-322328 { /* Space Ghost Coast to Coast */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #fedb74;
+    color: black;
+    border-color: black;
+}
+
+.franchise-308620, .series-327280 { /* Ed, Edd n Eddy */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #513e76;
+    color: #efd633;
+    border-color: #efd633;
+}
+
+.franchise-310692, .series-330149 { /* Courage the Cowardly Dog */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #deb2cb;
     color: black;
     border-color: black;
 }
@@ -153,6 +170,13 @@
     background-color: #c9090c;
     color: #ece612;
     border-color: #ece612;
+}
+
+.franchise-324754, .series-339245 { /* Codename: Kids Next Door */
+    font-family: "Avenir Std", sans-serif;
+    background-color: black;
+    color: #e5c213;
+    border-color: #e5c213;
 }
 
 .franchise-325518, .series-439722 { /* The Venture Bros. */
@@ -213,6 +237,13 @@
     border-color: white;
 }
 
+.franchise-338119, .series-629690 { /* Ben 10 */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #11181f;
+    color: #82c83c;
+    border-color: #82c83c;
+}
+
 .franchise-341865, .series-648666 { /* Metalocalypse */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: black;
@@ -247,6 +278,13 @@
     background-image: linear-gradient(#5073ba, #e17c3b);
     color: white;
     border-color: white;
+}
+
+.franchise-359714, .series-629835 { /* King of the Hill */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #b70d1d;
+    color: #f5e503;
+    border-color: #f5e503;
 }
 
 .franchise-366212, .series-2170837 { /* Bakugan: Battle Planet */
@@ -785,6 +823,13 @@
     border-color: #f1d0a8;
 }
 
+.franchise-473932, .series-2292228 { /* Teenage Euthanasia */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #ffa4f8;
+    color: #8418f9;
+    border-color: #8418f9;
+}
+
 .franchise-474132, .series-2274096 { /* Thomas & Friends: All Engines Go */
     font-family: linotteregular, sans-serif;
     background-color: #72ddf6;
@@ -818,4 +863,11 @@
     background-color: #e94a20;
     color: #fbd891;
     border-color: #fbd891;
+}
+
+.franchise-475333, .series-2319369 { /* Harry Potter: Hogwarts Tournament of Houses */
+    font-family: "Avenir Std", sans-serif; /* FIXME */
+    background-color: #30503e;
+    color: #ffe698;
+    border-color: #ffe698;
 }
