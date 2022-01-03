@@ -70,6 +70,7 @@
 /* Movies (Cartoon Network) end */
 
 /* Toonami */
+.franchise-319442, .series-344090, /* Cowboy Bebop */
 .franchise-333045, .series-612379, /* Paranoia Agent */
 .franchise-406152, .series-2020945, /* Attack on Titan */
 .franchise-429752, .series-2091991, /* One-Punch Man */
@@ -177,6 +178,13 @@
     background-color: black;
     color: #e5c213;
     border-color: #e5c213;
+}
+
+.franchise-324815, .series-437532 { /* Futurama */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #8ddac6;
+    color: #e33f46;
+    border-color: #e33f46;
 }
 
 .franchise-325518, .series-439722 { /* The Venture Bros. */
@@ -870,4 +878,11 @@
     background-color: #30503e;
     color: #ffe698;
     border-color: #ffe698;
+}
+
+.franchise-475952, .series-2239398 { /* We Baby Bears */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #da5c45;
+    color: #eeeddd;
+    border-color: #eeeddd;
 }
