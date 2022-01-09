@@ -65,6 +65,7 @@
         }
         
         .extra-info {
+            text-align: center;
             font-size: medium;
         }
 
@@ -109,8 +110,22 @@
             color: white;
             font-size: small;
         }
+
+        @media screen and (max-width: 600px) {
+            .show {
+                display: flex;
+                align-items: center;
+                text-align: left;
+            }
+            .summary {
+                font-size: medium;
+            }
+            .extra-info {
+                flex-shrink: 0;
+            }
+        }
     </style>
-    <link id="colorcodes" rel="stylesheet" href="">
+    <link id="colorcodes" rel="stylesheet" href="./colorcodes.css">
 </head>
 
 <body>
@@ -149,6 +164,7 @@
         var timer = setInterval(null, 1000);
         var update_lock = false;
         var colorcodes_etag = "";
+        var shows;
 
         function applyDisplaySettings() {
             /*switch (document.getElementById("asfilter").value) {
@@ -176,7 +192,7 @@
                     break;
             }*/
 
-            [].forEach.call(document.querySelectorAll(".show"), (showDiv) => {
+            document.querySelectorAll(".show").forEach((showDiv) => {
                 var showTimestamp;
                 var showDuration;
                 if (document.getElementById("use-guide-timestamp").checked) {
@@ -195,7 +211,21 @@
                 showDiv.querySelector(".show-timestamp").innerText = showTimestamp.toLocaleString("en-US", time_display_config).toLowerCase().replace(" ", "").replace("m", "");
                 var minute = parseInt(showDuration / 60);
                 var second = parseInt(showDuration - minute * 60);
-                showDiv.querySelector(".show-duration").innerText = padZero(minute) + ':' + padZero(second);
+                var showDurationSpan = showDiv.querySelector(".show-duration");
+                if (showDurationSpan) showDurationSpan.innerText = padZero(minute) + ':' + padZero(second);
+
+                if (window.innerWidth <= 600) {
+                    var showDetailDiv = showDiv.querySelector(".show-detail");
+                    var summaryDiv = showDiv.querySelector(".summary");
+                    showDetailDiv.onclick = function () {
+                        showDetailDiv.style.display = "none";
+                        summaryDiv.style.display = "block";
+                    }
+                    summaryDiv.onclick = function ()  {
+                        showDetailDiv.style.display = "block";
+                        summaryDiv.style.display = "none";
+                    }
+                }
             });
         }
 
@@ -252,30 +282,94 @@
             loadData();
         }
 
-        function parseSchedule (shows) {
-            [].forEach.call(document.querySelectorAll(".current"), function (show) {
+        function specializedStyling (show, text) {
+            var franchise_id = parseInt(show.franchise_id);
+            var series_id = parseInt(show.series_id);
+
+            if (franchise_id === 464354 || series_id === 2224721) {
+                var result = "";
+                /*
+                var colors = ["#fbff73", "#efa4ee", "#ee5766", "#85fd8c", "#ace6fa"];
+                var i = 0;
+                for (var j = 0; j < text.length; j++) {
+                    var letter = text.charAt(j);
+                    if (letter != ' ') {
+                        result += `<span style="color: ${colors[i++]};">${letter}</span>`;
+                        if (i >= colors.length) i = 0;
+                    } else {
+                        result += ' ';
+                    }
+                }
+                return result;
+                */
+                var colors = ["#fbff73", "#efa4ee"];
+                var i = 0;
+                text.split(" ").forEach(word => {
+                    result += `<span style="color: ${colors[i++]};">${word}</span> `;
+                    if (i >= colors.length) i = 0;
+                });
+                return result.trim();
+            }
+
+            return text;
+        }
+
+        function formatShow (show, showDiv) {
+            var seriesNameHTML;
+            if (window.innerWidth <= 600) {
+                seriesNameHTML = `<div class="extra-info"><span class="show-timestamp">--:--</span><br><span class="tv-rating">${show.tv_rating}</span> · <span class="show-duration">--:--</span></div><div class="show-detail"><span class="series-name">`;
+                if (show.series_name != "") seriesNameHTML += specializedStyling(show, show.series_name);
+                else seriesNameHTML += specializedStyling(show, show.title);
+                if ("episode_number" in show) seriesNameHTML += `</span> <span class="episode-number">${show.episode_number}</span>`;
+                seriesNameHTML += '</p>';
+                if (show.series_name != "") seriesNameHTML += `<p class="title">${specializedStyling(show, show.title)}</p>`;
+                seriesNameHTML += `</div><div class="summary" style="display: none;">${specializedStyling(show, show.summary)}</div>`;
+                showDiv.innerHTML = seriesNameHTML;
+            } else {
+                seriesNameHTML = '<p class="series-name"><span class="show-timestamp">--:--</span> <span>';
+                if (show.series_name != "") seriesNameHTML += specializedStyling(show, show.series_name);
+                else seriesNameHTML += specializedStyling(show, show.title);
+                if ("episode_number" in show) seriesNameHTML += `</span> <span class="episode-number">${show.episode_number}</span>`;
+                seriesNameHTML += '</p>';
+                showDiv.innerHTML = seriesNameHTML;
+                if (show.series_name != "") showDiv.innerHTML += `<p class="title">${specializedStyling(show, show.title)}</p>`;
+                showDiv.innerHTML += `<p class="extra-info"><span>${show.tv_rating}</span> · <span class="show-duration">--:--</span></p>`;
+                if (show.summary) showDiv.innerHTML += `<p class="summary">${specializedStyling(show, show.summary)}</p>`;
+            }
+        }
+        window.addEventListener("resize", () => {
+            shows.forEach((show) => {
+                var showDiv = document.getElementById(`show-${show.show_id}`);
+                formatShow(show, showDiv);
+            })
+            applyDisplaySettings();
+        });
+
+        function parseSchedule () {
+            document.querySelectorAll(".current").forEach(function (show) {
                 show.classList.remove("current");
             });
-            [].forEach.call(document.querySelectorAll(".show"), function (show) {
+            document.querySelectorAll(".show").forEach(function (show) {
                 show.classList.add("inactive");
             });
             shows.sort(function(prev, next) {return prev.show_timestamp - next.show_timestamp;});
             for (var i = 0; i < shows.length; i++) {
-                var showDiv = document.getElementById("show-" + shows[i].show_id)
+                var show = shows[i];
+                var showDiv = document.getElementById("show-" + show.show_id)
                 if (showDiv === null) {
                     showDiv = document.createElement("div");
-                    showDiv.id = "show-" + shows[i].show_id
+                    showDiv.id = "show-" + show.show_id
                     document.getElementsByTagName("main")[0].appendChild(showDiv);
                 }
-                if (shows[i].status === "current") showDiv.classList.add("current");
+                if (show.status === "current") showDiv.classList.add("current");
                 else showDiv.classList.remove("current");
-                if (shows[i].status === "inactive") showDiv.classList.add("inactive");
+                if (show.status === "inactive") showDiv.classList.add("inactive");
                 else showDiv.classList.remove("inactive");
                 showDiv.classList.add("show");
-                showDiv.classList.add("franchise-" + shows[i].franchise_id);
-                if ("series_id" in shows[i]) showDiv.classList.add("series-" + shows[i].series_id);
-                if ("title_id" in shows[i]) showDiv.classList.add("title-" + shows[i].title_id);
-                switch (shows[i].subnetwork) {
+                showDiv.classList.add("franchise-" + show.franchise_id);
+                if ("series_id" in show) showDiv.classList.add("series-" + show.series_id);
+                if ("title_id" in show) showDiv.classList.add("title-" + show.title_id);
+                switch (show.subnetwork) {
                     case "CTN":
                     case "CTNW": 
                         showDiv.classList.add("ctn-show");
@@ -287,21 +381,15 @@
                     default:
                         break;
                 }
-                showDiv.dataset["guidets"] = shows[i].guide_timestamp;
-                showDiv.dataset["guidedur"] = shows[i].scheduled_duration;
-                showDiv.dataset["showts"] = shows[i].show_timestamp;
-                showDiv.dataset["showdur"] = shows[i].show_duration;
-                var seriesNameHTML = '<p class="series-name"><span class="show-timestamp">--:--</span> ';
-                if (shows[i].series_name != "") {seriesNameHTML += shows[i].series_name;}
-                else {seriesNameHTML += shows[i].title;}
-                if ("episode_number" in shows[i]) seriesNameHTML += ' <span class="episode-number">' + shows[i].episode_number + '</span>';
-                seriesNameHTML += '</p>';
-                showDiv.innerHTML = seriesNameHTML;
-                if (shows[i].series_name != "") showDiv.innerHTML += '<p class="title">' + shows[i].title + '</p>';
-                showDiv.innerHTML += '<p class="extra-info">' + shows[i].tv_rating + ' · <span class="show-duration">--:--</span></p>';
-                if (shows[i].summary) showDiv.innerHTML += '<p class="summary">' + shows[i].summary + '</p>';
+                showDiv.dataset["guidets"] = show.guide_timestamp;
+                showDiv.dataset["guidedur"] = show.scheduled_duration;
+                showDiv.dataset["showts"] = show.show_timestamp;
+                showDiv.dataset["showdur"] = show.show_duration;
+
+                formatShow(show, showDiv);
+
                 if (i < shows.length - 1) {
-                    var showTimestamp = new Date(parseInt(shows[i].guide_timestamp)*1000);
+                    var showTimestamp = new Date(parseInt(show.guide_timestamp)*1000);
                     var nextShowTimestamp = new Date(parseInt(shows[i+1].guide_timestamp)*1000);
                     if (showTimestamp.toLocaleString("en-US", date_display_config) != nextShowTimestamp.toLocaleString("en-US", date_display_config)) {
                         var nextShowTimestampString = nextShowTimestamp.toLocaleString("en-US", date_display_config);
@@ -356,7 +444,8 @@
                 if (this.readyState === XMLHttpRequest.DONE) {
                     if (this.status === 200) {
                         var allShows = JSON.parse(this.responseText);
-                        parseSchedule(allShows.shows);
+                        shows = allShows.shows;
+                        parseSchedule();
                     } else {
                         document.getElementById("countdown").innerText = "Connection failed, please try refreshing the page.";
                     }
