@@ -218,8 +218,10 @@
                     var showDetailDiv = showDiv.querySelector(".show-detail");
                     var summaryDiv = showDiv.querySelector(".summary");
                     showDetailDiv.onclick = function () {
-                        showDetailDiv.style.display = "none";
-                        summaryDiv.style.display = "block";
+                        if (summaryDiv.innerText.trim()) {
+                            showDetailDiv.style.display = "none";
+                            summaryDiv.style.display = "block";
+                        }
                     }
                     summaryDiv.onclick = function ()  {
                         showDetailDiv.style.display = "block";
