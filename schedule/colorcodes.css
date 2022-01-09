@@ -1,4 +1,6 @@
-﻿/* Cartonnito fonts start */
+﻿@import url('./avenir.css'); /* Cartoon Network fonts */
+
+/* Cartonnito fonts start */
 @font-face {
     font-family: linotteregular;
     font-style: normal;
@@ -6,10 +8,6 @@
     src: url(https://d2lv662meabn0u.cloudfront.net/cartoonito/static/base/site/fonts/critical/linotte/linotte-regular-webfont.woff2) format("woff2"),url(https://d2lv662meabn0u.cloudfront.net/cartoonito/static/base/site/fonts/critical/linotte/linotte-regular-webfont.woff) format("woff")
 }
 /* Cartonnito fonts end */
-
-/* Cartoon Network fonts start */
-@import url('./avenir.css');
-/* Cartoon Network fonts end */
 
 /* Adult Swim fonts start */
 @font-face {
@@ -759,6 +757,14 @@
     background-color: #7c1507;
     color: #fff835;
     border-color: #fff835;
+}
+
+.franchise-464354, .series-2224721 { /* Smiling Friends */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #1c1c26;
+    color: white; /* Fallback color from https://media.cdn.adultswim.com/uploads/20200403/20431240142-SmilingFriends_Hero_000000.png. Actual colors used by @CNschedules has to be done on JavaScript side :P */
+    border-image-source: linear-gradient(to right, #fbff73, #efa4ee, #ee5766, #85fd8c, #ace6fa);
+    border-image-slice: 1;
 }
 
 .franchise-470032, .series-2199328 { /* Elliott from Earth */
