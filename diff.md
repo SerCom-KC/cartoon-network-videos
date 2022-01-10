@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: January 10, 2022 at 11:00:23 EST_
+_Last Update: January 10, 2022 at 11:30:20 EST_
 ## Video added
 No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2266481 Caillou: 2 (2 new)  
+### 2266518
+**Caillou S03E?? - Caillou Goes Back to School**  
+🆕 TV-Y 🔓 03:57  
+⌛ January 16, 2024 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2266518&mediaid=141ebbbf772f885421ad2d9e7e64e2198e65c388) or on the web: https://www.cartoonnetwork.com/video/caillou/caillou-goes-back-to-school-episode.html  
+seriesid=`2266481` titleid=`2266518` mediaid=`141ebbbf772f885421ad2d9e7e64e2198e65c388`  
+_Caillou gets ready for his first day back at school and Mommy packs him a lunchbox surprise!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2266518_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266518_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266518_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266518_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266518_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266518_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266518_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266518_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266518_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266518_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266518_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266518_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266518_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266518_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266518_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266518_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266518_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266518_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266518_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266518_010_640x360.jpg" height="144px" /></a>
+### 2266540
+**Caillou's New Adventures S03E?? - Caillou the Soccer Player**  
+🆕 TV-Y 🔓 03:43  
+⌛ January 16, 2024 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2266540&mediaid=7e03c4212a5518360ed2b16d0892dc5ad4a1511d) or on the web: https://www.cartoonnetwork.com/video/caillous-new-adventures/caillou-the-soccer-player-episode.html  
+seriesid=`2266481` titleid=`2266540` mediaid=`7e03c4212a5518360ed2b16d0892dc5ad4a1511d`  
+_Caillou joins the soccer team and learns how to be a supportive teammate._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2266540_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266540_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266540_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266540_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266540_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266540_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266540_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266540_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266540_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266540_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266540_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266540_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266540_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266540_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266540_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266540_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266540_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266540_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266540_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266540_010_640x360.jpg" height="144px" /></a>
