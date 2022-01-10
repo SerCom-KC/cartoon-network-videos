@@ -117,8 +117,14 @@
                 align-items: center;
                 text-align: left;
             }
+            .show-detail.hide {
+                display: none;
+            }
             .summary {
                 font-size: medium;
+            }
+            .summary.hide {
+                display: none;
             }
             .extra-info {
                 flex-shrink: 0;
@@ -215,17 +221,12 @@
                 if (showDurationSpan) showDurationSpan.innerText = padZero(minute) + ':' + padZero(second);
 
                 if (window.innerWidth <= 600) {
-                    var showDetailDiv = showDiv.querySelector(".show-detail");
-                    var summaryDiv = showDiv.querySelector(".summary");
-                    showDetailDiv.onclick = function () {
-                        if (summaryDiv.innerText.trim()) {
-                            showDetailDiv.style.display = "none";
-                            summaryDiv.style.display = "block";
-                        }
-                    }
-                    summaryDiv.onclick = function ()  {
-                        showDetailDiv.style.display = "block";
-                        summaryDiv.style.display = "none";
+                    showDiv.onclick = function() {
+                        var showDetailDiv = showDiv.querySelector(".show-detail");
+                        var summaryDiv = showDiv.querySelector(".summary");
+                        var showSummary = !summaryDiv.classList.contains("hide");
+                        showDetailDiv.classList.toggle("hide", !showSummary);
+                        summaryDiv.classList.toggle("hide", showSummary);
                     }
                 }
             });
@@ -325,7 +326,7 @@
                 if ("episode_number" in show) seriesNameHTML += `</span> <span class="episode-number">${show.episode_number}</span>`;
                 seriesNameHTML += '</p>';
                 if (show.series_name != "") seriesNameHTML += `<p class="title">${specializedStyling(show, show.title)}</p>`;
-                seriesNameHTML += `</div><div class="summary" style="display: none;">${specializedStyling(show, show.summary)}</div>`;
+                seriesNameHTML += `</div><div class="summary hide">${specializedStyling(show, show.summary)}</div>`;
                 showDiv.innerHTML = seriesNameHTML;
             } else {
                 seriesNameHTML = '<p class="series-name"><span class="show-timestamp">--:--</span> <span>';
