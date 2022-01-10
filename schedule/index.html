@@ -65,7 +65,6 @@
         }
         
         .extra-info {
-            text-align: center;
             font-size: medium;
         }
 
@@ -126,8 +125,24 @@
             .summary.hide {
                 display: none;
             }
-            .extra-info {
+            .show-meta {
                 flex-shrink: 0;
+                text-align: center;
+            }
+            .extra-info {
+                font-size: xx-small;
+            }
+            .series-name {
+                font-size: larger;
+            }
+            .title {
+                font-size: large;
+            }
+            .episode-number {
+                font-size: small;
+            }
+            div {
+                padding: 5px;
             }
         }
     </style>
@@ -225,8 +240,17 @@
                         var showDetailDiv = showDiv.querySelector(".show-detail");
                         var summaryDiv = showDiv.querySelector(".summary");
                         var showSummary = !summaryDiv.classList.contains("hide");
-                        showDetailDiv.classList.toggle("hide", !showSummary);
-                        summaryDiv.classList.toggle("hide", showSummary);
+                        document.querySelectorAll(".show-detail").forEach((showDetailDiv) => {
+                            showDetailDiv.classList.toggle("hide", false);
+                        });
+                        document.querySelectorAll(".summary").forEach((showDetailDiv) => {
+                            showDetailDiv.classList.toggle("hide", true);
+                        });
+
+                        if (!showSummary) {
+                            showDetailDiv.classList.toggle("hide", !showSummary);
+                            summaryDiv.classList.toggle("hide", showSummary);
+                        }
                     }
                 }
             });
@@ -320,7 +344,7 @@
         function formatShow (show, showDiv) {
             var seriesNameHTML;
             if (window.innerWidth <= 600) {
-                seriesNameHTML = `<div class="extra-info"><span class="show-timestamp">--:--</span><br><span class="tv-rating">${show.tv_rating}</span> · <span class="show-duration">--:--</span></div><div class="show-detail"><span class="series-name">`;
+                seriesNameHTML = `<div class="show-meta"><span class="show-timestamp">--:--</span><br><span class="extra-info"><span class="tv-rating">${show.tv_rating}</span> · <span class="show-duration">--:--</span></div></div><div class="show-detail"><span class="series-name">`;
                 if (show.series_name != "") seriesNameHTML += specializedStyling(show, show.series_name);
                 else seriesNameHTML += specializedStyling(show, show.title);
                 if ("episode_number" in show) seriesNameHTML += `</span> <span class="episode-number">${show.episode_number}</span>`;
