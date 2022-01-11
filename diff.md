@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: January 10, 2022 at 19:30:19 EST_
+_Last Update: January 11, 2022 at 03:30:21 EST_
 ## Video added
-No videos were added.  
+### Summary
+2239398 We Baby Bears: 2 (2 new)  
+### 2260335
+**We Baby Bears S02E03 - Fiesta Day**  
+🆕 TV-Y7 🔒 11:20  
+⌛ December 31, 2022 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2239398&titleid=2260335&mediaid=20e0daf88b47500a033168e3b8b3cb37ec625788) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/fiesta-day-episode.html  
+seriesid=`2239398` titleid=`2260335` mediaid=`20e0daf88b47500a033168e3b8b3cb37ec625788`  
+_The Bears party it up with a living piñatas for Fiesta Day. Wanting the festivities to never end, Grizz wishes for it to be Fiesta Day everyday._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2260335_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260335_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260335_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260335_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260335_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260335_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260335_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260335_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260335_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260335_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260335_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260335_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260335_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260335_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260335_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260335_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260335_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260335_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260335_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260335_010_640x360.jpg" height="144px" /></a>
+### 2260341
+**We Baby Bears S02E04 - Baba Yaga House**  
+🆕 TV-Y7 🔒 11:19  
+⌛ December 31, 2022 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2239398&titleid=2260341&mediaid=955542109e65833f85ff93220252aaee20ba0138) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/baba-yaga-house-episode.html  
+seriesid=`2239398` titleid=`2260341` mediaid=`955542109e65833f85ff93220252aaee20ba0138`  
+_Squatter Otter tries to win Panda's trust and convince the Bears to live in a mysterious house._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2260341_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260341_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260341_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260341_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260341_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260341_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260341_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260341_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260341_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260341_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260341_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260341_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260341_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260341_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260341_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260341_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260341_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260341_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260341_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260341_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
