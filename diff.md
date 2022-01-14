@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: January 14, 2022 at 13:30:20 EST_
+_Last Update: January 14, 2022 at 14:00:21 EST_
 ## Video added
-No videos were added.  
+### Summary
+2200958 Ninjago en Espanol: 2 (2 new)  
+### 2200963
+**Ninjago en Espanol S01E05 - Trampas y Como Sobrevivir a Ellas**  
+🆕 TV-Y7-FV 🔒 11:01  
+⌛ January 21, 2022 at 04:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=100000000001179492&titleid=2200963&mediaid=4da27235c83852581b263ee5b24a439b3cec863e) or on the web: https://www.cartoonnetwork.com/video/espanol/trampas-y-como-sobrevivir-a-ellas-episode.html  
+seriesid=`2200958` titleid=`2200963` mediaid=`4da27235c83852581b263ee5b24a439b3cec863e`  
+_El ninja se une a un clutch Powers renuente para entrar en una misteriosa pirámide donde desatan sin darse cuenta un antiguo mal._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2200963_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200963_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200963_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200963_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200963_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200963_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200963_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200963_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200963_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200963_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200963_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200963_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200963_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200963_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200963_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200963_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200963_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200963_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200963_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200963_010_640x360.jpg" height="144px" /></a>
+### 2200966
+**Ninjago en Espanol S01E08 - Serpientastrofe**  
+🆕 TV-Y7-FV 🔒 11:01  
+⌛ January 21, 2022 at 04:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=100000000001179492&titleid=2200966&mediaid=87dcb61a5cf98e5b61792a536e399d48e0e0feb0) or on the web: https://www.cartoonnetwork.com/video/espanol/serpientastrofe-episode.html  
+seriesid=`2200958` titleid=`2200966` mediaid=`87dcb61a5cf98e5b61792a536e399d48e0e0feb0`  
+_El ataque de Serpentine en NINJAGO City se ve desde una perspectiva inesperada, completamente al estilo de un noticiero en vivo entregado por Gayle Gossip y su camarógrafo._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2200966_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200966_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200966_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200966_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200966_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200966_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200966_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200966_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200966_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200966_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200966_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200966_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200966_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200966_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200966_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200966_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200966_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200966_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2200966_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2200966_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
