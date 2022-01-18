@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: January 18, 2022 at 03:30:22 EST_
+_Last Update: January 18, 2022 at 06:30:22 EST_
 ## Video added
-### Summary
-2239398 We Baby Bears: 2 (2 new)  
-### 2260340
-**We Baby Bears S02E05 - Bears in the Dark**  
-🆕 TV-Y7 🔒 11:20  
-⌛ January 1, 2023 at 00:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2239398&titleid=2260340&mediaid=b48ce20d97bc1fdcfdf91dfa211cb81825040d14) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/bears-in-the-dark-episode.html  
-seriesid=`2239398` titleid=`2260340` mediaid=`b48ce20d97bc1fdcfdf91dfa211cb81825040d14`  
-_The Bears search for their missing box in a dark and scary cave._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260340_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260340_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260340_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260340_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260340_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260340_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260340_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260340_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260340_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260340_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260340_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260340_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260340_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260340_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260340_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260340_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260340_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260340_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260340_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260340_010_640x360.jpg" height="144px" /></a>
-### 2260337
-**We Baby Bears S02E06 - Big Trouble Little Babies**  
-🆕 TV-Y7 🔒 11:20  
-⌛ January 1, 2023 at 00:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2239398&titleid=2260337&mediaid=8351c66a34808368f37d0100845d9efcbe2209c1) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/big-trouble-little-babies-episode.html  
-seriesid=`2239398` titleid=`2260337` mediaid=`8351c66a34808368f37d0100845d9efcbe2209c1`  
-_When they realize they're too small for the rides at an amusement park, the Bears use a magic potion to get bigger._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260337_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260337_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260337_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260337_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260337_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260337_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260337_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260337_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260337_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260337_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260337_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260337_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260337_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260337_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260337_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260337_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260337_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260337_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260337_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260337_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
