@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: January 18, 2022 at 06:30:22 EST_
+_Last Update: January 18, 2022 at 08:30:21 EST_
 ## Video added
-No videos were added.  
+### Summary
+757073 Adventure Time: 2  
+### 2141829
+**Adventure Time S10 Short - Best Friends in the World Music Video**  
+TV-PG 🔓 02:25  
+⌛ December 31, 2022 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=757073&titleid=2141829&mediaid=f81b20994f9fd294a1ff8c352556d1479a5855f7) or on the web: https://www.cartoonnetwork.com/video/adventure-time/best-friends-in-the-world-music-video-episode.html  
+seriesid=`757073` titleid=`2141829` mediaid=`f81b20994f9fd294a1ff8c352556d1479a5855f7`  
+_Finn sings to his friends. Written by Rebecca Sugar and Tim Kiefer._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2141829_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141829_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141829_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141829_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141829_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141829_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141829_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141829_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141829_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141829_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141829_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141829_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141829_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141829_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141829_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141829_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141829_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141829_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141829_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141829_010_640x360.jpg" height="144px" /></a>
+### 2141828
+**Adventure Time S10 Short - Lay My Head Down Slow Music Video**  
+TV-PG 🔓 01:25  
+⌛ December 31, 2022 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=757073&titleid=2141828&mediaid=4d63662e662fc2d7a5b08d42ee32984f901d0a9d) or on the web: https://www.cartoonnetwork.com/video/adventure-time/lay-my-head-down-slow-music-video-episode.html  
+seriesid=`757073` titleid=`2141828` mediaid=`4d63662e662fc2d7a5b08d42ee32984f901d0a9d`  
+_Finn sings as a foot. Written by Casey James Basichis and Pendleton Ward. Performed by Jeremy Shada._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2141828_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141828_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141828_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141828_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141828_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141828_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141828_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141828_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141828_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141828_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141828_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141828_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141828_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141828_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141828_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141828_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141828_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141828_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2141828_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2141828_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
