@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: January 24, 2022 at 19:30:23 EST_
+_Last Update: January 25, 2022 at 03:30:23 EST_
 ## Video added
-No videos were added.  
+### Summary
+2239398 We Baby Bears: 2 (2 new)  
+### 2260342
+**We Baby Bears S02E07 - Triple T Tigers**  
+🆕 TV-Y7 🔒 11:20  
+⌛ January 1, 2023 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2239398&titleid=2260342&mediaid=0c85134a94ca4758b0dd047a8c4be58d0a62fe9c) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/triple-t-tigers-episode.html  
+seriesid=`2239398` titleid=`2260342` mediaid=`0c85134a94ca4758b0dd047a8c4be58d0a62fe9c`  
+_The Bears meet three cool tiger brothers. Grizz wants to be just like the oldest Tiger, TK, but he may not be the best role model._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2260342_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260342_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260342_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260342_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260342_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260342_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260342_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260342_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260342_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260342_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260342_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260342_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260342_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260342_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260342_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260342_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260342_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260342_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260342_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260342_010_640x360.jpg" height="144px" /></a>
+### 2260339
+**We Baby Bears S02E08 - Panda's Family**  
+🆕 TV-Y7 🔒 11:19  
+⌛ January 1, 2023 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2239398&titleid=2260339&mediaid=32e68a625c5070ca6401c54a75ea6af8e6d15ea6) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/pandas-family-episode.html  
+seriesid=`2239398` titleid=`2260339` mediaid=`32e68a625c5070ca6401c54a75ea6af8e6d15ea6`  
+_While exploring a lantern festival, the Bears encounter Panda's long-lost family._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2260339_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260339_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260339_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260339_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260339_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260339_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260339_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260339_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260339_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260339_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260339_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260339_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260339_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260339_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260339_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260339_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260339_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260339_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260339_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260339_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
