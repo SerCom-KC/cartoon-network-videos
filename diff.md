@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: February 1, 2022 at 03:30:23 EST_
+_Last Update: February 1, 2022 at 12:30:20 EST_
 ## Video added
-### Summary
-2239398 We Baby Bears: 2 (2 new)  
-### 2260338
-**We Baby Bears S01E19 - A Tale of Two Ice Bears**  
-🆕 TV-Y7 🔒 11:19  
-⌛ December 31, 2022 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2239398&titleid=2260338&mediaid=dd679303b6f7947bab7e8496dc303923e4bfe7f8) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/a-tale-of-two-ice-bears-episode.html  
-seriesid=`2239398` titleid=`2260338` mediaid=`dd679303b6f7947bab7e8496dc303923e4bfe7f8`  
-_The Bears accidentally clone Ice Bear and Ice Bear has a hard time adjusting._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260338_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260338_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260338_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260338_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260338_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260338_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260338_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260338_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260338_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260338_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260338_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260338_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260338_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260338_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260338_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260338_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260338_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260338_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260338_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260338_010_640x360.jpg" height="144px" /></a>
-### 2260336
-**We Baby Bears S01E20 - Unica**  
-🆕 TV-Y7 🔒 11:19  
-⌛ December 31, 2022 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2239398&titleid=2260336&mediaid=1767935c10d3f8655e6af9114d2a374dcac18e98) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/unica-episode.html  
-seriesid=`2239398` titleid=`2260336` mediaid=`1767935c10d3f8655e6af9114d2a374dcac18e98`  
-_The Bears join forces with Unica, the ultimate forest protector._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260336_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260336_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260336_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260336_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260336_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260336_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260336_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260336_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260336_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260336_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260336_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260336_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260336_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260336_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260336_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260336_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260336_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260336_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260336_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260336_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
