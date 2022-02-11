@@ -303,7 +303,7 @@
     {
         "airingid": "RADS1002112200071066",
         "seasonnumber": "1",
-        "groupid": 7,
+        "groupid": 1,
         "groupcontentid": "102289",
         "groupname": "VALENTINE'S DAY!",
         "seasonitemnumber": "22",
@@ -392,7 +392,7 @@
     {
         "airingid": "RADS1002112200071067",
         "seasonnumber": "2",
-        "groupid": 7,
+        "groupid": 1,
         "groupcontentid": "102289",
         "groupname": "VALENTINE'S DAY!",
         "seasonitemnumber": "22",
@@ -524,7 +524,7 @@
     {
         "airingid": "RADS1002112200071068",
         "seasonnumber": "3",
-        "groupid": 7,
+        "groupid": 1,
         "groupcontentid": "102289",
         "groupname": "VALENTINE'S DAY!",
         "seasonitemnumber": "21",
@@ -613,7 +613,7 @@
     {
         "airingid": "RADS1002112200071069",
         "seasonnumber": "4",
-        "groupid": 7,
+        "groupid": 1,
         "groupcontentid": "102289",
         "groupname": "VALENTINE'S DAY!",
         "seasonitemnumber": "10",
