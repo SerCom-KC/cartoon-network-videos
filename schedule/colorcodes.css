@@ -69,6 +69,7 @@
 
 /* Toonami */
 .franchise-319442, .series-344090, /* Cowboy Bebop */
+.franchise-331646, .series-608007, /* One Piece */
 .franchise-333045, .series-612379, /* Paranoia Agent */
 .franchise-406152, .series-2020945, /* Attack on Titan */
 .franchise-429752, .series-2091991, /* One-Punch Man */
@@ -91,7 +92,8 @@
 .franchise-473592, .series-2218281, /* Fena: Pirate Princess */
 .franchise-475752, .series-2191456, /* Blade Runner: Black Lotus */
 .franchise-476592, /* The Animatrix */
-.franchise-477152, .series-2356951 { /* Made in Abyss */
+.franchise-477152, .series-2356951, /* Made in Abyss */
+.franchise-477232, .series-2357025 { /* Shenmue: The Animation */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #110539;
     color: #a387f4;
@@ -447,6 +449,13 @@
     background-color: #bfbfbf;
     color: black;
     border-color: black;
+}
+
+.franchise-403152, .series-2012957 { /* Clarence */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #6bcb42;
+    color: #6340a1;
+    border-color: #6340a1;
 }
 
 .franchise-409613, .series-2022095 { /* Black Jesus */
@@ -892,4 +901,18 @@
     background-color: #da5c45;
     color: #eeeddd;
     border-color: #eeeddd;
+}
+
+.franchise-476613, .series-2219075 { /* The Not-Too-Late Show With Elmo */
+    font-family: linotteregular, sans-serif;
+    background-color: #0a1a8e;
+    color: white;
+    border-color: white;
+}
+
+.franchise-477192, .series-2357112 { /* CoComelon */
+    font-family: linotteregular, sans-serif;
+    background-color: #ff8a88;
+    color: black;
+    border-color: black;
 }
