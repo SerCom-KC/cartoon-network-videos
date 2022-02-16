@@ -3,8 +3,26 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: February 16, 2022 at 00:00:22 EST_
+_Last Update: February 16, 2022 at 05:00:23 EST_
 ## Video added
-No videos were added.  
+### Summary
+686417 Pocoyo: 1 (1 new)  
+753448 Caillou: 1 (1 new)  
+### 2159927
+**Pocoyo S03E15 - Elly's Bath**  
+🆕 TV-Y 🔒 07:08  
+⌛ December 31, 2022 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2159927&mediaid=76fadb4886c12a133a877b2ad0ad9d516ce19f74) or on the web: https://www.cartoonnetwork.com/video/pocoyo/ellys-bath-episode.html  
+seriesid=`686417` titleid=`2159927` mediaid=`76fadb4886c12a133a877b2ad0ad9d516ce19f74`  
+_Pocoyo is looking for Elly to play ball, but Elly is taking a bath. While Pocoyo waits, Elly plays with the bubbles and her rubber ducky in the tub. Elly finally gets out of the bathtub, but Pocoyo doesn't feel like playing ball anymore. He wants to play in the bathtub too!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2159927_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159927_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159927_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159927_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159927_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159927_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159927_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159927_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159927_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159927_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159927_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159927_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159927_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159927_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159927_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159927_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159927_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159927_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159927_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159927_010_640x360.jpg" height="144px" /></a>
+### 828684
+**Caillou S05E20 - Helping Mrs. Howard/Caillou's Fun Run/The New Girl**  
+🆕 TV-Y 🔒 22:26  
+⌛ December 31, 2022 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=828684&mediaid=7d922425f445409f2b6c2bf542505b32b2c363ea) or on the web: https://www.cartoonnetwork.com/video/caillou/helping-mrs-howardcaillous-fun-runthe-new-girl-episode.html  
+seriesid=`753448` titleid=`828684` mediaid=`7d922425f445409f2b6c2bf542505b32b2c363ea`  
+_Mrs. Howard has sprained her ankle./Caillou is determined to win a ribbon./Caillou is looking forward to being Leo's partner during a field trip._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/828684_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828684_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828684_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828684_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828684_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828684_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828684_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828684_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828684_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828684_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828684_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828684_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828684_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828684_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828684_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828684_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828684_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828684_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828684_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828684_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
