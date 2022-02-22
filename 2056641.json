@@ -1140,7 +1140,7 @@
         "seriesname": "We Bare Bears",
         "originalpremieredate": "2022-02-18T10:00:00.000Z",
         "pubdate": "2022-02-18T10:00:00.000Z",
-        "expdate": "2022-02-25T09:59:00.000Z",
+        "expdate": "2022-03-04T09:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2075012_002_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -1153,7 +1153,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1645178400000",
         "pubdateasmilliseconds": "1645178400000",
-        "expdateasmilliseconds": "1645783140000",
+        "expdateasmilliseconds": "1646387940000",
         "mediaid": "697151d7e07b7074bfd83415c9a0e137b40bbcfe",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
@@ -1720,7 +1720,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054936",
+        "airingid": "RADS1012212100055204",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1806,7 +1806,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055204",
+        "airingid": "RADS1012212100054936",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2731,7 +2731,7 @@
         "seriesname": "We Bare Bears",
         "originalpremieredate": "2022-02-18T10:00:00.000Z",
         "pubdate": "2022-02-18T10:00:00.000Z",
-        "expdate": "2022-02-25T09:59:00.000Z",
+        "expdate": "2022-03-04T09:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2069939_007_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -2744,7 +2744,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1645178400000",
         "pubdateasmilliseconds": "1645178400000",
-        "expdateasmilliseconds": "1645783140000",
+        "expdateasmilliseconds": "1646387940000",
         "mediaid": "e93ea72451255fcb0b34e3e6a41d7e00803a0d2d",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
