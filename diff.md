@@ -3,26 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: February 23, 2022 at 05:00:21 EST_
+_Last Update: February 23, 2022 at 09:00:21 EST_
 ## Video added
-### Summary
-686417 Pocoyo: 1 (1 new)  
-753448 Caillou: 1 (1 new)  
-### 2159930
-**Pocoyo S03E?? - Bathing Loula**  
-🆕 TV-Y 🔒 07:19  
-⌛ December 31, 2022 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2159930&mediaid=c757cb8c25f0a3f2bdc2cd752d122ab13dcccb5d) or on the web: https://www.cartoonnetwork.com/video/pocoyo/bathing-loula-episode.html  
-seriesid=`686417` titleid=`2159930` mediaid=`c757cb8c25f0a3f2bdc2cd752d122ab13dcccb5d`  
-_Loula has splashed about in a puddle, and now Pocoyo and Elly have to give her a bath. But Loula does not like taking a bath one bit and she keeps getting away. After several attempts, Loula is squeaky clean, but now someone else needs a bath._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2159930_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159930_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159930_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159930_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159930_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159930_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159930_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159930_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159930_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159930_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159930_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159930_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159930_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159930_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159930_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159930_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159930_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159930_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159930_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159930_010_640x360.jpg" height="144px" /></a>
-### 828687
-**Caillou S05E?? - Caillou's Camel Ride/It's Not Too Big For Me/Caillou's Flying Saucer**  
-🆕 TV-Y 🔒 22:01  
-⌛ December 31, 2022 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=828687&mediaid=590e4d626c8824b3c603fca1ebce6753cae817a3) or on the web: https://www.cartoonnetwork.com/video/caillou/caillous-camel-rideits-not-too-big-for-mecaillous-flying-saucer-episode.html  
-seriesid=`753448` titleid=`828687` mediaid=`590e4d626c8824b3c603fca1ebce6753cae817a3`  
-_Caillou is afraid to go on a camel ride./Caillou is keen to go sledding on the "Big Hill"./Caillou thinks he's seen a flying saucer in his yard._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/828687_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828687_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828687_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828687_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828687_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828687_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828687_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828687_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828687_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828687_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828687_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828687_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828687_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828687_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828687_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828687_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828687_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828687_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/828687_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/828687_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
