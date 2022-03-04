@@ -29,6 +29,14 @@
     border-color: black;
 }
 
+.franchise-475272, .series-2262178 { /* Wipeout */
+    /* FIXME: Part of CN's ACME Night? https://twitter.com/CNschedules/status/1495486248495972353 */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #bfbfbf;
+    color: black;
+    border-color: black;
+}
+
 .title-627871 { /* Tom Goes to the Mayor: Special */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #887c0a;
@@ -679,7 +687,7 @@
 }
 
 .franchise-455652, .series-2141109 { /* Care Bears: Unlock the Magic */
-    font-family: "Avenir Std", sans-serif;
+    font-family: linotteregular, sans-serif;
     background-color: #4a2b70;
     color: #f07aaf;
     border-color: #f07aaf;
