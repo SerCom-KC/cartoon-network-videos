@@ -2193,7 +2193,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1003152200079187",
+        "airingid": "RADS1003152200079175",
         "seasonnumber": "1",
         "seasonitemnumber": "20",
         "seriesid": "10000000000",
@@ -2236,7 +2236,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1003152200079175",
+        "airingid": "RADS1003152200079187",
         "seasonnumber": "1",
         "seasonitemnumber": "20",
         "seriesid": "10000000000",
@@ -5248,14 +5248,14 @@
     {
         "airingid": "RADS1003072200078220",
         "seasonnumber": "1",
-        "seasonitemnumber": "",
+        "seasonitemnumber": "14",
         "seriesid": "10000000000",
         "id": "7b4e6d0536e7bade6cd0b1389255db73f1a33d13",
         "collectionid": "",
         "seofriendlyurl": "/video/espanol/duele-crecer-episode.html",
-        "seasonepisodenumber": "",
+        "seasonepisodenumber": "14",
         "title": "Duele Crecer",
-        "episodenumber": "",
+        "episodenumber": "14",
         "type": "fullepisode",
         "active": true,
         "description": "Steven va al m\u00e9dico por primera vez.",
@@ -7226,14 +7226,14 @@
     {
         "airingid": "RADS1003072200078219",
         "seasonnumber": "1",
-        "seasonitemnumber": "",
+        "seasonitemnumber": "13",
         "seriesid": "10000000000",
         "id": "a583f38e711f29d541f750b667ab4b5ff2051d5a",
         "collectionid": "",
         "seofriendlyurl": "/video/espanol/juntos-por-siempre-episode.html",
-        "seasonepisodenumber": "",
+        "seasonepisodenumber": "13",
         "title": "Juntos por Siempre",
-        "episodenumber": "",
+        "episodenumber": "13",
         "type": "fullepisode",
         "active": true,
         "description": "Connie tiene una visi\u00f3n muy clara de su futuro, y Steven quiere asegurarse de ser parte de esa visi\u00f3n.",
