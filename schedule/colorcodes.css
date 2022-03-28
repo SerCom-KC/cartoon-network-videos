@@ -103,9 +103,13 @@
 .franchise-477152, .series-2356951, /* Made in Abyss */
 .franchise-477232, .series-2357025 { /* Shenmue: The Animation */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
-    background-color: #110539;
-    color: #a387f4;
-    border-color: #a387f4;
+    background-image: radial-gradient(#851ddb 20%, transparent 20%),
+        radial-gradient(#851ddb 20%, transparent 20%);
+    background-color: black;
+    background-position: 0 0, 5px 5px;
+    background-size: 10px 10px;
+    color: #c8dcb2;
+    border-color: #c8dcb2;
 }
 
 .series-2116814 { /* Williams Stream */
