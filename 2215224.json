@@ -30,14 +30,14 @@
   "titletype": "Episode",
   "bannertext": "",
   "originalseriesid": "104153",
-  "originalseriesname": "Teen Titans Go!",
+  "originalseriesname": "Teen Titans Go! Season 6",
   "hasparent": false,
   "originalpremieredateasmilliseconds": "1646388000000",
   "pubdateasmilliseconds": "1646388000000",
   "expdateasmilliseconds": "1648807140000",
   "mediaid": "61a1444046ad3934999559b9192adf3f1bcea0e9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
