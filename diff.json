@@ -1,7 +1,6 @@
 {
-    "updated": 1648469595,
-    "added": [],
-    "removed": [
+    "updated": 1648469655,
+    "added": [
         {
             "airingid": "RADS1003022200076201",
             "seasonnumber": "7",
@@ -9,7 +8,7 @@
             "seriesid": "2000349",
             "id": "d98c040c93b501fd17c90433742184983c3f2f04",
             "collectionid": "",
-            "seofriendlyurl": "/video/teen-titans-go/standards--practices-episode.html",
+            "seofriendlyurl": "",
             "seasonepisodenumber": "33",
             "title": "Standards & Practices",
             "episodenumber": "33",
@@ -29,12 +28,12 @@
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2263310_010_640x360.jpg",
             "authtype": "auth",
             "webflags": "",
-            "tags": "",
+            "tags": "ttg mp",
             "titleid": "2263310",
             "titletype": "Episode",
             "bannertext": "",
-            "originalseriesid": "2000349",
-            "originalseriesname": "Teen Titans Go!",
+            "originalseriesid": "104152",
+            "originalseriesname": "Teen Titans Go! Season 7",
             "hasparent": false,
             "originalpremieredateasmilliseconds": "1646705700000",
             "pubdateasmilliseconds": "1646705700000",
@@ -45,5 +44,6 @@
             "clipsonly": false,
             "includeshortform": false
         }
-    ]
+    ],
+    "removed": []
 }
