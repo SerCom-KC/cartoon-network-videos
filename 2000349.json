@@ -38,7 +38,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "00609ad3a0f433729b9fa3aaeaf0f6483bceb0d9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -81,7 +81,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "03cb732a13881a2a79c2937e2769eb7dc9ac8449",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -124,7 +124,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "09e2ec1e409d63c3721b8ce7241697928ad01f94",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -167,7 +167,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "0bb0355554203bf9956eddff17518d21bd88c56f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -210,7 +210,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "0db49befe4696a768b92bd30f189d549377f7ded",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -253,7 +253,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "0e0f5e0d8fd70ddd249dde439f2f91b34623d017",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -296,7 +296,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "13793b2c9cc26c97216244f9b509a911511c8708",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -339,7 +339,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "14ba1cbaa0051e2194b1497845aca18291a1c715",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -382,7 +382,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "1a49e43a49289fe0a03506dd8bc987bbec47d950",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -416,7 +416,7 @@
         "tags": "ttg mp|unauth",
         "titleid": "2259624",
         "titletype": "Episode",
-        "bannertext": "UNLOCKED",
+        "bannertext": "",
         "originalseriesid": "2000349",
         "originalseriesname": "Teen Titans Go!",
         "hasparent": false,
@@ -425,7 +425,7 @@
         "expdateasmilliseconds": "1648803600000",
         "mediaid": "1abb0f0cfe1d8b7579bdeadd5e4683459a8b2afd",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -462,7 +462,7 @@
         "tags": "ttg - tots|unauth",
         "titleid": "2164916",
         "titletype": "Episode",
-        "bannertext": "UNLOCKED",
+        "bannertext": "",
         "originalseriesid": "2000349",
         "originalseriesname": "Teen Titans Go!",
         "parentepisodetitleid": "",
@@ -473,7 +473,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "1acfe5e3d912c87a54b195d3040e4a263084fc26",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": true
     },
     {
         "airingid": "RADS1012092100052107",
@@ -514,7 +514,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "24518027ccd2b185693557a5ebd5c093db7f4b76",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -557,7 +557,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "25f35b7389cf3e12c3f3a34c4a489a3fe932e2d8",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -594,7 +594,7 @@
         "tags": "ttg - tots|unauth",
         "titleid": "2164915",
         "titletype": "Episode",
-        "bannertext": "UNLOCKED",
+        "bannertext": "",
         "originalseriesid": "2000349",
         "originalseriesname": "Teen Titans Go!",
         "parentepisodetitleid": "",
@@ -605,7 +605,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "26aa559211d856d0aaa54bd0e8a6ad95aa0b24f8",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": true
     },
     {
         "airingid": "RADS1002282200075453",
@@ -646,7 +646,7 @@
         "expdateasmilliseconds": "1648803540000",
         "mediaid": "275c63a519862e9cdd9121305a70951646b80fee",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -689,7 +689,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "3055dc0a4eb5dc1fa582dff9236c990d689d670b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -726,7 +726,7 @@
         "tags": "ttg - tots|unauth",
         "titleid": "2164917",
         "titletype": "Episode",
-        "bannertext": "UNLOCKED",
+        "bannertext": "",
         "originalseriesid": "2000349",
         "originalseriesname": "Teen Titans Go!",
         "parentepisodetitleid": "",
@@ -737,7 +737,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "31f869aad9eb5148437abb2134920cd506015b9c",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": true
     },
     {
         "airingid": "RADS1012212100054864",
@@ -778,7 +778,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "35f60191c7387db9788aa40f50d3249528be5e20",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -821,7 +821,7 @@
         "expdateasmilliseconds": "1648803540000",
         "mediaid": "361f5d20e1e94f3fa3eabd5578d1dc1e25d9ba5c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -864,7 +864,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "3ae29c3c55c9a63e4fab52cdfa0f61d0de6dd7b9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -907,7 +907,7 @@
         "expdateasmilliseconds": "1648803540000",
         "mediaid": "3c162935b40c67b956520cc2168aad4445f0628d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -944,7 +944,7 @@
         "tags": "ttg - tots|unauth",
         "titleid": "2164918",
         "titletype": "Episode",
-        "bannertext": "UNLOCKED",
+        "bannertext": "",
         "originalseriesid": "2000349",
         "originalseriesname": "Teen Titans Go!",
         "parentepisodetitleid": "",
@@ -955,7 +955,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "439ea406e2a91a556e6121236a25bce558dd9122",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": true
     },
     {
         "airingid": "RADS1012212100054848",
@@ -996,7 +996,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "44bcd1635305fdc9ef6efec738379524f20157b9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1039,7 +1039,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "45d87bcc34571ca53c9390b2aa06bc5d06a3b09d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1082,7 +1082,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "4d1f11f679108869ab3fd306523e35f5dd3f38fb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1125,7 +1125,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "4db82051e20ef5cc892c588b477b0b6fc7cf2153",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1168,7 +1168,7 @@
         "expdateasmilliseconds": "1672549140000",
         "mediaid": "520e95f1eea594eb6c386729a9b0031d78f53c3e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1211,7 +1211,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "53f8f0a8800d1d08bc2cf3f3e40b7cd744420b6e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1254,7 +1254,7 @@
         "expdateasmilliseconds": "1672549140000",
         "mediaid": "55653008bacb4c2c3af40e443b53211e65be9f7c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1297,7 +1297,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "5fdfe53dafcbc032b7698bc30e6e3eda7772c63f",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1333,14 +1333,14 @@
         "titletype": "Episode",
         "bannertext": "",
         "originalseriesid": "104153",
-        "originalseriesname": "Teen Titans Go!",
+        "originalseriesname": "Teen Titans Go! Season 6",
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1646388000000",
         "pubdateasmilliseconds": "1646388000000",
         "expdateasmilliseconds": "1648807140000",
         "mediaid": "61a1444046ad3934999559b9192adf3f1bcea0e9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1383,7 +1383,7 @@
         "expdateasmilliseconds": "1648803540000",
         "mediaid": "6366de9e0beda8c7211f67718bab0ad498670793",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1426,7 +1426,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "646d211ba646d53b3c7b13f9a78c5aad408d61ca",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1469,7 +1469,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "655f923d1e194b999a306f86e3f0cb6486d41290",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1512,7 +1512,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "661065e753c026f75de3d294b9d9c9fc2012547e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1555,7 +1555,7 @@
         "expdateasmilliseconds": "1648803540000",
         "mediaid": "66a74fe3e98dba7e0a91dd3466f227f711bfb5a7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1598,7 +1598,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "6959d092ee7afa3292c40a7775050d721daacc2e",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1641,7 +1641,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "6a27c284d6f971b73f6a07a60b189907932a6c67",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1684,7 +1684,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "6aa6820e804d6af57a27cf606295a3e2e18ad9e9",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1732,7 +1732,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "6b81a63f23fdc320fe8309175028d69840ec3e36",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": true
     },
     {
         "airingid": "RADS1012212100054843",
@@ -1773,7 +1773,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "6d24b7ed9c234696987c28181b187cc80620d9dd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1816,7 +1816,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "6d2838574aafca2a83de0bde34c608122b6f5978",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1859,7 +1859,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "6d50306af086bc54f2a51856b5a79de069f57738",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1902,7 +1902,7 @@
         "expdateasmilliseconds": "1648803540000",
         "mediaid": "6f5d62e50c836da65c1b0b714eed669bbb75503b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1945,7 +1945,7 @@
         "expdateasmilliseconds": "1672549140000",
         "mediaid": "719ae1b7b372af1a506c363ceb49417a6194c0ac",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -1988,7 +1988,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "767b9a5220a0f8779a8e135560dab9e6a5a0aafd",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2031,7 +2031,7 @@
         "expdateasmilliseconds": "1648803540000",
         "mediaid": "80312c0f1a2f7807d30a1b11fc308550769e8458",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2074,7 +2074,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "8043169b454954f6f681c4ad774458030ca886f2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2117,7 +2117,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "81039da3fa73830de8cdeabd5d17ef354aedd743",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2160,7 +2160,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "8ac43fe5121f9c7c5db135b75f7821db02d405af",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2203,7 +2203,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "8bf7d5cb069f726213d2e291b6060418756be71a",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2246,7 +2246,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "8c4efc2d429b8b0d4bd59ccd1102d48d25ef0683",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2289,7 +2289,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "8e0a13c646d5395ff40ddfea2a0383e81b14fb62",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2332,7 +2332,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "9eeb609703671c0e7e4b9ed07080fdd209c447e4",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2375,7 +2375,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "a234770b19845e8bff30f73d1e90527484099feb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2418,7 +2418,7 @@
         "expdateasmilliseconds": "1648803540000",
         "mediaid": "a41415890597cec531e0f7263e4ac599bf9e463d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2461,7 +2461,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "a56bf12470b0998a2cb5fefa0502c05a3042bbd0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2504,7 +2504,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "a5a631023ed3fd3d7a058777202f71d5c1799295",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2547,7 +2547,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "a5ad4b080ecd9d560641a843f6cfad837953fe8b",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2590,7 +2590,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "a7be299cc1231da5c278cd424bf33f95e70952a3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2633,7 +2633,7 @@
         "expdateasmilliseconds": "1648803540000",
         "mediaid": "aab1de948dffb8cf4d6be25ba90de1d24ce2738c",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2676,7 +2676,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "ab90c2664122c81d5a51db206f421fdfb1fba506",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2719,7 +2719,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "abcd09aee011710bae1081a658cb6b89cbbdedd0",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2762,7 +2762,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "b0845a16091f578d51ca69f75c7331747f113a93",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2810,7 +2810,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "b1377f6d4ad88c8152e1a4987887593d2b799471",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": true
     },
     {
         "airingid": "RADS1005052100095298",
@@ -2851,7 +2851,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "b1b612c21655635271dfe75070c7c3e803d90aeb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2899,7 +2899,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "b78d7008b9ccb3279699187c06f570ec4b869691",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": true
     },
     {
         "airingid": "RADS1002282200075448",
@@ -2940,7 +2940,7 @@
         "expdateasmilliseconds": "1648803540000",
         "mediaid": "b7fdb54a20812e503eb8bcb9daa449b316cae853",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -2983,7 +2983,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "bbccbf7ae6a954e44ddcd1bef43284d7c2097a38",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3026,7 +3026,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "bcccaf6491bc5755c5d53dc617f4ffd86c8d0402",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3069,7 +3069,7 @@
         "expdateasmilliseconds": "1672549140000",
         "mediaid": "c52bf613d901bb5e2519b5b92dd58769b81b6dd7",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3112,7 +3112,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "c59c4da7df7889406562ae1265e26544217980cb",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3155,7 +3155,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "c5ac27ec0d0f7efd1e02fe16cde379b89d007538",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3198,7 +3198,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "c6e6f91e543c9bd4ef2d527295c4cfc70f7af4ca",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3241,7 +3241,7 @@
         "expdateasmilliseconds": "1648803540000",
         "mediaid": "c7e9fa892b252be1a213524412812eaf88c7bf0d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3284,7 +3284,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "ce3137a484b29b51b535da93b74e98076c2a5593",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3327,7 +3327,7 @@
         "expdateasmilliseconds": "1648803540000",
         "mediaid": "cf07bc5474e6240992dc31cf8ed2b1fab3ca773d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3375,7 +3375,7 @@
         "expdateasmilliseconds": "1648803540000",
         "mediaid": "cf927450fe8bd445169a075ebac03b4c6c41943e",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": true
     },
     {
         "airingid": "RADS1010262100039785",
@@ -3416,7 +3416,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "d231081803178eefb84b0899ad5d66b39bc16de3",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3459,7 +3459,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "d324a0a8fff485d4a82b0a3b4b644eb5ffaeaca1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3502,7 +3502,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "d381dd928347544331029c48310e3c4584cbee12",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3545,7 +3545,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "d3a119c087e7f1f28497ec4572e9b5684c8b9aaa",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3588,7 +3588,7 @@
         "expdateasmilliseconds": "1672480800000",
         "mediaid": "d6fd230799e3b9749e0011b4bddd891233f088e5",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3636,7 +3636,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "d835c907cd699675e0a34b8c99c3ca2d8e8f5cbe",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": true
     },
     {
         "airingid": "RADS1003022200076201",
@@ -3677,7 +3677,7 @@
         "expdateasmilliseconds": "1672549140000",
         "mediaid": "d98c040c93b501fd17c90433742184983c3f2f04",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3714,7 +3714,7 @@
         "tags": "ttg - tots|unauth",
         "titleid": "2168497",
         "titletype": "Episode",
-        "bannertext": "UNLOCKED",
+        "bannertext": "",
         "originalseriesid": "2000349",
         "originalseriesname": "Teen Titans Go!",
         "parentepisodetitleid": "",
@@ -3725,7 +3725,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "daf01eb50375096b83d49455538af38f9444bb21",
         "isunlockedfullepisode": true,
-        "ismultipropertycollection": false
+        "ismultipropertycollection": true
     },
     {
         "airingid": "RADS1012212100054868",
@@ -3766,7 +3766,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "e63252f0ecb311119e13f79afba3631ffc681760",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3809,7 +3809,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "e7d52f85531010f3c55e9fb4b47ac3723fcaa14d",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3852,7 +3852,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "e89676002f70b82c929f4c7b66b4672c39211d04",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3895,7 +3895,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "ed6c36e7c6e308b0d6a70d5cff4ba5cf9c196d02",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3938,7 +3938,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "ed9743024828c94f590c26e0f876a382fb00a7a2",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -3981,7 +3981,7 @@
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "f14d5848b36973c06a85efede8a6a7277b44ba42",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -4024,7 +4024,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "f1c5202ff3749dd9bb355ae4e69e62156e896c94",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -4067,7 +4067,7 @@
         "expdateasmilliseconds": "1672480800000",
         "mediaid": "f82cc9f13c4c08033e75958ef75390ebe03852b6",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -4110,7 +4110,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "fe96898c08aa20083c6fb9ab7c8b5d3be35cf8d1",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     },
@@ -4153,7 +4153,7 @@
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "ffc201a8c2ca1dc07e15c8e0d02c805b580195cf",
         "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
+        "ismultipropertycollection": true,
         "clipsonly": false,
         "includeshortform": false
     }
