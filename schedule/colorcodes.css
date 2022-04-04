@@ -329,6 +329,13 @@
     border-color: #4eff92;
 }
 
+.franchise-371676, .series-810150 { /* Regular Show */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #582853;
+    color: white;
+    border-color: white;
+}
+
 .franchise-374155, .series-830073 { /* Off The Air */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-image: linear-gradient(
@@ -829,6 +836,13 @@
     background-color: #ff8fcf;
     color: #55ffa8;
     border-color: #55ffa8;
+}
+
+.franchise-472532, .series-2223270 { /* Looney Tunes Cartoons */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #c9090c;
+    color: #fdee13;
+    border-color: #fdee13;
 }
 
 .franchise-473073, .series-2227883 { /* Jellystone */
