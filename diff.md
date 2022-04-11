@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: April 11, 2022 at 05:30:24 EDT_
+_Last Update: April 11, 2022 at 08:30:22 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2056641 We Bare Bears: 2  
+### 2088714
+**We Bare Bears S02E24 - Grizzly the Movie**  
+TV-Y7 🔒 11:17  
+⌛ April 29, 2022 at 04:59:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2056641&titleid=2088714&mediaid=aafa2e66575c60ff2afba0820fa35966e13d398a) or on the web: https://www.cartoonnetwork.com/video/we-bare-bears/grizzly-the-movie-episode.html  
+seriesid=`2056641` titleid=`2088714` mediaid=`aafa2e66575c60ff2afba0820fa35966e13d398a`  
+_Grizz gets cast in a movie about a Grizzly Bear! But Grizz soon realizes the movie's depiction of grizzly bears is not what he had in mind._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2088714_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2088714_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2088714_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2088714_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2088714_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2088714_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2088714_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2088714_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2088714_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2088714_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2088714_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2088714_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2088714_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2088714_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2088714_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2088714_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2088714_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2088714_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2088714_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2088714_010_640x360.jpg" height="144px" /></a>
+### 2075018
+**We Bare Bears S02E22 - Grizz Helps**  
+TV-Y7 🔒 11:26  
+⌛ April 29, 2022 at 04:59:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2056641&titleid=2075018&mediaid=fb4bc15add3e3ad48f2648a507a255e62126d4f8) or on the web: https://www.cartoonnetwork.com/video/we-bare-bears/grizz-helps-episode.html  
+seriesid=`2056641` titleid=`2075018` mediaid=`fb4bc15add3e3ad48f2648a507a255e62126d4f8`  
+_When his brothers don't need his help for the day, Grizz leaves the cave to assist anyone he can throughout the city._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2075018_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2075018_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2075018_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2075018_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2075018_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2075018_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2075018_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2075018_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2075018_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2075018_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2075018_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2075018_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2075018_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2075018_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2075018_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2075018_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2075018_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2075018_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2075018_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2075018_010_640x360.jpg" height="144px" /></a>
