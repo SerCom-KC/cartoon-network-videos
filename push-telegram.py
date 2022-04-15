@@ -16,6 +16,7 @@ tg_dbg_chatid = os.environ["TG_DBG_CHAT_ID"]
 
 s = requests.Session()
 
+DB_URL = "https://raw.githubusercontent.com/SerCom-KC/cartoon-network-videos/db/%s.json"
 DIFF_URL = "https://raw.githubusercontent.com/%s/%s/diff.json?"
 PREVIEW_OUTPUT_PATH = "/tmp/%s_preview.mp4"
 
@@ -38,9 +39,16 @@ def escape(string):
     return string.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 def is_new_video(video):
-    banner_text = video.get("bannertext", "").upper()
-    # Using the banner text to decide whether the video is a new one (not accurate but probably no other solutions)
-    return banner_text in ["SEE IT FIRST", "LATEST EPISODE"]
+    try:
+        # Use the db branch to check
+        resp = s.head(DB_URL % (video["titleid"]))
+        if resp.status_code == 200: return False
+        if resp.status_code == 404: return True
+        resp.raise_for_status()
+    except Exception:
+        # Using the banner text to decide whether the video is a new one (not accurate)
+        banner_text = video.get("bannertext", "").upper()
+        return banner_text in ["SEE IT FIRST", "LATEST EPISODE"]
 
 def parse_video(video):
     global espanol
