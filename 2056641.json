@@ -86,7 +86,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055220",
+        "airingid": "RADS1012212100054952",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -172,7 +172,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054952",
+        "airingid": "RADS1012212100055220",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -364,7 +364,7 @@
         "tvratingcode": "TV-Y7",
         "seriestitleid": "2056641",
         "seriesname": "We Bare Bears",
-        "originalpremieredate": "2020-09-07T22:00:00.000Z",
+        "originalpremieredate": "2020-09-08T02:30:00.000Z",
         "pubdate": "2020-09-08T02:30:00.000Z",
         "expdate": "2023-01-01T04:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2208493_009_640x360.jpg",
@@ -377,7 +377,7 @@
         "originalseriesid": "2056641",
         "originalseriesname": "We Bare Bears",
         "hasparent": false,
-        "originalpremieredateasmilliseconds": "1599516000000",
+        "originalpremieredateasmilliseconds": "1599532200000",
         "pubdateasmilliseconds": "1599532200000",
         "expdateasmilliseconds": "1672549199000",
         "mediaid": "37891c4404131f5f502f67d5bbc1ecbf940fe7c3",
@@ -387,7 +387,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054942",
+        "airingid": "RADS1012212100055173",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -473,7 +473,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055173",
+        "airingid": "RADS1012212100054942",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -602,7 +602,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055201",
+        "airingid": "RADS1012212100054920",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -645,7 +645,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054920",
+        "airingid": "RADS1012212100055201",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -774,49 +774,6 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055221",
-        "seasonnumber": "1",
-        "seasonitemnumber": "",
-        "seriesid": "2056641",
-        "id": "499ae4fefcd30766e83506394eeb14270e2b852f",
-        "collectionid": "",
-        "seofriendlyurl": "/video/we-bare-bears/bear-cleaning-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Bear Cleaning",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Ice Bear vacuums the cave and accidentally rips out a patch of Grizz's fur. He tries to fix Grizz's bald spot before he notices.",
-        "duration": 91,
-        "freewheelid": "cn-2062636",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-Y7",
-        "seriestitleid": "2056641",
-        "seriesname": "We Bare Bears",
-        "originalpremieredate": "2022-01-07T05:00:00.000Z",
-        "pubdate": "2022-01-07T05:00:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2062636_004_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts",
-        "titleid": "2062636",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2056641",
-        "originalseriesname": "We Bare Bears",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1641531600000",
-        "pubdateasmilliseconds": "1641531600000",
-        "expdateasmilliseconds": "1672462800000",
-        "mediaid": "499ae4fefcd30766e83506394eeb14270e2b852f",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
         "airingid": "RADS1012212100055185",
         "seasonnumber": "1",
         "seasonitemnumber": "",
@@ -903,6 +860,49 @@
         "includeshortform": false
     },
     {
+        "airingid": "RADS1012212100055221",
+        "seasonnumber": "1",
+        "seasonitemnumber": "",
+        "seriesid": "2056641",
+        "id": "499ae4fefcd30766e83506394eeb14270e2b852f",
+        "collectionid": "",
+        "seofriendlyurl": "/video/we-bare-bears/bear-cleaning-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Bear Cleaning",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Ice Bear vacuums the cave and accidentally rips out a patch of Grizz's fur. He tries to fix Grizz's bald spot before he notices.",
+        "duration": 91,
+        "freewheelid": "cn-2062636",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-Y7",
+        "seriestitleid": "2056641",
+        "seriesname": "We Bare Bears",
+        "originalpremieredate": "2022-01-07T05:00:00.000Z",
+        "pubdate": "2022-01-07T05:00:00.000Z",
+        "expdate": "2022-12-31T05:00:00.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2062636_004_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts",
+        "titleid": "2062636",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2056641",
+        "originalseriesname": "We Bare Bears",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1641531600000",
+        "pubdateasmilliseconds": "1641531600000",
+        "expdateasmilliseconds": "1672462800000",
+        "mediaid": "499ae4fefcd30766e83506394eeb14270e2b852f",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
         "airingid": "RADS1012212100055231",
         "seasonnumber": "2",
         "seasonitemnumber": "",
@@ -946,7 +946,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054923",
+        "airingid": "RADS1012212100055196",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -989,7 +989,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055196",
+        "airingid": "RADS1012212100054923",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1290,7 +1290,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055197",
+        "airingid": "RADS1012212100055234",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1376,7 +1376,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055234",
+        "airingid": "RADS1012212100055197",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1548,7 +1548,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055205",
+        "airingid": "RADS1012212100054938",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1634,7 +1634,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054938",
+        "airingid": "RADS1012212100055205",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1849,7 +1849,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055191",
+        "airingid": "RADS1012212100055227",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1892,7 +1892,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055227",
+        "airingid": "RADS1012212100055191",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1978,7 +1978,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055193",
+        "airingid": "RADS1012212100054924",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2021,7 +2021,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054924",
+        "airingid": "RADS1012212100055193",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2236,7 +2236,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055225",
+        "airingid": "RADS1012212100054932",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2279,7 +2279,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054932",
+        "airingid": "RADS1012212100055225",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2451,7 +2451,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055204",
+        "airingid": "RADS1012212100055239",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2494,7 +2494,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055239",
+        "airingid": "RADS1012212100055204",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2514,7 +2514,7 @@
         "tvratingcode": "TV-Y7",
         "seriestitleid": "2056641",
         "seriesname": "We Bare Bears",
-        "originalpremieredate": "2017-04-27T23:00:00.000Z",
+        "originalpremieredate": "2022-01-07T05:00:00.000Z",
         "pubdate": "2022-01-07T05:00:00.000Z",
         "expdate": "2022-12-31T05:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2100599_008_640x360.jpg",
@@ -2527,7 +2527,7 @@
         "originalseriesid": "2056641",
         "originalseriesname": "We Bare Bears",
         "hasparent": false,
-        "originalpremieredateasmilliseconds": "1493334000000",
+        "originalpremieredateasmilliseconds": "1641531600000",
         "pubdateasmilliseconds": "1641531600000",
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "937f0000dc496e9bf10279777666107e9a3d9e1f",
@@ -3440,7 +3440,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055175",
+        "airingid": "RADS1012212100054944",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3483,7 +3483,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054944",
+        "airingid": "RADS1012212100055175",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3655,7 +3655,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055200",
+        "airingid": "RADS1012212100055235",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3698,7 +3698,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055235",
+        "airingid": "RADS1012212100055200",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3784,7 +3784,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055207",
+        "airingid": "RADS1012212100054928",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3870,7 +3870,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054928",
+        "airingid": "RADS1012212100055207",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3907,49 +3907,6 @@
         "pubdateasmilliseconds": "1641531600000",
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "e5912b738aeeaeadf5fcad251a4f4a1dfa98aa64",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
-        "airingid": "RADS1012212100054949",
-        "seasonnumber": "3",
-        "seasonitemnumber": "",
-        "seriesid": "2056641",
-        "id": "f256dedaa7a1fdbc3cd727e84fdf217268a026ba",
-        "collectionid": "",
-        "seofriendlyurl": "/video/we-bare-bears/assembly-required-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Assembly Required",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "The Bears have trouble assembling some recently purchased furniture.",
-        "duration": 120,
-        "freewheelid": "cn-2100598",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-Y7",
-        "seriestitleid": "2056641",
-        "seriesname": "We Bare Bears",
-        "originalpremieredate": "2022-01-07T05:00:00.000Z",
-        "pubdate": "2022-01-07T05:00:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2100598_001_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts",
-        "titleid": "2100598",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2056641",
-        "originalseriesname": "We Bare Bears",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1641531600000",
-        "pubdateasmilliseconds": "1641531600000",
-        "expdateasmilliseconds": "1672462800000",
-        "mediaid": "f256dedaa7a1fdbc3cd727e84fdf217268a026ba",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
@@ -4019,7 +3976,7 @@
         "tvratingcode": "TV-Y7",
         "seriestitleid": "2056641",
         "seriesname": "We Bare Bears",
-        "originalpremieredate": "2017-04-27T23:00:00.000Z",
+        "originalpremieredate": "2022-01-07T05:00:00.000Z",
         "pubdate": "2022-01-07T05:00:00.000Z",
         "expdate": "2022-12-31T05:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2100598_001_640x360.jpg",
@@ -4032,7 +3989,50 @@
         "originalseriesid": "2056641",
         "originalseriesname": "We Bare Bears",
         "hasparent": false,
-        "originalpremieredateasmilliseconds": "1493334000000",
+        "originalpremieredateasmilliseconds": "1641531600000",
+        "pubdateasmilliseconds": "1641531600000",
+        "expdateasmilliseconds": "1672462800000",
+        "mediaid": "f256dedaa7a1fdbc3cd727e84fdf217268a026ba",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1012212100054949",
+        "seasonnumber": "3",
+        "seasonitemnumber": "",
+        "seriesid": "2056641",
+        "id": "f256dedaa7a1fdbc3cd727e84fdf217268a026ba",
+        "collectionid": "",
+        "seofriendlyurl": "/video/we-bare-bears/assembly-required-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Assembly Required",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "The Bears have trouble assembling some recently purchased furniture.",
+        "duration": 120,
+        "freewheelid": "cn-2100598",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-Y7",
+        "seriestitleid": "2056641",
+        "seriesname": "We Bare Bears",
+        "originalpremieredate": "2022-01-07T05:00:00.000Z",
+        "pubdate": "2022-01-07T05:00:00.000Z",
+        "expdate": "2022-12-31T05:00:00.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2100598_001_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts",
+        "titleid": "2100598",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2056641",
+        "originalseriesname": "We Bare Bears",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1641531600000",
         "pubdateasmilliseconds": "1641531600000",
         "expdateasmilliseconds": "1672462800000",
         "mediaid": "f256dedaa7a1fdbc3cd727e84fdf217268a026ba",
