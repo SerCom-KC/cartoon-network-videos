@@ -43,6 +43,49 @@
         "includeshortform": false
     },
     {
+        "airingid": "RADS1012212100055183",
+        "seasonnumber": "",
+        "seasonitemnumber": "",
+        "seriesid": "2056641",
+        "id": "0782f951fa0e0e454a211b3f5cdbe10a1a28f0ad",
+        "collectionid": "",
+        "seofriendlyurl": "/video/we-bare-bears/raincloud-chill-music-video-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Raincloud Chill Music Video",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Bears just being bears written Brad Breeck and Daniel Chong.",
+        "duration": 115,
+        "freewheelid": "cn-2141835",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-Y7",
+        "seriestitleid": "2056641",
+        "seriesname": "We Bare Bears",
+        "originalpremieredate": "2022-01-07T05:00:00.000Z",
+        "pubdate": "2022-01-07T05:00:00.000Z",
+        "expdate": "2022-12-31T05:00:00.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141835_005_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts|music video",
+        "titleid": "2141835",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2056641",
+        "originalseriesname": "We Bare Bears",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1641531600000",
+        "pubdateasmilliseconds": "1641531600000",
+        "expdateasmilliseconds": "1672462800000",
+        "mediaid": "0782f951fa0e0e454a211b3f5cdbe10a1a28f0ad",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
         "airingid": "RADS1012212100054952",
         "seasonnumber": "",
         "seasonitemnumber": "",
@@ -87,49 +130,6 @@
     },
     {
         "airingid": "RADS1012212100055220",
-        "seasonnumber": "",
-        "seasonitemnumber": "",
-        "seriesid": "2056641",
-        "id": "0782f951fa0e0e454a211b3f5cdbe10a1a28f0ad",
-        "collectionid": "",
-        "seofriendlyurl": "/video/we-bare-bears/raincloud-chill-music-video-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Raincloud Chill Music Video",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Bears just being bears written Brad Breeck and Daniel Chong.",
-        "duration": 115,
-        "freewheelid": "cn-2141835",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-Y7",
-        "seriestitleid": "2056641",
-        "seriesname": "We Bare Bears",
-        "originalpremieredate": "2022-01-07T05:00:00.000Z",
-        "pubdate": "2022-01-07T05:00:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141835_005_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts|music video",
-        "titleid": "2141835",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2056641",
-        "originalseriesname": "We Bare Bears",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1641531600000",
-        "pubdateasmilliseconds": "1641531600000",
-        "expdateasmilliseconds": "1672462800000",
-        "mediaid": "0782f951fa0e0e454a211b3f5cdbe10a1a28f0ad",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
-        "airingid": "RADS1012212100055183",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1591,7 +1591,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055205",
+        "airingid": "RADS1012212100055241",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1634,7 +1634,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055241",
+        "airingid": "RADS1012212100055205",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2279,7 +2279,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055189",
+        "airingid": "RADS1012212100054932",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2365,7 +2365,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054932",
+        "airingid": "RADS1012212100055189",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2709,7 +2709,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055216",
+        "airingid": "RADS1012212100055179",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2795,7 +2795,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055179",
+        "airingid": "RADS1012212100055216",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3053,7 +3053,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055213",
+        "airingid": "RADS1012212100054919",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3096,7 +3096,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054919",
+        "airingid": "RADS1012212100055213",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3311,7 +3311,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055175",
+        "airingid": "RADS1012212100054944",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3397,7 +3397,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054944",
+        "airingid": "RADS1012212100055175",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3612,7 +3612,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055200",
+        "airingid": "RADS1012212100055235",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3655,7 +3655,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055235",
+        "airingid": "RADS1012212100055200",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3913,7 +3913,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055217",
+        "airingid": "RADS1012212100054949",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3999,7 +3999,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054949",
+        "airingid": "RADS1012212100055217",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
