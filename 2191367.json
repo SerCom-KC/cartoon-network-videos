@@ -2,7 +2,7 @@
   "airingid": "RADS1004072200087154",
   "seasonnumber": "1",
   "seasonitemnumber": "15",
-  "seriesid": "2181893",
+  "seriesid": "1000000000068537",
   "id": "c12ac704fdf19e07bfb51c42c8a396578d0c50a6",
   "collectionid": "",
   "seofriendlyurl": "/video/mao-mao/hes-the-sheriff-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2181893",
-  "seriesname": "Mao Mao",
+  "seriestitleid": "1000000000068537",
+  "seriesname": "Asian American and Pacific Islander Heritage Month",
   "originalpremieredate": "2022-04-22T09:01:00.000Z",
   "pubdate": "2022-04-22T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "c12ac704fdf19e07bfb51c42c8a396578d0c50a6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
