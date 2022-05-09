@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: May 9, 2022 at 09:00:23 EDT_
+_Last Update: May 9, 2022 at 10:00:24 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2266513 Lucas the Spider: 2  
+### 2274088
+**Lucas the Spider S01E05 - Boo**  
+TV-Y 🔓 07:25  
+⌛ May 9, 2022 at 05:00:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2274088&mediaid=67f94ab5a04d5335252e2b633936bb5e3c3053d8) or on the web: https://www.cartoonnetwork.com/video/lucas-the-spider/boo-episode.html  
+seriesid=`2266513` titleid=`2274088` mediaid=`67f94ab5a04d5335252e2b633936bb5e3c3053d8`  
+_Lucas loves to give his friends a scare on Halloween._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2274088_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274088_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274088_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274088_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274088_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274088_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274088_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274088_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274088_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274088_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274088_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274088_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274088_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274088_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274088_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274088_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274088_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274088_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274088_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274088_010_640x360.jpg" height="144px" /></a>
+### 2274089
+**Lucas the Spider S01E06 - Never Boop a Robot**  
+TV-Y 🔓 07:25  
+⌛ May 9, 2022 at 05:00:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2274089&mediaid=a634a50b9d76b2068be60a9de4297847318fb8b9) or on the web: https://www.cartoonnetwork.com/video/lucas-the-spider/never-boop-a-robot-episode.html  
+seriesid=`2266513` titleid=`2274089` mediaid=`a634a50b9d76b2068be60a9de4297847318fb8b9`  
+_When Lucas boops a robot, he and his friends are chased around House!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2274089_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274089_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274089_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274089_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274089_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274089_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274089_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274089_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274089_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274089_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274089_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274089_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274089_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274089_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274089_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274089_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274089_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274089_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2274089_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2274089_010_640x360.jpg" height="144px" /></a>
