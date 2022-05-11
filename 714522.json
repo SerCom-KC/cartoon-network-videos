@@ -2,7 +2,7 @@
   "airingid": "RADS1009202100030740",
   "seasonnumber": "2",
   "seasonitemnumber": "6",
-  "seriesid": "686417",
+  "seriesid": "1000000000093702",
   "id": "de2b35656b7de37eae2dad0b10aecfb5f13ef3c5",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/mad-mix-machine-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "686417",
-  "seriesname": "Pocoyo",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-09-29T09:00:00.000Z",
   "pubdate": "2021-09-29T09:00:00.000Z",
   "expdate": "2022-05-16T08:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1652691540000",
   "mediaid": "de2b35656b7de37eae2dad0b10aecfb5f13ef3c5",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
