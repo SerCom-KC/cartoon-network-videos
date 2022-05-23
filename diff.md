@@ -3,17 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: May 23, 2022 at 05:00:23 EDT_
+_Last Update: May 23, 2022 at 09:30:24 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
-### Summary
-2227916 10000000000602100: 1  
-### 2373928
-**10000000000602100 S??E?? - Aquaman: King of Atlantis**  
-TV-PG 🔒 134:45  
-⌛ May 22, 2022 at 23:45:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000602100&titleid=2373928&mediaid=7ef1b8e1f5f77362eb3a271d46c0be957634489b) or on the web: https://www.cartoonnetwork.com/video/10000000000602100/aquaman-king-of-atlantis-episode.html  
-seriesid=`2227916` titleid=`2373928` mediaid=`7ef1b8e1f5f77362eb3a271d46c0be957634489b`  
-_It's Aquaman's first day on the job as king of Atlantis and he has a lot of catching up to do! Luckily, he has his two trusted royal advisors to back him up: Vulko, the scholar, and Mera, the water-controlling warrior princess. As he faces unscrupulous surface dwellers, elder evils from beyond time, and his own half-brother's attempts to overthrow him, Aquaman must rise to the challenge and prove to his subjects and himself that he's the right man for the throne!_  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2373928_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2373928_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2373928_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2373928_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2373928_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2373928_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2373928_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2373928_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2373928_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2373928_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2373928_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2373928_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2373928_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2373928_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2373928_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2373928_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2373928_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2373928_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2373928_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2373928_010_640x360.jpg" height="144px" /></a>
+No videos were removed.  
