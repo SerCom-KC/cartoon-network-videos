@@ -468,7 +468,7 @@
                 document.getElementById("colorcodes").href = "./colorcodes.min.css?v=" + colorcodes_etag;
             }};
             var xhr = new XMLHttpRequest();
-            xhr.open("GET", "https://time.ten.ngtv.io/v1/rundown?instance=" + document.getElementById("instance").value + "&endTime=2147483647&startTime=0")
+            xhr.open("GET", `https://time.ten.ngtv.io/v1/rundown?instance=${document.getElementById("instance").value}&endTime=2147483647&startTime=${parseInt(new Date().getTime()/1000-15*24*60*60)}`)
             xhr.send();
             xhr.onreadystatechange = function () {
                 if (this.readyState === XMLHttpRequest.DONE) {
