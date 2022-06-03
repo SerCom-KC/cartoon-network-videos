@@ -2,7 +2,7 @@
   "airingid": "RADS1003022200076296",
   "seasonnumber": "2",
   "seasonitemnumber": "29",
-  "seriesid": "2160701",
+  "seriesid": "1000000000070392",
   "id": "3b1df9f219dbd67823719cdd50230f5e7b7e2505",
   "collectionid": "",
   "seofriendlyurl": "/video/victor-and-valentino/carmelita-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2160701",
-  "seriesname": "Victor and Valentino",
+  "seriestitleid": "1000000000070392",
+  "seriesname": "Pride Month",
   "originalpremieredate": "2022-03-07T10:00:00.000Z",
   "pubdate": "2022-03-07T10:00:00.000Z",
   "expdate": "2023-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549200000",
   "mediaid": "3b1df9f219dbd67823719cdd50230f5e7b7e2505",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
