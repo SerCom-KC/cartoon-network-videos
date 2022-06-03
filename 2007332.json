@@ -431,7 +431,7 @@
     },
     {
         "airingid": "RADS1005312200001841",
-        "seasonnumber": "1",
+        "seasonnumber": "2",
         "seasonitemnumber": "45",
         "seriesid": "2007332",
         "id": "5ee063cc09b09bf991abd5cc6272c8c82805fa00",
@@ -453,7 +453,7 @@
         "originalpremieredate": "2022-06-03T09:00:00.000Z",
         "pubdate": "2022-06-03T09:00:00.000Z",
         "expdate": "2022-07-01T09:00:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2018697_009_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2018697_002_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "",
@@ -775,7 +775,7 @@
     },
     {
         "airingid": "RADS1005312200001864",
-        "seasonnumber": "1",
+        "seasonnumber": "2",
         "seasonitemnumber": "9",
         "seriesid": "2007332",
         "id": "d41d17bf5482191fda4e62a67e75fff6803ccff0",
