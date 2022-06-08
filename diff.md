@@ -3,8 +3,26 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: June 7, 2022 at 16:00:23 EDT_
+_Last Update: June 8, 2022 at 02:30:25 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2141710 Total Dramarama: 1 (1 new)  
+2160701 Victor and Valentino: 1 (1 new)  
+### 2266609
+**Total Dramarama S03E43 - The Fuss on the Bus**  
+🆕 TV-Y7 🔒 10:42  
+⌛ December 31, 2022 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2141710&titleid=2266609&mediaid=8e4546b77294185a64c4fc518cc4a191b1553dd2) or on the web: https://www.cartoonnetwork.com/video/total-dramarama/the-fuss-on-the-bus-episode.html  
+seriesid=`2141710` titleid=`2266609` mediaid=`8e4546b77294185a64c4fc518cc4a191b1553dd2`  
+_Having never booked the field trip he promised the kids, Chef has to manufacture a full day of delays on the bus trip to avoid getting to Happy Sunshine Good Time Land._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2266609_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266609_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266609_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266609_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266609_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266609_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266609_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266609_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266609_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266609_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266609_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266609_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266609_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266609_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266609_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266609_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266609_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266609_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266609_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266609_010_640x360.jpg" height="144px" /></a>
+### 2260375
+**Victor and Valentino S03E24 - Para-Vic**  
+🆕 TV-Y7-FV 🔒 11:17  
+⌛ December 31, 2022 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2160701&titleid=2260375&mediaid=796555e066d4ca31bbc015b56bdae05528169f15) or on the web: https://www.cartoonnetwork.com/video/victor-and-valentino/para-vic-episode.html  
+seriesid=`2160701` titleid=`2260375` mediaid=`796555e066d4ca31bbc015b56bdae05528169f15`  
+_Vic's same-old pranks aren't working anymore. What's a master-prankster to do when all of his go-to tricks have become predictable? Become a ghost and prank from "the other side" of course. What could possibly go wrong?_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2260375_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260375_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260375_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260375_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260375_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260375_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260375_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260375_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260375_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260375_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260375_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260375_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260375_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260375_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260375_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260375_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260375_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260375_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260375_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260375_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
