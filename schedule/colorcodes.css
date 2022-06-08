@@ -101,7 +101,8 @@
 .franchise-475752, .series-2191456, /* Blade Runner: Black Lotus */
 .franchise-476592, /* The Animatrix */
 .franchise-477152, .series-2356951, /* Made in Abyss */
-.franchise-477232, .series-2357025 { /* Shenmue: The Animation */
+.franchise-477232, .series-2357025, /* Shenmue: The Animation */
+.franchise-479112, .series-2387380 { /* Lupin the 3rd Part 6 */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-image: radial-gradient(#851ddb 20%, transparent 20%),
         radial-gradient(#851ddb 20%, transparent 20%);
@@ -683,7 +684,8 @@
     border-color: #ed1a2f;
 }
 
-.franchise-454433, .series-2177542 { /* DC Super Hero Girls */
+.franchise-454433, .series-2177542, /* DC Super Hero Girls */
+.title-2288528 { /* Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse */
     font-family: "Avenir Std", sans-serif;
     background-color: #2cc4f4;
     color: #eb1b23;
@@ -941,4 +943,11 @@
     background-color: #ff8a88;
     color: black;
     border-color: black;
+}
+
+.franchise-478872, .series-2227953 { /* Sesame Street Mecha Builders */
+    font-family: linotteregular, sans-serif;
+    background-color: #054f46;
+    color: #fae656;
+    border-color: #fae656;
 }
