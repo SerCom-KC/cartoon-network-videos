@@ -3,26 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: June 9, 2022 at 05:00:25 EDT_
+_Last Update: June 10, 2022 at 00:00:25 EDT_
 ## Video added
-### Summary
-2357711 Blippi Wonders: 1 (1 new)  
-2356389 Lellobee City Farm: 1 (1 new)  
-### 2357721
-**Blippi Wonders S01E06 - Ocean**  
-🆕 TV-Y 🔒 03:26  
-⌛ December 31, 2022 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2357721&mediaid=3136c528eea04d49b57a6d8ff46a88901a1549a6) or on the web: https://www.cartoonnetwork.com/video/blippi-wonders/ocean-episode.html  
-seriesid=`2357711` titleid=`2357721` mediaid=`3136c528eea04d49b57a6d8ff46a88901a1549a6`  
-_Blippi's trusty BlippiMobile safely transports him to a whole new underwater world! He dives into the sea, where he gets an ocean tour from a local resident, Jerry the Jellyfish. They swim through a huge kelp forest, explore the ocean floor and meet interesting underwater creatures along the way!_  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2357721_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357721_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357721_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357721_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357721_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357721_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357721_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357721_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357721_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357721_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357721_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357721_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357721_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357721_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357721_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357721_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357721_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357721_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357721_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357721_010_640x360.jpg" height="144px" /></a>
-### 2356400
-**Lellobee City Farm S01E06 - Bath Song**  
-🆕 TV-Y 🔒 02:27  
-⌛ December 31, 2022 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2356400&mediaid=9087574512f5c98e74639fa2d692ad7d4539a4e1) or on the web: https://www.cartoonnetwork.com/video/lellobee-city-farm/bath-song-episode.html  
-seriesid=`2356389` titleid=`2356400` mediaid=`9087574512f5c98e74639fa2d692ad7d4539a4e1`  
-_Ella gets covered in mud so she goes into Mei's farmhouse to have a bath._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2356400_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356400_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356400_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356400_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356400_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356400_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356400_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356400_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356400_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356400_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356400_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356400_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356400_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356400_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356400_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356400_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356400_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356400_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356400_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356400_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
