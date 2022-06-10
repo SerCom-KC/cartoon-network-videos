@@ -3,8 +3,26 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: June 10, 2022 at 00:00:25 EDT_
+_Last Update: June 10, 2022 at 02:30:25 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2141710 Total Dramarama: 1 (1 new)  
+2160701 Victor and Valentino: 1 (1 new)  
+### 2266611
+**Total Dramarama S03E45 - Oozing Talent**  
+🆕 TV-Y7 🔒 10:42  
+⌛ December 31, 2022 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2141710&titleid=2266611&mediaid=bcb7930365a79f95aecab8ae991caee2633ca57e) or on the web: https://www.cartoonnetwork.com/video/total-dramarama/oozing-talent-episode.html  
+seriesid=`2141710` titleid=`2266611` mediaid=`bcb7930365a79f95aecab8ae991caee2633ca57e`  
+_When Sugar unwittingly wins a job as spokesperson for a diarrhea medication, she enlists the help of her friends to stop the commercial from premiering during the big game._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2266611_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266611_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266611_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266611_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266611_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266611_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266611_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266611_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266611_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266611_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266611_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266611_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266611_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266611_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266611_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266611_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266611_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266611_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266611_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266611_010_640x360.jpg" height="144px" /></a>
+### 2260374
+**Victor and Valentino S03E26 - The Imposter**  
+🆕 TV-Y7-FV 🔒 11:17  
+⌛ December 31, 2022 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2160701&titleid=2260374&mediaid=3ebb4e21bb28f4f08c3117a147288ed7d94e55d4) or on the web: https://www.cartoonnetwork.com/video/victor-and-valentino/the-imposter-episode.html  
+seriesid=`2160701` titleid=`2260374` mediaid=`3ebb4e21bb28f4f08c3117a147288ed7d94e55d4`  
+_Vic and Val are hot on the trail of some crucial intel that will expose Tez. There's just one problem, an incognito Mime is set on ensuring the information never sees the light of day._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2260374_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260374_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260374_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260374_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260374_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260374_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260374_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260374_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260374_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260374_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260374_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260374_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260374_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260374_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260374_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260374_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260374_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260374_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260374_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260374_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
