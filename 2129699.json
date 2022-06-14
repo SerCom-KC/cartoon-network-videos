@@ -2,7 +2,7 @@
   "airingid": "RADS1006072200004189",
   "seasonnumber": "1",
   "seasonitemnumber": "41",
-  "seriesid": "10000000000",
+  "seriesid": "2129657",
   "id": "aee004e2561c17c3f669ec08d7fc32ec3023a7b3",
   "collectionid": "",
   "seofriendlyurl": "/video/power-players/stuck-on-you-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2129657",
+  "seriesname": "Power Players",
   "originalpremieredate": "2022-06-10T09:00:00.000Z",
   "pubdate": "2022-06-10T09:00:00.000Z",
   "expdate": "2022-06-17T09:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1655456400000",
   "mediaid": "aee004e2561c17c3f669ec08d7fc32ec3023a7b3",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

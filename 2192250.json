@@ -2,7 +2,7 @@
   "airingid": "RADS1006072200004237",
   "seasonnumber": "1",
   "seasonitemnumber": "26",
-  "seriesid": "10000000000",
+  "seriesid": "2188073",
   "id": "3c9d13d40ab5053d569509a2f681d3e99548d1c4",
   "collectionid": "",
   "seofriendlyurl": "/video/thundercats-roar/snarfs-day-off-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2188073",
+  "seriesname": "ThunderCats Roar!",
   "originalpremieredate": "2022-06-10T09:00:00.000Z",
   "pubdate": "2022-06-10T09:00:00.000Z",
   "expdate": "2022-06-17T09:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1655456400000",
   "mediaid": "3c9d13d40ab5053d569509a2f681d3e99548d1c4",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

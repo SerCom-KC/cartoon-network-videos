@@ -2,7 +2,7 @@
   "airingid": "RADS1006072200004233",
   "seasonnumber": "1",
   "seasonitemnumber": "22",
-  "seriesid": "10000000000",
+  "seriesid": "2188073",
   "id": "52e428120a73b49a26ff0525eb9600b52cae613d",
   "collectionid": "",
   "seofriendlyurl": "/video/thundercats-roar/safari-joe-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2188073",
+  "seriesname": "ThunderCats Roar!",
   "originalpremieredate": "2022-06-10T09:00:00.000Z",
   "pubdate": "2022-06-10T09:00:00.000Z",
   "expdate": "2022-06-17T09:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1655456400000",
   "mediaid": "52e428120a73b49a26ff0525eb9600b52cae613d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
