@@ -40,7 +40,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1006072200004132",
@@ -83,7 +83,7 @@
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005122200097832",
@@ -126,7 +126,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005032200094574",
@@ -169,7 +169,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004072200087142",
@@ -212,7 +212,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1006072200004130",
@@ -255,7 +255,7 @@
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004182200089643",
@@ -298,7 +298,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005092200096950",
@@ -341,7 +341,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005092200096948",
@@ -384,7 +384,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005032200094573",
@@ -427,7 +427,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004072200087140",
@@ -470,7 +470,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004262200092921",
@@ -513,7 +513,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004262200092919",
@@ -556,7 +556,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005312200002194",
@@ -599,7 +599,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1004182200089642",
@@ -642,7 +642,7 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     },
     {
         "airingid": "RADS1005312200002195",
@@ -685,6 +685,6 @@
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
-        "includeshortform": false
+        "includeshortform": true
     }
 ]
