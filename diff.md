@@ -3,8 +3,26 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: June 16, 2022 at 00:00:25 EDT_
+_Last Update: June 16, 2022 at 05:00:26 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2357711 Blippi Wonders: 1 (1 new)  
+2356389 Lellobee City Farm: 1 (1 new)  
+### 2357728
+**Blippi Wonders S01E?? - Spiderweb**  
+🆕 TV-Y 🔒 03:22  
+⌛ December 31, 2022 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2357728&mediaid=f2ff071387107ff759b71c2288d389a828241cd3) or on the web: https://www.cartoonnetwork.com/video/blippi-wonders/spiderweb-episode.html  
+seriesid=`2357711` titleid=`2357728` mediaid=`f2ff071387107ff759b71c2288d389a828241cd3`  
+_A gorgeous spider web in the park has Blippi wondering "How do spiders make their webs?" He sets off to find the answer! A very talented spider explains the artistic process and Blippi is surprised by the masterful picture that ends up in the spiders' web!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2357728_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357728_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357728_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357728_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357728_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357728_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357728_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357728_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357728_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357728_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357728_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357728_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357728_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357728_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357728_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357728_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357728_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357728_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357728_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357728_010_640x360.jpg" height="144px" /></a>
+### 2356409
+**Lellobee City Farm S01E?? - Please and Thank You Song**  
+🆕 TV-Y 🔒 02:26  
+⌛ December 31, 2022 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2356409&mediaid=033c4abb5939399ea16d887038e5eb71acca904c) or on the web: https://www.cartoonnetwork.com/video/lellobee-city-farm/please-and-thank-you-song-episode.html  
+seriesid=`2356389` titleid=`2356409` mediaid=`033c4abb5939399ea16d887038e5eb71acca904c`  
+_Mei goes around the farm with food for the animals. She offers them some food and the animals say "yes please"_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2356409_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356409_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356409_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356409_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356409_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356409_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356409_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356409_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356409_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356409_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356409_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356409_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356409_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356409_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356409_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356409_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356409_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356409_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356409_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356409_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
