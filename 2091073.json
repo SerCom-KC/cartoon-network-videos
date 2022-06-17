@@ -25,10 +25,10 @@
   "originalpremieredate": "2022-06-17T09:01:00.000Z",
   "pubdate": "2022-06-17T09:01:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2091073_003_640x360.jpg",
-  "authtype": "unauth",
+  "authtype": "auth",
   "expdate": "2022-07-01T09:00:00.000Z",
   "webflags": "",
-  "tags": "ok dad|unauth",
+  "tags": "ok dad",
   "titleid": "2091073",
   "titletype": "Episode",
   "bannertext": "LATEST EPISODE",
@@ -41,6 +41,6 @@
   "pubdateasmilliseconds": "1655456460000",
   "expdateasmilliseconds": "1656666000000",
   "mediaid": "284bd7dd40b80527f64cda02515b7805b5835846",
-  "isunlockedfullepisode": true,
+  "isunlockedfullepisode": false,
   "ismultipropertycollection": false
 }
