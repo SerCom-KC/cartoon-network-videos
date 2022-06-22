@@ -2,7 +2,7 @@
   "airingid": "RADS1010122100037821",
   "seasonnumber": "1",
   "seasonitemnumber": "59",
-  "seriesid": "433570",
+  "seriesid": "1000000000093702",
   "id": "3fb316061a9105388e6f5dc0e74444024170415b",
   "collectionid": "",
   "seofriendlyurl": "/video/baby-looney-tunes/loose-change-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "433570",
-  "seriesname": "Baby Looney Tunes",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-10-20T10:00:00.000Z",
   "pubdate": "2021-10-20T09:00:00.000Z",
   "expdate": "2022-12-31T10:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672480800000",
   "mediaid": "3fb316061a9105388e6f5dc0e74444024170415b",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
