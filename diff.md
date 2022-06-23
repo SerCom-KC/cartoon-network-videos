@@ -3,8 +3,26 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: June 23, 2022 at 00:00:25 EDT_
+_Last Update: June 23, 2022 at 05:00:22 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2357711 Blippi Wonders: 1 (1 new)  
+2356389 Lellobee City Farm: 1 (1 new)  
+### 2357733
+**Blippi Wonders S01E18 - Crane**  
+🆕 TV-Y 🔒 03:23  
+⌛ January 6, 2023 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2357733&mediaid=1383687e02a85de38b83f781200d519dea2223fc) or on the web: https://www.cartoonnetwork.com/video/blippi-wonders/crane-episode.html  
+seriesid=`2357711` titleid=`2357733` mediaid=`1383687e02a85de38b83f781200d519dea2223fc`  
+_It's the first day on the job for Kareem the Crane, and he's feeling very nervous. Luckily, Blippi and FETCH are there to lend a helping hand! Working together they help Kareem to do his work. Kareem gains confidence and Blippi learns how cranes help to build a skyscraper!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2357733_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357733_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357733_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357733_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357733_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357733_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357733_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357733_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357733_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357733_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357733_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357733_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357733_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357733_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357733_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357733_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357733_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357733_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357733_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357733_010_640x360.jpg" height="144px" /></a>
+### 2356415
+**Lellobee City Farm S01E18 - The Penguin Dance**  
+🆕 TV-Y 🔒 02:27  
+⌛ January 3, 2023 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2356415&mediaid=c8263874afd5af7b75044cbc1ead67af0206f9f4) or on the web: https://www.cartoonnetwork.com/video/lellobee-city-farm/the-penguin-dance-episode.html  
+seriesid=`2356389` titleid=`2356415` mediaid=`c8263874afd5af7b75044cbc1ead67af0206f9f4`  
+_Rico the penguin is visiting Lellobee city farm… and he's travelled all the way from the North pole!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2356415_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356415_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356415_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356415_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356415_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356415_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356415_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356415_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356415_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356415_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356415_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356415_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356415_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356415_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356415_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356415_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356415_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356415_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2356415_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2356415_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
