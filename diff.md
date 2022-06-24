@@ -3,8 +3,26 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: June 24, 2022 at 00:00:25 EDT_
+_Last Update: June 24, 2022 at 05:00:25 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2357711 Blippi Wonders: 1 (1 new)  
+686417 Pocoyo: 1 (1 new)  
+### 2357734
+**Blippi Wonders S01E?? - Flies**  
+🆕 TV-Y 🔒 03:22  
+⌛ December 31, 2022 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2357734&mediaid=fd8a81b8d7bc05860b93931a1c8a2e02f01c7776) or on the web: https://www.cartoonnetwork.com/video/blippi-wonders/flies-episode.html  
+seriesid=`2357711` titleid=`2357734` mediaid=`fd8a81b8d7bc05860b93931a1c8a2e02f01c7776`  
+_Lunch is ready! Prepared to eat his delicious sandwich, Blippi notices his old friend Horace the Fly. Horace is walking upside down on the ceiling, and after shrinking down, Blippi joins him. But how does Horace stick to the ceiling? A musical song and dance from Horace is the best way to find out!_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2357734_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357734_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357734_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357734_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357734_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357734_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357734_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357734_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357734_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357734_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357734_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357734_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357734_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357734_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357734_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357734_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357734_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357734_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2357734_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2357734_010_640x360.jpg" height="144px" /></a>
+### 2159983
+**Pocoyo S04E21 - Rock is a Hard Place**  
+🆕 TV-Y 🔒 07:17  
+⌛ December 31, 2022 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2159983&mediaid=27fa8d4925fac4ffdc5966e233d1c94ac5a5cab4) or on the web: https://www.cartoonnetwork.com/video/pocoyo/rock-is-a-hard-place-episode.html  
+seriesid=`686417` titleid=`2159983` mediaid=`27fa8d4925fac4ffdc5966e233d1c94ac5a5cab4`  
+_Pocoyo and his friends have a rock band and Fred the Octopus has organized a photo shoot. They can't decide on the front man. They're about to perform for their fans. Will they be able to come together as a group?_  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2159983_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159983_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159983_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159983_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159983_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159983_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159983_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159983_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159983_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159983_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159983_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159983_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159983_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159983_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159983_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159983_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159983_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159983_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2159983_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2159983_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
