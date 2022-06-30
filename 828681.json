@@ -2,7 +2,7 @@
   "airingid": "RADS1002012200069133",
   "seasonnumber": "5",
   "seasonitemnumber": "16",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "ff9c934e84b715422208c4fcf9ae9c63c0d82c19",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/wheres-marsemmas-extra-snackslost-and-found-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2022-02-08T05:00:00.000Z",
   "pubdate": "2022-02-08T05:00:00.000Z",
   "expdate": "2023-01-01T04:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549199000",
   "mediaid": "ff9c934e84b715422208c4fcf9ae9c63c0d82c19",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

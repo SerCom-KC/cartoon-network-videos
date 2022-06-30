@@ -2,7 +2,7 @@
   "airingid": "RADS1002072200070698",
   "seasonnumber": "5",
   "seasonitemnumber": "21",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "1d903b8fc370310d2794caf3bdf41c2156c0ba1a",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/borrowed-bookfixing-mr-bonescailloodles-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2022-02-21T05:00:00.000Z",
   "pubdate": "2022-02-21T05:00:00.000Z",
   "expdate": "2023-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549140000",
   "mediaid": "1d903b8fc370310d2794caf3bdf41c2156c0ba1a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1010272100040266",
   "seasonnumber": "1",
   "seasonitemnumber": "3",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "ac0a893a240387fa6f6bc0445f9573889e5621cb",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/learns-to-drivebig-friendcolorsmails-a-letterlearns-to-swim-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2021-09-13T11:45:00.000Z",
   "pubdate": "2021-11-15T05:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "ac0a893a240387fa6f6bc0445f9573889e5621cb",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

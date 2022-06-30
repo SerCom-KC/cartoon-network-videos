@@ -2,7 +2,7 @@
   "airingid": "RADS1003022200076504",
   "seasonnumber": "3",
   "seasonitemnumber": "1",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "c46f670c23fd2e8ec9687abc7eccd62d93d389d2",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/caillou-tries-karatejust-like-daddycaillous-safaricowboy-caillou-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2022-03-21T09:01:00.000Z",
   "pubdate": "2022-03-21T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "c46f670c23fd2e8ec9687abc7eccd62d93d389d2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

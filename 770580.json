@@ -2,7 +2,7 @@
   "airingid": "RADS1003022200076506",
   "seasonnumber": "3",
   "seasonitemnumber": "3",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "83c5e1be4511c2cae5c653071e03f01799eb267d",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/coinscanoe-tripthe-bulldozerthe-firefighterthe-timekeeper-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2022-03-21T09:01:00.000Z",
   "pubdate": "2022-03-21T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "83c5e1be4511c2cae5c653071e03f01799eb267d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

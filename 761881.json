@@ -2,7 +2,7 @@
   "airingid": "RADS1002032200069420",
   "seasonnumber": "2",
   "seasonitemnumber": "13",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "97462fd6f66457a1c68ac270489e0c556378dc04",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/caillou-and-the-tooth-fairyi-want-to-grow-upcaillous-big-chillleos-hamster-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2022-02-21T10:01:00.000Z",
   "pubdate": "2022-02-21T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "97462fd6f66457a1c68ac270489e0c556378dc04",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

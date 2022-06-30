@@ -2,7 +2,7 @@
   "airingid": "RADS1003022200076433",
   "seasonnumber": "5",
   "seasonitemnumber": "27",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "95a4b56e1e4eaa2e136954eb8cc57611581ffdca",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/butterfly-surprisesoccer-troubleyoure-not-miss-martin-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2022-03-07T05:00:00.000Z",
   "pubdate": "2022-03-07T05:00:00.000Z",
   "expdate": "2022-12-31T05:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672466340000",
   "mediaid": "95a4b56e1e4eaa2e136954eb8cc57611581ffdca",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

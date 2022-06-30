@@ -2,7 +2,7 @@
   "airingid": "RADS1001052200059173",
   "seasonnumber": "5",
   "seasonitemnumber": "14",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "22b640498676bde77f53ebf6518238a62099f2dc",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/caillou-can-compostcaillous-treecaillou-saves-water-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2022-02-04T05:00:00.000Z",
   "pubdate": "2022-02-04T05:00:00.000Z",
   "expdate": "2023-01-26T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1674709140000",
   "mediaid": "22b640498676bde77f53ebf6518238a62099f2dc",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

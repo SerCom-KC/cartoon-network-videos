@@ -2,7 +2,7 @@
   "airingid": "RADS1003022200076447",
   "seasonnumber": "5",
   "seasonitemnumber": "24",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "c98984897d2a2d6c8fa79cc8c331f3b3062a09d8",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/daddys-puzzleplay-with-mecaillous-bad-luck-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2022-03-07T05:00:00.000Z",
   "pubdate": "2022-03-07T05:00:00.000Z",
   "expdate": "2022-12-31T05:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672466340000",
   "mediaid": "c98984897d2a2d6c8fa79cc8c331f3b3062a09d8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

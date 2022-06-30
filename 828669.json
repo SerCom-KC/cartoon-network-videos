@@ -2,7 +2,7 @@
   "airingid": "RADS1006072200004635",
   "seasonnumber": "5",
   "seasonitemnumber": "4",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "847cb72ae2d7d3c7818cf5471dd658a3289952fd",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/caillou-makes-a-mealcaillous-new-groovecaillou-goes-bowling-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2022-06-27T04:01:00.000Z",
   "pubdate": "2022-06-27T04:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "847cb72ae2d7d3c7818cf5471dd658a3289952fd",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

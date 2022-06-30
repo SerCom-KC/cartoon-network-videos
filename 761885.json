@@ -2,7 +2,7 @@
   "airingid": "RADS1002072200070687",
   "seasonnumber": "2",
   "seasonitemnumber": "17",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "297b0222abdfa19afd9a8f973c3b6bb6e58687f4",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/backyard-zoocaillous-scavenger-hunttoo-many-cooksthe-berry-patch-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2022-03-06T10:01:00.000Z",
   "pubdate": "2022-03-06T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "297b0222abdfa19afd9a8f973c3b6bb6e58687f4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

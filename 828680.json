@@ -2,7 +2,7 @@
   "airingid": "RADS1002012200069120",
   "seasonnumber": "5",
   "seasonitemnumber": "15",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "b6a0e037fe6ccf041dac53442e73709f122bacdc",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/bunny-shmunnythats-mineraspberry-ruckus-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2022-02-07T05:00:00.000Z",
   "pubdate": "2022-02-07T05:00:00.000Z",
   "expdate": "2023-01-01T04:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549199000",
   "mediaid": "b6a0e037fe6ccf041dac53442e73709f122bacdc",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1002012200069126",
   "seasonnumber": "5",
   "seasonitemnumber": "17",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "e6fe9c034c879c747dfb17e150ba4145ab50ab47",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/caillous-mini-marathonsmooth-sailingam-i-big-yet-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2022-02-09T05:00:00.000Z",
   "pubdate": "2022-02-09T05:00:00.000Z",
   "expdate": "2023-01-01T04:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549199000",
   "mediaid": "e6fe9c034c879c747dfb17e150ba4145ab50ab47",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

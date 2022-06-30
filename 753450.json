@@ -2,7 +2,7 @@
   "airingid": "RADS1010272100040262",
   "seasonnumber": "1",
   "seasonitemnumber": "2",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "64594fb18248efed1329be3db72c2c09d0f4b2fa",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/daycarejoins-the-circusafraid-of-the-darkfriendsvisits-the-doctor-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2021-09-13T11:25:00.000Z",
   "pubdate": "2021-11-01T09:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "64594fb18248efed1329be3db72c2c09d0f4b2fa",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

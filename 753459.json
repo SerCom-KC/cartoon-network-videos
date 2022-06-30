@@ -2,7 +2,7 @@
   "airingid": "RADS1011222100046352",
   "seasonnumber": "1",
   "seasonitemnumber": "7",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "cd448148042bcce261afeac96140e44f1345be9a",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/caillous-big-slidecaillou-walks-a-dogcaillou-watches-rosiecaillou-gets-sickcaillous-phone-call-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2021-09-15T11:00:00.000Z",
   "pubdate": "2021-12-13T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "cd448148042bcce261afeac96140e44f1345be9a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

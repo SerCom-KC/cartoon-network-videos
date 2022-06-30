@@ -2,7 +2,7 @@
   "airingid": "RADS1001052200059453",
   "seasonnumber": "2",
   "seasonitemnumber": "5",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "13ec29205648d29c89c9e534d00323746cb594a6",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/sunday-brunchcaillou-to-the-rescuecaillous-top-bunkrecipe-for-fun-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2021-09-22T11:05:00.000Z",
   "pubdate": "2022-01-23T05:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "13ec29205648d29c89c9e534d00323746cb594a6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

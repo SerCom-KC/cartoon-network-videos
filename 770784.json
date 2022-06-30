@@ -2,7 +2,7 @@
   "airingid": "RADS1004272200093203",
   "seasonnumber": "4",
   "seasonitemnumber": "10",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "fd8b3ec5a44f9bb60831f7927b4d162d87a663f3",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/caillou-of-the-antarcticdeep-sea-cailloucaillou-in-the-bayou-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2022-05-16T04:00:00.000Z",
   "pubdate": "2022-05-16T04:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "fd8b3ec5a44f9bb60831f7927b4d162d87a663f3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

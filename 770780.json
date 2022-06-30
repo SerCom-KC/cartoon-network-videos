@@ -2,7 +2,7 @@
   "airingid": "RADS1004072200087369",
   "seasonnumber": "4",
   "seasonitemnumber": "5",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "104b9f03a588f2c54b7cb8064463a997bda8c8a9",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/caillou-and-the-big-slidecaillou-the-sailorcaillou-and-the-creepy-crawlies-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2022-05-02T09:01:00.000Z",
   "pubdate": "2022-05-02T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "104b9f03a588f2c54b7cb8064463a997bda8c8a9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1003022200076500",
   "seasonnumber": "3",
   "seasonitemnumber": "4",
-  "seriesid": "1000000000093702",
+  "seriesid": "753448",
   "id": "29b26c2fb691ddfb8ca94f2c8d68d3ba442675d9",
   "collectionid": "",
   "seofriendlyurl": "/video/caillou/elephantscaillou-and-the-sheepcaillou-and-the-puppiesthe-duck-familyclementines-new-pet-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "753448",
+  "seriesname": "Caillou",
   "originalpremieredate": "2022-03-21T09:01:00.000Z",
   "pubdate": "2022-03-21T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "29b26c2fb691ddfb8ca94f2c8d68d3ba442675d9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
