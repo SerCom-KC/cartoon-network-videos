@@ -2,7 +2,7 @@
   "airingid": "RADS1005312200001910",
   "seasonnumber": "2",
   "seasonitemnumber": "23",
-  "seriesid": "757073",
+  "seriesid": "1000000000070392",
   "id": "7f78336401478fc10b197b71d706b295696eeee8",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/go-with-me-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "757073",
-  "seriesname": "Adventure Time",
+  "seriestitleid": "1000000000070392",
+  "seriesname": "Pride Month",
   "originalpremieredate": "2022-06-03T09:00:00.000Z",
   "pubdate": "2022-06-03T09:00:00.000Z",
   "expdate": "2022-07-01T09:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1656666000000",
   "mediaid": "7f78336401478fc10b197b71d706b295696eeee8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

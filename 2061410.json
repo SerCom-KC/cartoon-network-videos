@@ -2,7 +2,7 @@
   "airingid": "RADS1005312200001992",
   "seasonnumber": "7",
   "seasonitemnumber": "2",
-  "seriesid": "757073",
+  "seriesid": "1000000000070392",
   "id": "9c9a4ad35b0ae72fedfd7fb0b7a491fdf5ca7ba1",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/varmints-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "757073",
-  "seriesname": "Adventure Time",
+  "seriestitleid": "1000000000070392",
+  "seriesname": "Pride Month",
   "originalpremieredate": "2022-06-03T09:00:00.000Z",
   "pubdate": "2022-06-03T09:00:00.000Z",
   "expdate": "2022-07-01T09:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1656666000000",
   "mediaid": "9c9a4ad35b0ae72fedfd7fb0b7a491fdf5ca7ba1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
