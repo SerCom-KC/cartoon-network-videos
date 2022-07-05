@@ -43,6 +43,49 @@
         "includeshortform": false
     },
     {
+        "airingid": "RADS1012212100054952",
+        "seasonnumber": "",
+        "seasonitemnumber": "",
+        "seriesid": "2056641",
+        "id": "0782f951fa0e0e454a211b3f5cdbe10a1a28f0ad",
+        "collectionid": "",
+        "seofriendlyurl": "/video/we-bare-bears/raincloud-chill-music-video-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Raincloud Chill Music Video",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Bears just being bears written Brad Breeck and Daniel Chong.",
+        "duration": 115,
+        "freewheelid": "cn-2141835",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-Y7",
+        "seriestitleid": "2056641",
+        "seriesname": "We Bare Bears",
+        "originalpremieredate": "2022-01-07T05:00:00.000Z",
+        "pubdate": "2022-01-07T05:00:00.000Z",
+        "expdate": "2022-12-31T05:00:00.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141835_005_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts|music video",
+        "titleid": "2141835",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2056641",
+        "originalseriesname": "We Bare Bears",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1641531600000",
+        "pubdateasmilliseconds": "1641531600000",
+        "expdateasmilliseconds": "1672462800000",
+        "mediaid": "0782f951fa0e0e454a211b3f5cdbe10a1a28f0ad",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
         "airingid": "RADS1012212100055220",
         "seasonnumber": "",
         "seasonitemnumber": "",
@@ -87,49 +130,6 @@
     },
     {
         "airingid": "RADS1012212100055183",
-        "seasonnumber": "",
-        "seasonitemnumber": "",
-        "seriesid": "2056641",
-        "id": "0782f951fa0e0e454a211b3f5cdbe10a1a28f0ad",
-        "collectionid": "",
-        "seofriendlyurl": "/video/we-bare-bears/raincloud-chill-music-video-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Raincloud Chill Music Video",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Bears just being bears written Brad Breeck and Daniel Chong.",
-        "duration": 115,
-        "freewheelid": "cn-2141835",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-Y7",
-        "seriestitleid": "2056641",
-        "seriesname": "We Bare Bears",
-        "originalpremieredate": "2022-01-07T05:00:00.000Z",
-        "pubdate": "2022-01-07T05:00:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141835_005_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts|music video",
-        "titleid": "2141835",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2056641",
-        "originalseriesname": "We Bare Bears",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1641531600000",
-        "pubdateasmilliseconds": "1641531600000",
-        "expdateasmilliseconds": "1672462800000",
-        "mediaid": "0782f951fa0e0e454a211b3f5cdbe10a1a28f0ad",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
-        "airingid": "RADS1012212100054952",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -473,7 +473,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055173",
+        "airingid": "RADS1012212100055209",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -516,7 +516,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055209",
+        "airingid": "RADS1012212100055173",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -645,7 +645,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055201",
+        "airingid": "RADS1012212100054920",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -688,7 +688,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054920",
+        "airingid": "RADS1012212100055201",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -860,7 +860,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054935",
+        "airingid": "RADS1012212100055221",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -903,7 +903,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055221",
+        "airingid": "RADS1012212100054935",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -989,49 +989,6 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055196",
-        "seasonnumber": "2",
-        "seasonitemnumber": "",
-        "seriesid": "2056641",
-        "id": "50195a83e10e53bab8757ccc36452ad395563f9e",
-        "collectionid": "",
-        "seofriendlyurl": "/video/we-bare-bears/grizzly-ultimate-hero-champion-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Grizzly: Ultimate Hero Champion",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Grizz records his audition tape for his favorite athletic game show.",
-        "duration": 120,
-        "freewheelid": "cn-2086800",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-Y7",
-        "seriestitleid": "2056641",
-        "seriesname": "We Bare Bears",
-        "originalpremieredate": "2022-01-07T05:00:00.000Z",
-        "pubdate": "2022-01-07T05:00:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2086800_003_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts",
-        "titleid": "2086800",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2056641",
-        "originalseriesname": "We Bare Bears",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1641531600000",
-        "pubdateasmilliseconds": "1641531600000",
-        "expdateasmilliseconds": "1672462800000",
-        "mediaid": "50195a83e10e53bab8757ccc36452ad395563f9e",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
         "airingid": "RADS1012212100055231",
         "seasonnumber": "2",
         "seasonitemnumber": "",
@@ -1076,6 +1033,49 @@
     },
     {
         "airingid": "RADS1012212100054923",
+        "seasonnumber": "2",
+        "seasonitemnumber": "",
+        "seriesid": "2056641",
+        "id": "50195a83e10e53bab8757ccc36452ad395563f9e",
+        "collectionid": "",
+        "seofriendlyurl": "/video/we-bare-bears/grizzly-ultimate-hero-champion-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Grizzly: Ultimate Hero Champion",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Grizz records his audition tape for his favorite athletic game show.",
+        "duration": 120,
+        "freewheelid": "cn-2086800",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-Y7",
+        "seriestitleid": "2056641",
+        "seriesname": "We Bare Bears",
+        "originalpremieredate": "2022-01-07T05:00:00.000Z",
+        "pubdate": "2022-01-07T05:00:00.000Z",
+        "expdate": "2022-12-31T05:00:00.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2086800_003_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts",
+        "titleid": "2086800",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2056641",
+        "originalseriesname": "We Bare Bears",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1641531600000",
+        "pubdateasmilliseconds": "1641531600000",
+        "expdateasmilliseconds": "1672462800000",
+        "mediaid": "50195a83e10e53bab8757ccc36452ad395563f9e",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1012212100055196",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1935,7 +1935,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055191",
+        "airingid": "RADS1012212100055227",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1978,7 +1978,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055227",
+        "airingid": "RADS1012212100055191",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2365,7 +2365,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054932",
+        "airingid": "RADS1012212100055225",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2451,7 +2451,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055225",
+        "airingid": "RADS1012212100054932",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2537,7 +2537,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054936",
+        "airingid": "RADS1012212100055239",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2580,7 +2580,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055239",
+        "airingid": "RADS1012212100054936",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3096,7 +3096,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055178",
+        "airingid": "RADS1012212100055213",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3139,7 +3139,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055213",
+        "airingid": "RADS1012212100055178",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3569,7 +3569,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055200",
+        "airingid": "RADS1012212100055235",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3612,7 +3612,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055235",
+        "airingid": "RADS1012212100055200",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3741,7 +3741,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055171",
+        "airingid": "RADS1012212100055207",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3784,7 +3784,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055207",
+        "airingid": "RADS1012212100055171",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
