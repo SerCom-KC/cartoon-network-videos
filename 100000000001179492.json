@@ -3741,7 +3741,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097937",
+        "airingid": "RADS1005122200097928",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3784,7 +3784,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097928",
+        "airingid": "RADS1005122200097937",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -5934,7 +5934,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097939",
+        "airingid": "RADS1005122200097923",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -5977,7 +5977,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097923",
+        "airingid": "RADS1005122200097939",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -13825,7 +13825,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2022-06-17T09:01:00.000Z",
         "pubdate": "2022-06-17T09:01:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
+        "expdate": "2022-07-08T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2239301_007_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -13838,7 +13838,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1655456460000",
         "pubdateasmilliseconds": "1655456460000",
-        "expdateasmilliseconds": "1672462800000",
+        "expdateasmilliseconds": "1657270740000",
         "mediaid": "e30ac5b4c77a03982e34ce86448dc225591b379f",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -14771,7 +14771,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2022-06-17T09:01:00.000Z",
         "pubdate": "2022-06-17T09:01:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
+        "expdate": "2022-07-08T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2239302_002_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -14784,7 +14784,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1655456460000",
         "pubdateasmilliseconds": "1655456460000",
-        "expdateasmilliseconds": "1672462800000",
+        "expdateasmilliseconds": "1657270740000",
         "mediaid": "f2fb32d734e737cef670fceb67f125ead476bd23",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
