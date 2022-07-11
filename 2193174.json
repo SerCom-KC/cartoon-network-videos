@@ -323,7 +323,7 @@
         "seriesname": "Victor and Valentino en Espanol",
         "originalpremieredate": "2022-03-18T09:01:00.000Z",
         "pubdate": "2022-03-18T09:01:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
+        "expdate": "2022-07-15T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193185_002_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -336,7 +336,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1647594060000",
         "pubdateasmilliseconds": "1647594060000",
-        "expdateasmilliseconds": "1672462800000",
+        "expdateasmilliseconds": "1657875540000",
         "mediaid": "3ae82be92d3ecd9d6b31e23de666aec1e3d12277",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -903,7 +903,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097923",
+        "airingid": "RADS1005122200097939",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "2193174",
@@ -946,7 +946,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097939",
+        "airingid": "RADS1005122200097923",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "2193174",
@@ -1140,7 +1140,7 @@
         "seriesname": "Victor and Valentino en Espanol",
         "originalpremieredate": "2022-03-18T09:01:00.000Z",
         "pubdate": "2022-03-18T09:01:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
+        "expdate": "2022-07-15T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193182_006_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -1153,7 +1153,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1647594060000",
         "pubdateasmilliseconds": "1647594060000",
-        "expdateasmilliseconds": "1672462800000",
+        "expdateasmilliseconds": "1657875540000",
         "mediaid": "826a07edfc7847c1d5da9ca198b4d1383a3d1420",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -1720,7 +1720,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097941",
+        "airingid": "RADS1005122200097925",
         "seasonnumber": "2",
         "seasonitemnumber": "2",
         "seriesid": "2193174",
@@ -1763,7 +1763,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097925",
+        "airingid": "RADS1005122200097941",
         "seasonnumber": "2",
         "seasonitemnumber": "2",
         "seriesid": "2193174",
