@@ -3870,7 +3870,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097937",
+        "airingid": "RADS1005122200097928",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3913,7 +3913,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097928",
+        "airingid": "RADS1005122200097937",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -6515,7 +6515,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2022-06-03T09:01:00.000Z",
         "pubdate": "2022-06-03T09:01:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
+        "expdate": "2022-07-22T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2201649_003_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -6528,7 +6528,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1654246860000",
         "pubdateasmilliseconds": "1654246860000",
-        "expdateasmilliseconds": "1672462800000",
+        "expdateasmilliseconds": "1658480340000",
         "mediaid": "678220b34431e487886d14265dce2a4fc84c38fe",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -7246,7 +7246,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2022-06-03T09:01:00.000Z",
         "pubdate": "2022-06-03T09:01:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
+        "expdate": "2022-07-22T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2201637_003_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -7259,7 +7259,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1654246860000",
         "pubdateasmilliseconds": "1654246860000",
-        "expdateasmilliseconds": "1672462800000",
+        "expdateasmilliseconds": "1658480340000",
         "mediaid": "763590d62dd3b29d84ffb8ca171b3d47a35deba2",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
