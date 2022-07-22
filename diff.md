@@ -3,8 +3,26 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: July 21, 2022 at 21:30:25 EDT_
+_Last Update: July 22, 2022 at 02:30:24 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2239398 We Baby Bears: 1 (1 new)  
+2141710 Total Dramarama: 1 (1 new)  
+### 2260351
+**We Baby Bears S01E29 - A Real Crayon**  
+🆕 TV-Y7 🔒 11:21  
+⌛ January 1, 2023 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2239398&titleid=2260351&mediaid=3f99e774a64dc87138305254157ea96103a24a99) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/a-real-crayon-episode.html  
+seriesid=`2239398` titleid=`2260351` mediaid=`3f99e774a64dc87138305254157ea96103a24a99`  
+_The Bears find a mysterious crayon that has the power to make anything they draw become REAL._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2260351_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260351_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260351_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260351_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260351_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260351_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260351_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260351_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260351_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260351_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260351_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260351_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260351_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260351_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260351_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260351_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260351_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260351_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260351_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260351_010_640x360.jpg" height="144px" /></a>
+### 2266616
+**Total Dramarama S03E50 - Legends of the Paul**  
+🆕 TV-Y7 🔒 10:42  
+⌛ January 1, 2023 at 00:00:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2141710&titleid=2266616&mediaid=8bf500557f79e30706ebf008068ff6370b6312f7) or on the web: https://www.cartoonnetwork.com/video/total-dramarama/legends-of-the-paul-episode.html  
+seriesid=`2141710` titleid=`2266616` mediaid=`8bf500557f79e30706ebf008068ff6370b6312f7`  
+_Duncan grows jealous of Paul's 100 year time out and determined to be King of the Pranks, has to team up with Paul, learn his ways, then double-cross and become a legend._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2266616_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266616_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266616_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266616_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266616_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266616_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266616_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266616_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266616_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266616_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266616_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266616_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266616_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266616_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266616_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266616_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266616_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266616_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266616_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266616_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
