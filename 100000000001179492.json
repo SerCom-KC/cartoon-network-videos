@@ -1656,7 +1656,7 @@
         "seriesname": "En Espa\u00f1ol",
         "originalpremieredate": "2022-04-01T09:01:00.000Z",
         "pubdate": "2022-04-01T09:01:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
+        "expdate": "2022-07-29T08:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2196839_008_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -1669,7 +1669,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1648803660000",
         "pubdateasmilliseconds": "1648803660000",
-        "expdateasmilliseconds": "1672462800000",
+        "expdateasmilliseconds": "1659085140000",
         "mediaid": "1eb1409bb4048216cbc36a1ea478c9ac92e3aa24",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -3827,7 +3827,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097937",
+        "airingid": "RADS1005122200097928",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -3870,7 +3870,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097928",
+        "airingid": "RADS1005122200097937",
         "seasonnumber": "2",
         "seasonitemnumber": "3",
         "seriesid": "100000000001179492",
@@ -5977,7 +5977,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097923",
+        "airingid": "RADS1005122200097939",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -6020,7 +6020,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097939",
+        "airingid": "RADS1005122200097923",
         "seasonnumber": "2",
         "seasonitemnumber": "5",
         "seriesid": "100000000001179492",
@@ -14706,7 +14706,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097925",
+        "airingid": "RADS1005122200097941",
         "seasonnumber": "2",
         "seasonitemnumber": "2",
         "seriesid": "100000000001179492",
@@ -14749,7 +14749,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005122200097941",
+        "airingid": "RADS1005122200097925",
         "seasonnumber": "2",
         "seasonitemnumber": "2",
         "seriesid": "100000000001179492",
