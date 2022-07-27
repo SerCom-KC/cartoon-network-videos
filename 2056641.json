@@ -2709,7 +2709,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054938",
+        "airingid": "RADS1012212100055241",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2752,7 +2752,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055241",
+        "airingid": "RADS1012212100054938",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3311,6 +3311,49 @@
         "includeshortform": false
     },
     {
+        "airingid": "RADS1012212100054924",
+        "seasonnumber": "1",
+        "seasonitemnumber": "",
+        "seriesid": "2056641",
+        "id": "8192db98c526065c5f3258dfdb36513be47539c8",
+        "collectionid": "",
+        "seofriendlyurl": "/video/we-bare-bears/goodnight-ice-bear-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Goodnight Ice Bear",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Ice Bear tries to fall asleep but the door to his fridge won't close. He tries to come up with a fix for it in any manner possible, no matter how elaborate.",
+        "duration": 98,
+        "freewheelid": "cn-2062638",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-Y7",
+        "seriestitleid": "2056641",
+        "seriesname": "We Bare Bears",
+        "originalpremieredate": "2022-01-07T05:00:00.000Z",
+        "pubdate": "2022-01-07T05:00:00.000Z",
+        "expdate": "2022-12-31T05:00:00.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2062638_004_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts",
+        "titleid": "2062638",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2056641",
+        "originalseriesname": "We Bare Bears",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1641531600000",
+        "pubdateasmilliseconds": "1641531600000",
+        "expdateasmilliseconds": "1672462800000",
+        "mediaid": "8192db98c526065c5f3258dfdb36513be47539c8",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
         "airingid": "RADS1012212100055229",
         "seasonnumber": "1",
         "seasonitemnumber": "",
@@ -3355,49 +3398,6 @@
     },
     {
         "airingid": "RADS1012212100055193",
-        "seasonnumber": "1",
-        "seasonitemnumber": "",
-        "seriesid": "2056641",
-        "id": "8192db98c526065c5f3258dfdb36513be47539c8",
-        "collectionid": "",
-        "seofriendlyurl": "/video/we-bare-bears/goodnight-ice-bear-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Goodnight Ice Bear",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Ice Bear tries to fall asleep but the door to his fridge won't close. He tries to come up with a fix for it in any manner possible, no matter how elaborate.",
-        "duration": 98,
-        "freewheelid": "cn-2062638",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-Y7",
-        "seriestitleid": "2056641",
-        "seriesname": "We Bare Bears",
-        "originalpremieredate": "2022-01-07T05:00:00.000Z",
-        "pubdate": "2022-01-07T05:00:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2062638_004_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts",
-        "titleid": "2062638",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2056641",
-        "originalseriesname": "We Bare Bears",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1641531600000",
-        "pubdateasmilliseconds": "1641531600000",
-        "expdateasmilliseconds": "1672462800000",
-        "mediaid": "8192db98c526065c5f3258dfdb36513be47539c8",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
-        "airingid": "RADS1012212100054924",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3698,7 +3698,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055225",
+        "airingid": "RADS1012212100054932",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3741,7 +3741,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054932",
+        "airingid": "RADS1012212100055225",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3870,7 +3870,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055239",
+        "airingid": "RADS1012212100054936",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3956,7 +3956,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054936",
+        "airingid": "RADS1012212100055239",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -4128,7 +4128,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054950",
+        "airingid": "RADS1012212100055216",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -4171,7 +4171,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055216",
+        "airingid": "RADS1012212100054950",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -6063,7 +6063,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055171",
+        "airingid": "RADS1012212100054928",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -6106,7 +6106,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054928",
+        "airingid": "RADS1012212100055171",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
