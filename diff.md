@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 3, 2022 at 10:00:24 EDT_
+_Last Update: August 3, 2022 at 14:00:24 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
-### Summary
-2056641 We Bare Bears: 2  
-### 2062634
-**We Bare Bears S01 Short - Nom Nom vs. Hamster**  
-TV-Y7 🔓 02:25  
-⌛ December 31, 2022 at 00:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2056641&titleid=2062634&mediaid=b83f468440c934bb6ef0ecfb58f058291a6d56a6) or on the web: https://www.cartoonnetwork.com/video/we-bare-bears/nom-nom-vs-hamster-episode.html  
-seriesid=`2056641` titleid=`2062634` mediaid=`b83f468440c934bb6ef0ecfb58f058291a6d56a6`  
-_Nom Nom is forced to share the spotlight on his new video with an uncooperative hamster._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2062634_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062634_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062634_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062634_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062634_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062634_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062634_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062634_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062634_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062634_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062634_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062634_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062634_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062634_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062634_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062634_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062634_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062634_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062634_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062634_010_640x360.jpg" height="144px" /></a>
-### 2062637
-**We Bare Bears S01 Short - Log Ride**  
-TV-Y7 🔓 03:44  
-⌛ December 31, 2022 at 00:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2056641&titleid=2062637&mediaid=e5912b738aeeaeadf5fcad251a4f4a1dfa98aa64) or on the web: https://www.cartoonnetwork.com/video/we-bare-bears/log-ride-episode.html  
-seriesid=`2056641` titleid=`2062637` mediaid=`e5912b738aeeaeadf5fcad251a4f4a1dfa98aa64`  
-_The Bears become obsessed with taking the perfect "action shot" picture on a log ride at an amusement park. They go on the ride over and over again until they've got the best shot._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2062637_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062637_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062637_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062637_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062637_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062637_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062637_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062637_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062637_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062637_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062637_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062637_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062637_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062637_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062637_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062637_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062637_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062637_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2062637_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2062637_010_640x360.jpg" height="144px" /></a>
+No videos were removed.  
