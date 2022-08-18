@@ -839,7 +839,7 @@
         "seriesname": "Mao Mao",
         "originalpremieredate": "2022-07-15T09:01:00.000Z",
         "pubdate": "2022-07-15T09:01:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
+        "expdate": "2022-08-19T03:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2204200_010_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -852,7 +852,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1657875660000",
         "pubdateasmilliseconds": "1657875660000",
-        "expdateasmilliseconds": "1672462800000",
+        "expdateasmilliseconds": "1660881599000",
         "mediaid": "8ceca2f9268095422900d6fe4d667db2d8ae2ead",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -1183,7 +1183,7 @@
         "seriesname": "Mao Mao",
         "originalpremieredate": "2022-07-08T09:01:00.000Z",
         "pubdate": "2022-07-08T09:01:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
+        "expdate": "2022-08-19T03:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2198275_007_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -1196,7 +1196,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1657270860000",
         "pubdateasmilliseconds": "1657270860000",
-        "expdateasmilliseconds": "1672462800000",
+        "expdateasmilliseconds": "1660881599000",
         "mediaid": "b3ed89f3692d216fa513813a8973f98444383963",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -1505,7 +1505,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1007262200015869",
+        "airingid": "RADS1007262200015883",
         "seasonnumber": "1",
         "seasonitemnumber": "10",
         "seriesid": "2181893",
@@ -1548,7 +1548,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1007262200015883",
+        "airingid": "RADS1007262200015869",
         "seasonnumber": "1",
         "seasonitemnumber": "10",
         "seriesid": "2181893",
