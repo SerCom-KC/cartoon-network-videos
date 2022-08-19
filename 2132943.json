@@ -2,7 +2,7 @@
   "airingid": "RADS1008042200019572",
   "seasonnumber": "2",
   "seasonitemnumber": "9",
-  "seriesid": "10000000000",
+  "seriesid": "2055199",
   "id": "04cfedd033b76eebd3c77109a92ccfa7098fb234",
   "collectionid": "",
   "seofriendlyurl": "/video/magiswords/aint-that-a-kick-in-the-side-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2055199",
+  "seriesname": "Magiswords",
   "originalpremieredate": "2022-08-12T09:00:00.000Z",
   "pubdate": "2022-08-12T09:00:00.000Z",
   "expdate": "2022-08-19T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1660881599000",
   "mediaid": "04cfedd033b76eebd3c77109a92ccfa7098fb234",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

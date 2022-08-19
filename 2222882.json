@@ -2,7 +2,7 @@
   "airingid": "RADS1008042200019531",
   "seasonnumber": "1",
   "seasonitemnumber": "7",
-  "seriesid": "10000000000",
+  "seriesid": "2199328",
   "id": "f53f385019ce41c169fdff61e2834b055af7c2b8",
   "collectionid": "",
   "seofriendlyurl": "/video/elliott-from-earth/developing-dilemna-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2199328",
+  "seriesname": "Elliott from Earth",
   "originalpremieredate": "2022-08-12T09:00:00.000Z",
   "pubdate": "2022-08-12T09:00:00.000Z",
   "expdate": "2022-08-19T08:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1660899540000",
   "mediaid": "f53f385019ce41c169fdff61e2834b055af7c2b8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

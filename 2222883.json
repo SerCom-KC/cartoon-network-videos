@@ -2,7 +2,7 @@
   "airingid": "RADS1008042200019529",
   "seasonnumber": "1",
   "seasonitemnumber": "8",
-  "seriesid": "10000000000",
+  "seriesid": "2199328",
   "id": "5eb6da53f526fd1663ec57a924e47358daa275c1",
   "collectionid": "",
   "seofriendlyurl": "/video/elliott-from-earth/inadvertant-inversion-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2199328",
+  "seriesname": "Elliott from Earth",
   "originalpremieredate": "2022-08-12T09:00:00.000Z",
   "pubdate": "2022-08-12T09:00:00.000Z",
   "expdate": "2022-08-19T08:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1660899540000",
   "mediaid": "5eb6da53f526fd1663ec57a924e47358daa275c1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

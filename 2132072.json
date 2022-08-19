@@ -2,7 +2,7 @@
   "airingid": "RADS1008042200019573",
   "seasonnumber": "2",
   "seasonitemnumber": "8",
-  "seriesid": "10000000000",
+  "seriesid": "2055199",
   "id": "d84c65f658c47d49507971db5c4a85b812194354",
   "collectionid": "",
   "seofriendlyurl": "/video/magiswords/whats-my-name-starring-vambre-and-prohyas-warrior-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2055199",
+  "seriesname": "Magiswords",
   "originalpremieredate": "2022-08-12T09:00:00.000Z",
   "pubdate": "2022-08-12T09:00:00.000Z",
   "expdate": "2022-08-19T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1660881599000",
   "mediaid": "d84c65f658c47d49507971db5c4a85b812194354",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
