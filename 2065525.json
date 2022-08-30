@@ -2,7 +2,7 @@
   "airingid": "RADS1008172200021924",
   "seasonnumber": "2",
   "seasonitemnumber": "1",
-  "seriesid": "10000000000",
+  "seriesid": "2056641",
   "id": "1995b9cabfbab15a2f23f5752ca26832ae0cc8ce",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/charlie-ball-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2056641",
+  "seriesname": "We Bare Bears",
   "originalpremieredate": "2022-08-26T09:00:00.000Z",
   "pubdate": "2022-08-26T09:00:00.000Z",
   "expdate": "2022-09-02T09:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1662109200000",
   "mediaid": "1995b9cabfbab15a2f23f5752ca26832ae0cc8ce",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
