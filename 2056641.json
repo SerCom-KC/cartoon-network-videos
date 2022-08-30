@@ -903,7 +903,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055173",
+        "airingid": "RADS1012212100054942",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -989,7 +989,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054942",
+        "airingid": "RADS1012212100055173",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1591,7 +1591,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055231",
+        "airingid": "RADS1012212100054923",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1634,7 +1634,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054923",
+        "airingid": "RADS1012212100055231",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2150,6 +2150,49 @@
         "includeshortform": false
     },
     {
+        "airingid": "RADS1012212100055234",
+        "seasonnumber": "3",
+        "seasonitemnumber": "",
+        "seriesid": "2056641",
+        "id": "5b9f9d9b344db941d18b2b8977c63abdeaa9a67b",
+        "collectionid": "",
+        "seofriendlyurl": "/video/we-bare-bears/the-cave-episode.html",
+        "seasonepisodenumber": "",
+        "title": "The Cave",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "The Bears try to get rid of a bat in their cave.",
+        "duration": 120,
+        "freewheelid": "cn-2100602",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-Y7",
+        "seriestitleid": "2056641",
+        "seriesname": "We Bare Bears",
+        "originalpremieredate": "2022-01-07T05:00:00.000Z",
+        "pubdate": "2022-01-07T05:00:00.000Z",
+        "expdate": "2022-12-31T05:00:00.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2100602_010_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts",
+        "titleid": "2100602",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2056641",
+        "originalseriesname": "We Bare Bears",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1641531600000",
+        "pubdateasmilliseconds": "1641531600000",
+        "expdateasmilliseconds": "1672462800000",
+        "mediaid": "5b9f9d9b344db941d18b2b8977c63abdeaa9a67b",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
         "airingid": "RADS1012212100055197",
         "seasonnumber": "3",
         "seasonitemnumber": "",
@@ -2194,49 +2237,6 @@
     },
     {
         "airingid": "RADS1012212100054940",
-        "seasonnumber": "3",
-        "seasonitemnumber": "",
-        "seriesid": "2056641",
-        "id": "5b9f9d9b344db941d18b2b8977c63abdeaa9a67b",
-        "collectionid": "",
-        "seofriendlyurl": "/video/we-bare-bears/the-cave-episode.html",
-        "seasonepisodenumber": "",
-        "title": "The Cave",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "The Bears try to get rid of a bat in their cave.",
-        "duration": 120,
-        "freewheelid": "cn-2100602",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-Y7",
-        "seriestitleid": "2056641",
-        "seriesname": "We Bare Bears",
-        "originalpremieredate": "2022-01-07T05:00:00.000Z",
-        "pubdate": "2022-01-07T05:00:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2100602_010_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts",
-        "titleid": "2100602",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2056641",
-        "originalseriesname": "We Bare Bears",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1641531600000",
-        "pubdateasmilliseconds": "1641531600000",
-        "expdateasmilliseconds": "1672462800000",
-        "mediaid": "5b9f9d9b344db941d18b2b8977c63abdeaa9a67b",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
-        "airingid": "RADS1012212100055234",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2967,7 +2967,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054924",
+        "airingid": "RADS1012212100055229",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3053,7 +3053,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055229",
+        "airingid": "RADS1012212100054924",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3526,7 +3526,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055239",
+        "airingid": "RADS1012212100055204",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3569,7 +3569,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055204",
+        "airingid": "RADS1012212100055239",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3827,7 +3827,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054950",
+        "airingid": "RADS1012212100055216",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3870,7 +3870,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055216",
+        "airingid": "RADS1012212100054950",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -4988,7 +4988,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054944",
+        "airingid": "RADS1012212100055212",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -5031,7 +5031,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055212",
+        "airingid": "RADS1012212100054944",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
