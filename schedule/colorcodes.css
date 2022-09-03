@@ -965,3 +965,24 @@
     color: #bf7a46;
     border-color: #bf7a46;
 }
+
+.franchise-479992, .series-2267156 { /* Bugs Bunny Builders */
+    font-family: linotteregular, sans-serif;
+    background-color: white;
+    color: #00c9fa;
+    border-color: #00c9fa;
+}
+
+.franchise-480912, .series-2106724 { /* Lamput */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #ff8600;
+    color: white;
+    border-color: white;
+}
+
+.franchise-480972, .series-2064567 { /* The Powerpuff Girls */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #f97eb5;
+    color: black;
+    border-color: black;
+}
