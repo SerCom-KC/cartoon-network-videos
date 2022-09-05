@@ -120,6 +120,13 @@
     border-color: #696d69;
 }
 
+.franchise-304026, .series-100106 { /* Dexter's Laboratory */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #f47221;
+    color: white;
+    border-color: white;
+}
+
 .franchise-304555, .series-322328 { /* Space Ghost Coast to Coast */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #fedb74;
@@ -259,11 +266,12 @@
     border-color: white;
 }
 
-.franchise-338119, .series-629690 { /* Ben 10 */
+.franchise-338119, .series-629690, /* Ben 10 */
+.franchise-355589, .series-709104 { /* Ben 10: Alien Force */
     font-family: "Avenir Std", sans-serif;
     background-color: #11181f;
-    color: #82c83c;
-    border-color: #82c83c;
+    color: #94c83c;
+    border-color: #94c83c;
 }
 
 .franchise-341865, .series-648666 { /* Metalocalypse */
