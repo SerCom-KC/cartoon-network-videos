@@ -1075,7 +1075,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023444",
+        "airingid": "RADS1008292200023588",
         "seasonnumber": "",
         "seasonitemnumber": "2",
         "seriesid": "10000000000",
@@ -1118,7 +1118,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023588",
+        "airingid": "RADS1008292200023444",
         "seasonnumber": "",
         "seasonitemnumber": "2",
         "seriesid": "10000000000",
@@ -2150,7 +2150,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023559",
+        "airingid": "RADS1008292200023438",
         "seasonnumber": "",
         "seasonitemnumber": "1",
         "seriesid": "10000000000",
@@ -2193,7 +2193,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023438",
+        "airingid": "RADS1008292200023559",
         "seasonnumber": "",
         "seasonitemnumber": "1",
         "seriesid": "10000000000",
@@ -2901,9 +2901,9 @@
         "tvratingcode": "TV-Y7-FV",
         "seriestitleid": "10000000000",
         "seriesname": "Unlocked",
-        "originalpremieredate": "2019-12-28T15:15:00.000Z",
+        "originalpremieredate": "2020-02-03T10:01:00.000Z",
         "pubdate": "2020-02-03T10:01:00.000Z",
-        "expdate": "2023-01-01T04:59:59.000Z",
+        "expdate": "2022-09-15T03:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2211947_009_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -2914,9 +2914,9 @@
         "originalseriesid": "835928",
         "originalseriesname": "Gumball",
         "hasparent": false,
-        "originalpremieredateasmilliseconds": "1577546100000",
+        "originalpremieredateasmilliseconds": "1580724060000",
         "pubdateasmilliseconds": "1580724060000",
-        "expdateasmilliseconds": "1672549199000",
+        "expdateasmilliseconds": "1663214340000",
         "mediaid": "4727076244fde1a80d68ea6233588e7f9fc13b79",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": true,
@@ -5461,7 +5461,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023532",
+        "airingid": "RADS1008292200023442",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
@@ -5504,7 +5504,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023442",
+        "airingid": "RADS1008292200023532",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
