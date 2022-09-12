@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: September 12, 2022 at 07:00:23 EDT_
+_Last Update: September 12, 2022 at 10:00:24 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2267156 Bugs Bunny Builders: 2  
+### 2267170
+**Bugs Bunny Builders S01E04 - Dino Fright**  
+TV-Y 🔓 11:20  
+⌛ September 12, 2022 at 05:00:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2267170&mediaid=56d73cc74b9a66f1054b81c8e9f554dd2a46cd13) or on the web: https://www.cartoonnetwork.com/video/bugs-bunny-builders/dino-fright-episode.html  
+seriesid=`2267156` titleid=`2267170` mediaid=`56d73cc74b9a66f1054b81c8e9f554dd2a46cd13`  
+_George P. Mandrake hires The Looney Builders to build a T. Rex fossil. It's Tweety's job to place the bones with his crane, but his fear of the big dino affects his ability to get the job done._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2267170_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267170_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267170_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267170_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267170_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267170_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267170_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267170_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267170_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267170_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267170_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267170_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267170_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267170_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267170_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267170_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267170_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267170_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267170_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267170_010_640x360.jpg" height="144px" /></a>
+### 2267174
+**Bugs Bunny Builders S01E05 - Snow Cap**  
+TV-Y 🔓 11:20  
+⌛ September 12, 2022 at 05:00:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2267174&mediaid=6b4347cff64bc235e24ad980c418198897030f3b) or on the web: https://www.cartoonnetwork.com/video/bugs-bunny-builders/snow-cap-episode.html  
+seriesid=`2267156` titleid=`2267174` mediaid=`6b4347cff64bc235e24ad980c418198897030f3b`  
+_Pauleen Penguin hires The Looney Builders to build her a home in Looneyburg. Lola soon discovers they got the design wrong and the crew has to make adjustments._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2267174_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267174_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267174_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267174_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267174_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267174_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267174_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267174_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267174_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267174_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267174_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267174_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267174_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267174_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267174_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267174_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267174_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267174_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267174_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267174_010_640x360.jpg" height="144px" /></a>
