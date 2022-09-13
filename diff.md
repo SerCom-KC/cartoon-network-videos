@@ -3,8 +3,26 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: September 13, 2022 at 05:30:25 EDT_
+_Last Update: September 13, 2022 at 08:00:25 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2405571 Meet the Batwheels: 1  
+2267111 Batwheels: 1  
+### 2272400
+**Meet the Batwheels S01 Short - Calling All Batwheels**  
+TV-Y 🔓 02:20  
+⌛ December 31, 2022 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2272400&mediaid=1c2ff8bb819ea221c4d1a8d7acc14d5c7fecb00a) or on the web: https://www.cartoonnetwork.com/video/meet-the-batwheels/calling-all-batwheels-episode.html  
+seriesid=`2405571` titleid=`2272400` mediaid=`1c2ff8bb819ea221c4d1a8d7acc14d5c7fecb00a`  
+_A music video introducing all of Batman's heroic vehicle squad - the Batwheels - showcasing their incredible gadgets, stunning talents, and unique personalities._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2272400_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2272400_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2272400_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2272400_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2272400_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2272400_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2272400_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2272400_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2272400_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2272400_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2272400_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2272400_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2272400_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2272400_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2272400_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2272400_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2272400_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2272400_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2272400_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2272400_010_640x360.jpg" height="144px" /></a>
+### 2290999
+**Batwheels S01 Short - Meet the Batwheels**  
+TV-Y 🔓 02:32  
+⌛ December 31, 2022 at 23:59:59 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2290999&mediaid=21c7f277f777d38985ed4bfdf13550a421043d2a) or on the web: https://www.cartoonnetwork.com/video/batwheels/meet-the-batwheels-episode.html  
+seriesid=`2267111` titleid=`2290999` mediaid=`21c7f277f777d38985ed4bfdf13550a421043d2a`  
+_An action-packed music video of the Batwheels' most exciting adventures set to an extended version of the series' theme song._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2290999_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2290999_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2290999_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2290999_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2290999_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2290999_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2290999_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2290999_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2290999_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2290999_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2290999_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2290999_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2290999_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2290999_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2290999_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2290999_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2290999_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2290999_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2290999_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2290999_010_640x360.jpg" height="144px" /></a>
