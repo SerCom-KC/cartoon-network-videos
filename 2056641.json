@@ -1591,7 +1591,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054923",
+        "airingid": "RADS1012212100055231",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1634,7 +1634,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055231",
+        "airingid": "RADS1012212100054923",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2150,7 +2150,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054940",
+        "airingid": "RADS1012212100055197",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2193,7 +2193,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055197",
+        "airingid": "RADS1012212100054940",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2516,7 +2516,7 @@
         "seriesname": "We Bare Bears",
         "originalpremieredate": "2022-01-07T05:00:00.000Z",
         "pubdate": "2022-01-07T05:00:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
+        "expdate": "2022-09-14T03:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141836_007_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -2529,7 +2529,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1641531600000",
         "pubdateasmilliseconds": "1641531600000",
-        "expdateasmilliseconds": "1672462800000",
+        "expdateasmilliseconds": "1663127999000",
         "mediaid": "6e5ad00fb802dbbef18e896bb37fb12a73ee6458",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -3526,7 +3526,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055204",
+        "airingid": "RADS1012212100054936",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3612,7 +3612,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054936",
+        "airingid": "RADS1012212100055204",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3784,7 +3784,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055179",
+        "airingid": "RADS1012212100055216",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3827,7 +3827,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055216",
+        "airingid": "RADS1012212100055179",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
