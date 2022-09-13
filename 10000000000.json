@@ -2709,7 +2709,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023438",
+        "airingid": "RADS1008292200023559",
         "seasonnumber": "",
         "seasonitemnumber": "1",
         "seriesid": "10000000000",
@@ -2752,7 +2752,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023559",
+        "airingid": "RADS1008292200023438",
         "seasonnumber": "",
         "seasonitemnumber": "1",
         "seriesid": "10000000000",
@@ -3440,7 +3440,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023445",
+        "airingid": "RADS1008292200023561",
         "seasonnumber": "",
         "seasonitemnumber": "4",
         "seriesid": "10000000000",
@@ -3483,7 +3483,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023561",
+        "airingid": "RADS1008292200023445",
         "seasonnumber": "",
         "seasonitemnumber": "4",
         "seriesid": "10000000000",
@@ -8772,7 +8772,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023435",
+        "airingid": "RADS1008292200023533",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
@@ -8815,7 +8815,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023533",
+        "airingid": "RADS1008292200023435",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
@@ -9052,7 +9052,7 @@
         "seriesname": "Unlocked",
         "originalpremieredate": "2022-09-02T09:01:00.000Z",
         "pubdate": "2022-09-02T09:01:00.000Z",
-        "expdate": "2022-09-15T03:59:00.000Z",
+        "expdate": "2022-09-14T03:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2157079_009_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -9065,7 +9065,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1662109260000",
         "pubdateasmilliseconds": "1662109260000",
-        "expdateasmilliseconds": "1663214340000",
+        "expdateasmilliseconds": "1663127999000",
         "mediaid": "f8ee01044db5f6f27f6ad61ef026fc8e10ec6086",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": true,
