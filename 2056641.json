@@ -946,7 +946,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055209",
+        "airingid": "RADS1012212100054942",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -989,7 +989,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054942",
+        "airingid": "RADS1012212100055209",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1333,7 +1333,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055221",
+        "airingid": "RADS1012212100054935",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1376,7 +1376,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054935",
+        "airingid": "RADS1012212100055221",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -1742,7 +1742,7 @@
         "seriesname": "We Bare Bears",
         "originalpremieredate": "2022-08-26T09:01:00.000Z",
         "pubdate": "2022-08-26T09:01:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
+        "expdate": "2022-09-14T03:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2064565_006_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -1755,7 +1755,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1661504460000",
         "pubdateasmilliseconds": "1661504460000",
-        "expdateasmilliseconds": "1672462800000",
+        "expdateasmilliseconds": "1663127999000",
         "mediaid": "523b98c5ae49acc6e2e1e04144fee50e6c775dc3",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -2193,7 +2193,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055197",
+        "airingid": "RADS1012212100055234",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2236,7 +2236,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055234",
+        "airingid": "RADS1012212100055197",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -2967,49 +2967,6 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055229",
-        "seasonnumber": "1",
-        "seasonitemnumber": "",
-        "seriesid": "2056641",
-        "id": "8192db98c526065c5f3258dfdb36513be47539c8",
-        "collectionid": "",
-        "seofriendlyurl": "/video/we-bare-bears/goodnight-ice-bear-episode.html",
-        "seasonepisodenumber": "",
-        "title": "Goodnight Ice Bear",
-        "episodenumber": "",
-        "type": "short",
-        "active": true,
-        "description": "Ice Bear tries to fall asleep but the door to his fridge won't close. He tries to come up with a fix for it in any manner possible, no matter how elaborate.",
-        "duration": 98,
-        "freewheelid": "cn-2062638",
-        "isclip": false,
-        "typesort": "2",
-        "tvratingcode": "TV-Y7",
-        "seriestitleid": "2056641",
-        "seriesname": "We Bare Bears",
-        "originalpremieredate": "2022-01-07T05:00:00.000Z",
-        "pubdate": "2022-01-07T05:00:00.000Z",
-        "expdate": "2022-09-14T03:59:59.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2062638_004_640x360.jpg",
-        "authtype": "unauth",
-        "webflags": "",
-        "tags": "shorts",
-        "titleid": "2062638",
-        "titletype": "Element",
-        "bannertext": "",
-        "originalseriesid": "2056641",
-        "originalseriesname": "We Bare Bears",
-        "hasparent": false,
-        "originalpremieredateasmilliseconds": "1641531600000",
-        "pubdateasmilliseconds": "1641531600000",
-        "expdateasmilliseconds": "1663127999000",
-        "mediaid": "8192db98c526065c5f3258dfdb36513be47539c8",
-        "isunlockedfullepisode": false,
-        "ismultipropertycollection": false,
-        "clipsonly": false,
-        "includeshortform": false
-    },
-    {
         "airingid": "RADS1012212100055193",
         "seasonnumber": "1",
         "seasonitemnumber": "",
@@ -3054,6 +3011,49 @@
     },
     {
         "airingid": "RADS1012212100054924",
+        "seasonnumber": "1",
+        "seasonitemnumber": "",
+        "seriesid": "2056641",
+        "id": "8192db98c526065c5f3258dfdb36513be47539c8",
+        "collectionid": "",
+        "seofriendlyurl": "/video/we-bare-bears/goodnight-ice-bear-episode.html",
+        "seasonepisodenumber": "",
+        "title": "Goodnight Ice Bear",
+        "episodenumber": "",
+        "type": "short",
+        "active": true,
+        "description": "Ice Bear tries to fall asleep but the door to his fridge won't close. He tries to come up with a fix for it in any manner possible, no matter how elaborate.",
+        "duration": 98,
+        "freewheelid": "cn-2062638",
+        "isclip": false,
+        "typesort": "2",
+        "tvratingcode": "TV-Y7",
+        "seriestitleid": "2056641",
+        "seriesname": "We Bare Bears",
+        "originalpremieredate": "2022-01-07T05:00:00.000Z",
+        "pubdate": "2022-01-07T05:00:00.000Z",
+        "expdate": "2022-09-14T03:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2062638_004_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "shorts",
+        "titleid": "2062638",
+        "titletype": "Element",
+        "bannertext": "",
+        "originalseriesid": "2056641",
+        "originalseriesname": "We Bare Bears",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1641531600000",
+        "pubdateasmilliseconds": "1641531600000",
+        "expdateasmilliseconds": "1663127999000",
+        "mediaid": "8192db98c526065c5f3258dfdb36513be47539c8",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1012212100055229",
         "seasonnumber": "1",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3354,7 +3354,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100054932",
+        "airingid": "RADS1012212100055189",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3397,7 +3397,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055189",
+        "airingid": "RADS1012212100054932",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3526,7 +3526,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055204",
+        "airingid": "RADS1012212100055239",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3569,7 +3569,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055239",
+        "airingid": "RADS1012212100055204",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3784,7 +3784,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055179",
+        "airingid": "RADS1012212100055216",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -3870,7 +3870,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055216",
+        "airingid": "RADS1012212100055179",
         "seasonnumber": "2",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -4494,7 +4494,7 @@
         "seriesname": "We Bare Bears",
         "originalpremieredate": "2022-08-05T09:01:00.000Z",
         "pubdate": "2022-08-05T09:01:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
+        "expdate": "2022-09-14T03:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2171421_005_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -4507,7 +4507,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1659690060000",
         "pubdateasmilliseconds": "1659690060000",
-        "expdateasmilliseconds": "1672462800000",
+        "expdateasmilliseconds": "1663127999000",
         "mediaid": "b2bab835a771a706da6700710869ef5f0112334f",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -4709,7 +4709,7 @@
         "seriesname": "We Bare Bears",
         "originalpremieredate": "2022-08-12T09:01:00.000Z",
         "pubdate": "2022-08-12T09:01:00.000Z",
-        "expdate": "2022-12-31T05:00:00.000Z",
+        "expdate": "2022-09-14T03:59:59.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2187597_008_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -4722,7 +4722,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1660294860000",
         "pubdateasmilliseconds": "1660294860000",
-        "expdateasmilliseconds": "1672462800000",
+        "expdateasmilliseconds": "1663127999000",
         "mediaid": "be7f69b369ee4981fbeea03cfee42d5a0ec2c30d",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -5547,7 +5547,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055217",
+        "airingid": "RADS1012212100055181",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
@@ -5590,7 +5590,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212100055181",
+        "airingid": "RADS1012212100055217",
         "seasonnumber": "3",
         "seasonitemnumber": "",
         "seriesid": "2056641",
