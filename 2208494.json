@@ -1,6 +1,6 @@
 [
     {
-        "airingid": "RADS1009122200026829",
+        "airingid": "RADS1009142200028189",
         "seasonnumber": "1",
         "seasonitemnumber": "3",
         "seriesid": "2208494",
@@ -22,7 +22,7 @@
         "seriesname": "Steven Universe Future",
         "originalpremieredate": "2022-09-14T04:00:00.000Z",
         "pubdate": "2022-09-14T04:00:00.000Z",
-        "expdate": "2022-09-23T03:59:59.000Z",
+        "expdate": "2022-09-23T03:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193167_006_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -35,7 +35,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1663128000000",
         "pubdateasmilliseconds": "1663128000000",
-        "expdateasmilliseconds": "1663905599000",
+        "expdateasmilliseconds": "1663905540000",
         "mediaid": "27d1d75ab84f0d17d041cac9d9d003e616fee17f",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
@@ -172,7 +172,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1009122200026810",
+        "airingid": "RADS1009142200028190",
         "seasonnumber": "1",
         "seasonitemnumber": "1",
         "seriesid": "2208494",
@@ -194,7 +194,7 @@
         "seriesname": "Steven Universe Future",
         "originalpremieredate": "2022-09-14T04:00:00.000Z",
         "pubdate": "2022-09-14T04:00:00.000Z",
-        "expdate": "2022-09-23T03:59:59.000Z",
+        "expdate": "2022-09-23T03:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2192348_002_640x360.jpg",
         "authtype": "unauth",
         "webflags": "",
@@ -207,7 +207,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1663128000000",
         "pubdateasmilliseconds": "1663128000000",
-        "expdateasmilliseconds": "1663905599000",
+        "expdateasmilliseconds": "1663905540000",
         "mediaid": "b760a0b0ebe0cb54c015cd2ebac76fef8ac49016",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": false,
