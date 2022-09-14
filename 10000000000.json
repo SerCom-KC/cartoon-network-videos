@@ -1204,7 +1204,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023588",
+        "airingid": "RADS1008292200023444",
         "seasonnumber": "",
         "seasonitemnumber": "2",
         "seriesid": "10000000000",
@@ -1247,7 +1247,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023444",
+        "airingid": "RADS1008292200023588",
         "seasonnumber": "",
         "seasonitemnumber": "2",
         "seriesid": "10000000000",
@@ -1800,6 +1800,49 @@
         "pubdateasmilliseconds": "1662714000000",
         "expdateasmilliseconds": "1663318740000",
         "mediaid": "27cf3192143bc1b26c3449c4de1b371f59eec7c1",
+        "isunlockedfullepisode": true,
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
+        "airingid": "RADS1009122200026829",
+        "seasonnumber": "1",
+        "seasonitemnumber": "3",
+        "seriesid": "10000000000",
+        "id": "27d1d75ab84f0d17d041cac9d9d003e616fee17f",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe-future/rose-buds-episode.html",
+        "seasonepisodenumber": "3",
+        "title": "Rose Buds",
+        "episodenumber": "3",
+        "type": "fullepisode",
+        "active": true,
+        "description": "Steven gets a surprise visit from some old friends, and an even more surprising introduction to some new ones.",
+        "duration": 677,
+        "freewheelid": "cn-2193167",
+        "isclip": false,
+        "typesort": "1",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "10000000000",
+        "seriesname": "Unlocked",
+        "originalpremieredate": "2022-09-14T04:00:00.000Z",
+        "pubdate": "2022-09-14T04:00:00.000Z",
+        "expdate": "2022-09-23T03:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193167_006_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "unauth",
+        "titleid": "2193167",
+        "titletype": "Episode",
+        "bannertext": "LATEST EPISODE",
+        "originalseriesid": "2208494",
+        "originalseriesname": "Steven Universe Future",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1663128000000",
+        "pubdateasmilliseconds": "1663128000000",
+        "expdateasmilliseconds": "1663905599000",
+        "mediaid": "27d1d75ab84f0d17d041cac9d9d003e616fee17f",
         "isunlockedfullepisode": true,
         "ismultipropertycollection": true,
         "clipsonly": false,
@@ -2580,7 +2623,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023559",
+        "airingid": "RADS1008292200023438",
         "seasonnumber": "",
         "seasonitemnumber": "1",
         "seriesid": "10000000000",
@@ -2623,7 +2666,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023438",
+        "airingid": "RADS1008292200023559",
         "seasonnumber": "",
         "seasonitemnumber": "1",
         "seriesid": "10000000000",
@@ -3268,7 +3311,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023561",
+        "airingid": "RADS1008292200023445",
         "seasonnumber": "",
         "seasonitemnumber": "4",
         "seriesid": "10000000000",
@@ -3311,7 +3354,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023445",
+        "airingid": "RADS1008292200023561",
         "seasonnumber": "",
         "seasonitemnumber": "4",
         "seriesid": "10000000000",
@@ -8729,7 +8772,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023533",
+        "airingid": "RADS1008292200023435",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
@@ -8772,7 +8815,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023435",
+        "airingid": "RADS1008292200023533",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
