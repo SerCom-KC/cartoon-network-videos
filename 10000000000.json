@@ -1204,7 +1204,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023444",
+        "airingid": "RADS1008292200023588",
         "seasonnumber": "",
         "seasonitemnumber": "2",
         "seriesid": "10000000000",
@@ -1247,7 +1247,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023588",
+        "airingid": "RADS1008292200023444",
         "seasonnumber": "",
         "seasonitemnumber": "2",
         "seriesid": "10000000000",
@@ -2580,7 +2580,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023438",
+        "airingid": "RADS1008292200023559",
         "seasonnumber": "",
         "seasonitemnumber": "1",
         "seriesid": "10000000000",
@@ -2623,7 +2623,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023559",
+        "airingid": "RADS1008292200023438",
         "seasonnumber": "",
         "seasonitemnumber": "1",
         "seriesid": "10000000000",
@@ -3268,7 +3268,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023445",
+        "airingid": "RADS1008292200023561",
         "seasonnumber": "",
         "seasonitemnumber": "4",
         "seriesid": "10000000000",
@@ -3311,7 +3311,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023561",
+        "airingid": "RADS1008292200023445",
         "seasonnumber": "",
         "seasonitemnumber": "4",
         "seriesid": "10000000000",
@@ -7224,6 +7224,49 @@
         "includeshortform": false
     },
     {
+        "airingid": "RADS1009122200026810",
+        "seasonnumber": "1",
+        "seasonitemnumber": "1",
+        "seriesid": "10000000000",
+        "id": "b760a0b0ebe0cb54c015cd2ebac76fef8ac49016",
+        "collectionid": "",
+        "seofriendlyurl": "/video/steven-universe-future/little-homeschool-episode.html",
+        "seasonepisodenumber": "1",
+        "title": "Little Homeschool",
+        "episodenumber": "1",
+        "type": "fullepisode",
+        "active": true,
+        "description": "Welcome to Little Homeschool, a place on earth where Gems from all over the universe can come learn how to live together peacefully! But there's one Gem who refuses to attend.",
+        "duration": 677,
+        "freewheelid": "cn-2192348",
+        "isclip": false,
+        "typesort": "1",
+        "tvratingcode": "TV-PG",
+        "seriestitleid": "10000000000",
+        "seriesname": "Unlocked",
+        "originalpremieredate": "2022-09-14T04:00:00.000Z",
+        "pubdate": "2022-09-14T04:00:00.000Z",
+        "expdate": "2022-09-23T03:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2192348_002_640x360.jpg",
+        "authtype": "unauth",
+        "webflags": "",
+        "tags": "unauth",
+        "titleid": "2192348",
+        "titletype": "Episode",
+        "bannertext": "LATEST EPISODE",
+        "originalseriesid": "2208494",
+        "originalseriesname": "Steven Universe Future",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1663128000000",
+        "pubdateasmilliseconds": "1663128000000",
+        "expdateasmilliseconds": "1663905599000",
+        "mediaid": "b760a0b0ebe0cb54c015cd2ebac76fef8ac49016",
+        "isunlockedfullepisode": true,
+        "ismultipropertycollection": true,
+        "clipsonly": false,
+        "includeshortform": false
+    },
+    {
         "airingid": "RADS1008012200017670",
         "seasonnumber": "3",
         "seasonitemnumber": "",
@@ -8686,7 +8729,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023435",
+        "airingid": "RADS1008292200023533",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
@@ -8729,7 +8772,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1008292200023533",
+        "airingid": "RADS1008292200023435",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "10000000000",
