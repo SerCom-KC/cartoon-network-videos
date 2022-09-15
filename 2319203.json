@@ -2,7 +2,7 @@
   "airingid": "RADS1009162100029758",
   "seasonnumber": "1",
   "seasonitemnumber": "13",
-  "seriesid": "10000000000",
+  "seriesid": "2259546",
   "id": "b7551c2b45213b9c1616fde269b87fd8926c7621",
   "collectionid": "",
   "seofriendlyurl": "/video/drawn-to/drawn-to-rhythm-jayleen-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2259546",
+  "seriesname": "Drawn To",
   "originalpremieredate": "2021-09-17T09:00:00.000Z",
   "pubdate": "2021-09-17T09:00:00.000Z",
   "expdate": "2023-01-01T04:59:59.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2319203",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2259546",
   "originalseriesname": "Drawn To",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549199000",
   "mediaid": "b7551c2b45213b9c1616fde269b87fd8926c7621",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

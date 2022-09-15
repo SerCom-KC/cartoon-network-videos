@@ -2,7 +2,7 @@
   "airingid": "RADS1004282100092989",
   "seasonnumber": "1",
   "seasonitemnumber": "4",
-  "seriesid": "10000000000",
+  "seriesid": "2259546",
   "id": "ad49ff3eceb2a2dfb6d232f81dc80aa93a3be5d1",
   "collectionid": "",
   "seofriendlyurl": "/video/drawn-to/drawn-to-ancestry-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "NR",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2259546",
+  "seriesname": "Drawn To",
   "originalpremieredate": "2021-04-30T09:00:00.000Z",
   "pubdate": "2021-04-30T09:00:00.000Z",
   "expdate": "2023-01-01T04:59:59.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2268305",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2259546",
   "originalseriesname": "Drawn To",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549199000",
   "mediaid": "ad49ff3eceb2a2dfb6d232f81dc80aa93a3be5d1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

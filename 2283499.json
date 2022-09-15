@@ -2,7 +2,7 @@
   "airingid": "RADS1007022100010253",
   "seasonnumber": "1",
   "seasonitemnumber": "5",
-  "seriesid": "10000000000",
+  "seriesid": "2259546",
   "id": "49b1207a5b4ef4df644d77faa96dc5aff33bb6de",
   "collectionid": "",
   "seofriendlyurl": "/video/drawn-to/drawn-to-expression-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "NR",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2259546",
+  "seriesname": "Drawn To",
   "originalpremieredate": "2021-07-05T09:00:00.000Z",
   "pubdate": "2021-07-05T09:00:00.000Z",
   "expdate": "2023-01-01T04:59:59.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2283499",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2259546",
   "originalseriesname": "Drawn To",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549199000",
   "mediaid": "49b1207a5b4ef4df644d77faa96dc5aff33bb6de",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1003112100081497",
   "seasonnumber": "1",
   "seasonitemnumber": "1",
-  "seriesid": "10000000000",
+  "seriesid": "2259546",
   "id": "fad3f76a4fcd1a5463bfc149d35234fa59fb436c",
   "collectionid": "",
   "seofriendlyurl": "/video/drawn-to/drawn-to-community-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "NR",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2259546",
+  "seriesname": "Drawn To",
   "originalpremieredate": "2021-03-12T10:00:00.000Z",
   "pubdate": "2021-03-12T10:00:00.000Z",
   "expdate": "2023-01-01T04:59:59.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2262144",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2259546",
   "originalseriesname": "Drawn To",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549199000",
   "mediaid": "fad3f76a4fcd1a5463bfc149d35234fa59fb436c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

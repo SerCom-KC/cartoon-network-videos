@@ -2,7 +2,7 @@
   "airingid": "RADS1006212100007241",
   "seasonnumber": "1",
   "seasonitemnumber": "8",
-  "seriesid": "10000000000",
+  "seriesid": "2259546",
   "id": "942226286a944bc812cfc0af101ebe3647eedacc",
   "collectionid": "",
   "seofriendlyurl": "/video/drawn-to/drawn-to-juneteenth-julian-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "NR",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2259546",
+  "seriesname": "Drawn To",
   "originalpremieredate": "2021-06-21T04:00:00.000Z",
   "pubdate": "2021-06-21T04:00:00.000Z",
   "expdate": "2023-01-01T04:59:59.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2291741",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2259546",
   "originalseriesname": "Drawn To",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549199000",
   "mediaid": "942226286a944bc812cfc0af101ebe3647eedacc",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

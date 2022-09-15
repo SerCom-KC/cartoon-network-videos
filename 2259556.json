@@ -2,7 +2,7 @@
   "airingid": "RADS1003302100084996",
   "seasonnumber": "1",
   "seasonitemnumber": "2",
-  "seriesid": "10000000000",
+  "seriesid": "2259546",
   "id": "f67e99056379aca401692dc35e99512bfdb8edf0",
   "collectionid": "",
   "seofriendlyurl": "/video/drawn-to/drawn-to-making-it-happen-with-sidney-keys-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "NR",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2259546",
+  "seriesname": "Drawn To",
   "originalpremieredate": "2021-03-30T04:00:00.000Z",
   "pubdate": "2021-03-30T04:00:00.000Z",
   "expdate": "2023-01-01T04:59:59.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2259556",
   "titletype": "Element",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2259546",
   "originalseriesname": "Drawn To",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549199000",
   "mediaid": "f67e99056379aca401692dc35e99512bfdb8edf0",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
