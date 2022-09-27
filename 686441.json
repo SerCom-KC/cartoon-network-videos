@@ -2,7 +2,7 @@
   "airingid": "RADS1002032200069433",
   "seasonnumber": "1",
   "seasonitemnumber": "25",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "32747a7fcce98366a607ede00058be48bcc78be0",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/patos-postal-service-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-02-21T10:01:00.000Z",
   "pubdate": "2022-02-21T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "32747a7fcce98366a607ede00058be48bcc78be0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1010122100037838",
   "seasonnumber": "2",
   "seasonitemnumber": "25",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "d5fdb48b0263d654493392d66b4085cb925901a5",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/halloween-potion-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2021-10-25T09:00:00.000Z",
   "pubdate": "2021-10-25T09:00:00.000Z",
   "expdate": "2022-12-31T10:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672480800000",
   "mediaid": "d5fdb48b0263d654493392d66b4085cb925901a5",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

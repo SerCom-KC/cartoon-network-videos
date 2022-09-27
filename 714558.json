@@ -2,7 +2,7 @@
   "airingid": "RADS1008032200019049",
   "seasonnumber": "2",
   "seasonitemnumber": "43",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "4642162e92b7f6e5ec4b42af7ddd0a7d3b59cf7c",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/get-lost-loula-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-08-22T09:01:00.000Z",
   "pubdate": "2022-08-22T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "4642162e92b7f6e5ec4b42af7ddd0a7d3b59cf7c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

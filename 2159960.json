@@ -2,7 +2,7 @@
   "airingid": "RADS1005032200094689",
   "seasonnumber": "3",
   "seasonitemnumber": "49",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "1d198ee870617a11170388841b92c4db77242f13",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/pocoyo-recycles-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-05-06T09:00:00.000Z",
   "pubdate": "2022-05-06T09:00:00.000Z",
   "expdate": "2023-01-01T10:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672567200000",
   "mediaid": "1d198ee870617a11170388841b92c4db77242f13",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

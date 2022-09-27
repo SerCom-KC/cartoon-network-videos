@@ -2,7 +2,7 @@
   "airingid": "RADS1009152200028444",
   "seasonnumber": "4",
   "seasonitemnumber": "8",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "6084e2b9f27703d777e1553dda98818049c35ccc",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/uncle-grandpa-runs-for-president-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2022-09-23T04:00:00.000Z",
   "pubdate": "2022-09-23T04:00:00.000Z",
   "expdate": "2022-10-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664769540000",
   "mediaid": "6084e2b9f27703d777e1553dda98818049c35ccc",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

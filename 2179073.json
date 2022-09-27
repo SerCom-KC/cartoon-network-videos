@@ -2,7 +2,7 @@
   "airingid": "RADS1002072200070661",
   "seasonnumber": "1",
   "seasonitemnumber": "19",
-  "seriesid": "2179056",
+  "seriesid": "1000000000093702",
   "id": "a7dcc1d0cb364035d75a1063287cc347e7f6a882",
   "collectionid": "",
   "seofriendlyurl": "/video/mush-mush-&-the-mushables/the-snake-dance-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2179056",
-  "seriesname": "Mush Mush & the Mushables",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-03-06T10:01:00.000Z",
   "pubdate": "2022-03-06T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "a7dcc1d0cb364035d75a1063287cc347e7f6a882",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1003302200083520",
   "seasonnumber": "1",
   "seasonitemnumber": "46",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "4e1b24fe51c11c3f7e9843450f4a05678dafd94d",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/a-little-something-between-friends-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-04-18T09:01:00.000Z",
   "pubdate": "2022-04-18T09:01:00.000Z",
   "expdate": "2022-12-13T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1670907600000",
   "mediaid": "4e1b24fe51c11c3f7e9843450f4a05678dafd94d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

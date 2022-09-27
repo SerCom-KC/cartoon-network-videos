@@ -2,7 +2,7 @@
   "airingid": "RADS1005122200098210",
   "seasonnumber": "4",
   "seasonitemnumber": "5",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "4b5b9bc0a32c605f095049a5469bd37e1384148c",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/call-me-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-05-23T15:20:00.000Z",
   "pubdate": "2022-05-23T15:20:00.000Z",
   "expdate": "2023-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549200000",
   "mediaid": "4b5b9bc0a32c605f095049a5469bd37e1384148c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

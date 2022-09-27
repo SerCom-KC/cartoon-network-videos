@@ -2,7 +2,7 @@
   "airingid": "RADS1006012200002392",
   "seasonnumber": "1",
   "seasonitemnumber": "19",
-  "seriesid": "2266513",
+  "seriesid": "1000000000093702",
   "id": "ad2b78946c6d9cff1675da75688cb075e21e2571",
   "collectionid": "",
   "seofriendlyurl": "/video/lucas-the-spider/flash-and-boom-house-sitting-findley-is-sick-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2266513",
-  "seriesname": "Lucas the Spider",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-06-03T04:00:00.000Z",
   "pubdate": "2022-06-03T04:00:00.000Z",
   "expdate": "2023-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549140000",
   "mediaid": "ad2b78946c6d9cff1675da75688cb075e21e2571",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }

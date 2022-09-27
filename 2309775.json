@@ -2,7 +2,7 @@
   "airingid": "RADS1003022200076491",
   "seasonnumber": "1",
   "seasonitemnumber": "25",
-  "seriesid": "2309749",
+  "seriesid": "1000000000093702",
   "id": "5a56fc290a27fa89747de64cbad7079287887ef4",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/hearts-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2309749",
-  "seriesname": "Bing",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-03-21T09:01:00.000Z",
   "pubdate": "2022-03-21T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "5a56fc290a27fa89747de64cbad7079287887ef4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

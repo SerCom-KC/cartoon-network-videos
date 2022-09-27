@@ -2,7 +2,7 @@
   "airingid": "RADS1008032200019060",
   "seasonnumber": "1",
   "seasonitemnumber": "11",
-  "seriesid": "2266513",
+  "seriesid": "1000000000093702",
   "id": "2ef55a35c1e0767315b4ae7a16f7490674b0e1ec",
   "collectionid": "",
   "seofriendlyurl": "/video/lucas-the-spider/flyingdr-lucas-is-in-the-housearlos-portrait-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2266513",
-  "seriesname": "Lucas the Spider",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-08-22T09:01:00.000Z",
   "pubdate": "2022-08-22T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "2ef55a35c1e0767315b4ae7a16f7490674b0e1ec",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1005102200097407",
   "seasonnumber": "2",
   "seasonitemnumber": "10",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "ccb7015b1ca8410ef2ba09e07ad0a0d634b063b3",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/ellys-ballet-class-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-05-30T09:01:00.000Z",
   "pubdate": "2022-05-30T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "ccb7015b1ca8410ef2ba09e07ad0a0d634b063b3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1011092100043112",
   "seasonnumber": "1",
   "seasonitemnumber": "6",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "b918eee77795fb15e475654d3a4eabf674dc5ae5",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/a-little-cloud-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2021-11-29T10:01:00.000Z",
   "pubdate": "2021-11-29T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "b918eee77795fb15e475654d3a4eabf674dc5ae5",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

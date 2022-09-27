@@ -2,7 +2,7 @@
   "airingid": "RADS1007062200012139",
   "seasonnumber": "4",
   "seasonitemnumber": "27",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "a1cec2838e58e6bbc569f9c0211929efa803e3f0",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/the-dino-box-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-07-11T04:00:00.000Z",
   "pubdate": "2022-07-11T04:00:00.000Z",
   "expdate": "2023-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549140000",
   "mediaid": "a1cec2838e58e6bbc569f9c0211929efa803e3f0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

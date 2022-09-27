@@ -2,7 +2,7 @@
   "airingid": "RADS1004272200093171",
   "seasonnumber": "3",
   "seasonitemnumber": "44",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "b9c393247546de173a922b964343c17d68af00f7",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/ellys-new-doll-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-04-29T09:00:00.000Z",
   "pubdate": "2022-04-29T09:00:00.000Z",
   "expdate": "2023-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549200000",
   "mediaid": "b9c393247546de173a922b964343c17d68af00f7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

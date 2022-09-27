@@ -2,7 +2,7 @@
   "airingid": "RADS1009152200028541",
   "seasonnumber": "2",
   "seasonitemnumber": "21",
-  "seriesid": "2194742",
+  "seriesid": "10000000000",
   "id": "25c46f347fd6b008838a8d2281729562ce75fbc8",
   "collectionid": "",
   "seofriendlyurl": "/video/ninjago/queen-of-the-munce-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2194742",
-  "seriesname": "Ninjago",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2022-09-23T04:00:59.000Z",
   "pubdate": "2022-09-23T04:00:59.000Z",
   "expdate": "2022-10-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664769540000",
   "mediaid": "25c46f347fd6b008838a8d2281729562ce75fbc8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

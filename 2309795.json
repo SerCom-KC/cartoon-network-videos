@@ -2,7 +2,7 @@
   "airingid": "RADS1004272200093189",
   "seasonnumber": "1",
   "seasonitemnumber": "70",
-  "seriesid": "2309749",
+  "seriesid": "1000000000093702",
   "id": "efc6259fb5b1fd6710d512db65a152d879a67b06",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/ice-lolly-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2309749",
-  "seriesname": "Bing",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-05-16T04:00:00.000Z",
   "pubdate": "2022-05-16T04:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "efc6259fb5b1fd6710d512db65a152d879a67b06",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

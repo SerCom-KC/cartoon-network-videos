@@ -2,7 +2,7 @@
   "airingid": "RADS1007062200012135",
   "seasonnumber": "2",
   "seasonitemnumber": "34",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "cc18effd931c05d60b53e4b1f9610f8e6a80d01c",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/noise-to-my-ears-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-07-25T09:01:00.000Z",
   "pubdate": "2022-07-25T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "cc18effd931c05d60b53e4b1f9610f8e6a80d01c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

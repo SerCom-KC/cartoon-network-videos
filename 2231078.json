@@ -2,7 +2,7 @@
   "airingid": "RADS1009152200028489",
   "seasonnumber": "3",
   "seasonitemnumber": "33",
-  "seriesid": "10000000000",
+  "seriesid": "2170837",
   "id": "340cbc25cb1fb877ea1dcd5e358dabbc5ddfa609",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/champion-of-the-universe-danoperation-babysitter-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2170837",
+  "seriesname": "Bakugan: Battle Planet",
   "originalpremieredate": "2022-09-23T04:00:59.000Z",
   "pubdate": "2022-09-23T04:00:59.000Z",
   "expdate": "2022-10-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664769540000",
   "mediaid": "340cbc25cb1fb877ea1dcd5e358dabbc5ddfa609",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

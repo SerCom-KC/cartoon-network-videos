@@ -2,7 +2,7 @@
   "airingid": "RADS1009152200028498",
   "seasonnumber": "3",
   "seasonitemnumber": "32",
-  "seriesid": "10000000000",
+  "seriesid": "2170837",
   "id": "e903d782efb2af3a2013b8575de5bbb074b925aa",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/the-tokyo-catastrophebakugan-battle-league-finale-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2170837",
+  "seriesname": "Bakugan: Battle Planet",
   "originalpremieredate": "2022-09-23T04:00:59.000Z",
   "pubdate": "2022-09-23T04:00:59.000Z",
   "expdate": "2022-10-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664769540000",
   "mediaid": "e903d782efb2af3a2013b8575de5bbb074b925aa",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

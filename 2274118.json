@@ -2,7 +2,7 @@
   "airingid": "RADS1002032200069407",
   "seasonnumber": "25",
   "seasonitemnumber": "18",
-  "seriesid": "1000000000093702",
+  "seriesid": "2274096",
   "id": "4612e94c2d599f8f5ac5b1b298990396537f017f",
   "collectionid": "",
   "seofriendlyurl": "/video/thomas-and-friends-all-engines-go/mystery-boxcars-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2274096",
+  "seriesname": "Thomas and Friends: All Engines Go",
   "originalpremieredate": "2022-02-21T10:01:00.000Z",
   "pubdate": "2022-02-21T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "4612e94c2d599f8f5ac5b1b298990396537f017f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

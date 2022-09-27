@@ -2,7 +2,7 @@
   "airingid": "RADS1009152200028384",
   "seasonnumber": "8",
   "seasonitemnumber": "9",
-  "seriesid": "757073",
+  "seriesid": "10000000000",
   "id": "e92d8de5e295c7d1e37fd08dc6b17478acfd2a7a",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/five-short-tables-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "757073",
-  "seriesname": "Adventure Time",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2022-09-23T04:00:00.000Z",
   "pubdate": "2022-09-23T04:00:00.000Z",
   "expdate": "2022-10-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664769540000",
   "mediaid": "e92d8de5e295c7d1e37fd08dc6b17478acfd2a7a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

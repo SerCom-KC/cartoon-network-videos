@@ -2,7 +2,7 @@
   "airingid": "RADS1003162200079582",
   "seasonnumber": "1",
   "seasonitemnumber": "41",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "8b379cc8c25b50f81d6fb2a9b3ca4011d210e4c4",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/picture-this-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-04-04T09:01:00.000Z",
   "pubdate": "2022-04-04T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "8b379cc8c25b50f81d6fb2a9b3ca4011d210e4c4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

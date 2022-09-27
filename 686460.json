@@ -2,7 +2,7 @@
   "airingid": "RADS1004072200087373",
   "seasonnumber": "1",
   "seasonitemnumber": "50",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "0a4387fd0eaa8914450ea645035d86343e7ccb6a",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/paint-me-a-picture-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-05-02T09:01:00.000Z",
   "pubdate": "2022-05-02T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "0a4387fd0eaa8914450ea645035d86343e7ccb6a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

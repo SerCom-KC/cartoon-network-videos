@@ -2,7 +2,7 @@
   "airingid": "RADS1004272200093180",
   "seasonnumber": "1",
   "seasonitemnumber": "29",
-  "seriesid": "2179056",
+  "seriesid": "1000000000093702",
   "id": "3f099f12d2bfca2ece88aa7825bde3d493fd3931",
   "collectionid": "",
   "seofriendlyurl": "/video/mush-mush-&-the-mushables/the-breathtaking-bolly-show-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2179056",
-  "seriesname": "Mush Mush & the Mushables",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-05-16T04:00:00.000Z",
   "pubdate": "2022-05-16T04:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "3f099f12d2bfca2ece88aa7825bde3d493fd3931",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

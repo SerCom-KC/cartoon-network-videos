@@ -2,7 +2,7 @@
   "airingid": "RADS1009152200028390",
   "seasonnumber": "8",
   "seasonitemnumber": "6",
-  "seriesid": "757073",
+  "seriesid": "10000000000",
   "id": "b39de9a5fcfcc99d5932fd52f0bc75226294b1d8",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/bun-bun-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "757073",
-  "seriesname": "Adventure Time",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2022-09-23T04:00:00.000Z",
   "pubdate": "2022-09-23T04:00:00.000Z",
   "expdate": "2022-10-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664769540000",
   "mediaid": "b39de9a5fcfcc99d5932fd52f0bc75226294b1d8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

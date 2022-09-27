@@ -2,7 +2,7 @@
   "airingid": "RADS1006292200010980",
   "seasonnumber": "25",
   "seasonitemnumber": "52",
-  "seriesid": "1000000000093702",
+  "seriesid": "2274096",
   "id": "b0ab0de3e47e22b470a7f7fd702f544ddcac2a04",
   "collectionid": "",
   "seofriendlyurl": "/video/thomas-and-friends-all-engines-go/skiff-sails-sodor-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2274096",
+  "seriesname": "Thomas and Friends: All Engines Go",
   "originalpremieredate": "2022-07-04T04:00:00.000Z",
   "pubdate": "2022-07-04T04:00:00.000Z",
   "expdate": "2022-09-30T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664510399000",
   "mediaid": "b0ab0de3e47e22b470a7f7fd702f544ddcac2a04",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1001182200064216",
   "seasonnumber": "25",
   "seasonitemnumber": "16",
-  "seriesid": "1000000000093702",
+  "seriesid": "2274096",
   "id": "091f09e59321194a7ea55d7c7db759ff29ef9e0d",
   "collectionid": "",
   "seofriendlyurl": "/video/thomas-and-friends-all-engines-go/nias-balloon-blunder-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2274096",
+  "seriesname": "Thomas and Friends: All Engines Go",
   "originalpremieredate": "2022-02-07T10:01:00.000Z",
   "pubdate": "2022-02-07T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "091f09e59321194a7ea55d7c7db759ff29ef9e0d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

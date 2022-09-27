@@ -2,7 +2,7 @@
   "airingid": "RADS1002072200070667",
   "seasonnumber": "25",
   "seasonitemnumber": "19",
-  "seriesid": "1000000000093702",
+  "seriesid": "2274096",
   "id": "c4ab4f4670bb17bc05c97a36c091dee1fe8bbab2",
   "collectionid": "",
   "seofriendlyurl": "/video/thomas-and-friends-all-engines-go/super-screen-cleaners-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2274096",
+  "seriesname": "Thomas and Friends: All Engines Go",
   "originalpremieredate": "2022-03-06T10:01:00.000Z",
   "pubdate": "2022-03-06T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "c4ab4f4670bb17bc05c97a36c091dee1fe8bbab2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

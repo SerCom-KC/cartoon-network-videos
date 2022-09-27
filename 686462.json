@@ -2,7 +2,7 @@
   "airingid": "RADS1003302200083522",
   "seasonnumber": "1",
   "seasonitemnumber": "47",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "487c1eecfee006da9c2a09e4858caffd7b01d37d",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/giggle-bug-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-04-18T09:01:00.000Z",
   "pubdate": "2022-04-18T09:01:00.000Z",
   "expdate": "2022-12-13T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1670907600000",
   "mediaid": "487c1eecfee006da9c2a09e4858caffd7b01d37d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

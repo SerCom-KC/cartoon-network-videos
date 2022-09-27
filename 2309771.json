@@ -2,7 +2,7 @@
   "airingid": "RADS1003022200076492",
   "seasonnumber": "1",
   "seasonitemnumber": "21",
-  "seriesid": "2309749",
+  "seriesid": "1000000000093702",
   "id": "53e393ea11042f9b7b626318d3718617ab4db98f",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/balloon-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2309749",
-  "seriesname": "Bing",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-03-21T09:01:00.000Z",
   "pubdate": "2022-03-21T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "53e393ea11042f9b7b626318d3718617ab4db98f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

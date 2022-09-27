@@ -2,7 +2,7 @@
   "airingid": "RADS1001182200064215",
   "seasonnumber": "25",
   "seasonitemnumber": "15",
-  "seriesid": "1000000000093702",
+  "seriesid": "2274096",
   "id": "831dd4aba0d5cf24b3c5bf98c89ef7dbf4caabbb",
   "collectionid": "",
   "seofriendlyurl": "/video/thomas-and-friends-all-engines-go/chasing-rainbows-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2274096",
+  "seriesname": "Thomas and Friends: All Engines Go",
   "originalpremieredate": "2022-02-07T10:01:00.000Z",
   "pubdate": "2022-02-07T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "831dd4aba0d5cf24b3c5bf98c89ef7dbf4caabbb",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1011302100049196",
   "seasonnumber": "2",
   "seasonitemnumber": "46",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "1f1a7cd211606f3d3b0865d1ef567691a7508ff0",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/a-very-special-guest-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2021-12-08T05:00:00.000Z",
   "pubdate": "2021-12-08T05:00:00.000Z",
   "expdate": "2023-01-01T04:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549199000",
   "mediaid": "1f1a7cd211606f3d3b0865d1ef567691a7508ff0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

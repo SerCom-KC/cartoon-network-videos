@@ -2,7 +2,7 @@
   "airingid": "RADS1004062200086688",
   "seasonnumber": "3",
   "seasonitemnumber": "43",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "24366baf74db73b5977d0b2297648359485877d3",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/cinema-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-04-18T09:00:00.000Z",
   "pubdate": "2022-04-18T09:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "24366baf74db73b5977d0b2297648359485877d3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

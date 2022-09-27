@@ -2,7 +2,7 @@
   "airingid": "RADS1002012200069127",
   "seasonnumber": "3",
   "seasonitemnumber": "11",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "98db2746b0a969c411c102eaf1546fe3c8ac9865",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/tennis-for-everyone-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-02-09T05:00:00.000Z",
   "pubdate": "2022-02-09T05:00:00.000Z",
   "expdate": "2023-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549140000",
   "mediaid": "98db2746b0a969c411c102eaf1546fe3c8ac9865",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

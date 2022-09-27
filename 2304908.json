@@ -2,7 +2,7 @@
   "airingid": "RADS1008172200021743",
   "seasonnumber": "4",
   "seasonitemnumber": "50",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "3e601fa92768d2e624d18a40d2044a2795b1432d",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/winter-games-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-08-22T04:00:00.000Z",
   "pubdate": "2022-08-22T04:00:00.000Z",
   "expdate": "2023-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549140000",
   "mediaid": "3e601fa92768d2e624d18a40d2044a2795b1432d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

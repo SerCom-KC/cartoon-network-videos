@@ -2,7 +2,7 @@
   "airingid": "RADS1003302200083560",
   "seasonnumber": "3",
   "seasonitemnumber": "32",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "52b123539de02a382431967dffbf0102afd3ea54",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/ellys-computer-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-04-04T09:00:00.000Z",
   "pubdate": "2022-04-04T09:00:00.000Z",
   "expdate": "2023-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549200000",
   "mediaid": "52b123539de02a382431967dffbf0102afd3ea54",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

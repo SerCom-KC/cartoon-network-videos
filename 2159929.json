@@ -2,7 +2,7 @@
   "airingid": "RADS1002072200070726",
   "seasonnumber": "3",
   "seasonitemnumber": "17",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "5c20992e5dc93a6cd08d831a9fbc9cde44832c32",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/pocoyos-new-toys-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-02-22T05:00:00.000Z",
   "pubdate": "2022-02-22T05:00:00.000Z",
   "expdate": "2023-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549140000",
   "mediaid": "5c20992e5dc93a6cd08d831a9fbc9cde44832c32",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

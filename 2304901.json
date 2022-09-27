@@ -2,7 +2,7 @@
   "airingid": "RADS1008102200020567",
   "seasonnumber": "4",
   "seasonitemnumber": "44",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "f3056428fc03b5c0f851b77b58ab05397a3a1ef4",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/ellys-picnic-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-08-15T04:00:00.000Z",
   "pubdate": "2022-08-15T04:00:00.000Z",
   "expdate": "2023-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549140000",
   "mediaid": "f3056428fc03b5c0f851b77b58ab05397a3a1ef4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

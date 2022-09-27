@@ -2,7 +2,7 @@
   "airingid": "RADS1001052200059169",
   "seasonnumber": "3",
   "seasonitemnumber": "4",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "fc1a29e997742ead15d73762958871bda1d142a8",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/the-garden-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-01-21T05:00:00.000Z",
   "pubdate": "2022-01-21T05:00:00.000Z",
   "expdate": "2023-01-12T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1673499540000",
   "mediaid": "fc1a29e997742ead15d73762958871bda1d142a8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

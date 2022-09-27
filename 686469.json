@@ -2,7 +2,7 @@
   "airingid": "RADS1004072200087371",
   "seasonnumber": "1",
   "seasonitemnumber": "52",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "f789af77f68a77cc8e1a540586c4d011dad471cd",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/wackily-ever-after-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-05-02T09:01:00.000Z",
   "pubdate": "2022-05-02T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "f789af77f68a77cc8e1a540586c4d011dad471cd",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

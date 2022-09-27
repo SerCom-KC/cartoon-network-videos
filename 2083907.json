@@ -2,7 +2,7 @@
   "airingid": "RADS1009152200028413",
   "seasonnumber": "1",
   "seasonitemnumber": "27",
-  "seriesid": "2064567",
+  "seriesid": "10000000000",
   "id": "25aaa60bba1468954284f79bf3381720aa011f8e",
   "collectionid": "",
   "seofriendlyurl": "/video/powerpuff-girls/road-trippin-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2064567",
-  "seriesname": "Powerpuff Girls",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2022-09-23T04:00:00.000Z",
   "pubdate": "2022-09-23T04:00:00.000Z",
   "expdate": "2022-10-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664769540000",
   "mediaid": "25aaa60bba1468954284f79bf3381720aa011f8e",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

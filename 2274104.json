@@ -2,7 +2,7 @@
   "airingid": "RADS1010272100040251",
   "seasonnumber": "25",
   "seasonitemnumber": "4",
-  "seriesid": "1000000000093702",
+  "seriesid": "2274096",
   "id": "e35dab288b333dfc803cab592caeccdc4cf3ba8d",
   "collectionid": "",
   "seofriendlyurl": "/video/thomas-and-friends-all-engines-go/rules-of-the-game-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2274096",
+  "seriesname": "Thomas and Friends: All Engines Go",
   "originalpremieredate": "2021-09-13T13:30:00.000Z",
   "pubdate": "2021-11-15T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "e35dab288b333dfc803cab592caeccdc4cf3ba8d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

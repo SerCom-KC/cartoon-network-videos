@@ -2,7 +2,7 @@
   "airingid": "RADS1007112200013213",
   "seasonnumber": "4",
   "seasonitemnumber": "30",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "bb937d9e672c72770aaeb0be18b126d4086e82c4",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/robot-pocoyo-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-07-18T04:00:00.000Z",
   "pubdate": "2022-07-18T04:00:00.000Z",
   "expdate": "2023-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549200000",
   "mediaid": "bb937d9e672c72770aaeb0be18b126d4086e82c4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

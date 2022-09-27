@@ -2,7 +2,7 @@
   "airingid": "RADS1002072200070717",
   "seasonnumber": "3",
   "seasonitemnumber": "15",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "76fadb4886c12a133a877b2ad0ad9d516ce19f74",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/ellys-bath-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-02-16T05:00:00.000Z",
   "pubdate": "2022-02-16T05:00:00.000Z",
   "expdate": "2023-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549140000",
   "mediaid": "76fadb4886c12a133a877b2ad0ad9d516ce19f74",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

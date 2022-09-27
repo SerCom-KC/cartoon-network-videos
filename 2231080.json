@@ -2,7 +2,7 @@
   "airingid": "RADS1009152200028491",
   "seasonnumber": "3",
   "seasonitemnumber": "35",
-  "seriesid": "10000000000",
+  "seriesid": "2170837",
   "id": "bfdf363506ceb633eaf1b71f5daa7e3d40371bcf",
   "collectionid": "",
   "seofriendlyurl": "/video/bakugan/once-more-into-the-mazegrandpas-in-the-wild-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2170837",
+  "seriesname": "Bakugan: Battle Planet",
   "originalpremieredate": "2022-09-23T04:00:59.000Z",
   "pubdate": "2022-09-23T04:00:59.000Z",
   "expdate": "2022-10-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664769540000",
   "mediaid": "bfdf363506ceb633eaf1b71f5daa7e3d40371bcf",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1010122100037845",
   "seasonnumber": "2",
   "seasonitemnumber": "23",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "21e95e5f40cd4e39d2fe421e2a99d9d9b6aec0e1",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/crazy-inventions-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2021-10-25T09:00:00.000Z",
   "pubdate": "2021-10-25T09:00:00.000Z",
   "expdate": "2022-12-31T10:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672480800000",
   "mediaid": "21e95e5f40cd4e39d2fe421e2a99d9d9b6aec0e1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

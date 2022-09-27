@@ -2,7 +2,7 @@
   "airingid": "RADS1001052200059189",
   "seasonnumber": "3",
   "seasonitemnumber": "5",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "7df93fd74b6f473ecdd816feb85af33d3d2310d9",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/pato-the-postman-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-01-23T05:00:00.000Z",
   "pubdate": "2022-01-23T05:00:00.000Z",
   "expdate": "2023-01-15T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1673758740000",
   "mediaid": "7df93fd74b6f473ecdd816feb85af33d3d2310d9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

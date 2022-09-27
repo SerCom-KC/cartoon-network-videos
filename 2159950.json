@@ -2,7 +2,7 @@
   "airingid": "RADS1004052200086250",
   "seasonnumber": "3",
   "seasonitemnumber": "39",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "76a72e40158eab5124b26d6572d2b9916bc1cf37",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/up--down-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-04-11T04:00:00.000Z",
   "pubdate": "2022-04-11T04:00:00.000Z",
   "expdate": "2023-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549200000",
   "mediaid": "76a72e40158eab5124b26d6572d2b9916bc1cf37",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

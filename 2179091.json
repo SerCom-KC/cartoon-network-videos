@@ -2,7 +2,7 @@
   "airingid": "RADS1012132100052724",
   "seasonnumber": "1",
   "seasonitemnumber": "49",
-  "seriesid": "2179056",
+  "seriesid": "1000000000093702",
   "id": "f8f02fc8dac5e59bd05893cfd5113605e114bd1a",
   "collectionid": "",
   "seofriendlyurl": "/video/mush-mush-&-the-mushables/friends-of-the-forest-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2179056",
-  "seriesname": "Mush Mush & the Mushables",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-12-20T05:00:00.000Z",
   "pubdate": "2021-12-20T05:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "f8f02fc8dac5e59bd05893cfd5113605e114bd1a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

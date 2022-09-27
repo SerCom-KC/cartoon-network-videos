@@ -2,7 +2,7 @@
   "airingid": "RADS1010272100040250",
   "seasonnumber": "25",
   "seasonitemnumber": "1",
-  "seriesid": "1000000000093702",
+  "seriesid": "2274096",
   "id": "0651fb145143f2c0343c2c6bebe846bcc9e2d3ff",
   "collectionid": "",
   "seofriendlyurl": "/video/thomas-and-friends-all-engines-go/thomas-promise-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2274096",
+  "seriesname": "Thomas and Friends: All Engines Go",
   "originalpremieredate": "2021-09-13T13:00:00.000Z",
   "pubdate": "2021-11-01T09:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "0651fb145143f2c0343c2c6bebe846bcc9e2d3ff",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1005032200094690",
   "seasonnumber": "3",
   "seasonitemnumber": "50",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "e3cd08f23d5cff98ee4c6b7353ba4f5fcb2716c8",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/down-on-the-farm-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-05-10T09:00:00.000Z",
   "pubdate": "2022-05-10T09:00:00.000Z",
   "expdate": "2023-01-01T10:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672567200000",
   "mediaid": "e3cd08f23d5cff98ee4c6b7353ba4f5fcb2716c8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

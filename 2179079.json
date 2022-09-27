@@ -2,7 +2,7 @@
   "airingid": "RADS1003302200083490",
   "seasonnumber": "1",
   "seasonitemnumber": "26",
-  "seriesid": "2179056",
+  "seriesid": "1000000000093702",
   "id": "e7c1625856af39cdd213f19fdde13d110f48551f",
   "collectionid": "",
   "seofriendlyurl": "/video/mush-mush-&-the-mushables/the-show-must-go-on-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2179056",
-  "seriesname": "Mush Mush & the Mushables",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-04-18T09:01:00.000Z",
   "pubdate": "2022-04-18T09:01:00.000Z",
   "expdate": "2022-12-13T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1670907600000",
   "mediaid": "e7c1625856af39cdd213f19fdde13d110f48551f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

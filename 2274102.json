@@ -2,7 +2,7 @@
   "airingid": "RADS1010272100040249",
   "seasonnumber": "25",
   "seasonitemnumber": "2",
-  "seriesid": "1000000000093702",
+  "seriesid": "2274096",
   "id": "f10540639f699c2e1a65d1bc4631c14135dc37b2",
   "collectionid": "",
   "seofriendlyurl": "/video/thomas-and-friends-all-engines-go/thomas-blasts-off-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2274096",
+  "seriesname": "Thomas and Friends: All Engines Go",
   "originalpremieredate": "2021-09-13T13:00:00.000Z",
   "pubdate": "2021-11-01T09:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "f10540639f699c2e1a65d1bc4631c14135dc37b2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

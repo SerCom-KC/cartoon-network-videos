@@ -2,7 +2,7 @@
   "airingid": "RADS1001052200059180",
   "seasonnumber": "3",
   "seasonitemnumber": "6",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "62369d8e33578e95cd06ce7bf99a11e983a10d58",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/ready-steady-go-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-01-28T05:00:00.000Z",
   "pubdate": "2022-01-28T05:00:00.000Z",
   "expdate": "2023-01-19T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1674104340000",
   "mediaid": "62369d8e33578e95cd06ce7bf99a11e983a10d58",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

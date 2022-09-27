@@ -2,7 +2,7 @@
   "airingid": "RADS1002072200070711",
   "seasonnumber": "1",
   "seasonitemnumber": "32",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "000e9d53d08ea128e546e0e6741816973498ca1f",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/super-pocoyo-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-03-06T10:01:00.000Z",
   "pubdate": "2022-03-06T10:01:00.000Z",
   "expdate": "2022-12-13T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1670907600000",
   "mediaid": "000e9d53d08ea128e546e0e6741816973498ca1f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1010272100040248",
   "seasonnumber": "1",
   "seasonitemnumber": "2",
-  "seriesid": "2179056",
+  "seriesid": "1000000000093702",
   "id": "156b32ebbb4d6ba29063f2b9a60e81e23c4effb0",
   "collectionid": "",
   "seofriendlyurl": "/video/mush-mush-&-the-mushables/get-the-egg-home-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2179056",
-  "seriesname": "Mush Mush & the Mushables",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-11-01T09:00:00.000Z",
   "pubdate": "2021-11-01T09:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "156b32ebbb4d6ba29063f2b9a60e81e23c4effb0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1003022200076429",
   "seasonnumber": "3",
   "seasonitemnumber": "25",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "6a3a3aee8a32ff915e68fe47b3af1893825369fa",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/pocoyos-camera-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-03-11T05:00:00.000Z",
   "pubdate": "2022-03-11T05:00:00.000Z",
   "expdate": "2022-12-31T05:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672466340000",
   "mediaid": "6a3a3aee8a32ff915e68fe47b3af1893825369fa",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

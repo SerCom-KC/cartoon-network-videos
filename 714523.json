@@ -2,7 +2,7 @@
   "airingid": "RADS1005122200098125",
   "seasonnumber": "2",
   "seasonitemnumber": "13",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "6399013fdee1da3403f6ef86078e69200ade05f1",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/big-scary-slide-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-06-13T09:01:00.000Z",
   "pubdate": "2022-06-13T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "6399013fdee1da3403f6ef86078e69200ade05f1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

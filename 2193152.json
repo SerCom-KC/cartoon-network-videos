@@ -2,7 +2,7 @@
   "airingid": "RADS1009152200028388",
   "seasonnumber": "1",
   "seasonitemnumber": "18",
-  "seriesid": "2133648",
+  "seriesid": "10000000000",
   "id": "a07482c7844e29f4c16c6738e41fa170575fe6b6",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/burgers-trampoline-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2133648",
-  "seriesname": "Apple & Onion",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2022-09-23T04:00:00.000Z",
   "pubdate": "2022-09-23T04:00:00.000Z",
   "expdate": "2022-10-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664769540000",
   "mediaid": "a07482c7844e29f4c16c6738e41fa170575fe6b6",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1009152200028499",
   "seasonnumber": "1",
   "seasonitemnumber": "11",
-  "seriesid": "10000000000",
+  "seriesid": "2177542",
   "id": "6bf5143695f1929635a7b9ceda83520da544c30f",
   "collectionid": "",
   "seofriendlyurl": "/video/dc-super-hero-girls/shockittome-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2177542",
+  "seriesname": "DC Super Hero Girls",
   "originalpremieredate": "2022-09-23T04:00:59.000Z",
   "pubdate": "2022-09-23T04:00:59.000Z",
   "expdate": "2022-10-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664769540000",
   "mediaid": "6bf5143695f1929635a7b9ceda83520da544c30f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

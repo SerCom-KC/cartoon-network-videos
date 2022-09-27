@@ -2,7 +2,7 @@
   "airingid": "RADS1003302200083550",
   "seasonnumber": "3",
   "seasonitemnumber": "33",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "84044fb1568376a93169fa3e1765f299cf594daa",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/going-to-the-beach-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-04-04T09:00:00.000Z",
   "pubdate": "2022-04-04T09:00:00.000Z",
   "expdate": "2023-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549200000",
   "mediaid": "84044fb1568376a93169fa3e1765f299cf594daa",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

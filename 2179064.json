@@ -2,7 +2,7 @@
   "airingid": "RADS1011222100046341",
   "seasonnumber": "1",
   "seasonitemnumber": "8",
-  "seriesid": "2179056",
+  "seriesid": "1000000000093702",
   "id": "5e36cd328ef9f5bdc0d085a5af34faf848a1470a",
   "collectionid": "",
   "seofriendlyurl": "/video/mush-mush-&-the-mushables/fool-the-forest-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2179056",
-  "seriesname": "Mush Mush & the Mushables",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-12-13T10:01:00.000Z",
   "pubdate": "2021-12-13T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "5e36cd328ef9f5bdc0d085a5af34faf848a1470a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

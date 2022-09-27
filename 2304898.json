@@ -2,7 +2,7 @@
   "airingid": "RADS1008032200019038",
   "seasonnumber": "4",
   "seasonitemnumber": "40",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "de725efb6215e1008b4418bee64f7fce931ff421",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/my-hero-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-08-08T04:00:00.000Z",
   "pubdate": "2022-08-08T04:00:00.000Z",
   "expdate": "2023-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549140000",
   "mediaid": "de725efb6215e1008b4418bee64f7fce931ff421",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

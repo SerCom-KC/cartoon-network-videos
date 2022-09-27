@@ -2,7 +2,7 @@
   "airingid": "RADS1006072200004604",
   "seasonnumber": "1",
   "seasonitemnumber": "13",
-  "seriesid": "2357711",
+  "seriesid": "1000000000093702",
   "id": "f2ff071387107ff759b71c2288d389a828241cd3",
   "collectionid": "",
   "seofriendlyurl": "/video/blippi-wonders/spiderweb-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2357711",
-  "seriesname": "Blippi Wonders",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-06-16T04:00:00.000Z",
   "pubdate": "2022-06-16T04:00:00.000Z",
   "expdate": "2022-09-30T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664510399000",
   "mediaid": "f2ff071387107ff759b71c2288d389a828241cd3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }

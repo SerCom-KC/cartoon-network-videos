@@ -2,7 +2,7 @@
   "airingid": "RADS1012132100052673",
   "seasonnumber": "25",
   "seasonitemnumber": "27",
-  "seriesid": "1000000000093702",
+  "seriesid": "2274096",
   "id": "7a677fcdf6dbdb5c239bc865aca69c6aa2b9dd33",
   "collectionid": "",
   "seofriendlyurl": "/video/thomas-and-friends-all-engines-go/race-for-the-sodor-cup-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2274096",
+  "seriesname": "Thomas and Friends: All Engines Go",
   "originalpremieredate": "2021-12-27T14:00:00.000Z",
   "pubdate": "2021-12-27T10:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "7a677fcdf6dbdb5c239bc865aca69c6aa2b9dd33",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

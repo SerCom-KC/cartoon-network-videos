@@ -2,7 +2,7 @@
   "airingid": "RADS1011222100046358",
   "seasonnumber": "1",
   "seasonitemnumber": "7",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "1c901763ea0d3c2904bb212e7281a62eb16556d0",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/a-present-for-elly-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2021-12-13T10:01:00.000Z",
   "pubdate": "2021-12-13T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "1c901763ea0d3c2904bb212e7281a62eb16556d0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

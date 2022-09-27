@@ -2,7 +2,7 @@
   "airingid": "RADS1003022200076443",
   "seasonnumber": "3",
   "seasonitemnumber": "22",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "dd63b6af623b2b8f1e7863eb0c2f6ab146660aed",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/ellys-market-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-03-07T05:00:00.000Z",
   "pubdate": "2022-03-07T05:00:00.000Z",
   "expdate": "2022-12-31T05:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672466340000",
   "mediaid": "dd63b6af623b2b8f1e7863eb0c2f6ab146660aed",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

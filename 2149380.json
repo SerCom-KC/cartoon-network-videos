@@ -2,7 +2,7 @@
   "airingid": "RADS1009152200028416",
   "seasonnumber": "6",
   "seasonitemnumber": "10",
-  "seriesid": "835928",
+  "seriesid": "10000000000",
   "id": "3a8dd267728a8fd8378160d35c9f9a4d6e6d92f9",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-candidate-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "835928",
-  "seriesname": "Gumball",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2022-09-23T04:00:00.000Z",
   "pubdate": "2022-09-23T04:00:00.000Z",
   "expdate": "2022-10-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664769540000",
   "mediaid": "3a8dd267728a8fd8378160d35c9f9a4d6e6d92f9",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

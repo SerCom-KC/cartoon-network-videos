@@ -2,7 +2,7 @@
   "airingid": "RADS1001182200064236",
   "seasonnumber": "1",
   "seasonitemnumber": "21",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "17c83af5fded7ba980462dcc0ec71c4f4bc7d730",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/magical-watering-can-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-02-07T10:01:00.000Z",
   "pubdate": "2022-02-07T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "17c83af5fded7ba980462dcc0ec71c4f4bc7d730",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

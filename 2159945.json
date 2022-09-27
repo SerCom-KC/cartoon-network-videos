@@ -2,7 +2,7 @@
   "airingid": "RADS1003302200083557",
   "seasonnumber": "3",
   "seasonitemnumber": "34",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "07c7322e85c7ddc8d89db2841ae4542fd8a7a688",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/big-and-small-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-04-04T09:00:00.000Z",
   "pubdate": "2022-04-04T09:00:00.000Z",
   "expdate": "2023-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549200000",
   "mediaid": "07c7322e85c7ddc8d89db2841ae4542fd8a7a688",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1002072200070719",
   "seasonnumber": "3",
   "seasonitemnumber": "18",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "c757cb8c25f0a3f2bdc2cd752d122ab13dcccb5d",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/bathing-loula-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-02-23T05:00:00.000Z",
   "pubdate": "2022-02-23T05:00:00.000Z",
   "expdate": "2023-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549140000",
   "mediaid": "c757cb8c25f0a3f2bdc2cd752d122ab13dcccb5d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

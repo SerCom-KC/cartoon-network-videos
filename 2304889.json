@@ -2,7 +2,7 @@
   "airingid": "RADS1007112200013219",
   "seasonnumber": "4",
   "seasonitemnumber": "31",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "1e67543e881dc2c8b549d406128c245aac5ce2c2",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/patos-phone-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-07-18T04:00:00.000Z",
   "pubdate": "2022-07-18T04:00:00.000Z",
   "expdate": "2023-01-01T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549200000",
   "mediaid": "1e67543e881dc2c8b549d406128c245aac5ce2c2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

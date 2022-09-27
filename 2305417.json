@@ -2,7 +2,7 @@
   "airingid": "RADS1010122100037834",
   "seasonnumber": "2",
   "seasonitemnumber": "24",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "721dde82db85dc56b4b7903e53d7d80fa18bc35e",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/pocoyo-and-the-haunted-house-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2021-10-25T09:00:00.000Z",
   "pubdate": "2021-10-25T09:00:00.000Z",
   "expdate": "2022-12-31T10:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672480800000",
   "mediaid": "721dde82db85dc56b4b7903e53d7d80fa18bc35e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

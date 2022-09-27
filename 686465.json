@@ -2,7 +2,7 @@
   "airingid": "RADS1004072200087377",
   "seasonnumber": "1",
   "seasonitemnumber": "48",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "a2f060ff6ee7ee2e7d71e9088b596c90dbe36b7c",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/whats-in-the-box-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-05-02T09:01:00.000Z",
   "pubdate": "2022-05-02T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "a2f060ff6ee7ee2e7d71e9088b596c90dbe36b7c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

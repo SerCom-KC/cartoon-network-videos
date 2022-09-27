@@ -2,7 +2,7 @@
   "airingid": "RADS1002072200070714",
   "seasonnumber": "1",
   "seasonitemnumber": "29",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "b6dce132a6c934ddc47cac90f5967d1b3041eed0",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/up-up-and-away-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-03-06T10:01:00.000Z",
   "pubdate": "2022-03-06T10:01:00.000Z",
   "expdate": "2022-12-13T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1670907600000",
   "mediaid": "b6dce132a6c934ddc47cac90f5967d1b3041eed0",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

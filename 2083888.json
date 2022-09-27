@@ -2,7 +2,7 @@
   "airingid": "RADS1009152200028451",
   "seasonnumber": "4",
   "seasonitemnumber": "7",
-  "seriesid": "10000000000",
+  "seriesid": "2007332",
   "id": "303a483bc2acde9c617732c480e9da138cc16da4",
   "collectionid": "",
   "seofriendlyurl": "/video/uncle-grandpa/costume-crisis-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2007332",
+  "seriesname": "Uncle Grandpa",
   "originalpremieredate": "2022-09-23T04:00:00.000Z",
   "pubdate": "2022-09-23T04:00:00.000Z",
   "expdate": "2022-10-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664769540000",
   "mediaid": "303a483bc2acde9c617732c480e9da138cc16da4",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

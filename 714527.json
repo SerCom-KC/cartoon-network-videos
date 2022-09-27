@@ -2,7 +2,7 @@
   "airingid": "RADS1005102200097403",
   "seasonnumber": "2",
   "seasonitemnumber": "7",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "df605dc6e6047cd00f25fc4d298cb00eecd3d161",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/the-messy-guest-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-05-30T09:01:00.000Z",
   "pubdate": "2022-05-30T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "df605dc6e6047cd00f25fc4d298cb00eecd3d161",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

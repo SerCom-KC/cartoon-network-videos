@@ -2,7 +2,7 @@
   "airingid": "RADS1009152200028391",
   "seasonnumber": "6",
   "seasonitemnumber": "6",
-  "seriesid": "835928",
+  "seriesid": "10000000000",
   "id": "0c8abc210b2ee62cafb5532f6f06c93be9d35ed7",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-father-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "835928",
-  "seriesname": "Gumball",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2022-09-23T04:00:00.000Z",
   "pubdate": "2022-09-23T04:00:00.000Z",
   "expdate": "2022-10-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664769540000",
   "mediaid": "0c8abc210b2ee62cafb5532f6f06c93be9d35ed7",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

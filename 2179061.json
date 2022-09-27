@@ -2,7 +2,7 @@
   "airingid": "RADS1010272100040244",
   "seasonnumber": "1",
   "seasonitemnumber": "3",
-  "seriesid": "2179056",
+  "seriesid": "1000000000093702",
   "id": "220646c1485a9a37fa01ae807d6d91f1bac229e3",
   "collectionid": "",
   "seofriendlyurl": "/video/mush-mush-&-the-mushables/oh-my-compost-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2179056",
-  "seriesname": "Mush Mush & the Mushables",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-11-15T10:01:00.000Z",
   "pubdate": "2021-11-15T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "220646c1485a9a37fa01ae807d6d91f1bac229e3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

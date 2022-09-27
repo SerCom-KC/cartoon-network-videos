@@ -2,7 +2,7 @@
   "airingid": "RADS1009152200028533",
   "seasonnumber": "2",
   "seasonitemnumber": "22",
-  "seriesid": "2194742",
+  "seriesid": "10000000000",
   "id": "e64a6b296cf5dfefc48fdcd0e9ff95ba4a53fc9c",
   "collectionid": "",
   "seofriendlyurl": "/video/ninjago/trial-by-mino-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2194742",
-  "seriesname": "Ninjago",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2022-09-23T04:00:59.000Z",
   "pubdate": "2022-09-23T04:00:59.000Z",
   "expdate": "2022-10-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664769540000",
   "mediaid": "e64a6b296cf5dfefc48fdcd0e9ff95ba4a53fc9c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

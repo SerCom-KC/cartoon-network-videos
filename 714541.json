@@ -2,7 +2,7 @@
   "airingid": "RADS1006222200007744",
   "seasonnumber": "2",
   "seasonitemnumber": "21",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "e21ae1d9b96d1cd0d24995d8f383929c4afb624d",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/lost-in-space-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-07-11T09:01:00.000Z",
   "pubdate": "2022-07-11T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "e21ae1d9b96d1cd0d24995d8f383929c4afb624d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

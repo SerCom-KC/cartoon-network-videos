@@ -2,7 +2,7 @@
   "airingid": "RADS1006132200006611",
   "seasonnumber": "1",
   "seasonitemnumber": "18",
-  "seriesid": "2357711",
+  "seriesid": "1000000000093702",
   "id": "1383687e02a85de38b83f781200d519dea2223fc",
   "collectionid": "",
   "seofriendlyurl": "/video/blippi-wonders/crane-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2357711",
-  "seriesname": "Blippi Wonders",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-06-23T04:00:00.000Z",
   "pubdate": "2022-06-23T04:00:00.000Z",
   "expdate": "2023-01-07T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1673067540000",
   "mediaid": "1383687e02a85de38b83f781200d519dea2223fc",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }

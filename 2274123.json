@@ -2,7 +2,7 @@
   "airingid": "RADS1003162200079556",
   "seasonnumber": "25",
   "seasonitemnumber": "23",
-  "seriesid": "1000000000093702",
+  "seriesid": "2274096",
   "id": "81326537775c57d3b6ee60cee75b81a152b1bd1c",
   "collectionid": "",
   "seofriendlyurl": "/video/thomas-and-friends-all-engines-go/thomas-day-off-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2274096",
+  "seriesname": "Thomas and Friends: All Engines Go",
   "originalpremieredate": "2022-04-04T09:01:00.000Z",
   "pubdate": "2022-04-04T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "81326537775c57d3b6ee60cee75b81a152b1bd1c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

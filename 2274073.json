@@ -2,7 +2,7 @@
   "airingid": "RADS1005092200097075",
   "seasonnumber": "1",
   "seasonitemnumber": "16",
-  "seriesid": "2266513",
+  "seriesid": "1000000000093702",
   "id": "fd847a6e54fe125cf5b223d5aad82195b7df1974",
   "collectionid": "",
   "seofriendlyurl": "/video/lucas-the-spider/crack-in-the-tankbig-mouthart-from-the-heart-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2266513",
-  "seriesname": "Lucas the Spider",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-05-13T04:00:00.000Z",
   "pubdate": "2022-05-13T04:00:00.000Z",
   "expdate": "2022-09-30T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664510399000",
   "mediaid": "fd847a6e54fe125cf5b223d5aad82195b7df1974",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }

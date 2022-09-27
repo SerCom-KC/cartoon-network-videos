@@ -2,7 +2,7 @@
   "airingid": "RADS1011302100049194",
   "seasonnumber": "2",
   "seasonitemnumber": "47",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "31ea8508f397e96bc5e6589c56b78877638913d3",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/space-christmas-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2021-12-08T05:00:00.000Z",
   "pubdate": "2021-12-08T05:00:00.000Z",
   "expdate": "2023-01-01T04:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549199000",
   "mediaid": "31ea8508f397e96bc5e6589c56b78877638913d3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

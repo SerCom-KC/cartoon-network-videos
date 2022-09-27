@@ -2,7 +2,7 @@
   "airingid": "RADS1007062200012132",
   "seasonnumber": "2",
   "seasonitemnumber": "35",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "cb118f24185ef0d552d3e341f3665f3ce36717bb",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/the-seed-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-07-25T09:01:00.000Z",
   "pubdate": "2022-07-25T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "cb118f24185ef0d552d3e341f3665f3ce36717bb",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

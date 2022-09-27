@@ -2,7 +2,7 @@
   "airingid": "RADS1001052200059158",
   "seasonnumber": "3",
   "seasonitemnumber": "19",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "eda0e2b3220abcde832be66b4825573d26f223e6",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/colors-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-01-26T05:00:00.000Z",
   "pubdate": "2022-01-26T05:00:00.000Z",
   "expdate": "2023-01-17T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1673931540000",
   "mediaid": "eda0e2b3220abcde832be66b4825573d26f223e6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

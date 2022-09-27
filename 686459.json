@@ -2,7 +2,7 @@
   "airingid": "RADS1004072200087375",
   "seasonnumber": "1",
   "seasonitemnumber": "49",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "b7727365d38bf219b465c39685885ffb66e7bfb1",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/musical-blocks-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-05-02T09:01:00.000Z",
   "pubdate": "2022-05-02T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "b7727365d38bf219b465c39685885ffb66e7bfb1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

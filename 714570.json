@@ -2,7 +2,7 @@
   "airingid": "RADS1001052200059207",
   "seasonnumber": "2",
   "seasonitemnumber": "61",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "6e13974c216d3e4d8050d4d57198c66c5d147b27",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/ellys-tea-party-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-01-09T05:00:00.000Z",
   "pubdate": "2022-01-09T05:00:00.000Z",
   "expdate": "2022-09-30T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664510399000",
   "mediaid": "6e13974c216d3e4d8050d4d57198c66c5d147b27",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1001052200059188",
   "seasonnumber": "3",
   "seasonitemnumber": "52",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "02fd20668b50fbfe37ef886260f3350ba93eab99",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/remember-when-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-01-12T05:00:00.000Z",
   "pubdate": "2022-01-12T05:00:00.000Z",
   "expdate": "2022-09-30T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664510399000",
   "mediaid": "02fd20668b50fbfe37ef886260f3350ba93eab99",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

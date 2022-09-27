@@ -2,7 +2,7 @@
   "airingid": "RADS1001052200059170",
   "seasonnumber": "3",
   "seasonitemnumber": "8",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "148ccc16f57c1abd9be9789680b4df61e27657ff",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/space-mission-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-02-02T05:00:00.000Z",
   "pubdate": "2022-02-02T05:00:00.000Z",
   "expdate": "2023-01-24T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1674536340000",
   "mediaid": "148ccc16f57c1abd9be9789680b4df61e27657ff",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

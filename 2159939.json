@@ -2,7 +2,7 @@
   "airingid": "RADS1003022200076458",
   "seasonnumber": "3",
   "seasonitemnumber": "28",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "122b497516b7c06d7f998f1ed2667bbb8f05b53c",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/magic-box-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-03-18T04:00:00.000Z",
   "pubdate": "2022-03-18T04:00:00.000Z",
   "expdate": "2023-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549140000",
   "mediaid": "122b497516b7c06d7f998f1ed2667bbb8f05b53c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

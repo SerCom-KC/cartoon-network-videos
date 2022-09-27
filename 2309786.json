@@ -2,7 +2,7 @@
   "airingid": "RADS1004072200087356",
   "seasonnumber": "1",
   "seasonitemnumber": "62",
-  "seriesid": "2309749",
+  "seriesid": "1000000000093702",
   "id": "68f59cfc925e9d4b7de8041eafddde6df0cebe6e",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/more-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2309749",
-  "seriesname": "Bing",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-05-02T09:01:00.000Z",
   "pubdate": "2022-05-02T09:01:00.000Z",
   "expdate": "2022-12-13T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1670907600000",
   "mediaid": "68f59cfc925e9d4b7de8041eafddde6df0cebe6e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1006222200007702",
   "seasonnumber": "1",
   "seasonitemnumber": "2",
-  "seriesid": "2357711",
+  "seriesid": "1000000000093702",
   "id": "cc3137a9a10f661af046cabbda4e5f7d4b685a6e",
   "collectionid": "",
   "seofriendlyurl": "/video/blippi-wonders/popsicle-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2357711",
-  "seriesname": "Blippi Wonders",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-07-11T09:00:00.000Z",
   "pubdate": "2022-07-11T09:00:00.000Z",
   "expdate": "2023-01-14T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1673672400000",
   "mediaid": "cc3137a9a10f661af046cabbda4e5f7d4b685a6e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }

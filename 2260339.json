@@ -2,7 +2,7 @@
   "airingid": "RADS1004182200089739",
   "seasonnumber": "1",
   "seasonitemnumber": "18",
-  "seriesid": "1000000000068537",
+  "seriesid": "2239398",
   "id": "32e68a625c5070ca6401c54a75ea6af8e6d15ea6",
   "collectionid": "",
   "seofriendlyurl": "/video/we-baby-bears/pandas-family-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "1000000000068537",
-  "seriesname": "Asian American and Pacific Islander Heritage Month",
+  "seriestitleid": "2239398",
+  "seriesname": "We Baby Bears",
   "originalpremieredate": "2022-05-13T09:01:00.000Z",
   "pubdate": "2022-05-13T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "32e68a625c5070ca6401c54a75ea6af8e6d15ea6",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1003022200076444",
   "seasonnumber": "3",
   "seasonitemnumber": "27",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "957dce26c52913c9ccbd5ea5e639ab65de6f9338",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/playing-dress-up-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-03-16T04:00:00.000Z",
   "pubdate": "2022-03-16T04:00:00.000Z",
   "expdate": "2023-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549140000",
   "mediaid": "957dce26c52913c9ccbd5ea5e639ab65de6f9338",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

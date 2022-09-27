@@ -2,7 +2,7 @@
   "airingid": "RADS1011222100046340",
   "seasonnumber": "1",
   "seasonitemnumber": "7",
-  "seriesid": "2179056",
+  "seriesid": "1000000000093702",
   "id": "c495a165e4fac4e6210499e72bb8f0e01befc525",
   "collectionid": "",
   "seofriendlyurl": "/video/mush-mush-&-the-mushables/snails-forever-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2179056",
-  "seriesname": "Mush Mush & the Mushables",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2021-12-13T10:01:00.000Z",
   "pubdate": "2021-12-13T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "c495a165e4fac4e6210499e72bb8f0e01befc525",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

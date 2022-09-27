@@ -2,7 +2,7 @@
   "airingid": "RADS1006132200006604",
   "seasonnumber": "1",
   "seasonitemnumber": "17",
-  "seriesid": "2357711",
+  "seriesid": "1000000000093702",
   "id": "689c71549ab0b05760c18d65141e10efe45e8bf7",
   "collectionid": "",
   "seofriendlyurl": "/video/blippi-wonders/bats-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2357711",
-  "seriesname": "Blippi Wonders",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-06-22T04:00:00.000Z",
   "pubdate": "2022-06-22T04:00:00.000Z",
   "expdate": "2023-01-06T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672981140000",
   "mediaid": "689c71549ab0b05760c18d65141e10efe45e8bf7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1004272200093213",
   "seasonnumber": "2",
   "seasonitemnumber": "5",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "54143edabcbf6c6278749a113cf7b624a42710f8",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/upside-down-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-05-16T04:00:00.000Z",
   "pubdate": "2022-05-16T04:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "54143edabcbf6c6278749a113cf7b624a42710f8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

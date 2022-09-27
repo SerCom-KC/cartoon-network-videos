@@ -2,7 +2,7 @@
   "airingid": "RADS1010272100040272",
   "seasonnumber": "1",
   "seasonitemnumber": "2",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "c79af2457ac262d8d1450f2b456c2203dbff35ae",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/drum-roll-please-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2021-11-01T09:00:00.000Z",
   "pubdate": "2021-11-01T09:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "c79af2457ac262d8d1450f2b456c2203dbff35ae",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

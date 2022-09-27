@@ -2,7 +2,7 @@
   "airingid": "RADS1008102200020565",
   "seasonnumber": "4",
   "seasonitemnumber": "43",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "5ca1b07f5ccea7b3327920e8538bfd7f3073a1e9",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/nina-discovers-the-world-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-08-15T04:00:00.000Z",
   "pubdate": "2022-08-15T04:00:00.000Z",
   "expdate": "2023-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549140000",
   "mediaid": "5ca1b07f5ccea7b3327920e8538bfd7f3073a1e9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

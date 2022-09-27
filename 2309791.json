@@ -2,7 +2,7 @@
   "airingid": "RADS1004272200093195",
   "seasonnumber": "1",
   "seasonitemnumber": "77",
-  "seriesid": "2309749",
+  "seriesid": "1000000000093702",
   "id": "0036fdac154451f3129ee3705a699b7a37756515",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/sleepover-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2309749",
-  "seriesname": "Bing",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-05-16T04:00:00.000Z",
   "pubdate": "2022-05-16T04:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "0036fdac154451f3129ee3705a699b7a37756515",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }

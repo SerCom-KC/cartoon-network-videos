@@ -2,7 +2,7 @@
   "airingid": "RADS1010272100040286",
   "seasonnumber": "1",
   "seasonitemnumber": "4",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "faa05209af3058bce94daaf78724f9d8d925ab87",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/whos-on-the-phone-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2021-11-15T10:01:00.000Z",
   "pubdate": "2021-11-15T10:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "faa05209af3058bce94daaf78724f9d8d925ab87",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

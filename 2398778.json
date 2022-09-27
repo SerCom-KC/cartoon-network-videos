@@ -2,7 +2,7 @@
   "airingid": "RADS1009072200026093",
   "seasonnumber": "26",
   "seasonitemnumber": "03",
-  "seriesid": "1000000000093702",
+  "seriesid": "2274096",
   "id": "827fbe0b88d852db584de72564e4b30f9f1a0fb4",
   "collectionid": "",
   "seofriendlyurl": "/video/thomas-and-friends-all-engines-go/fast-friends-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2274096",
+  "seriesname": "Thomas and Friends: All Engines Go",
   "originalpremieredate": "2022-09-19T04:00:00.000Z",
   "pubdate": "2022-09-19T04:00:00.000Z",
   "expdate": "2023-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549140000",
   "mediaid": "827fbe0b88d852db584de72564e4b30f9f1a0fb4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

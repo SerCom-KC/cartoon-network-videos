@@ -2,7 +2,7 @@
   "airingid": "RADS1003162200079584",
   "seasonnumber": "1",
   "seasonitemnumber": "42",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "f0cb6ba0594901a831c81bce46c66734d5053cce",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/whales-birthday-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-04-04T09:01:00.000Z",
   "pubdate": "2022-04-04T09:01:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "f0cb6ba0594901a831c81bce46c66734d5053cce",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

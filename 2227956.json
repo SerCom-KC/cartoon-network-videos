@@ -2,7 +2,7 @@
   "airingid": "RADS1008172200021948",
   "seasonnumber": "1",
   "seasonitemnumber": "3",
-  "seriesid": "2227953",
+  "seriesid": "1000000000093702",
   "id": "0d43ee1ab9f52de5d700767ff836dcf44c3ff9a1",
   "collectionid": "",
   "seofriendlyurl": "/video/mecha-builders/that-ol-time-rock-rollsmake-like-a-banana-and-split-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2227953",
-  "seriesname": "Mecha Builders",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-09-15T04:00:00.000Z",
   "pubdate": "2022-09-15T04:00:00.000Z",
   "expdate": "2022-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672462800000",
   "mediaid": "0d43ee1ab9f52de5d700767ff836dcf44c3ff9a1",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1001052200059458",
   "seasonnumber": "1",
   "seasonitemnumber": "17",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "24b5a7630fd2b66d6a0c92136f3e3ea9c70eab58",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/drummer-boy-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-01-23T05:00:00.000Z",
   "pubdate": "2022-01-23T05:00:00.000Z",
   "expdate": "2022-12-31T10:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672480800000",
   "mediaid": "24b5a7630fd2b66d6a0c92136f3e3ea9c70eab58",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

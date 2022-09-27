@@ -2,7 +2,7 @@
   "airingid": "RADS1007062200012137",
   "seasonnumber": "4",
   "seasonitemnumber": "28",
-  "seriesid": "1000000000093702",
+  "seriesid": "686417",
   "id": "c09cb6dc0984405c0199288405616c6a1c6c4e7c",
   "collectionid": "",
   "seofriendlyurl": "/video/pocoyo/pirates-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "686417",
+  "seriesname": "Pocoyo",
   "originalpremieredate": "2022-07-11T04:00:00.000Z",
   "pubdate": "2022-07-11T04:00:00.000Z",
   "expdate": "2023-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1672549140000",
   "mediaid": "c09cb6dc0984405c0199288405616c6a1c6c4e7c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

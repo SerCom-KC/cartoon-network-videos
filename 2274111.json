@@ -2,7 +2,7 @@
   "airingid": "RADS1012132100052749",
   "seasonnumber": "25",
   "seasonitemnumber": "11",
-  "seriesid": "1000000000093702",
+  "seriesid": "2274096",
   "id": "8378f53c04c37cd64db2839061dbe4ea965b68da",
   "collectionid": "",
   "seofriendlyurl": "/video/thomas-and-friends-all-engines-go/a-wide-delivery-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2274096",
+  "seriesname": "Thomas and Friends: All Engines Go",
   "originalpremieredate": "2021-09-17T13:00:00.000Z",
   "pubdate": "2022-01-10T05:00:00.000Z",
   "expdate": "2023-01-14T00:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1673654400000",
   "mediaid": "8378f53c04c37cd64db2839061dbe4ea965b68da",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
