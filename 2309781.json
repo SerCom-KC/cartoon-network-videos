@@ -2,7 +2,7 @@
   "airingid": "RADS1003302200083498",
   "seasonnumber": "1",
   "seasonitemnumber": "57",
-  "seriesid": "2309749",
+  "seriesid": "1000000000093702",
   "id": "0ae4da1870e033137e446bcb5bbd98c88cde5871",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/swimming-pool-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2309749",
-  "seriesname": "Bing",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2022-04-18T09:01:00.000Z",
   "pubdate": "2022-04-18T09:01:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "0ae4da1870e033137e446bcb5bbd98c88cde5871",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
