@@ -2,7 +2,7 @@
   "airingid": "RADS1003302200083506",
   "seasonnumber": "1",
   "seasonitemnumber": "59",
-  "seriesid": "1000000000093702",
+  "seriesid": "2309749",
   "id": "a89921c5c29c2ae9ee4e4932020d22db7a3de945",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/boo-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2309749",
+  "seriesname": "Bing",
   "originalpremieredate": "2022-04-18T09:01:00.000Z",
   "pubdate": "2022-04-18T09:01:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "a89921c5c29c2ae9ee4e4932020d22db7a3de945",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

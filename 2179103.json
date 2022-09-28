@@ -2,7 +2,7 @@
   "airingid": "RADS1007142200014185",
   "seasonnumber": "1",
   "seasonitemnumber": "42",
-  "seriesid": "1000000000093702",
+  "seriesid": "2179056",
   "id": "748abb3afe722271866014c107372c97e1a8c0da",
   "collectionid": "",
   "seofriendlyurl": "/video/mush-mush-&-the-mushables/lightning-bark-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2179056",
+  "seriesname": "Mush Mush & the Mushables",
   "originalpremieredate": "2022-08-08T09:01:00.000Z",
   "pubdate": "2022-08-08T09:01:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "748abb3afe722271866014c107372c97e1a8c0da",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

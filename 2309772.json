@@ -2,7 +2,7 @@
   "airingid": "RADS1003022200076497",
   "seasonnumber": "1",
   "seasonitemnumber": "22",
-  "seriesid": "1000000000093702",
+  "seriesid": "2309749",
   "id": "3b59fccd3c11e1d86c4d8c0f367a76fb8d2e4e2d",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/dressing-up-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2309749",
+  "seriesname": "Bing",
   "originalpremieredate": "2022-03-21T09:01:00.000Z",
   "pubdate": "2022-03-21T09:01:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "3b59fccd3c11e1d86c4d8c0f367a76fb8d2e4e2d",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1004072200087359",
   "seasonnumber": "1",
   "seasonitemnumber": "66",
-  "seriesid": "1000000000093702",
+  "seriesid": "2309749",
   "id": "28180c225bae62ea2abe66f4f155f8f6d9cfb0a7",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/lunchbox-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2309749",
+  "seriesname": "Bing",
   "originalpremieredate": "2022-05-02T09:01:00.000Z",
   "pubdate": "2022-05-02T09:01:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "28180c225bae62ea2abe66f4f155f8f6d9cfb0a7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

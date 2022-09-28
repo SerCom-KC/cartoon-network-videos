@@ -2,7 +2,7 @@
   "airingid": "RADS1007062200012118",
   "seasonnumber": "1",
   "seasonitemnumber": "40",
-  "seriesid": "1000000000093702",
+  "seriesid": "2309749",
   "id": "6e78a136a9fc4cf4d37ea3e8511b81e93ddd90d9",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/nature-explorer-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2309749",
+  "seriesname": "Bing",
   "originalpremieredate": "2022-07-25T09:01:00.000Z",
   "pubdate": "2022-07-25T09:01:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "6e78a136a9fc4cf4d37ea3e8511b81e93ddd90d9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

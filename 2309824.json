@@ -2,7 +2,7 @@
   "airingid": "RADS1007142200014177",
   "seasonnumber": "1",
   "seasonitemnumber": "48",
-  "seriesid": "1000000000093702",
+  "seriesid": "2309749",
   "id": "deef9b9a348c685598b2fdc90983b4d2ed6b205e",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/woof-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2309749",
+  "seriesname": "Bing",
   "originalpremieredate": "2022-08-08T09:01:00.000Z",
   "pubdate": "2022-08-08T09:01:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "deef9b9a348c685598b2fdc90983b4d2ed6b205e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

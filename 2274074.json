@@ -2,7 +2,7 @@
   "airingid": "RADS1005122200098211",
   "seasonnumber": "1",
   "seasonitemnumber": "17",
-  "seriesid": "1000000000093702",
+  "seriesid": "2266513",
   "id": "454ea5c5a49c75cc4cae783e39cf1f3d0d119e51",
   "collectionid": "",
   "seofriendlyurl": "/video/lucas-the-spider/lucas-and-his-friendsthe-owl-that-said-whyhappy-burpday-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2266513",
+  "seriesname": "Lucas the Spider",
   "originalpremieredate": "2022-05-20T13:30:00.000Z",
   "pubdate": "2022-05-20T13:30:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "454ea5c5a49c75cc4cae783e39cf1f3d0d119e51",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

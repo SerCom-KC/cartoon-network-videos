@@ -2,7 +2,7 @@
   "airingid": "RADS1001182200064208",
   "seasonnumber": "1",
   "seasonitemnumber": "15",
-  "seriesid": "1000000000093702",
+  "seriesid": "2179056",
   "id": "2fba1b9cd7c8809a4a99e4f7757a737a406c11e7",
   "collectionid": "",
   "seofriendlyurl": "/video/mush-mush-&-the-mushables/grasshopper-chep-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2179056",
+  "seriesname": "Mush Mush & the Mushables",
   "originalpremieredate": "2022-02-07T10:01:00.000Z",
   "pubdate": "2022-02-07T10:01:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "2fba1b9cd7c8809a4a99e4f7757a737a406c11e7",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

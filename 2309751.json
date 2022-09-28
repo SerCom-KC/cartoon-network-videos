@@ -2,7 +2,7 @@
   "airingid": "RADS1008032200019031",
   "seasonnumber": "1",
   "seasonitemnumber": "1",
-  "seriesid": "1000000000093702",
+  "seriesid": "2309749",
   "id": "933d1fe6b2d6210c97ee2d9e3f6ebc65b9e03f83",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/fireworks-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2309749",
+  "seriesname": "Bing",
   "originalpremieredate": "2022-08-22T09:01:00.000Z",
   "pubdate": "2022-08-22T09:01:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "933d1fe6b2d6210c97ee2d9e3f6ebc65b9e03f83",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

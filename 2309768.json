@@ -2,7 +2,7 @@
   "airingid": "RADS1002032200069413",
   "seasonnumber": "1",
   "seasonitemnumber": "18",
-  "seriesid": "1000000000093702",
+  "seriesid": "2309749",
   "id": "d859d742a596ca43ae10684ec342799e00dec1e3",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/say-goodbye-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2309749",
+  "seriesname": "Bing",
   "originalpremieredate": "2022-02-21T10:01:00.000Z",
   "pubdate": "2022-02-21T10:01:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "d859d742a596ca43ae10684ec342799e00dec1e3",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

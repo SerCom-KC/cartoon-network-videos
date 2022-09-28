@@ -2,7 +2,7 @@
   "airingid": "RADS1004072200087353",
   "seasonnumber": "1",
   "seasonitemnumber": "65",
-  "seriesid": "1000000000093702",
+  "seriesid": "2309749",
   "id": "130711da38b3a2bc9ea5811a39f7e20057224480",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/wheres-flop-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2309749",
+  "seriesname": "Bing",
   "originalpremieredate": "2022-05-02T09:01:00.000Z",
   "pubdate": "2022-05-02T09:01:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "130711da38b3a2bc9ea5811a39f7e20057224480",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1007142200014137",
   "seasonnumber": "1",
   "seasonitemnumber": "2",
-  "seriesid": "1000000000093702",
+  "seriesid": "2266513",
   "id": "b7ac829805b6c0e95ed4e1d85982ffdb5ac64176",
   "collectionid": "",
   "seofriendlyurl": "/video/lucas-the-spider/ghost-campboonever-boop-a-robot-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2266513",
+  "seriesname": "Lucas the Spider",
   "originalpremieredate": "2022-08-08T09:01:00.000Z",
   "pubdate": "2022-08-08T09:01:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "b7ac829805b6c0e95ed4e1d85982ffdb5ac64176",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

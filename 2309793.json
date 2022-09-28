@@ -2,7 +2,7 @@
   "airingid": "RADS1004272200093187",
   "seasonnumber": "1",
   "seasonitemnumber": "68",
-  "seriesid": "1000000000093702",
+  "seriesid": "2309749",
   "id": "57dfaa84b5b5b67d888d85caa3bf45a4d85ad436",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/dizzy-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2309749",
+  "seriesname": "Bing",
   "originalpremieredate": "2022-05-16T04:00:00.000Z",
   "pubdate": "2022-05-16T04:00:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "57dfaa84b5b5b67d888d85caa3bf45a4d85ad436",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1003162200079549",
   "seasonnumber": "1",
   "seasonitemnumber": "23",
-  "seriesid": "1000000000093702",
+  "seriesid": "2179056",
   "id": "a482b7faf8bb6a527fdc7db053ab80ccf1b28e09",
   "collectionid": "",
   "seofriendlyurl": "/video/mush-mush-&-the-mushables/mushpots-treasure-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2179056",
+  "seriesname": "Mush Mush & the Mushables",
   "originalpremieredate": "2022-04-04T09:01:00.000Z",
   "pubdate": "2022-04-04T09:01:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "a482b7faf8bb6a527fdc7db053ab80ccf1b28e09",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1005122200098108",
   "seasonnumber": "1",
   "seasonitemnumber": "28",
-  "seriesid": "1000000000093702",
+  "seriesid": "2309749",
   "id": "ace0da9348ae59c4cb148e8e966fcb039622f808",
   "collectionid": "",
   "seofriendlyurl": "/video/bing/dragon-breath-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2309749",
+  "seriesname": "Bing",
   "originalpremieredate": "2022-01-23T15:00:00.000Z",
   "pubdate": "2022-06-13T09:01:00.000Z",
   "expdate": "2022-09-28T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1664337599000",
   "mediaid": "ace0da9348ae59c4cb148e8e966fcb039622f808",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
