@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: October 8, 2022 at 17:30:18 EDT_
+_Last Update: October 9, 2022 at 01:00:20 EDT_
 ## Video added
-### Summary
-2239398 We Baby Bears: 2 (2 new)  
-### 2260352
-**We Baby Bears S01E30 - Witches**  
-🆕 TV-Y7 🔒 11:20  
-⌛ December 31, 2022 at 23:59:59 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2239398&titleid=2260352&mediaid=5bd3caf2e2dd65309919efe5b53c52e4d9222035) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/witches-episode.html  
-seriesid=`2239398` titleid=`2260352` mediaid=`5bd3caf2e2dd65309919efe5b53c52e4d9222035`  
-_The Bears accidentally summon three mysterious witches and have to figure out how to get them back home._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260352_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260352_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260352_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260352_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260352_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260352_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260352_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260352_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260352_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260352_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260352_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260352_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260352_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260352_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260352_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260352_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260352_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260352_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260352_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260352_010_640x360.jpg" height="144px" /></a>
-### 2260353
-**We Baby Bears S01E31 - Happy Bouncy Fun Town**  
-🆕 TV-Y7 🔒 11:20  
-⌛ December 31, 2022 at 23:59:59 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2239398&titleid=2260353&mediaid=dc8917571d844a63126d628c7e6f3e14f7699eec) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/happy-bouncy-fun-town-episode.html  
-seriesid=`2239398` titleid=`2260353` mediaid=`dc8917571d844a63126d628c7e6f3e14f7699eec`  
-_The Bears accidentally summon three mysterious witches and have to figure out how to get them back home._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260353_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260353_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260353_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260353_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260353_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260353_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260353_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260353_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260353_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260353_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260353_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260353_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260353_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260353_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260353_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260353_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260353_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260353_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260353_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260353_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
