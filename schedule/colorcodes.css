@@ -735,6 +735,13 @@
     border-color: #2dfd2d;
 }
 
+.franchise-457692, .series-2168685 { /* Scooby-Doo and Guess Who? */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #f4af54;
+    color: #6f2d86;
+    border-color: #6f2d86;
+}
+
 .franchise-459392, .series-2129657 { /* Power Players */
     font-family: "Avenir Std", sans-serif;
     background-color: #ff3300;
@@ -993,4 +1000,11 @@
     background-color: #f97eb5;
     color: black;
     border-color: black;
+}
+
+.franchise-481332, .series-2267111 { /* Batwheels */
+    font-family: linotteregular, sans-serif;
+    background-color: #262626;
+    color: #ffc000;
+    border-color: #ffc000;
 }
