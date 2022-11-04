@@ -1,11 +1,12 @@
 {
-    "updated": 1667565432,
-    "added": [
+    "updated": 1667565552,
+    "added": [],
+    "removed": [
         {
             "airingid": "RADS1011042200043044",
             "seasonnumber": "5",
             "seasonitemnumber": "7",
-            "seriesid": "2000349",
+            "seriesid": "10000000000",
             "id": "0388af579faeab444fc3315120e90088d1e91cce",
             "collectionid": "",
             "seofriendlyurl": "/video/teen-titans-go/the-power-of-shrimps-episode.html",
@@ -20,8 +21,8 @@
             "isclip": false,
             "typesort": "1",
             "tvratingcode": "TV-PG",
-            "seriestitleid": "2000349",
-            "seriesname": "Teen Titans Go!",
+            "seriestitleid": "10000000000",
+            "seriesname": "Unlocked",
             "originalpremieredate": "2022-11-04T04:00:00.000Z",
             "pubdate": "2022-11-04T04:00:00.000Z",
             "expdate": "2022-11-11T04:59:00.000Z",
@@ -40,10 +41,9 @@
             "expdateasmilliseconds": "1668142740000",
             "mediaid": "0388af579faeab444fc3315120e90088d1e91cce",
             "isunlockedfullepisode": true,
-            "ismultipropertycollection": false,
+            "ismultipropertycollection": true,
             "clipsonly": false,
             "includeshortform": false
         }
-    ],
-    "removed": []
+    ]
 }
