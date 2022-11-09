@@ -95,14 +95,14 @@
 .franchise-462132, .series-2215991, /* Sword Art Online: Alicization War of Underworld */
 .franchise-467352, .series-2238413, /* Assassination Classroom */
 .franchise-469352, .series-2236251, /* SSSS.Gridman */
-.franchise-471412, .series-2215150, /* Rick and Morty: Extras */
 .franchise-472592, .series-2268280, /* Yashahime: Princess Half-Demon */
 .franchise-473592, .series-2218281, /* Fena: Pirate Princess */
 .franchise-475752, .series-2191456, /* Blade Runner: Black Lotus */
 .franchise-476592, /* The Animatrix */
 .franchise-477152, .series-2356951, /* Made in Abyss */
 .franchise-477232, .series-2357025, /* Shenmue: The Animation */
-.franchise-479112, .series-2387380 { /* Lupin the 3rd Part 6 */
+.franchise-479112, .series-2387380, /* Lupin the 3rd Part 6 */
+.franchise-482252, .series-2398940 { /* Housing Complex C */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-image: radial-gradient(#851ddb 20%, transparent 20%),
         radial-gradient(#851ddb 20%, transparent 20%);
@@ -252,6 +252,13 @@
     border-color: white;
 }
 
+.franchise-332263, .series-609707 { /* Lucy, The Daughter of the Devil */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #2c2d2b;
+    color: #e0362d;
+    border-color: #e0362d;
+}
+
 .franchise-336141, .series-610028 { /* The Boondocks */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #2d2e26;
@@ -317,6 +324,13 @@
     border-color: #f5e503;
 }
 
+.franchise-359954, .series-2062459 { /* New Looney Tunes */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #f26822;
+    color: #fdec97;
+    border-color: #fdec97;
+}
+
 .franchise-366212, .series-2170837 { /* Bakugan: Battle Planet */
     font-family: "Avenir Std", sans-serif;
     background-color: #c4c5c7;
@@ -336,6 +350,13 @@
     background-color: #1a62a7;
     color: #4eff92;
     border-color: #4eff92;
+}
+
+.franchise-370612, .series-791488 { /* Mary Shelley's Frankenhole */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #252527;
+    color: #d3edcd;
+    border-color: #d3edcd;
 }
 
 .franchise-371676, .series-810150 { /* Regular Show */
@@ -465,7 +486,8 @@
     border-color: white;
 }
 
-.franchise-401312, .series-2013506 { /* Rick and Morty */
+.franchise-401312, .series-2013506, /* Rick and Morty */
+.franchise-471412, .series-2215150 { /* Rick and Morty: Extras */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: black;
     color: #00b2c8;
@@ -491,6 +513,13 @@
     background-color: #815667;
     color: #f4c598;
     border-color: #f4c598;
+}
+
+.franchise-411172, .series-2017785 { /* Over the Garden Wall */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #1a1207;
+    color: #edd4ac;
+    border-color: #edd4ac;
 }
 
 .franchise-411252, .series-2032238 { /* Mike Tyson Mysteries */
