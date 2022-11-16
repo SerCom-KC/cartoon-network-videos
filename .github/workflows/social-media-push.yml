@@ -16,10 +16,13 @@ jobs:
         id: before-sha
         with:
           script: |
+            const owner = context.repo.owner
+            const repo = context.repo.repo
+            const ref = context.sha
             const resp = await github.rest.repos.getCommit({
-              context.repo.owner,
-              context.repo.repo,
-              context.sha
+              owner,
+              repo,
+              ref
             })
             return resp.data.parents[0].sha
           result-encoding: string
