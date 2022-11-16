@@ -8,27 +8,24 @@ on:
 
 jobs:
   push:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
 
     steps:
       - name: Get the SHA of the commit before the push
-        uses: actions/github-script@v3
+        uses: actions/github-script@v6
         id: before-sha
         with:
           script: |
-            const owner = context.repo.owner
-            const repo = context.repo.repo
-            const ref = context.sha
-            const resp = await github.repos.getCommit({
-              owner,
-              repo,
-              ref
+            const resp = await github.rest.repos.getCommit({
+              context.repo.owner,
+              context.repo.repo,
+              context.sha
             })
             return resp.data.parents[0].sha
           result-encoding: string
 
       - name: Pull Python code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           ref: source
 
