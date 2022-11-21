@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: November 21, 2022 at 00:30:18 EST_
+_Last Update: November 21, 2022 at 10:00:20 EST_
 ## Video added
-### Summary
-2267111 Batwheels: 2 (2 new)  
-### 2267120
-**Batwheels S01E03 - Buff's BFF**  
-🆕 TV-Y 🔓 11:22  
-⌛ December 4, 2022 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2267120&mediaid=762af731ae0bcaecfe1f8bd922cf424e9cc407f4) or on the web: https://www.cartoonnetwork.com/video/batwheels/buffs-bff-episode.html  
-seriesid=`2267111` titleid=`2267120` mediaid=`762af731ae0bcaecfe1f8bd922cf424e9cc407f4`  
-_When Buff befriends Mr. Freeze's snowcrawler Snowy, the other Batwheels bristle at the thought of hanging out with a "bad guy…" so Buff sets out to change their minds._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2267120_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267120_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267120_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267120_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267120_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267120_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267120_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267120_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267120_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267120_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267120_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267120_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267120_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267120_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267120_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267120_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267120_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267120_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267120_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267120_010_640x360.jpg" height="144px" /></a>
-### 2267119
-**Batwheels S01E04 - Up in the Air**  
-🆕 TV-Y 🔓 11:23  
-⌛ December 4, 2022 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2267119&mediaid=0528db6c2acf8df68700059997e9c9d37780d821) or on the web: https://www.cartoonnetwork.com/video/batwheels/up-in-the-air-episode.html  
-seriesid=`2267111` titleid=`2267119` mediaid=`0528db6c2acf8df68700059997e9c9d37780d821`  
-_After he causes the Batwing to crash, Bam becomes obsessed with making it up to her during a high-stakes aerial mission against Penguin and his giant ducky blimp._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2267119_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267119_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267119_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267119_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267119_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267119_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267119_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267119_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267119_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267119_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267119_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267119_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267119_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267119_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267119_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267119_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267119_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267119_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2267119_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2267119_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
