@@ -13569,7 +13569,7 @@
         "pubdate": "2022-12-01T05:00:00.000Z",
         "expdate": "2022-12-31T05:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2357734_005_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "webflags": "",
         "tags": "cartoonito",
         "titleid": "2357734",
