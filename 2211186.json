@@ -2,7 +2,7 @@
   "airingid": "RADS1011222200045839",
   "seasonnumber": "3",
   "seasonitemnumber": "19",
-  "seriesid": "10000000000",
+  "seriesid": "2130773",
   "id": "fe09ccbbb8ccb9943066a12ac1e99837afa231f1",
   "collectionid": "",
   "seofriendlyurl": "/video/unikitty/the-very-best-candy-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2130773",
+  "seriesname": "Unikitty",
   "originalpremieredate": "2022-11-25T05:00:00.000Z",
   "pubdate": "2022-11-25T05:00:00.000Z",
   "expdate": "2022-12-02T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1669957140000",
   "mediaid": "fe09ccbbb8ccb9943066a12ac1e99837afa231f1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
