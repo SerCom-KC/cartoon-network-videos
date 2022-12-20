@@ -51,7 +51,8 @@
 .title-2211293, /* Star Boat */
 .title-2224722, /* Smiling Friends: Desmond's Big Day Out */
 .title-2226752, /* Space Man */
-.title-2227425 { /* Spooky Dreams */
+.title-2227425, /* Spooky Dreams */
+.title-2413217 { /* Adult Swim Yule Log */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #bfbfbf;
     color: black;
@@ -452,6 +453,13 @@
     background-color: #f4e023;
     color: #ed202d;
     border-color: #ed202d;
+}
+
+.franchise-397852, .series-2007332 { /* Uncle Grandpa */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #f68b1f;
+    color: black;
+    border-color: black;
 }
 
 .franchise-398292, .series-2007539, /* Mr. Pickles */
