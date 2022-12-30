@@ -37,6 +37,20 @@
     border-color: black;
 }
 
+.title-624871 { /* Foster's Home for Imaginary Friends Christmas Special: A Lost Claus */
+    font-family: "Avenir Std", sans-serif;
+    background-color: black;
+    color: #13b5e9;
+    border-color: #13b5e9;
+}
+
+.title-625926 { /* Billy & Mandy Save Christmas */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #040208;
+    color: #ed3d35;
+    border-color: #ed3d35;
+}
+
 .title-627871 { /* Tom Goes to the Mayor: Special */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #887c0a;
@@ -316,6 +330,13 @@
     background-image: linear-gradient(#5073ba, #e17c3b);
     color: white;
     border-color: white;
+}
+
+.franchise-355790, .series-700601 { /* The Marvelous Misadventures of Flapjack */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #f3ba7a;
+    color: #880f04;
+    border-color: #880f04;
 }
 
 .franchise-359714, .series-629835 { /* King of the Hill */
