@@ -1,9 +1,8 @@
 {
-    "updated": 1672545552,
-    "added": [],
-    "removed": [
+    "updated": 1672545617,
+    "added": [
         {
-            "airingid": "RADS1010102200036070",
+            "airingid": "RADS1012222200055969",
             "seasonnumber": "1",
             "seasonitemnumber": "9",
             "seriesid": "2267111",
@@ -23,27 +22,27 @@
             "tvratingcode": "TV-Y",
             "seriestitleid": "2267111",
             "seriesname": "Batwheels",
-            "originalpremieredate": "2022-10-31T04:00:00.000Z",
-            "pubdate": "2022-10-31T04:00:00.000Z",
-            "expdate": "2023-01-01T03:59:00.000Z",
+            "originalpremieredate": "2023-01-01T04:00:00.000Z",
+            "pubdate": "2023-01-01T04:00:00.000Z",
+            "expdate": "2023-12-31T05:00:00.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2272390_007_640x360.jpg",
             "authtype": "unauth",
             "webflags": "",
             "tags": "shorts",
             "titleid": "2272390",
             "titletype": "Element",
-            "bannertext": "",
             "originalseriesid": "2267111",
             "originalseriesname": "Batwheels",
             "hasparent": false,
-            "originalpremieredateasmilliseconds": "1667188800000",
-            "pubdateasmilliseconds": "1667188800000",
-            "expdateasmilliseconds": "1672545540000",
+            "originalpremieredateasmilliseconds": "1672545600000",
+            "pubdateasmilliseconds": "1672545600000",
+            "expdateasmilliseconds": "1703998800000",
             "mediaid": "0462bf37ed8e32090b016597e0e9bb3bfe8c0acb",
             "isunlockedfullepisode": false,
             "ismultipropertycollection": false,
             "clipsonly": false,
             "includeshortform": true
         }
-    ]
+    ],
+    "removed": []
 }
