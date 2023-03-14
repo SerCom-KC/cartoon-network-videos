@@ -366,11 +366,11 @@
         "seriesname": "Total Dramarama",
         "originalpremieredate": "2022-12-31T05:01:00.000Z",
         "pubdate": "2022-12-31T05:01:00.000Z",
-        "expdate": "2023-12-31T05:00:00.000Z",
+        "expdate": "2023-03-17T04:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141714_004_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
-        "tags": "",
+        "tags": "march unlocked kills",
         "titleid": "2141714",
         "titletype": "Episode",
         "bannertext": "",
@@ -379,7 +379,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1672462860000",
         "pubdateasmilliseconds": "1672462860000",
-        "expdateasmilliseconds": "1703998800000",
+        "expdateasmilliseconds": "1679025600000",
         "mediaid": "1ada875ffe47d080fb6d8e3f6a7104419a7fb413",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -5676,7 +5676,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1001062300058236",
+        "airingid": "RADS1012212200054358",
         "seasonnumber": "1",
         "seasonitemnumber": "27",
         "seriesid": "2141710",
@@ -5719,7 +5719,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212200054358",
+        "airingid": "RADS1001062300058236",
         "seasonnumber": "1",
         "seasonitemnumber": "27",
         "seriesid": "2141710",
