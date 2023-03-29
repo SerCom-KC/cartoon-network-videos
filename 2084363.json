@@ -2,7 +2,7 @@
   "airingid": "RADS1003202300078343",
   "seasonnumber": "1",
   "seasonitemnumber": "23",
-  "seriesid": "10000000000",
+  "seriesid": "2084345",
   "id": "0c0a3ab0145442df1f2c06c558cf550b78cc7d2e",
   "collectionid": "",
   "seofriendlyurl": "/video/justice-league-action/double-cross-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2084345",
+  "seriesname": "Justice League Action",
   "originalpremieredate": "2023-03-24T04:01:00.000Z",
   "pubdate": "2023-03-24T04:01:00.000Z",
   "expdate": "2023-03-29T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1680062399000",
   "mediaid": "0c0a3ab0145442df1f2c06c558cf550b78cc7d2e",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

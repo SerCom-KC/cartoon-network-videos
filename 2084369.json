@@ -2,7 +2,7 @@
   "airingid": "RADS1003202300078345",
   "seasonnumber": "1",
   "seasonitemnumber": "21",
-  "seriesid": "10000000000",
+  "seriesid": "2084345",
   "id": "b8af78322ee624166f440f5e6db755c57522a0c1",
   "collectionid": "",
   "seofriendlyurl": "/video/justice-league-action/inside-job-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2084345",
+  "seriesname": "Justice League Action",
   "originalpremieredate": "2023-03-24T04:01:00.000Z",
   "pubdate": "2023-03-24T04:01:00.000Z",
   "expdate": "2023-03-29T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1680062399000",
   "mediaid": "b8af78322ee624166f440f5e6db755c57522a0c1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
