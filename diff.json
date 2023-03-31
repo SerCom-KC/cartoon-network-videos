@@ -1,11 +1,12 @@
 {
-    "updated": 1680281652,
-    "added": [
+    "updated": 1680281713,
+    "added": [],
+    "removed": [
         {
             "airingid": "RADS1003272300080310",
             "seasonnumber": "8",
             "seasonitemnumber": "6",
-            "seriesid": "2000349",
+            "seriesid": "10000000000",
             "id": "c6bed4c870ec01931a12b403194bc8ea548e9570",
             "collectionid": "",
             "seofriendlyurl": "/video/teen-titans-go/a-stickier-situation-episode.html",
@@ -20,8 +21,8 @@
             "isclip": false,
             "typesort": "1",
             "tvratingcode": "TV-PG",
-            "seriestitleid": "2000349",
-            "seriesname": "Teen Titans Go!",
+            "seriestitleid": "10000000000",
+            "seriesname": "Unlocked",
             "originalpremieredate": "2023-03-31T04:01:00.000Z",
             "pubdate": "2023-03-31T04:01:00.000Z",
             "expdate": "2023-04-14T03:59:00.000Z",
@@ -40,7 +41,7 @@
             "expdateasmilliseconds": "1681444740000",
             "mediaid": "c6bed4c870ec01931a12b403194bc8ea548e9570",
             "isunlockedfullepisode": true,
-            "ismultipropertycollection": false,
+            "ismultipropertycollection": true,
             "clipsonly": false,
             "includeshortform": false
         },
@@ -48,7 +49,7 @@
             "airingid": "RADS1003272300080289",
             "seasonnumber": "8",
             "seasonitemnumber": "7",
-            "seriesid": "2000349",
+            "seriesid": "10000000000",
             "id": "f9354788a52d12ee0ff95a48b25156b0243ce87a",
             "collectionid": "",
             "seofriendlyurl": "/video/teen-titans-go/winning-a-golf-tournament-is-the-solution-to-all-of-lifes-money-problems-episode.html",
@@ -63,8 +64,8 @@
             "isclip": false,
             "typesort": "1",
             "tvratingcode": "TV-PG",
-            "seriestitleid": "2000349",
-            "seriesname": "Teen Titans Go!",
+            "seriestitleid": "10000000000",
+            "seriesname": "Unlocked",
             "originalpremieredate": "2023-03-31T04:01:00.000Z",
             "pubdate": "2023-03-31T04:01:00.000Z",
             "expdate": "2023-04-14T03:59:00.000Z",
@@ -83,10 +84,9 @@
             "expdateasmilliseconds": "1681444740000",
             "mediaid": "f9354788a52d12ee0ff95a48b25156b0243ce87a",
             "isunlockedfullepisode": true,
-            "ismultipropertycollection": false,
+            "ismultipropertycollection": true,
             "clipsonly": false,
             "includeshortform": false
         }
-    ],
-    "removed": []
+    ]
 }
