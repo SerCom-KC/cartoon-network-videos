@@ -2688,11 +2688,11 @@
         "seriesname": "Total Dramarama",
         "originalpremieredate": "2023-01-01T05:00:00.000Z",
         "pubdate": "2023-01-01T05:00:00.000Z",
-        "expdate": "2023-12-31T05:00:00.000Z",
+        "expdate": "2023-04-07T04:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141729_002_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
-        "tags": "",
+        "tags": "april unlocked kills",
         "titleid": "2141729",
         "titletype": "Episode",
         "bannertext": "",
@@ -2701,7 +2701,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1672549200000",
         "pubdateasmilliseconds": "1672549200000",
-        "expdateasmilliseconds": "1703998800000",
+        "expdateasmilliseconds": "1680840000000",
         "mediaid": "7bb5a972bf5b252c873c63415c09b053007e805b",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
@@ -5676,7 +5676,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1012212200054358",
+        "airingid": "RADS1001062300058236",
         "seasonnumber": "1",
         "seasonitemnumber": "27",
         "seriesid": "2141710",
@@ -5719,7 +5719,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1001062300058236",
+        "airingid": "RADS1012212200054358",
         "seasonnumber": "1",
         "seasonitemnumber": "27",
         "seriesid": "2141710",
