@@ -2,7 +2,7 @@
   "airingid": "RADS1003282300080734",
   "seasonnumber": "2",
   "seasonitemnumber": "1",
-  "seriesid": "10000000000",
+  "seriesid": "2223270",
   "id": "a3e6e92ec6b0ca4ec08dc7e04483be187be61642",
   "collectionid": "",
   "seofriendlyurl": "/video/looney-tunes-cartoons/red-white-and-bruisedbeaky-buzzard-gags-bunnyjet-porkpelled-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2223270",
+  "seriesname": "Looney Tunes Cartoons",
   "originalpremieredate": "2023-04-03T04:00:00.000Z",
   "pubdate": "2023-04-03T04:00:00.000Z",
   "expdate": "2023-09-05T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1693886340000",
   "mediaid": "a3e6e92ec6b0ca4ec08dc7e04483be187be61642",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
