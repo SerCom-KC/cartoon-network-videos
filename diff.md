@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: April 14, 2023 at 20:30:15 EDT_
+_Last Update: April 15, 2023 at 00:00:17 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2223270 Looney Tunes Cartoons: 2 (2 new)  
+### 2224224
+**Looney Tunes Cartoons S02E05 - Bone Head/Relax**  
+🆕 TV-PG 🔒 11:40  
+⌛ September 3, 2023 at 23:59:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2223270&titleid=2224224&mediaid=c4591b064b69cde70736583b78737093b5ebff1b) or on the web: https://www.cartoonnetwork.com/video/looney-tunes-cartoons/bone-headrelax-episode.html  
+seriesid=`2223270` titleid=`2224224` mediaid=`c4591b064b69cde70736583b78737093b5ebff1b`  
+_A dog uncovers trouble when he buries a bone in Bugs Bunny's hole. Porky Pig wants to relax, but his nephew Cicero is visiting._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2224224_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224224_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224224_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224224_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224224_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224224_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224224_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224224_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224224_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224224_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224224_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224224_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224224_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224224_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224224_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224224_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224224_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224224_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224224_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224224_010_640x360.jpg" height="144px" /></a>
+### 2268154
+**Looney Tunes Cartoons S02E06 - Rotund Rabbit/Hog Wash**  
+🆕 TV-PG 🔒 12:26  
+⌛ September 3, 2023 at 23:59:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2223270&titleid=2268154&mediaid=d6ed17809d1fcdc738fc0820dcab60e57ddc2a68) or on the web: https://www.cartoonnetwork.com/video/looney-tunes-cartoons/rotund-rabbithog-wash-episode.html  
+seriesid=`2223270` titleid=`2268154` mediaid=`d6ed17809d1fcdc738fc0820dcab60e57ddc2a68`  
+_After stuffing himself with carrots, a big, round Bugs rolls over Elmer. Porky Pig takes a very painful trip through an automated car wash._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2268154_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2268154_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2268154_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2268154_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2268154_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2268154_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2268154_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2268154_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2268154_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2268154_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2268154_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2268154_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2268154_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2268154_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2268154_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2268154_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2268154_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2268154_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2268154_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2268154_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
