@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: April 28, 2023 at 10:00:16 EDT_
+_Last Update: April 29, 2023 at 00:00:16 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2223270 Looney Tunes Cartoons: 2 (2 new)  
+### 2224228
+**Looney Tunes Cartoons S02E09 - Basketbugs/A Skate of Confusion!**  
+🆕 TV-PG 🔒 11:35  
+⌛ September 3, 2023 at 23:59:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2223270&titleid=2224228&mediaid=fcb41d3425ec90586e17c912b3849b693378befe) or on the web: https://www.cartoonnetwork.com/video/looney-tunes-cartoons/basketbugsa-skate-of-confusion-episode.html  
+seriesid=`2223270` titleid=`2224228` mediaid=`fcb41d3425ec90586e17c912b3849b693378befe`  
+_Bugs Bunny plays some streetball. Porky Pig puts a new spin on an old sport: ice skating...with chainsaws._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2224228_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224228_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224228_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224228_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224228_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224228_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224228_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224228_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224228_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224228_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224228_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224228_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224228_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224228_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224228_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224228_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224228_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224228_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224228_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224228_010_640x360.jpg" height="144px" /></a>
+### 2224229
+**Looney Tunes Cartoons S02E10 - Mt. Neverest/Telephone Pole Gag: Zip Line / Fast & Steady**  
+🆕 TV-PG 🔒 10:01  
+⌛ September 3, 2023 at 23:59:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2223270&titleid=2224229&mediaid=719dd1ea2cab204adb1594a68f6a0a863aa07c65) or on the web: https://www.cartoonnetwork.com/video/looney-tunes-cartoons/mt-neveresttelephone-pole-gag-zip-line--fast--steady-episode.html  
+seriesid=`2223270` titleid=`2224229` mediaid=`719dd1ea2cab204adb1594a68f6a0a863aa07c65`  
+_Porky and Daffy go mountain climbing. Sylvester zips out for a quick meal. Wile E. Coyote sees a sign._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2224229_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224229_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224229_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224229_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224229_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224229_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224229_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224229_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224229_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224229_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224229_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224229_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224229_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224229_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224229_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224229_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224229_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224229_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224229_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224229_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
