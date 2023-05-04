@@ -246,6 +246,13 @@
     border-color: yellow;
 }
 
+.franchise-329523, .series-544197 { /* Foster's Home for Imaginary Friends */
+    font-family: "Avenir Std", sans-serif;
+    background-color: black;
+    color: #11b5e9;
+    border-color: #11b5e9;
+}
+
 .franchise-330849, .series-581268 { /* Squidbillies */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-color: #91ac8b;
@@ -1066,4 +1073,11 @@
     background-color: #262626;
     color: #ffc000;
     border-color: #ffc000;
+}
+
+.franchise-483732, .series-2388924 { /* Royal Crackers */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #252f70;
+    color: #ffcb00;
+    border-color: #ffcb00;
 }
