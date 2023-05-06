@@ -3,8 +3,17 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: May 6, 2023 at 00:00:16 EDT_
+_Last Update: May 6, 2023 at 12:30:17 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2000349 Teen Titans Go!: 1 (1 new)  
+### 2409299
+**Teen Titans Go! S08E10 - The Brain of the Family**  
+🆕 TV-PG 🔒 20:53  
+⌛ December 31, 2023 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2000349&titleid=2409299&mediaid=fe6440c8b982e8551c14b1b0e7255d341e77e7d0) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/the-brain-of-the-family-episode.html  
+seriesid=`2000349` titleid=`2409299` mediaid=`fe6440c8b982e8551c14b1b0e7255d341e77e7d0`  
+_The Brain's home life is disrupted when his slacker brother Brian comes to visit. Now The Brain and Mallah have to deal with Brian's messes and keep him from ruining their big secret scheme._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2409299_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409299_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409299_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409299_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409299_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409299_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409299_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409299_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409299_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409299_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409299_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409299_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409299_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409299_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409299_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409299_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409299_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409299_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409299_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409299_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
