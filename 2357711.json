@@ -43,7 +43,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1004252300090182",
+        "airingid": "RADS1005012300092110",
         "seasonnumber": "1",
         "seasonitemnumber": "26",
         "seriesid": "2357711",
@@ -86,7 +86,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1005012300092110",
+        "airingid": "RADS1004252300090182",
         "seasonnumber": "1",
         "seasonitemnumber": "26",
         "seriesid": "2357711",
@@ -110,12 +110,12 @@
         "pubdate": "2023-05-05T04:00:00.000Z",
         "expdate": "2023-12-31T05:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2357716_003_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "webflags": "",
-        "tags": "cartoonito|unauth",
+        "tags": "cartoonito",
         "titleid": "2357716",
         "titletype": "Episode",
-        "bannertext": "UNLOCKED",
+        "bannertext": "",
         "originalseriesid": "2357711",
         "originalseriesname": "Blippi Wonders",
         "hasparent": false,
@@ -123,7 +123,7 @@
         "pubdateasmilliseconds": "1683259200000",
         "expdateasmilliseconds": "1703998800000",
         "mediaid": "0520df5473132f8780ecda0a84f6d8556d66479e",
-        "isunlockedfullepisode": true,
+        "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
         "includeshortform": true
