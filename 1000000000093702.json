@@ -559,7 +559,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1004252300090182",
+        "airingid": "RADS1005012300092110",
         "seasonnumber": "1",
         "seasonitemnumber": "26",
         "seriesid": "1000000000093702",
@@ -602,7 +602,7 @@
         "includeshortform": false
     },
     {
-        "airingid": "RADS1005012300092110",
+        "airingid": "RADS1004252300090182",
         "seasonnumber": "1",
         "seasonitemnumber": "26",
         "seriesid": "1000000000093702",
@@ -667,7 +667,7 @@
         "seriesname": "Cartoonito",
         "originalpremieredate": "2023-03-31T04:00:00.000Z",
         "pubdate": "2023-03-31T04:00:00.000Z",
-        "expdate": "2023-12-31T05:00:00.000Z",
+        "expdate": "2023-05-19T04:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2267119_004_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -680,7 +680,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1680235200000",
         "pubdateasmilliseconds": "1680235200000",
-        "expdateasmilliseconds": "1703998800000",
+        "expdateasmilliseconds": "1684468800000",
         "mediaid": "0528db6c2acf8df68700059997e9c9d37780d821",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
@@ -8880,7 +8880,7 @@
         "seriesname": "Cartoonito",
         "originalpremieredate": "2023-03-24T04:00:00.000Z",
         "pubdate": "2023-03-24T04:00:00.000Z",
-        "expdate": "2023-12-31T05:00:00.000Z",
+        "expdate": "2023-05-19T04:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2267120_007_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
@@ -8893,7 +8893,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1679630400000",
         "pubdateasmilliseconds": "1679630400000",
-        "expdateasmilliseconds": "1703998800000",
+        "expdateasmilliseconds": "1684468800000",
         "mediaid": "762af731ae0bcaecfe1f8bd922cf424e9cc407f4",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": true,
