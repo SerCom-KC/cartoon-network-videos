@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: May 29, 2023 at 19:00:15 EDT_
+_Last Update: May 29, 2023 at 20:30:16 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2132940 Craig of the Creek: 2 (2 new)  
+### 2266842
+**Craig of the Creek S04E36 - Craig of the Campus**  
+🆕 TV-Y7 🔒 11:17  
+⌛ December 31, 2023 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2132940&titleid=2266842&mediaid=0bdf36c13c97eb59bb015ec14effe8a6b02d13b7) or on the web: https://www.cartoonnetwork.com/video/craig-of-the-creek/craig-of-the-campus-episode.html  
+seriesid=`2132940` titleid=`2266842` mediaid=`0bdf36c13c97eb59bb015ec14effe8a6b02d13b7`  
+_Craig is dragged along on a college tour, but quickly finds himself chasing after a creek legend._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2266842_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266842_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266842_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266842_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266842_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266842_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266842_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266842_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266842_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266842_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266842_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266842_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266842_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266842_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266842_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266842_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266842_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266842_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266842_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266842_010_640x360.jpg" height="144px" /></a>
+### 2266845
+**Craig of the Creek S04E37 - Wheels Collide**  
+🆕 TV-Y7 🔒 11:17  
+⌛ December 31, 2023 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2132940&titleid=2266845&mediaid=71f6a6b0272608a8739af786969fb0563bd7479b) or on the web: https://www.cartoonnetwork.com/video/craig-of-the-creek/wheels-collide-episode.html  
+seriesid=`2132940` titleid=`2266845` mediaid=`71f6a6b0272608a8739af786969fb0563bd7479b`  
+_Craig tries to bring together the fastest kids in the Creek, and accidentally creates a rivalry between the 10 Speeds and the Roller Derby Kids._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2266845_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266845_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266845_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266845_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266845_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266845_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266845_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266845_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266845_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266845_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266845_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266845_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266845_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266845_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266845_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266845_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266845_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266845_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2266845_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2266845_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
