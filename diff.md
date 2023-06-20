@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: June 20, 2023 at 00:00:15 EDT_
+_Last Update: June 20, 2023 at 07:30:15 EDT_
 ## Video added
-### Summary
-2131007 Summer Camp Island: 2 (2 new)  
-### 2188732
-**Summer Camp Island S02E03 - Molar Moles**  
-🆕 TV-Y7 🔒 11:17  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2188732&mediaid=eb8324137dcc080c2393d823f634b9692662037e) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/molar-moles-episode.html  
-seriesid=`2131007` titleid=`2188732` mediaid=`eb8324137dcc080c2393d823f634b9692662037e`  
-_Oscar's fib about his last baby tooth alerts the Molar Mole Fraud Squad, and Hedgehog jumps to his defense at a kooky mole trial._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2188732_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188732_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188732_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188732_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188732_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188732_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188732_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188732_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188732_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188732_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188732_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188732_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188732_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188732_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188732_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188732_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188732_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188732_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2188732_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2188732_010_640x360.jpg" height="144px" /></a>
-### 2189957
-**Summer Camp Island S02E04 - Tortilla Towel**  
-🆕 TV-Y7 🔒 11:17  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2189957&mediaid=788bfbac8c9ee5a55be5ab312943bd5a58297035) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/tortilla-towel-episode.html  
-seriesid=`2131007` titleid=`2189957` mediaid=`788bfbac8c9ee5a55be5ab312943bd5a58297035`  
-_After making Oscar's tortilla towel dreams come true, he and Hedgehog find that running a business is harder than they thought._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2189957_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2189957_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2189957_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2189957_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2189957_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2189957_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2189957_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2189957_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2189957_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2189957_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2189957_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2189957_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2189957_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2189957_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2189957_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2189957_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2189957_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2189957_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2189957_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2189957_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
