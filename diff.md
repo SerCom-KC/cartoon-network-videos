@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: June 26, 2023 at 00:00:15 EDT_
+_Last Update: June 26, 2023 at 13:30:16 EDT_
 ## Video added
-### Summary
-2131007 Summer Camp Island: 2 (2 new)  
-### 2198281
-**Summer Camp Island S02E11 - Catacombs**  
-🆕 TV-Y7 🔒 11:16  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2198281&mediaid=d358c5ec18f1a0507c9e79a6fb92bb56d7f32f5d) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/catacombs-episode.html  
-seriesid=`2131007` titleid=`2198281` mediaid=`d358c5ec18f1a0507c9e79a6fb92bb56d7f32f5d`  
-_Oscar, Hedgehog, Lucy, and Saxophone must return a yeti comb to its home to save the island from a really bad hair day._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2198281_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198281_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198281_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198281_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198281_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198281_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198281_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198281_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198281_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198281_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198281_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198281_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198281_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198281_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198281_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198281_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198281_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198281_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2198281_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2198281_010_640x360.jpg" height="144px" /></a>
-### 2193188
-**Summer Camp Island S02E12 - Wild Hearts Can't Be Caboodled**  
-🆕 TV-Y7 🔒 11:18  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2193188&mediaid=124b51ff8e83c12b850659f10400ad9d2d35a428) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/wild-hearts-cant-be-caboodled-episode.html  
-seriesid=`2131007` titleid=`2193188` mediaid=`124b51ff8e83c12b850659f10400ad9d2d35a428`  
-_Things get wonky when Oscar and Hedgehog use magic to get an edge on their fellow campers in the Rainbow Unicorn Badge contest._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2193188_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193188_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193188_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193188_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193188_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193188_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193188_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193188_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193188_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193188_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193188_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193188_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193188_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193188_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193188_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193188_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193188_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193188_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2193188_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2193188_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
