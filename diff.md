@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: July 6, 2023 at 00:00:17 EDT_
+_Last Update: July 6, 2023 at 00:30:16 EDT_
 ## Video added
-### Summary
-2131007 Summer Camp Island: 2 (2 new)  
-### 2214536
-**Summer Camp Island S03E07 - Puddle and the King Chapter 3: All the King's Slides**  
-🆕 TV-Y7 🔒 11:17  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2214536&mediaid=3f72dab1421a4334eac7d28bb4578a2e656f3f57) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/puddle-and-the-king-chapter-3-all-the-kings-slides-episode.html  
-seriesid=`2131007` titleid=`2214536` mediaid=`3f72dab1421a4334eac7d28bb4578a2e656f3f57`  
-_Oscar, Hedgehog and Puddle must figure out what's wrong with the King when he orders the aliens to turn all the planet's sugar into salt._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2214536_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214536_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214536_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214536_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214536_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214536_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214536_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214536_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214536_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214536_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214536_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214536_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214536_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214536_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214536_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214536_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214536_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214536_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2214536_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2214536_010_640x360.jpg" height="144px" /></a>
-### 2209412
-**Summer Camp Island S03E08 - Yeti Confetti Chapter 1: Don't Tell Lucy**  
-🆕 TV-Y7 🔒 11:17  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2209412&mediaid=1d50965343e9eb3025418cfe6501d82495a3fd1b) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/yeti-confetti-chapter-1-dont-tell-lucy-episode.html  
-seriesid=`2131007` titleid=`2209412` mediaid=`1d50965343e9eb3025418cfe6501d82495a3fd1b`  
-_Oscar has to distract Lucy while the Yetis prepare a surprise for her._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2209412_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2209412_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2209412_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2209412_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2209412_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2209412_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2209412_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2209412_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2209412_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2209412_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2209412_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2209412_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2209412_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2209412_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2209412_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2209412_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2209412_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2209412_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2209412_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2209412_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
