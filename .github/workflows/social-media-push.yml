@@ -33,12 +33,24 @@ jobs:
           ref: source
 
       - name: Install dependencies
-        run: pip3 install requests datetime youtube-dl pytz
+        run: |
+          pip3 install requests datetime youtube-dl pytz requests-oauthlib
 
-      - name: Do the actual push
+      - name: Push to Telegram
         env:
           GITHUB_BEFORE: ${{ steps.before-sha.outputs.result }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_PROD_CHAT_ID: ${{ secrets.TG_PROD_CHAT_ID }}
           TG_DBG_CHAT_ID: ${{ secrets.TG_DBG_CHAT_ID }}
         run: python3 push-telegram.py
+
+      - name: Push to Twitter
+        env:
+          GITHUB_BEFORE: ${{ steps.before-sha.outputs.result }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_DBG_CHAT_ID: ${{ secrets.TG_DBG_CHAT_ID }}
+          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+          TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        run: python3 push-twitter.py
