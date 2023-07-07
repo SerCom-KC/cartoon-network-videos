@@ -34,7 +34,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip3 install requests datetime youtube-dl pytz tweepy
+          pip3 install requests datetime youtube-dl pytz
 
       - name: Push to Telegram
         env:
