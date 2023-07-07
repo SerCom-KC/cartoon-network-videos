@@ -33,12 +33,12 @@ def send_tweet(text, media_ids=None):
     resp = s.post(
         "https://api.twitter.com/2/tweets",
         headers={"Content-Type": "application/json"},
-        data=json.dumps(data).encode("utf-16"),
+        data=json.dumps(data, ensure_ascii=False).encode("utf-8"),
         auth=twitter_credential
     )
 
     if not resp.ok:
-        print(resp.content)
+        log(resp.content)
         resp.raise_for_status()
 
     return resp.json()
@@ -51,7 +51,7 @@ PREVIEW_OUTPUT_PATH = "/tmp/%s_preview.mp4"
 espanol = 0
 
 def log(text):
-    text = "webhook: " + text
+    text = "webhook: " + str(text)
     params = {
         "chat_id": tg_dbg_chatid,
         "text": text
