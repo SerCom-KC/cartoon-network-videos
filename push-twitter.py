@@ -33,7 +33,7 @@ def send_tweet(text, media_ids=None):
     resp = s.post(
         "https://api.twitter.com/2/tweets",
         headers={"Content-Type": "application/json"},
-        data=json.dumps(data, ensure_ascii=False).encode("utf-8"),
+        data=json.dumps(data, ensure_ascii=True).encode("utf-8"),
         auth=twitter_credential
     )
 
