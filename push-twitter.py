@@ -125,8 +125,12 @@ def parse_video(video):
             video["thumbnailurl"] = "https://i.cartoonnetwork.com/orchestrator/%s_001_640x360.jpg" % (video["titleid"])
 
     thumbnail_url = video["thumbnailurl"].replace("640x360", "1280x720")
+    thumbnail_filename = thumbnail_url.split("/")[-1]
+    with open(f"/tmp/{thumbnail_filename}", "wb") as f:
+        f.write(s.get(thumbnail_url).content)
+
     media_ids = []
-    media_ids.append(twitter.media_upload(filename=thumbnail_url.split("/")[-1], file=s.get(thumbnail_url, stream=True).raw).id)
+    media_ids.append(twitter.media_upload(filename=f"/tmp/{thumbnail_filename}").id)
 
     return twitter.update_status(status=ep_result, media_ids=media_ids).id
 
