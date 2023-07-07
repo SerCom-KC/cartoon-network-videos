@@ -138,7 +138,9 @@ def parse_video(video):
             "https://upload.twitter.com/1.1/media/upload.json",
             files={"media": (thumbnail_filename, f)},
             auth=twitter_credential
-        ).json()
+        )
+        resp.raise_for_status()
+        resp = resp.json()
         media_ids.append(resp["media_id"])
 
     resp = s.post(
@@ -148,7 +150,11 @@ def parse_video(video):
             "media": {"media_ids": media_ids}
         }).encode("utf-16"),
         auth=twitter_credential
-    ).json()
+    )
+    if not resp.ok:
+        print(resp.content)
+        resp.raise_for_status()
+    resp = resp.json()
     return resp["data"]["id"]
 
 def send_preview(video):
@@ -230,13 +236,14 @@ def main():
         since_str += prev_video_list_updated.strftime("%d, %Y at %H:%M:%S %Z").lstrip("0")
         text += " since %s. Visit https://github.com/%s/blob/%s/diff.md for a complete list of updates." % (since_str, github_repo, commit_hash)
 
-        s.post(
+        resp = s.post(
             "https://api.twitter.com/2/tweets",
             data=json.dumps({
                 "text": text
             }).encode("utf-16"),
             auth=twitter_credential
         )
+        resp.raise_for_status()
 
     elif ref == "refs/heads/fastring":
         prev_rm_video_list = prev_video_list["removed"]
@@ -251,13 +258,14 @@ def main():
         if espanol > 3:
             text = "There are %d more Spanish-dubbed new episodes/shorts not listed." % (espanol-3)
 
-            s.post(
+            resp = s.post(
                 "https://api.twitter.com/2/tweets",
                 data=json.dumps({
                     "text": text
                 }).encode("utf-16"),
                 auth=twitter_credential
             )
+            resp.raise_for_status()
 
         if added_videos:
             os.system("sudo apt-get install ffmpeg -y")
