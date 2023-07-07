@@ -1,5 +1,6 @@
 # coding: utf-8
 
+import json
 import os
 import re
 import traceback
@@ -7,20 +8,16 @@ from datetime import datetime
 
 import pytz
 import requests
-import tweepy
 import youtube_dl
 
-twitter_v1_1 = tweepy.API(tweepy.OAuth1UserHandler(
+from requests_oauthlib import OAuth1
+
+twitter_credential = OAuth1(
     os.environ["TWITTER_CONSUMER_KEY"],
-    os.environ["TWITTER_CONSUMER_SECRET"],
-    os.environ["TWITTER_ACCESS_TOKEN_KEY"],
-    os.environ["TWITTER_ACCESS_TOKEN_SECRET"]
-))
-twitter_v2 = tweepy.Client(
-    consumer_key=os.environ["TWITTER_CONSUMER_KEY"],
-    consumer_secret=os.environ["TWITTER_CONSUMER_SECRET"],
-    access_token=os.environ["TWITTER_ACCESS_TOKEN_KEY"],
-    access_token_secret=os.environ["TWITTER_ACCESS_TOKEN_SECRET"]
+    client_secret=os.environ["TWITTER_CONSUMER_SECRET"],
+    resource_owner_key=os.environ["TWITTER_ACCESS_TOKEN_KEY"],
+    resource_owner_secret=os.environ["TWITTER_ACCESS_TOKEN_SECRET"],
+    decoding=None
 )
 github_repo = os.environ["GITHUB_REPOSITORY"]
 telegram_token = os.environ["TG_BOT_TOKEN"]
@@ -136,9 +133,23 @@ def parse_video(video):
         f.write(s.get(thumbnail_url).content)
 
     media_ids = []
-    media_ids.append(twitter_v1_1.media_upload(filename=f"/tmp/{thumbnail_filename}").media_id)
+    with open(f"/tmp/{thumbnail_filename}", "rb") as f:
+        resp = s.post(
+            "https://upload.twitter.com/1.1/media/upload.json",
+            files={"media": (thumbnail_filename, f)},
+            auth=twitter_credential
+        ).json()
+        media_ids.append(resp["media_id"])
 
-    return twitter_v2.create_tweet(text=ep_result, media_ids=media_ids, user_auth=True).id
+    resp = s.post(
+        "https://api.twitter.com/2/tweets",
+        data=json.dumps({
+            "text": ep_result,
+            "media": {"media_ids": media_ids}
+        }).encode("utf-16"),
+        auth=twitter_credential
+    ).json()
+    return resp["data"]["id"]
 
 def send_preview(video):
     if video["twitter_status_id"] == -1: return
@@ -160,8 +171,9 @@ def send_preview(video):
 
         if youtube_dl.YoutubeDL(opts).download([preview_link]) == 0:
             media_ids = []
-            media_ids.append(twitter_v1_1.media_upload(filename=output_path).media_id)
-            twitter_v2.create_tweet(text=escape(video["description"]), in_reply_to_tweet_id=video["twitter_status_id"], media_ids=media_ids, user_auth=True).id
+            raise NotImplementedError
+            #media_ids.append(twitter_v1_1.media_upload(filename=output_path).media_id)
+            #twitter_v2.create_tweet(text=escape(video["description"]), in_reply_to_tweet_id=video["twitter_status_id"], media_ids=media_ids, user_auth=True)
     except Exception:
         pass
 
@@ -218,7 +230,13 @@ def main():
         since_str += prev_video_list_updated.strftime("%d, %Y at %H:%M:%S %Z").lstrip("0")
         text += " since %s. Visit https://github.com/%s/blob/%s/diff.md for a complete list of updates." % (since_str, github_repo, commit_hash)
 
-        twitter_v2.create_tweet(text=text, user_auth=True)
+        s.post(
+            "https://api.twitter.com/2/tweets",
+            data=json.dumps({
+                "text": text
+            }).encode("utf-16"),
+            auth=twitter_credential
+        )
 
     elif ref == "refs/heads/fastring":
         prev_rm_video_list = prev_video_list["removed"]
@@ -233,7 +251,13 @@ def main():
         if espanol > 3:
             text = "There are %d more Spanish-dubbed new episodes/shorts not listed." % (espanol-3)
 
-            twitter_v2.create_tweet(text=text, user_auth=True)
+            s.post(
+                "https://api.twitter.com/2/tweets",
+                data=json.dumps({
+                    "text": text
+                }).encode("utf-16"),
+                auth=twitter_credential
+            )
 
         if added_videos:
             os.system("sudo apt-get install ffmpeg -y")
