@@ -10,12 +10,18 @@ import requests
 import tweepy
 import youtube_dl
 
-twitter = tweepy.API(tweepy.OAuth1UserHandler(
+twitter_v1_1 = tweepy.API(tweepy.OAuth1UserHandler(
     os.environ["TWITTER_CONSUMER_KEY"],
     os.environ["TWITTER_CONSUMER_SECRET"],
     os.environ["TWITTER_ACCESS_TOKEN_KEY"],
     os.environ["TWITTER_ACCESS_TOKEN_SECRET"]
 ))
+twitter_v2 = tweepy.Client(
+    consumer_key=os.environ["TWITTER_CONSUMER_KEY"],
+    consumer_secret=os.environ["TWITTER_CONSUMER_SECRET"],
+    access_token=os.environ["TWITTER_ACCESS_TOKEN_KEY"],
+    access_token_secret=os.environ["TWITTER_ACCESS_TOKEN_SECRET"]
+)
 github_repo = os.environ["GITHUB_REPOSITORY"]
 telegram_token = os.environ["TG_BOT_TOKEN"]
 tg_dbg_chatid = os.environ["TG_DBG_CHAT_ID"]
@@ -130,9 +136,9 @@ def parse_video(video):
         f.write(s.get(thumbnail_url).content)
 
     media_ids = []
-    media_ids.append(twitter.media_upload(filename=f"/tmp/{thumbnail_filename}").media_id)
+    media_ids.append(twitter_v1_1.media_upload(filename=f"/tmp/{thumbnail_filename}").media_id)
 
-    return twitter.update_status(status=ep_result, media_ids=media_ids).id
+    return twitter_v2.create_tweet(text=ep_result, media_ids=media_ids, user_auth=True).id
 
 def send_preview(video):
     if video["twitter_status_id"] == -1: return
@@ -154,8 +160,8 @@ def send_preview(video):
 
         if youtube_dl.YoutubeDL(opts).download([preview_link]) == 0:
             media_ids = []
-            media_ids.append(twitter.media_upload(filename=output_path).media_id)
-            twitter.update_status(status=escape(video["description"]), in_reply_to_status_id=video["twitter_status_id"], auto_populate_reply_metadata=True, media_ids=media_ids).id
+            media_ids.append(twitter_v1_1.media_upload(filename=output_path).media_id)
+            twitter_v2.create_tweet(text=escape(video["description"]), in_reply_to_tweet_id=video["twitter_status_id"], media_ids=media_ids, user_auth=True).id
     except Exception:
         pass
 
@@ -212,7 +218,7 @@ def main():
         since_str += prev_video_list_updated.strftime("%d, %Y at %H:%M:%S %Z").lstrip("0")
         text += " since %s. Visit https://github.com/%s/blob/%s/diff.md for a complete list of updates." % (since_str, github_repo, commit_hash)
 
-        twitter.update_status(status=text)
+        twitter_v2.create_tweet(text=text, user_auth=True)
 
     elif ref == "refs/heads/fastring":
         prev_rm_video_list = prev_video_list["removed"]
@@ -227,7 +233,7 @@ def main():
         if espanol > 3:
             text = "There are %d more Spanish-dubbed new episodes/shorts not listed." % (espanol-3)
 
-            twitter.update_status(status=text)
+            twitter_v2.create_tweet(text=text, user_auth=True)
 
         if added_videos:
             os.system("sudo apt-get install ffmpeg -y")
