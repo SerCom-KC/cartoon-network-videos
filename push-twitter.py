@@ -25,6 +25,24 @@ tg_dbg_chatid = os.environ["TG_DBG_CHAT_ID"]
 
 s = requests.Session()
 
+def send_tweet(text, media_ids=None):
+    data = {"text": text}
+    if media_ids:
+        data["media"] = {"media_ids": media_ids}
+
+    resp = s.post(
+        "https://api.twitter.com/2/tweets",
+        headers={"Content-Type": "application/json"},
+        data=json.dumps(data).encode("utf-16"),
+        auth=twitter_credential
+    )
+
+    if not resp.ok:
+        print(resp.content)
+        resp.raise_for_status()
+
+    return resp.json()
+
 DB_URL = "https://raw.githubusercontent.com/SerCom-KC/cartoon-network-videos/db/%s.json"
 DIFF_URL = "https://raw.githubusercontent.com/%s/%s/diff.json?"
 PREVIEW_OUTPUT_PATH = "/tmp/%s_preview.mp4"
@@ -143,19 +161,7 @@ def parse_video(video):
         resp = resp.json()
         media_ids.append(resp["media_id"])
 
-    resp = s.post(
-        "https://api.twitter.com/2/tweets",
-        data=json.dumps({
-            "text": ep_result,
-            "media": {"media_ids": media_ids}
-        }).encode("utf-16"),
-        auth=twitter_credential
-    )
-    if not resp.ok:
-        print(resp.content)
-        resp.raise_for_status()
-    resp = resp.json()
-    return resp["data"]["id"]
+    return send_tweet(ep_result, media_ids)["data"]["id"]
 
 def send_preview(video):
     if video["twitter_status_id"] == -1: return
@@ -235,15 +241,7 @@ def main():
         since_str = prev_video_list_updated.strftime("%B ")
         since_str += prev_video_list_updated.strftime("%d, %Y at %H:%M:%S %Z").lstrip("0")
         text += " since %s. Visit https://github.com/%s/blob/%s/diff.md for a complete list of updates." % (since_str, github_repo, commit_hash)
-
-        resp = s.post(
-            "https://api.twitter.com/2/tweets",
-            data=json.dumps({
-                "text": text
-            }).encode("utf-16"),
-            auth=twitter_credential
-        )
-        resp.raise_for_status()
+        send_tweet(text)
 
     elif ref == "refs/heads/fastring":
         prev_rm_video_list = prev_video_list["removed"]
@@ -257,15 +255,7 @@ def main():
 
         if espanol > 3:
             text = "There are %d more Spanish-dubbed new episodes/shorts not listed." % (espanol-3)
-
-            resp = s.post(
-                "https://api.twitter.com/2/tweets",
-                data=json.dumps({
-                    "text": text
-                }).encode("utf-16"),
-                auth=twitter_credential
-            )
-            resp.raise_for_status()
+            send_tweet(text)
 
         if added_videos:
             os.system("sudo apt-get install ffmpeg -y")
