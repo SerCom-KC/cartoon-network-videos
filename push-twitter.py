@@ -28,7 +28,7 @@ s = requests.Session()
 def send_tweet(text, media_ids=None):
     data = {"text": text}
     if media_ids:
-        data["media"] = {"media_ids": media_ids}
+        data["media"] = {"media_ids": [str(i) for i in media_ids]}
 
     resp = s.post(
         "https://api.twitter.com/2/tweets",
