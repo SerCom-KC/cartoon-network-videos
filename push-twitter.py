@@ -130,7 +130,7 @@ def parse_video(video):
         f.write(s.get(thumbnail_url).content)
 
     media_ids = []
-    media_ids.append(twitter.media_upload(filename=f"/tmp/{thumbnail_filename}").id)
+    media_ids.append(twitter.media_upload(filename=f"/tmp/{thumbnail_filename}").media_id)
 
     return twitter.update_status(status=ep_result, media_ids=media_ids).id
 
@@ -154,7 +154,7 @@ def send_preview(video):
 
         if youtube_dl.YoutubeDL(opts).download([preview_link]) == 0:
             media_ids = []
-            media_ids.append(twitter.media_upload(filename=output_path).id)
+            media_ids.append(twitter.media_upload(filename=output_path).media_id)
             twitter.update_status(status=escape(video["description"]), in_reply_to_status_id=video["twitter_status_id"], auto_populate_reply_metadata=True, media_ids=media_ids).id
     except Exception:
         pass
