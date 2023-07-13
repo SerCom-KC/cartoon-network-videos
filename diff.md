@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: July 12, 2023 at 20:30:16 EDT_
+_Last Update: July 13, 2023 at 00:00:16 EDT_
 ## Video added
-### Summary
-2132940 Craig of the Creek: 2 (2 new)  
-### 2396430
-**Craig of the Creek S05E04 - A League of Maya's Own**  
-🆕 TV-Y7 🔒 11:16  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2132940&titleid=2396430&mediaid=8e8d0089a5889fc40d5834c4cf4457de261b7799) or on the web: https://www.cartoonnetwork.com/video/craig-of-the-creek/a-league-of-mayas-own-episode.html  
-seriesid=`2132940` titleid=`2396430` mediaid=`8e8d0089a5889fc40d5834c4cf4457de261b7799`  
-_Maya makes her way back into the world of sports._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2396430_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396430_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396430_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396430_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396430_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396430_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396430_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396430_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396430_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396430_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396430_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396430_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396430_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396430_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396430_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396430_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396430_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396430_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396430_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396430_010_640x360.jpg" height="144px" /></a>
-### 2396431
-**Craig of the Creek S05E05 - The Cheese Stands Alone**  
-🆕 TV-Y7 🔒 11:17  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2132940&titleid=2396431&mediaid=569824910b98e439cc5315d9f8df3e99eac68610) or on the web: https://www.cartoonnetwork.com/video/craig-of-the-creek/the-cheese-stands-alone-episode.html  
-seriesid=`2132940` titleid=`2396431` mediaid=`569824910b98e439cc5315d9f8df3e99eac68610`  
-_The group takes a break from their search for the Heart of the Forest._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2396431_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396431_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396431_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396431_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396431_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396431_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396431_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396431_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396431_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396431_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396431_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396431_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396431_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396431_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396431_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396431_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396431_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396431_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396431_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396431_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
