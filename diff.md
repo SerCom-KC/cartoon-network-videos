@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: July 13, 2023 at 20:30:21 EDT_
+_Last Update: July 13, 2023 at 21:30:15 EDT_
 ## Video added
-### Summary
-2132940 Craig of the Creek: 2 (2 new)  
-### 2396432
-**Craig of the Creek S05E06 - The Team Up**  
-🆕 TV-Y7 🔒 11:16  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2132940&titleid=2396432&mediaid=95421ee54e0058a4825ae9293bf344442f33d906) or on the web: https://www.cartoonnetwork.com/video/craig-of-the-creek/the-team-up-episode.html  
-seriesid=`2132940` titleid=`2396432` mediaid=`95421ee54e0058a4825ae9293bf344442f33d906`  
-_Craig turns to an unlikely ally in his time of need._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2396432_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396432_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396432_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396432_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396432_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396432_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396432_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396432_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396432_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396432_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396432_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396432_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396432_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396432_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396432_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396432_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396432_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396432_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396432_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396432_010_640x360.jpg" height="144px" /></a>
-### 2396435
-**Craig of the Creek S05E07 - Putting Together The Pieces**  
-🆕 TV-Y7 🔒 11:17  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2132940&titleid=2396435&mediaid=e7a98aed676679089fb7849b867fa5e98828cce6) or on the web: https://www.cartoonnetwork.com/video/craig-of-the-creek/putting-together-the-pieces-episode.html  
-seriesid=`2132940` titleid=`2396435` mediaid=`e7a98aed676679089fb7849b867fa5e98828cce6`  
-_The journey begins to the Heart of the Forest._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2396435_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396435_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396435_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396435_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396435_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396435_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396435_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396435_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396435_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396435_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396435_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396435_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396435_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396435_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396435_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396435_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396435_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396435_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2396435_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2396435_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
