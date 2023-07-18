@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: July 17, 2023 at 20:30:26 EDT_
+_Last Update: July 18, 2023 at 00:00:18 EDT_
 ## Video added
-No videos were added.  
+### Summary
+2131007 Summer Camp Island: 2 (2 new)  
+### 2243212
+**Summer Camp Island S04E11 - Hark the Gerald Sings**  
+🆕 TV-Y7 🔒 11:16  
+⌛ December 31, 2023 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2243212&mediaid=30735f6ba6dfa6e5f819083bff31ea5bab96dbb2) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/hark-the-gerald-sings-episode.html  
+seriesid=`2131007` titleid=`2243212` mediaid=`30735f6ba6dfa6e5f819083bff31ea5bab96dbb2`  
+_Oscar confronts an age-old superstition._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2243212_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243212_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243212_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243212_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243212_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243212_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243212_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243212_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243212_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243212_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243212_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243212_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243212_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243212_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243212_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243212_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243212_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243212_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2243212_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2243212_010_640x360.jpg" height="144px" /></a>
+### 2222842
+**Summer Camp Island S04E12 - Hall of Mooms**  
+🆕 TV-Y7 🔒 11:17  
+⌛ December 31, 2023 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2222842&mediaid=51189cfa357d8fd561f483aca20ea32e232b0274) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/hall-of-mooms-episode.html  
+seriesid=`2131007` titleid=`2222842` mediaid=`51189cfa357d8fd561f483aca20ea32e232b0274`  
+_Hedgehog tries to get her broom back._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2222842_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222842_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222842_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222842_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222842_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222842_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222842_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222842_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222842_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222842_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222842_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222842_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222842_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222842_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222842_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222842_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222842_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222842_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2222842_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2222842_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
