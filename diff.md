@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 4, 2023 at 00:00:15 EDT_
+_Last Update: August 4, 2023 at 00:30:15 EDT_
 ## Video added
-### Summary
-2131007 Summer Camp Island: 2 (2 new)  
-### 2260177
-**Summer Camp Island S06E09 - Chapter 9: Storybook Susie**  
-🆕 TV-Y7 🔒 11:17  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2260177&mediaid=0f71cadedf5e8ae1143193fd26b07eb93efe706f) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/chapter-9-storybook-susie-episode.html  
-seriesid=`2131007` titleid=`2260177` mediaid=`0f71cadedf5e8ae1143193fd26b07eb93efe706f`  
-_Susie details her travels around the world._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260177_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260177_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260177_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260177_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260177_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260177_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260177_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260177_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260177_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260177_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260177_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260177_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260177_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260177_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260177_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260177_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260177_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260177_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260177_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260177_010_640x360.jpg" height="144px" /></a>
-### 2260178
-**Summer Camp Island S06E10 - Chapter 10: The Last Witch**  
-🆕 TV-Y7 🔒 11:16  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2260178&mediaid=1468f43215cb17fc722d18736984ae8d21da6227) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/chapter-10-the-last-witch-episode.html  
-seriesid=`2131007` titleid=`2260178` mediaid=`1468f43215cb17fc722d18736984ae8d21da6227`  
-_Hedgehog worries that she may be too little to make big witch decisions._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260178_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260178_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260178_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260178_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260178_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260178_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260178_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260178_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260178_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260178_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260178_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260178_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260178_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260178_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260178_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260178_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260178_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260178_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260178_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260178_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
