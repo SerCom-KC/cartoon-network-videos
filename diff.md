@@ -3,34 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 5, 2023 at 00:00:16 EDT_
+_Last Update: August 5, 2023 at 00:30:15 EDT_
 ## Video added
 ### Summary
-2223270 Looney Tunes Cartoons: 1 (1 new)  
-### 2224252
-**Looney Tunes Cartoons S05E04 - Crumb and Get It/ Bugs Hole Gags 2: Mini Bugs/ Construction Obstruction**  
-🆕 TV-PG 🔒 14:26  
-⌛ September 3, 2023 at 23:59:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2223270&titleid=2224252&mediaid=c0b0ddda8aa0035a83251fe9128ac08285a15b21) or on the web: https://www.cartoonnetwork.com/video/looney-tunes-cartoons/crumb-and-get-it-bugs-hole-gags-2-mini-bugs-construction-obstruction-episode.html  
-seriesid=`2223270` titleid=`2224252` mediaid=`c0b0ddda8aa0035a83251fe9128ac08285a15b21`  
-_In a fight between Porky and Daffy, the birds win. Elmer becomes an outdoorsman. Bugs' burrow is a hot property._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2224252_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224252_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224252_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224252_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224252_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224252_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224252_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224252_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224252_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224252_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224252_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224252_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224252_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224252_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224252_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224252_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224252_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224252_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2224252_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2224252_010_640x360.jpg" height="144px" /></a>
-## Video removed
-### Summary
-2239398 We Baby Bears: 2  
+2239398 We Baby Bears: 2 (2 new)  
 ### 2260346
 **We Baby Bears S01E24 - No Land, All Air!**  
-TV-Y7 🔒 11:19  
-⌛ August 5, 2023 at 00:00:00 EDT  
+🆕 TV-Y7 🔓 11:19  
+⌛ August 31, 2023 at 23:59:59 EDT  
 [Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2239398&titleid=2260346&mediaid=b996f37a9f9c7f48707d32be3a5a7c9f8ca328b5) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/no-land-all-air-episode.html  
 seriesid=`2239398` titleid=`2260346` mediaid=`b996f37a9f9c7f48707d32be3a5a7c9f8ca328b5`  
 _The Bears find themselves in a world of dog fighting planes and floating airships._  
 <a href="https://s3.amazonaws.com/cartoonorchestrator/2260346_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260346_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260346_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260346_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260346_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260346_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260346_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260346_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260346_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260346_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260346_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260346_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260346_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260346_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260346_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260346_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260346_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260346_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260346_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260346_010_640x360.jpg" height="144px" /></a>
 ### 2260347
 **We Baby Bears S01E25 - Tooth Fairy Tech**  
-TV-Y7 🔒 11:20  
-⌛ August 5, 2023 at 00:00:00 EDT  
+🆕 TV-Y7 🔓 11:20  
+⌛ August 31, 2023 at 23:59:59 EDT  
 [Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2239398&titleid=2260347&mediaid=ce492be22eedc3ab63a46b46ae43c1a33358f3c2) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/tooth-fairy-tech-episode.html  
 seriesid=`2239398` titleid=`2260347` mediaid=`ce492be22eedc3ab63a46b46ae43c1a33358f3c2`  
 _In order to earn enough money to buy a house, the Bears work as tooth fairies._  
 <a href="https://s3.amazonaws.com/cartoonorchestrator/2260347_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260347_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260347_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260347_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260347_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260347_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260347_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260347_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260347_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260347_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260347_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260347_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260347_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260347_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260347_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260347_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260347_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260347_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260347_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260347_010_640x360.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
