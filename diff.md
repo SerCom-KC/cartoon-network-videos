@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 8, 2023 at 00:00:18 EDT_
+_Last Update: August 8, 2023 at 08:30:15 EDT_
 ## Video added
-### Summary
-2131007 Summer Camp Island: 2 (2 new)  
-### 2260181
-**Summer Camp Island S06E13 - Chapter 13: Jar Guard**  
-🆕 TV-Y7 🔒 11:17  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2260181&mediaid=77635a6d0d931e761fad1eb4be7248956deea41d) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/chapter-13-jar-guard-episode.html  
-seriesid=`2131007` titleid=`2260181` mediaid=`77635a6d0d931e761fad1eb4be7248956deea41d`  
-_Mildred's Friend tells a cautionary tale._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260181_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260181_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260181_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260181_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260181_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260181_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260181_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260181_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260181_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260181_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260181_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260181_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260181_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260181_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260181_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260181_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260181_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260181_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260181_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260181_010_640x360.jpg" height="144px" /></a>
-### 2260182
-**Summer Camp Island S06E14 - Chapter 14: Bear With Me**  
-🆕 TV-Y7 🔒 11:17  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2260182&mediaid=abbdc409977da133acb789ef7f8a8fb68ab12d4a) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/chapter-14-bear-with-me-episode.html  
-seriesid=`2131007` titleid=`2260182` mediaid=`abbdc409977da133acb789ef7f8a8fb68ab12d4a`  
-_A surprise visitor arrives on Summer Camp Island._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260182_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260182_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260182_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260182_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260182_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260182_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260182_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260182_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260182_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260182_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260182_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260182_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260182_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260182_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260182_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260182_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260182_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260182_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260182_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260182_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
