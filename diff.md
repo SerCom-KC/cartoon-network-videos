@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 9, 2023 at 00:00:15 EDT_
+_Last Update: August 9, 2023 at 09:00:16 EDT_
 ## Video added
-### Summary
-2131007 Summer Camp Island: 2 (2 new)  
-### 2260183
-**Summer Camp Island S06E15 - Chapter 15: Croissant Moon**  
-🆕 TV-Y7 🔒 11:17  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2260183&mediaid=4d4420c2ec1e8f845b1269e6d5c79d420bdbd505) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/chapter-15-croissant-moon-episode.html  
-seriesid=`2131007` titleid=`2260183` mediaid=`4d4420c2ec1e8f845b1269e6d5c79d420bdbd505`  
-_The magical creatures work together to send Mildred on a mission so they can have a special bedtime._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260183_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260183_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260183_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260183_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260183_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260183_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260183_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260183_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260183_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260183_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260183_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260183_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260183_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260183_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260183_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260183_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260183_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260183_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260183_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260183_010_640x360.jpg" height="144px" /></a>
-### 2260184
-**Summer Camp Island S06E16 - Chapter 16: Retrace Our Hooves**  
-🆕 TV-Y7 🔒 11:17  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2260184&mediaid=0786bfc3e2ef664209e815f7c21dfbebd6a410e1) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/chapter-16-retrace-our-hooves-episode.html  
-seriesid=`2131007` titleid=`2260184` mediaid=`0786bfc3e2ef664209e815f7c21dfbebd6a410e1`  
-_Susie makes contact in another realm._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260184_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260184_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260184_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260184_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260184_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260184_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260184_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260184_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260184_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260184_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260184_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260184_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260184_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260184_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260184_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260184_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260184_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260184_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260184_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260184_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
