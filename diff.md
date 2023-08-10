@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 10, 2023 at 00:00:15 EDT_
+_Last Update: August 10, 2023 at 08:30:18 EDT_
 ## Video added
-### Summary
-2131007 Summer Camp Island: 2 (2 new)  
-### 2260185
-**Summer Camp Island S06E17 - Chapter 17: Meeting of Mounds**  
-🆕 TV-Y7 🔒 11:17  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2260185&mediaid=4d94a42e5c8409441c62f4281adad69a8b259817) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/chapter-17-meeting-of-mounds-episode.html  
-seriesid=`2131007` titleid=`2260185` mediaid=`4d94a42e5c8409441c62f4281adad69a8b259817`  
-_The Coven challenges The Cuties to an impromptu softball game._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260185_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260185_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260185_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260185_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260185_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260185_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260185_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260185_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260185_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260185_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260185_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260185_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260185_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260185_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260185_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260185_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260185_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260185_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260185_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260185_010_640x360.jpg" height="144px" /></a>
-### 2260186
-**Summer Camp Island S06E18 - Chapter 18: Swellington Boots**  
-🆕 TV-Y7 🔒 11:17  
-⌛ December 31, 2023 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2131007&titleid=2260186&mediaid=3c106a64fa3ce897909a95d8a670fc0e88b0dee4) or on the web: https://www.cartoonnetwork.com/video/summer-camp-island/chapter-18-swellington-boots-episode.html  
-seriesid=`2131007` titleid=`2260186` mediaid=`3c106a64fa3ce897909a95d8a670fc0e88b0dee4`  
-_When a summer storm brews, the crew cozies up in the library._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260186_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260186_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260186_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260186_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260186_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260186_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260186_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260186_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260186_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260186_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260186_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260186_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260186_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260186_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260186_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260186_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260186_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260186_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260186_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260186_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
