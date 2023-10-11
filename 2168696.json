@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1009282200032330",
+  "airingid": "RADS1009262300023353",
   "seasonnumber": "1",
   "seasonitemnumber": "11",
   "seriesid": "10000000000342",
@@ -19,9 +19,9 @@
   "tvratingcode": "TV-Y7",
   "seriestitleid": "10000000000342",
   "seriesname": "Scoobtober",
-  "originalpremieredate": "2022-10-10T04:00:59.000Z",
-  "pubdate": "2022-10-10T04:00:59.000Z",
-  "expdate": "2022-11-04T03:59:00.000Z",
+  "originalpremieredate": "2023-10-02T04:00:00.000Z",
+  "pubdate": "2023-10-02T04:00:00.000Z",
+  "expdate": "2023-10-16T03:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2168696_003_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -32,12 +32,12 @@
   "originalseriesid": "2168685",
   "originalseriesname": "Scooby-Doo and Guess Who?",
   "hasparent": false,
-  "originalpremieredateasmilliseconds": "1665374459000",
-  "pubdateasmilliseconds": "1665374459000",
-  "expdateasmilliseconds": "1667534340000",
+  "originalpremieredateasmilliseconds": "1696219200000",
+  "pubdateasmilliseconds": "1696219200000",
+  "expdateasmilliseconds": "1697428740000",
   "mediaid": "5bc2dba875aa1478afe5682eb3ea0e329290674f",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
