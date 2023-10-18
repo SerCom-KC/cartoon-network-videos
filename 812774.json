@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1009262200031570",
+  "airingid": "RADS1009262300023113",
   "seasonnumber": "1",
   "seasonitemnumber": "19",
   "seriesid": "10000000000342",
@@ -19,9 +19,9 @@
   "tvratingcode": "TV-Y7-FV",
   "seriestitleid": "10000000000342",
   "seriesname": "Scoobtober",
-  "originalpremieredate": "2022-10-03T04:00:00.000Z",
-  "pubdate": "2022-10-03T04:00:00.000Z",
-  "expdate": "2022-11-04T03:59:00.000Z",
+  "originalpremieredate": "2023-10-02T04:00:00.000Z",
+  "pubdate": "2023-10-02T04:00:00.000Z",
+  "expdate": "2023-10-23T03:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/812774_003_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -32,12 +32,12 @@
   "originalseriesid": "796588",
   "originalseriesname": "Scooby-Doo! Mystery Incorporated",
   "hasparent": false,
-  "originalpremieredateasmilliseconds": "1664769600000",
-  "pubdateasmilliseconds": "1664769600000",
-  "expdateasmilliseconds": "1667534340000",
+  "originalpremieredateasmilliseconds": "1696219200000",
+  "pubdateasmilliseconds": "1696219200000",
+  "expdateasmilliseconds": "1698033540000",
   "mediaid": "733f08491c9d9a199a64e9a10a419cac9e3bbece",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
