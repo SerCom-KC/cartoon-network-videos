@@ -1,5 +1,5 @@
 {
-  "airingid": "RADS1010102200036161",
+  "airingid": "RADS1009262300023356",
   "seasonnumber": "1",
   "seasonitemnumber": "17",
   "seriesid": "10000000000342",
@@ -19,9 +19,9 @@
   "tvratingcode": "TV-G",
   "seriestitleid": "10000000000342",
   "seriesname": "Scoobtober",
-  "originalpremieredate": "2022-10-24T04:00:00.000Z",
-  "pubdate": "2022-10-24T04:00:00.000Z",
-  "expdate": "2022-11-04T03:59:00.000Z",
+  "originalpremieredate": "2023-10-02T04:00:00.000Z",
+  "pubdate": "2023-10-02T04:00:00.000Z",
+  "expdate": "2023-10-23T03:59:00.000Z",
   "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/123503_002_640x360.jpg",
   "authtype": "auth",
   "webflags": "",
@@ -32,12 +32,12 @@
   "originalseriesid": "317121",
   "originalseriesname": "Scooby-Doo Where Are You!",
   "hasparent": false,
-  "originalpremieredateasmilliseconds": "1666584000000",
-  "pubdateasmilliseconds": "1666584000000",
-  "expdateasmilliseconds": "1667534340000",
+  "originalpremieredateasmilliseconds": "1696219200000",
+  "pubdateasmilliseconds": "1696219200000",
+  "expdateasmilliseconds": "1698033540000",
   "mediaid": "9968e675fd1d11105cbe590e17c6fda2939f9a49",
   "isunlockedfullepisode": false,
   "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
