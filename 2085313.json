@@ -7361,7 +7361,7 @@
         "pubdate": "2023-01-01T05:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2193158_003_640x360.jpg",
         "authtype": "auth",
-        "expdate": "2023-12-31T05:00:00.000Z",
+        "expdate": "2023-11-01T03:59:59.000Z",
         "webflags": "",
         "tags": "ben 10 - world tour",
         "titleid": "2193158",
@@ -7374,7 +7374,7 @@
         "hasparent": false,
         "originalpremieredateasmilliseconds": "1672549200000",
         "pubdateasmilliseconds": "1672549200000",
-        "expdateasmilliseconds": "1703998800000",
+        "expdateasmilliseconds": "1698811199000",
         "mediaid": "d76b065df671e870a1b8ad187b21b8deb3e46060",
         "isunlockedfullepisode": false,
         "ismultipropertycollection": false
