@@ -16493,7 +16493,7 @@
         "pubdate": "2023-10-09T04:00:00.000Z",
         "expdate": "2024-01-01T04:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2398822_006_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "cartoonito",
         "titleid": "2398822",
