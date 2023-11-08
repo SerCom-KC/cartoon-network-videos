@@ -1,13 +1,12 @@
 {
-    "updated": 1699447341,
-    "added": [],
-    "removed": [
+    "updated": 1699447402,
+    "added": [
         {
-            "airingid": "RADS1010272300030069",
+            "airingid": "RADS1011082300031996",
             "seasonnumber": "2",
             "seasonitemnumber": "",
             "seriesid": "10000000000",
-            "id": "d1555d42fe07f3807381ee2b7712f6bb7e88bf61",
+            "id": "0066bc9bae2b5c65f3cc71ac0d9eb8391a0de004",
             "collectionid": "",
             "seofriendlyurl": "/video/teen-titans-go/caramel-apples-episode.html",
             "seasonepisodenumber": "",
@@ -16,7 +15,7 @@
             "type": "fullepisode",
             "active": true,
             "description": "Raven and Starfire clash after Starfire creates a bond with Raven's father, while Robin, Cyborg, and Beast Boy struggle to return to Earth's surface after falling into a deep cavern.",
-            "duration": 699,
+            "duration": 698,
             "freewheelid": "cn-2015144",
             "isclip": false,
             "typesort": "1",
@@ -39,11 +38,12 @@
             "originalpremieredateasmilliseconds": "1698811200000",
             "pubdateasmilliseconds": "1698811200000",
             "expdateasmilliseconds": "1701406740000",
-            "mediaid": "d1555d42fe07f3807381ee2b7712f6bb7e88bf61",
+            "mediaid": "0066bc9bae2b5c65f3cc71ac0d9eb8391a0de004",
             "isunlockedfullepisode": true,
             "ismultipropertycollection": true,
             "clipsonly": false,
             "includeshortform": false
         }
-    ]
+    ],
+    "removed": []
 }
