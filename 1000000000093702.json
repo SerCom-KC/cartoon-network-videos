@@ -2604,7 +2604,7 @@
         "pubdate": "2023-04-14T04:00:00.000Z",
         "expdate": "2023-12-31T05:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2356420_005_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "webflags": "",
         "tags": "cartoonito",
         "titleid": "2356420",
