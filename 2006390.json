@@ -2,7 +2,7 @@
   "airingid": "RADS1011272300035262",
   "seasonnumber": "5",
   "seasonitemnumber": "15",
-  "seriesid": "810150",
+  "seriesid": "1000000000041270",
   "id": "836483e5a291b22516b95fc3de51e658f0c90421",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/new-years-kiss-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "1000000000041270",
+  "seriesname": "Holiday Specials!",
   "originalpremieredate": "2023-12-01T05:00:00.000Z",
   "pubdate": "2023-12-01T05:00:00.000Z",
   "expdate": "2024-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1704085140000",
   "mediaid": "836483e5a291b22516b95fc3de51e658f0c90421",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
