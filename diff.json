@@ -1,13 +1,12 @@
 {
-    "updated": 1702558220,
-    "added": [],
-    "removed": [
+    "updated": 1702560500,
+    "added": [
         {
-            "airingid": "RADS1012062300037105",
+            "airingid": "RADS1012142300038914",
             "seasonnumber": "1",
             "seasonitemnumber": "",
             "seriesid": "2266853",
-            "id": "1c35477a45ca73a3dc76a6fef740ed9c5ad588af",
+            "id": "de13ba41442daa12dcad5cc3c1212f9545777d7d",
             "collectionid": "",
             "seofriendlyurl": "/video/the-heroic-quest-of-the-valiant-prince-ivandoe/the-prince-and-the-talking-tree-episode.html",
             "seasonepisodenumber": "",
@@ -16,16 +15,16 @@
             "type": "short",
             "active": true,
             "description": "Ivandoe and Bert come across a Talking Tree who promises to tell their fortune in exchange for gold. An enthusiastic Ivandoe hands over his golden locket, just before Bert discovers the sassy gnomes hidden away inside the hollow tree! Let battle commence\u2026again!",
-            "duration": 198,
+            "duration": 214,
             "freewheelid": "cn-2118588",
             "isclip": false,
             "typesort": "2",
             "tvratingcode": "TV-Y7",
             "seriestitleid": "2266853",
             "seriesname": "The Heroic Quest of the Valiant Prince Ivandoe",
-            "originalpremieredate": "2023-12-13T05:00:00.000Z",
-            "pubdate": "2023-12-13T05:00:00.000Z",
-            "expdate": "2024-01-01T04:59:59.000Z",
+            "originalpremieredate": "2023-12-14T05:00:00.000Z",
+            "pubdate": "2023-12-14T05:00:00.000Z",
+            "expdate": "2024-01-01T04:59:00.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2118588_007_640x360.jpg",
             "authtype": "unauth",
             "webflags": "",
@@ -35,14 +34,15 @@
             "originalseriesid": "2266853",
             "originalseriesname": "The Heroic Quest of the Valiant Prince Ivandoe",
             "hasparent": false,
-            "originalpremieredateasmilliseconds": "1702443600000",
-            "pubdateasmilliseconds": "1702443600000",
-            "expdateasmilliseconds": "1704085199000",
-            "mediaid": "1c35477a45ca73a3dc76a6fef740ed9c5ad588af",
+            "originalpremieredateasmilliseconds": "1702530000000",
+            "pubdateasmilliseconds": "1702530000000",
+            "expdateasmilliseconds": "1704085140000",
+            "mediaid": "de13ba41442daa12dcad5cc3c1212f9545777d7d",
             "isunlockedfullepisode": false,
             "ismultipropertycollection": false,
             "clipsonly": false,
             "includeshortform": false
         }
-    ]
+    ],
+    "removed": []
 }
