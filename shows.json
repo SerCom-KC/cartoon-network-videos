@@ -12,10 +12,6 @@
         "title": "Ben 10 Classic"
     },
     {
-        "show_id": "1000000000041270",
-        "title": "Holiday Specials!"
-    },
-    {
         "show_id": "10000000000602100",
         "title": "Movies"
     },
@@ -28,12 +24,44 @@
         "title": "Teen Titans Go!"
     },
     {
+        "show_id": "2007332",
+        "title": "Uncle Grandpa"
+    },
+    {
+        "show_id": "2011404",
+        "title": "Steven Universe"
+    },
+    {
+        "show_id": "2012957",
+        "title": "Clarence"
+    },
+    {
+        "show_id": "2056641",
+        "title": "We Bare Bears"
+    },
+    {
+        "show_id": "2064567",
+        "title": "Powerpuff Girls"
+    },
+    {
         "show_id": "2085313",
         "title": "Ben 10"
     },
     {
+        "show_id": "2130773",
+        "title": "Unikitty"
+    },
+    {
+        "show_id": "2131007",
+        "title": "Summer Camp Island"
+    },
+    {
         "show_id": "2132940",
         "title": "Craig of the Creek"
+    },
+    {
+        "show_id": "2133648",
+        "title": "Apple & Onion"
     },
     {
         "show_id": "2141710",
@@ -64,15 +92,23 @@
         "title": "Tiny Toons Looniversity"
     },
     {
-        "show_id": "2274096",
-        "title": "Thomas and Friends: All Engines Go"
-    },
-    {
         "show_id": "2357711",
         "title": "Blippi Wonders"
     },
     {
-        "show_id": "433570",
-        "title": "Baby Looney Tunes"
+        "show_id": "2368373",
+        "title": "Jessica's Big Little World"
+    },
+    {
+        "show_id": "757073",
+        "title": "Adventure Time"
+    },
+    {
+        "show_id": "810150",
+        "title": "Regular Show"
+    },
+    {
+        "show_id": "835928",
+        "title": "Gumball"
     }
 ]
