@@ -2,7 +2,7 @@
   "airingid": "RADS1004212300089009",
   "seasonnumber": "2",
   "seasonitemnumber": "13",
-  "seriesid": "1000000000093702",
+  "seriesid": "2356389",
   "id": "3982f0aba6a03337b9359b30c3f43335adb8e748",
   "collectionid": "",
   "seofriendlyurl": "/video/lellobee-city-farm/earth-day-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2356389",
+  "seriesname": "Lellobee City Farm",
   "originalpremieredate": "2023-04-24T04:00:00.000Z",
   "pubdate": "2023-04-24T04:00:00.000Z",
   "expdate": "2024-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1704085140000",
   "mediaid": "3982f0aba6a03337b9359b30c3f43335adb8e748",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

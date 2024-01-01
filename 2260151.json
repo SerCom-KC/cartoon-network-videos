@@ -2,7 +2,7 @@
   "airingid": "RADS1012132300038235",
   "seasonnumber": "2",
   "seasonitemnumber": "28",
-  "seriesid": "10000000000",
+  "seriesid": "2133648",
   "id": "93ef43788f464024bb851bd45f7bdb0fceea57d1",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/falafels-car-keys-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2133648",
+  "seriesname": "Apple & Onion",
   "originalpremieredate": "2023-12-22T05:00:00.000Z",
   "pubdate": "2023-12-22T05:00:00.000Z",
   "expdate": "2024-01-01T04:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2260151",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2133648",
   "originalseriesname": "Apple & Onion",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1704085140000",
   "mediaid": "93ef43788f464024bb851bd45f7bdb0fceea57d1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1004212300089011",
   "seasonnumber": "2",
   "seasonitemnumber": "15",
-  "seriesid": "1000000000093702",
+  "seriesid": "2356389",
   "id": "fff11007d788ed2c8f0295806b2bbde36b787f5b",
   "collectionid": "",
   "seofriendlyurl": "/video/lellobee-city-farm/caterpillar-butterfly-song-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2356389",
+  "seriesname": "Lellobee City Farm",
   "originalpremieredate": "2023-04-24T04:00:00.000Z",
   "pubdate": "2023-04-24T04:00:00.000Z",
   "expdate": "2024-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1704085140000",
   "mediaid": "fff11007d788ed2c8f0295806b2bbde36b787f5b",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

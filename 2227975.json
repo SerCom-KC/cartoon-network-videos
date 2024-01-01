@@ -2,7 +2,7 @@
   "airingid": "RADS1010102300026388",
   "seasonnumber": "1",
   "seasonitemnumber": "22",
-  "seriesid": "1000000000093702",
+  "seriesid": "2227953",
   "id": "523bee37c8ba7d9c4f07bb012bc6241a3bfdd287",
   "collectionid": "",
   "seofriendlyurl": "/video/mecha-builders/the-legend-of-jack-olanternthe-mecha-t-rex-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2227953",
+  "seriesname": "Mecha Builders",
   "originalpremieredate": "2023-10-28T04:00:00.000Z",
   "pubdate": "2023-10-28T04:00:00.000Z",
   "expdate": "2024-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1704085140000",
   "mediaid": "523bee37c8ba7d9c4f07bb012bc6241a3bfdd287",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

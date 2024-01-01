@@ -2,7 +2,7 @@
   "airingid": "RADS1011272300035607",
   "seasonnumber": "1",
   "seasonitemnumber": "24",
-  "seriesid": "1000000000093702",
+  "seriesid": "2227953",
   "id": "bcab59d851bab78a035fa51d20edd4f11dcf129a",
   "collectionid": "",
   "seofriendlyurl": "/video/mecha-builders/special-deliverysuper-duper-sled-slide-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2227953",
+  "seriesname": "Mecha Builders",
   "originalpremieredate": "2023-12-15T05:00:00.000Z",
   "pubdate": "2023-12-15T05:00:00.000Z",
   "expdate": "2024-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1704085140000",
   "mediaid": "bcab59d851bab78a035fa51d20edd4f11dcf129a",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
