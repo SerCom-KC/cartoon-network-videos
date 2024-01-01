@@ -1,9 +1,8 @@
 {
-    "updated": 1704081552,
-    "added": [],
-    "removed": [
+    "updated": 1704081613,
+    "added": [
         {
-            "airingid": "RADS1010102300026366",
+            "airingid": "RADS1012262300042448",
             "seasonnumber": "1",
             "seasonitemnumber": "10",
             "seriesid": "2267298",
@@ -23,27 +22,28 @@
             "tvratingcode": "TV-PG",
             "seriestitleid": "2267298",
             "seriesname": "Tiny Toons Looniversity",
-            "originalpremieredate": "2023-11-04T04:00:00.000Z",
-            "pubdate": "2023-11-04T04:00:00.000Z",
-            "expdate": "2024-01-01T03:59:00.000Z",
+            "originalpremieredate": "2024-01-01T04:00:00.000Z",
+            "pubdate": "2024-01-01T04:00:00.000Z",
+            "expdate": "2025-01-01T04:59:00.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2267309_005_640x360.jpg",
             "authtype": "auth",
             "webflags": "",
             "tags": "",
             "titleid": "2267309",
             "titletype": "Episode",
-            "bannertext": "",
+            "bannertext": "LATEST EPISODE",
             "originalseriesid": "2267298",
             "originalseriesname": "Tiny Toons Looniversity",
             "hasparent": false,
-            "originalpremieredateasmilliseconds": "1699070400000",
-            "pubdateasmilliseconds": "1699070400000",
-            "expdateasmilliseconds": "1704081540000",
+            "originalpremieredateasmilliseconds": "1704081600000",
+            "pubdateasmilliseconds": "1704081600000",
+            "expdateasmilliseconds": "1735707540000",
             "mediaid": "1b0e70629cc64db1c5bf2582ff15e60ab0a0f756",
             "isunlockedfullepisode": false,
             "ismultipropertycollection": false,
             "clipsonly": false,
             "includeshortform": false
         }
-    ]
+    ],
+    "removed": []
 }
