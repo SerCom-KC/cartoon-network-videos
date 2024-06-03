@@ -1,12 +1,11 @@
 {
-    "updated": 1717415894,
-    "added": [],
-    "removed": [
+    "updated": 1717416016,
+    "added": [
         {
             "airingid": "RADS1004012400062875",
             "seasonnumber": "1",
             "seasonitemnumber": "11",
-            "seriesid": "10000000000",
+            "seriesid": "2267298",
             "id": "8367f4c1f972251ea10ddab4af194f19456c7868",
             "collectionid": "",
             "seofriendlyurl": "/video/tiny-toons-looniversity/spring-beak-episode.html",
@@ -21,15 +20,15 @@
             "isclip": false,
             "typesort": "1",
             "tvratingcode": "TV-PG",
-            "seriestitleid": "10000000000",
-            "seriesname": "Unlocked",
+            "seriestitleid": "2267298",
+            "seriesname": "Tiny Toons Looniversity",
             "originalpremieredate": "2024-04-06T17:00:00.000Z",
             "pubdate": "2024-04-06T17:00:00.000Z",
             "expdate": "2024-12-13T04:59:00.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2397920_003_640x360.jpg",
-            "authtype": "unauth",
+            "authtype": "auth",
             "webflags": "",
-            "tags": "unauth",
+            "tags": "",
             "titleid": "2397920",
             "titletype": "Special",
             "bannertext": "",
@@ -40,10 +39,11 @@
             "pubdateasmilliseconds": "1712422800000",
             "expdateasmilliseconds": "1734065940000",
             "mediaid": "8367f4c1f972251ea10ddab4af194f19456c7868",
-            "isunlockedfullepisode": true,
-            "ismultipropertycollection": true,
+            "isunlockedfullepisode": false,
+            "ismultipropertycollection": false,
             "clipsonly": false,
             "includeshortform": false
         }
-    ]
+    ],
+    "removed": []
 }
