@@ -2,7 +2,7 @@
   "airingid": "RADS1012262300042489",
   "seasonnumber": "2",
   "seasonitemnumber": "9",
-  "seriesid": "10000000000",
+  "seriesid": "2239398",
   "id": "7f2464bac91cc0222a70185a765d76fd64514c3e",
   "collectionid": "",
   "seofriendlyurl": "/video/we-baby-bears/after-bedtime-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2239398",
+  "seriesname": "We Baby Bears",
   "originalpremieredate": "2023-12-31T05:01:00.000Z",
   "pubdate": "2023-12-31T05:01:00.000Z",
   "expdate": "2024-12-31T05:00:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2417931",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2239398",
   "originalseriesname": "We Baby Bears",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1735621200000",
   "mediaid": "7f2464bac91cc0222a70185a765d76fd64514c3e",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
