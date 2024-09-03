@@ -69,10 +69,10 @@
         "originalpremieredate": "2024-09-03T04:00:00.000Z",
         "pubdate": "2024-09-03T04:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/338478_007_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "expdate": "2024-09-30T03:59:00.000Z",
         "webflags": "",
-        "tags": "ppg - classic|unauth",
+        "tags": "ppg - classic",
         "titleid": "338478",
         "titletype": "Episode",
         "bannertext": "LATEST EPISODE",
@@ -85,7 +85,7 @@
         "pubdateasmilliseconds": "1725336000000",
         "expdateasmilliseconds": "1727668740000",
         "mediaid": "02564bd1bdcb7833e4f05ba50678f2dc25e7e909",
-        "isunlockedfullepisode": true,
+        "isunlockedfullepisode": false,
         "ismultipropertycollection": false
     },
     {
@@ -505,10 +505,10 @@
         "originalpremieredate": "2024-09-03T04:00:00.000Z",
         "pubdate": "2024-09-03T04:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/338479_010_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "expdate": "2024-09-30T03:59:00.000Z",
         "webflags": "",
-        "tags": "ppg - classic|unauth",
+        "tags": "ppg - classic",
         "titleid": "338479",
         "titletype": "Episode",
         "bannertext": "LATEST EPISODE",
@@ -521,7 +521,7 @@
         "pubdateasmilliseconds": "1725336000000",
         "expdateasmilliseconds": "1727668740000",
         "mediaid": "481a51b9804ac54cbce433078ce3df34c8434450",
-        "isunlockedfullepisode": true,
+        "isunlockedfullepisode": false,
         "ismultipropertycollection": false
     },
     {
