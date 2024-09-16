@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: September 14, 2024 at 17:00:16 UTC_
+_Last Update: September 16, 2024 at 04:00:16 UTC_
 ## Video added
-### Summary
-2227883 Jellystone: 2 (2 new)  
-### 2390056
-**Jellystone S03E02 - Disco Fever**  
-🆕 TV-G 🔒 11:15  
-⌛ December 2, 2024 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2227883&titleid=2390056&mediaid=ddb58fb35994ba422ca88f07a1f42b2d1805ee6c) or on the web: https://www.cartoonnetwork.com/video/jellystone/disco-fever-episode.html  
-seriesid=`2227883` titleid=`2390056` mediaid=`ddb58fb35994ba422ca88f07a1f42b2d1805ee6c`  
-_An uncontrollable 70's dance craze infects Jellystone and it's up to Cindy, Yogi, and Boo Boo to stop it._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2390056_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390056_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390056_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390056_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390056_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390056_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390056_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390056_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390056_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390056_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390056_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390056_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390056_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390056_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390056_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390056_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390056_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390056_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390056_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390056_010_640x360.jpg" height="144px" /></a>
-### 2390057
-**Jellystone S03E03 - Cindy vs. Noodle Arms**  
-🆕 TV-G 🔒 11:16  
-⌛ December 2, 2024 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2227883&titleid=2390057&mediaid=b624f6bd54cb791e81fb9dcb835519eeb1775a42) or on the web: https://www.cartoonnetwork.com/video/jellystone/cindy-vs-noodle-arms-episode.html  
-seriesid=`2227883` titleid=`2390057` mediaid=`b624f6bd54cb791e81fb9dcb835519eeb1775a42`  
-_Cindy teams up with Top Cat to fix everyone's wobbly arms._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2390057_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390057_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390057_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390057_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390057_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390057_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390057_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390057_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390057_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390057_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390057_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390057_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390057_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390057_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390057_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390057_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390057_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390057_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390057_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390057_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
