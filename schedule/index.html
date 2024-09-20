@@ -174,11 +174,11 @@
             <option value="cnnx">CNN</option>
             <option value="nbatv">NBA TV</option>
         </select>
-        <!--<select id="asfilter" onchange="applyDisplaySettings()">
+        <select id="asfilter" onchange="applyDisplaySettings()">
             <option value="none" selected>Show all</option>
             <option value="ctn">Show CN only</option>
             <option value="asm">Show [as] only</option>
-        </select>-->
+        </select>
         <p>UNOFFICIAL | Color codes by <a href="https://twitter.com/CNschedules">@CNschedules</a> | <a href="https://github.com/SerCom-KC/cartoon-network-schedule">GitHub</a></p>
     </footer>
     <script>
@@ -191,7 +191,7 @@
         var shows;
 
         function applyDisplaySettings() {
-            /*switch (document.getElementById("asfilter").value) {
+            switch (document.getElementById("asfilter").value) {
                 case "ctn":
                     [].forEach.call(document.querySelectorAll(".asm-show"), (show) => {
                         show.classList.add("show--hide");
@@ -214,7 +214,7 @@
                         show.classList.remove("show--hide");
                     });
                     break;
-            }*/
+            }
 
             document.querySelectorAll(".show").forEach((showDiv) => {
                 var showTimestamp;
@@ -301,11 +301,11 @@
             switch (document.getElementById("instance").value) {
                 case "as-east":
                 case "as-west":
-                    //document.getElementById("asfilter").disabled = false;
+                    document.getElementById("asfilter").disabled = false;
                     break;
                 default:
-                    //document.getElementById("asfilter").disabled = true;
-                    //document.getElementById("asfilter").value = "none";
+                    document.getElementById("asfilter").disabled = true;
+                    document.getElementById("asfilter").value = "none";
                     break;
             }
 
@@ -399,13 +399,13 @@
                 showDiv.classList.add("franchise-" + show.franchise_id);
                 if ("series_id" in show) showDiv.classList.add("series-" + show.series_id);
                 if ("title_id" in show) showDiv.classList.add("title-" + show.title_id);
-                switch (show.subnetwork) {
-                    case "CTN":
-                    case "CTNW": 
+                switch (show.feed_id) {
+                    case "cn-east":
+                    case "cn-west": 
                         showDiv.classList.add("ctn-show");
                         break;
-                    case "ASM":
-                    case "ASMW":
+                    case "as-east":
+                    case "as-west":
                         showDiv.classList.add("asm-show");
                         break;
                     default:
@@ -450,7 +450,7 @@
                 }
             }
         }
-        function loadData() {
+        async function loadData() {
             if (update_lock) return;
             document.getElementById("instance").disabled = true;
             update_lock = true;
@@ -458,29 +458,51 @@
             document.getElementById("countdown").innerText = "Loading...";
             document.getElementById("menu").style.display = "none";
             document.getElementById("menu").innerHTML = '<a href="javascript:scrollTo(&quot;.current&quot;);">Current</a>';
-            var xhr = new XMLHttpRequest();
-            xhr.open("HEAD", "./colorcodes.min.css")
-            xhr.setRequestHeader("If-None-Match", colorcodes_etag);
-            xhr.send();
-            xhr.onreadystatechange = function () {
-            if (this.readyState === 4 && this.status === 200) {
-                colorcodes_etag = this.getResponseHeader("etag");
-                document.getElementById("colorcodes").href = "./colorcodes.min.css?v=" + colorcodes_etag;
-            }};
-            var xhr = new XMLHttpRequest();
-            xhr.open("GET", `https://time.ten.ngtv.io/v1/rundown?instance=${document.getElementById("instance").value}&endTime=2147483647&startTime=${parseInt(new Date().getTime()/1000-15*24*60*60)}`)
-            xhr.send();
-            xhr.onreadystatechange = function () {
-                if (this.readyState === XMLHttpRequest.DONE) {
-                    if (this.status === 200) {
-                        var allShows = JSON.parse(this.responseText);
-                        shows = allShows.shows;
-                        parseSchedule();
-                    } else {
-                        document.getElementById("countdown").innerText = "Connection failed, please try refreshing the page.";
-                    }
+
+            fetch("./colorcodes.min.css", {
+                method: "HEAD",
+                headers: {
+                    "If-None-Match": colorcodes_etag
                 }
-            };
+            }).then((response) => {
+                if (response.status === 200)
+                {
+                    colorcodes_etag = this.getResponseHeader("etag");
+                    document.getElementById("colorcodes").href = "./colorcodes.min.css?v=" + colorcodes_etag;
+                }
+            });
+            
+            var instances_to_fetch;
+            switch (document.getElementById("instance").value)
+            {
+                case "as-east":
+                    instances_to_fetch = ["as-east", "cn-east"];
+                    break;
+                case "as-west":
+                    instances_to_fetch = ["as-west", "cn-west"];
+                    break;
+                default:
+                    instances_to_fetch = [document.getElementById("instance").value];
+                    break;
+            }
+            shows = [];
+            for (var i = 0; i < instances_to_fetch.length; i++)
+            {
+                var response = await fetch(
+                    `https://time.ten.ngtv.io/v1/rundown?instance=${instances_to_fetch[i]}&endTime=2147483647&startTime=${parseInt(new Date().getTime()/1000-15*24*60*60)}`
+                );
+                if (response.ok)
+                {
+                    var allShows = await response.json()
+                    shows = shows.concat(allShows.shows);
+                }
+                else
+                {
+                    document.getElementById("countdown").innerText = "Connection failed, please try refreshing the page.";
+                    return;
+                }
+            }
+            parseSchedule();
         }
         document.addEventListener('readystatechange', event => {
             if (event.target.readyState === "complete") {
