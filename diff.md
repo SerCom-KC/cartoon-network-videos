@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: September 21, 2024 at 17:00:16 UTC_
+_Last Update: September 23, 2024 at 15:30:16 UTC_
 ## Video added
-### Summary
-2227883 Jellystone: 2 (2 new)  
-### 2390058
-**Jellystone S03E04 - Hot Guys, Cold Turkey**  
-🆕 TV-G 🔒 11:13  
-⌛ December 2, 2024 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2227883&titleid=2390058&mediaid=e5cca2bb4c5cce63456043ed5c0ed948d225acd5) or on the web: https://www.cartoonnetwork.com/video/jellystone/hot-guys-cold-turkey-episode.html  
-seriesid=`2227883` titleid=`2390058` mediaid=`e5cca2bb4c5cce63456043ed5c0ed948d225acd5`  
-_Jabberjaw has an overactive cupid which makes her fall in love with everyone and everything._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2390058_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390058_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390058_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390058_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390058_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390058_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390058_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390058_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390058_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390058_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390058_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390058_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390058_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390058_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390058_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390058_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390058_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390058_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390058_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390058_010_640x360.jpg" height="144px" /></a>
-### 2390059
-**Jellystone S03E05 - Lotions 11**  
-🆕 TV-G 🔒 11:16  
-⌛ December 2, 2024 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2227883&titleid=2390059&mediaid=e218789179e504d041adf39c89ce100583956b44) or on the web: https://www.cartoonnetwork.com/video/jellystone/lotions-11-episode.html  
-seriesid=`2227883` titleid=`2390059` mediaid=`e218789179e504d041adf39c89ce100583956b44`  
-_With Top Cat in jail, his gang must pull off the scam of the century without him!_  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2390059_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390059_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390059_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390059_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390059_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390059_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390059_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390059_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390059_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390059_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390059_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390059_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390059_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390059_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390059_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390059_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390059_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390059_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390059_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390059_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
