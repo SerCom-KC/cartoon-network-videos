@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: October 5, 2024 at 17:00:18 UTC_
+_Last Update: October 7, 2024 at 04:00:17 UTC_
 ## Video added
-### Summary
-2227883 Jellystone: 2 (2 new)  
-### 2390062
-**Jellystone S03E08 - Girl, You My Friend!**  
-🆕 TV-G 🔒 11:11  
-⌛ February 2, 2025 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2227883&titleid=2390062&mediaid=5398ae80f83c536fe595864cdd8e91bd6196a892) or on the web: https://www.cartoonnetwork.com/video/jellystone/girl-you-my-friend-episode.html  
-seriesid=`2227883` titleid=`2390062` mediaid=`5398ae80f83c536fe595864cdd8e91bd6196a892`  
-_Cindy, Jabberjaw, and Squiddly compete for the title of "best friend" in Jellystone._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2390062_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390062_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390062_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390062_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390062_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390062_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390062_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390062_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390062_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390062_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390062_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390062_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390062_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390062_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390062_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390062_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390062_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390062_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390062_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390062_010_640x360.jpg" height="144px" /></a>
-### 2390063
-**Jellystone S03E09 - Jellystone Noir**  
-🆕 TV-G 🔒 11:15  
-⌛ February 2, 2025 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2227883&titleid=2390063&mediaid=ea1439b8913892c510ec9a2a82f89782c4e4b7bd) or on the web: https://www.cartoonnetwork.com/video/jellystone/jellystone-noir-episode.html  
-seriesid=`2227883` titleid=`2390063` mediaid=`ea1439b8913892c510ec9a2a82f89782c4e4b7bd`  
-_Shag hires a bunch of detectives to find his lost sense of childhood wonder._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2390063_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390063_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390063_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390063_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390063_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390063_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390063_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390063_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390063_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390063_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390063_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390063_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390063_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390063_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390063_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390063_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390063_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390063_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2390063_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2390063_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
