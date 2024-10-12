@@ -3,17 +3,17 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: October 11, 2024 at 17:00:17 UTC_
+_Last Update: October 12, 2024 at 16:30:18 UTC_
 ## Video added
 ### Summary
-2503122 Barney's World: 1  
-### 2539190
-**Barney's World S?? Short - Barney's Intro**  
-TV-Y 🔓 01:08  
-⌛ December 28, 2024 at 23:59:59 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2503122&titleid=2539190&mediaid=644fe8e7973ca7b66db03e928c0967d1df3fc125) or on the web: https://www.cartoonnetwork.com/video/barney's-world/barneys-intro-episode.html  
-seriesid=`2503122` titleid=`2539190` mediaid=`644fe8e7973ca7b66db03e928c0967d1df3fc125`  
-_Barney the purple dinosaur introduces himself and takes us on a tour of the super-dee-super park! He dances, demonstrates how to take a Barney Breath, and shows off some of his fun Barney magic!_  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2539190_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2539190_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2539190_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2539190_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2539190_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2539190_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2539190_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2539190_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2539190_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2539190_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2539190_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2539190_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2539190_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2539190_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2539190_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2539190_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2539190_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2539190_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2539190_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2539190_010_640x360.jpg" height="144px" /></a>
+2000349 Teen Titans Go!: 1 (1 new)  
+### 2409325
+**Teen Titans Go! S08E31 - The Great Azarathian Face Off**  
+🆕 TV-PG 🔒 11:23  
+⌛ February 9, 2025 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2000349&titleid=2409325&mediaid=743b937acef83161be6faa216362fed9a8d062d4) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/the-great-azarathian-face-off-episode.html  
+seriesid=`2000349` titleid=`2409325` mediaid=`743b937acef83161be6faa216362fed9a8d062d4`  
+_When a visiting author notices the magical abilities of the bookstore gang, she invites them to be contestants on a new TV show._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2409325_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409325_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409325_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409325_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409325_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409325_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409325_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409325_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409325_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409325_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409325_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409325_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409325_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409325_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409325_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409325_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409325_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409325_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2409325_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2409325_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
