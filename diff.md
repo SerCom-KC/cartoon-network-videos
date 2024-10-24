@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: October 19, 2024 at 17:00:17 UTC_
+_Last Update: October 24, 2024 at 11:30:17 UTC_
 ## Video added
-### Summary
-2227883 Jellystone: 2 (2 new)  
-### 2398960
-**Jellystone S03E12 - Mummy Knows Best**  
-🆕 TV-G 🔒 11:13  
-⌛ February 16, 2025 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2227883&titleid=2398960&mediaid=56f0921bbcd601dfbef6c37f1e9f4fe3fce9115a) or on the web: https://www.cartoonnetwork.com/video/jellystone/mummy-knows-best-episode.html  
-seriesid=`2227883` titleid=`2398960` mediaid=`56f0921bbcd601dfbef6c37f1e9f4fe3fce9115a`  
-_An injured El Kabong mistakenly hires a cursed mummy to take over his teaching duties._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2398960_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398960_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398960_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398960_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398960_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398960_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398960_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398960_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398960_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398960_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398960_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398960_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398960_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398960_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398960_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398960_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398960_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398960_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398960_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398960_010_640x360.jpg" height="144px" /></a>
-### 2398961
-**Jellystone S03E13 - Augie-Mented Reality**  
-🆕 TV-G 🔒 11:15  
-⌛ February 16, 2025 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2227883&titleid=2398961&mediaid=f9e43d74efa3a2323fcdbfd9fd022b82dc6cd073) or on the web: https://www.cartoonnetwork.com/video/jellystone/augie-mented-reality-episode.html  
-seriesid=`2227883` titleid=`2398961` mediaid=`f9e43d74efa3a2323fcdbfd9fd022b82dc6cd073`  
-_Doggy Daddy transforms a bunch of folks into Augie so he can spend even more time with her._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2398961_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398961_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398961_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398961_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398961_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398961_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398961_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398961_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398961_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398961_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398961_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398961_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398961_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398961_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398961_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398961_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398961_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398961_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2398961_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2398961_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
