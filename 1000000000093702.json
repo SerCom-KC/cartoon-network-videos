@@ -17138,7 +17138,7 @@
         "pubdate": "2024-01-08T05:00:00.000Z",
         "expdate": "2025-01-01T04:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/433621_004_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "webflags": "",
         "tags": "cartoonito",
         "titleid": "433621",
