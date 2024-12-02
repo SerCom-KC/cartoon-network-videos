@@ -2,7 +2,7 @@
   "airingid": "RADS1001032400045190",
   "seasonnumber": "1",
   "seasonitemnumber": "11",
-  "seriesid": "2356389",
+  "seriesid": "1000000000093702",
   "id": "277580c4abbd5d8b9e24cbe82645e34884f9e2da",
   "collectionid": "",
   "seofriendlyurl": "/video/lellobee-city-farm/get-active-dance-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2356389",
-  "seriesname": "Lellobee City Farm",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2024-01-08T05:00:00.000Z",
   "pubdate": "2024-01-08T05:00:00.000Z",
   "expdate": "2024-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1735621200000",
   "mediaid": "277580c4abbd5d8b9e24cbe82645e34884f9e2da",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
