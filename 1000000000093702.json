@@ -12752,7 +12752,7 @@
         "pubdate": "2024-02-02T05:00:59.000Z",
         "expdate": "2024-12-31T05:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2267171_006_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "webflags": "",
         "tags": "cartoonito",
         "titleid": "2267171",
