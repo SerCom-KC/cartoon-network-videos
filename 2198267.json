@@ -2,7 +2,7 @@
   "airingid": "RADS1011012400001149",
   "seasonnumber": "1",
   "seasonitemnumber": "23",
-  "seriesid": "10000000000",
+  "seriesid": "2133648",
   "id": "d6915c57a46a30abdc577c2e834bccb1c1eb5f94",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/face-your-fears-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2133648",
+  "seriesname": "Apple & Onion",
   "originalpremieredate": "2024-11-04T05:00:00.000Z",
   "pubdate": "2024-11-04T05:00:00.000Z",
   "expdate": "2024-12-31T05:00:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2198267",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2133648",
   "originalseriesname": "Apple & Onion",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1735621200000",
   "mediaid": "d6915c57a46a30abdc577c2e834bccb1c1eb5f94",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

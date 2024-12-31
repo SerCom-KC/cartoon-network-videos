@@ -2,7 +2,7 @@
   "airingid": "RADS1012282300043605",
   "seasonnumber": "1",
   "seasonitemnumber": "5",
-  "seriesid": "1000000000093702",
+  "seriesid": "2227953",
   "id": "0cfcf3a500fa16bd7c2200bf5f425f7b2fd4f4e8",
   "collectionid": "",
   "seofriendlyurl": "/video/mecha-builders/picture-perfect-park-partysun-block-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2227953",
+  "seriesname": "Mecha Builders",
   "originalpremieredate": "2023-12-31T05:01:00.000Z",
   "pubdate": "2023-12-31T05:01:00.000Z",
   "expdate": "2024-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1735621200000",
   "mediaid": "0cfcf3a500fa16bd7c2200bf5f425f7b2fd4f4e8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

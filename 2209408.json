@@ -2,7 +2,7 @@
   "airingid": "RADS1011012400001167",
   "seasonnumber": "1",
   "seasonitemnumber": "33",
-  "seriesid": "10000000000",
+  "seriesid": "2133648",
   "id": "8b2b40c38ceffe2dc4a217dcdf794e26d849bee2",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/the-music-store-thief-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2133648",
+  "seriesname": "Apple & Onion",
   "originalpremieredate": "2024-11-04T05:00:00.000Z",
   "pubdate": "2024-11-04T05:00:00.000Z",
   "expdate": "2024-12-31T05:00:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2209408",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2133648",
   "originalseriesname": "Apple & Onion",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1735621200000",
   "mediaid": "8b2b40c38ceffe2dc4a217dcdf794e26d849bee2",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

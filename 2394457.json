@@ -2,7 +2,7 @@
   "airingid": "RADS1001032400045100",
   "seasonnumber": "2",
   "seasonitemnumber": "15",
-  "seriesid": "1000000000093702",
+  "seriesid": "2357711",
   "id": "910498691a54d0d58978a1eba511c3ef07a467a8",
   "collectionid": "",
   "seofriendlyurl": "/video/blippi-wonders/soggy-cereal-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2357711",
+  "seriesname": "Blippi Wonders",
   "originalpremieredate": "2024-01-08T05:00:00.000Z",
   "pubdate": "2024-01-08T05:00:00.000Z",
   "expdate": "2024-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1735621200000",
   "mediaid": "910498691a54d0d58978a1eba511c3ef07a467a8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

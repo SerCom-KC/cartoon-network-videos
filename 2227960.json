@@ -2,7 +2,7 @@
   "airingid": "RADS1012282300043633",
   "seasonnumber": "1",
   "seasonitemnumber": "7",
-  "seriesid": "1000000000093702",
+  "seriesid": "2227953",
   "id": "aa853dfa5d68ab046806d9d30cae053f271f5bf4",
   "collectionid": "",
   "seofriendlyurl": "/video/mecha-builders/yip-yip-book-bookstick-to-it-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2227953",
+  "seriesname": "Mecha Builders",
   "originalpremieredate": "2023-12-31T05:01:00.000Z",
   "pubdate": "2023-12-31T05:01:00.000Z",
   "expdate": "2024-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1735621200000",
   "mediaid": "aa853dfa5d68ab046806d9d30cae053f271f5bf4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

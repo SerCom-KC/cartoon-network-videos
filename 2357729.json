@@ -2,7 +2,7 @@
   "airingid": "RADS1001032400045040",
   "seasonnumber": "1",
   "seasonitemnumber": "14",
-  "seriesid": "1000000000093702",
+  "seriesid": "2357711",
   "id": "2c11dcb5b2cfd53dec01dd5ce2c1f0951a4fdb6c",
   "collectionid": "",
   "seofriendlyurl": "/video/blippi-wonders/sneeze-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2357711",
+  "seriesname": "Blippi Wonders",
   "originalpremieredate": "2024-01-08T05:00:00.000Z",
   "pubdate": "2024-01-08T05:00:00.000Z",
   "expdate": "2024-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1735621200000",
   "mediaid": "2c11dcb5b2cfd53dec01dd5ce2c1f0951a4fdb6c",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

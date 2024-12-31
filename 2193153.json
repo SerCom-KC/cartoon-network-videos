@@ -2,7 +2,7 @@
   "airingid": "RADS1011012400001109",
   "seasonnumber": "1",
   "seasonitemnumber": "14",
-  "seriesid": "10000000000",
+  "seriesid": "2133648",
   "id": "bb002209c5d393d2aa6c8f04cda2525b9e1153bd",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/fun-proof-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2133648",
+  "seriesname": "Apple & Onion",
   "originalpremieredate": "2024-11-01T04:00:00.000Z",
   "pubdate": "2024-11-01T04:00:00.000Z",
   "expdate": "2024-12-31T05:00:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2193153",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2133648",
   "originalseriesname": "Apple & Onion",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1735621200000",
   "mediaid": "bb002209c5d393d2aa6c8f04cda2525b9e1153bd",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
