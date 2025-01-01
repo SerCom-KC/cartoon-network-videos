@@ -2,7 +2,7 @@
   "airingid": "RADS1012262400010660",
   "seasonnumber": "1",
   "seasonitemnumber": "21",
-  "seriesid": "10000000000",
+  "seriesid": "2131007",
   "id": "159c3949ad27c702b5bb377e9bd372e708e979b6",
   "collectionid": "",
   "seofriendlyurl": "/video/summer-camp-island/cosmic-bupkiss-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2131007",
+  "seriesname": "Summer Camp Island",
   "originalpremieredate": "2025-01-01T05:00:00.000Z",
   "pubdate": "2025-01-01T05:00:00.000Z",
   "expdate": "2025-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1767157200000",
   "mediaid": "159c3949ad27c702b5bb377e9bd372e708e979b6",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
