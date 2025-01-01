@@ -2,7 +2,7 @@
   "airingid": "RADS1002142400053978",
   "seasonnumber": "3",
   "seasonitemnumber": "17",
-  "seriesid": "1000000000093702",
+  "seriesid": "2356389",
   "id": "d51b512fb400778d5053245fb71dfad917d75595",
   "collectionid": "",
   "seofriendlyurl": "/video/lellobee-city-farm/old-macdonald-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2356389",
+  "seriesname": "Lellobee City Farm",
   "originalpremieredate": "2024-03-01T05:00:00.000Z",
   "pubdate": "2024-03-01T05:00:00.000Z",
   "expdate": "2025-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1735707540000",
   "mediaid": "d51b512fb400778d5053245fb71dfad917d75595",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

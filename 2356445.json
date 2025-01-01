@@ -2,7 +2,7 @@
   "airingid": "RADS1002142400053871",
   "seasonnumber": "3",
   "seasonitemnumber": "4",
-  "seriesid": "1000000000093702",
+  "seriesid": "2356389",
   "id": "8b46fda9564dd91494987058cab9b9f9afbee0ae",
   "collectionid": "",
   "seofriendlyurl": "/video/lellobee-city-farm/5-little-monkeys-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2356389",
+  "seriesname": "Lellobee City Farm",
   "originalpremieredate": "2024-03-01T05:00:00.000Z",
   "pubdate": "2024-03-01T05:00:00.000Z",
   "expdate": "2025-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1735707540000",
   "mediaid": "8b46fda9564dd91494987058cab9b9f9afbee0ae",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
