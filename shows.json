@@ -4,10 +4,6 @@
         "title": "Unlocked"
     },
     {
-        "show_id": "1000000000041270",
-        "title": "Holiday Specials!"
-    },
-    {
         "show_id": "1000000000093702",
         "title": "Cartoonito"
     },
@@ -16,8 +12,24 @@
         "title": "Teen Titans Go!"
     },
     {
+        "show_id": "2007332",
+        "title": "Uncle Grandpa"
+    },
+    {
+        "show_id": "2011404",
+        "title": "Steven Universe"
+    },
+    {
         "show_id": "2012957",
         "title": "Clarence"
+    },
+    {
+        "show_id": "2056641",
+        "title": "We Bare Bears"
+    },
+    {
+        "show_id": "2064567",
+        "title": "Powerpuff Girls"
     },
     {
         "show_id": "2085313",
@@ -42,6 +54,10 @@
     {
         "show_id": "2141710",
         "title": "Total Dramarama"
+    },
+    {
+        "show_id": "2208494",
+        "title": "Steven Universe Future"
     },
     {
         "show_id": "2227953",
@@ -72,7 +88,23 @@
         "title": "Total Drama Island"
     },
     {
+        "show_id": "2368373",
+        "title": "Jessica's Big Little World"
+    },
+    {
         "show_id": "2503122",
         "title": "Barney's World"
+    },
+    {
+        "show_id": "757073",
+        "title": "Adventure Time"
+    },
+    {
+        "show_id": "810150",
+        "title": "Regular Show"
+    },
+    {
+        "show_id": "835928",
+        "title": "Gumball"
     }
 ]
