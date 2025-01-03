@@ -47,7 +47,6 @@ DB_URL = "https://raw.githubusercontent.com/SerCom-KC/cartoon-network-videos/db/
 DIFF_URL = "https://raw.githubusercontent.com/%s/%s/diff.json?"
 PREVIEW_OUTPUT_PATH = "/tmp/%s_preview.mp4"
 
-# Resets the spanish episode counter
 espanol = 0
 
 def log(text):
@@ -63,31 +62,22 @@ def log(text):
     print(text)
 
 def escape(string):
-    # not necessary for Twitter here
     return string
 
 def is_new_video(video):
     try:
-        # Use the db branch to check
         resp = s.head(DB_URL % (video["titleid"]))
         if resp.status_code == 200: return False
         if resp.status_code == 404: return True
         resp.raise_for_status()
     except Exception:
-        # Using the banner text to decide whether the video is a new one (not accurate)
         banner_text = video.get("bannertext", "").upper()
         return banner_text in ["SEE IT FIRST", "LATEST EPISODE"]
 
 def parse_video(video):
     global espanol
-    if not video["seasonnumber"] or video["seasonnumber"] == "0":
-        seasonno = "??"
-    else:
-        seasonno = "0%s" % (video["seasonnumber"]) if int(video["seasonnumber"]) < 10 else video["seasonnumber"]
-    if not video["seasonepisodenumber"] or video["seasonepisodenumber"] == "0":
-        episodeno = "??"
-    else:
-        episodeno = "0%s" % (video["seasonepisodenumber"]) if int(video["seasonepisodenumber"]) < 10 else video["seasonepisodenumber"]
+    seasonno = "0%s" % (video["seasonnumber"]) if video["seasonnumber"] and video["seasonnumber"] != "0" and int(video["seasonnumber"]) < 10 else "??"
+    episodeno = "0%s" % (video["seasonepisodenumber"]) if video["seasonepisodenumber"] and video["seasonepisodenumber"] != "0" and int(video["seasonepisodenumber"]) < 10 else "??"
     ep_result = ""
     if video["originalseriesname"] != "":
         ep_result += "%s S%s" % (escape(video["originalseriesname"]), seasonno)
@@ -115,14 +105,10 @@ def parse_video(video):
     expires = datetime.utcfromtimestamp(int(video["expdateasmilliseconds"])/1000).replace(tzinfo=pytz.timezone("UTC")).astimezone(tz=pytz.timezone("US/Eastern"))
     ep_result += expires.strftime("? %B ")
     ep_result += expires.strftime("%d, %Y at %H:%M:%S %Z\n").lstrip("0")
-    #app_url = s.get("https://tinyurl.com/api-create.php", params={"url": "cartoonnetwork://open?section=onDemand&series=%s&title=%s&media=%s" % (video["seriesid"], video["titleid"], video["mediaid"])}, timeout=10).text.replace('http://', 'https://')
     app_url = f'https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid={video["seriesid"]}&titleid={video["titleid"]}&mediaid={video["mediaid"]}'
     ep_result += "APP: %s\n" % (app_url)
-    if video["seofriendlyurl"] != "":
-        ep_result += "WEB: https://www.cartoonnetwork.com%s\n" % (video["seofriendlyurl"])
     ep_result += "seriesid=%s titleid=%s mediaid=%s\n" % (video["originalseriesid"] if video["originalseriesid"] != "0" else video["seriesid"], video["titleid"], video["mediaid"])
 
-    # Make sure there's always a valid thumbnail URL
     for i in range(0, 3):
         try:
             thumb_resp = s.head(video["thumbnailurl"]).status_code
@@ -165,7 +151,7 @@ def parse_video(video):
 
 def send_preview(video):
     if video["twitter_status_id"] == -1: return
-    return # we are not sending preview videos to Twitter for this time
+    return 
     output_path = PREVIEW_OUTPUT_PATH % (video["mediaid"])
 
     try:
@@ -184,8 +170,6 @@ def send_preview(video):
         if youtube_dl.YoutubeDL(opts).download([preview_link]) == 0:
             media_ids = []
             raise NotImplementedError
-            #media_ids.append(twitter_v1_1.media_upload(filename=output_path).media_id)
-            #twitter_v2.create_tweet(text=escape(video["description"]), in_reply_to_tweet_id=video["twitter_status_id"], media_ids=media_ids, user_auth=True)
     except Exception:
         pass
 
@@ -207,9 +191,6 @@ def main():
     ref = os.environ["GITHUB_REF"]
     before_hash = os.environ["GITHUB_BEFORE"]
 
-    # Fetching the diff result of the previous push. This is for:
-    # a. calculating the time elapsed
-    # b. avoiding unnecessary pushes, e.g. a video removed during the previous push has just added back
     prev_video_list = s.get(DIFF_URL % (github_repo, before_hash)).json()
     prev_video_list_updated = datetime.utcfromtimestamp(int(prev_video_list["updated"])).replace(tzinfo=pytz.timezone("UTC")).astimezone(tz=pytz.timezone("US/Eastern"))
 
