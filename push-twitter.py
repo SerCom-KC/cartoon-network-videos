@@ -339,4 +339,4 @@ if __name__ == "__main__":
     except Exception:
         log("An unexpected error occurred")
         log(traceback.format_exc())
-        raise SystemExit
+        exit(-1)
