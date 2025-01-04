@@ -317,22 +317,8 @@
             var franchise_id = parseInt(show.franchise_id);
             var series_id = parseInt(show.series_id);
 
-            if (franchise_id === 464354 || series_id === 2224721) {
+            if (franchise_id === 464354 || series_id === 2224721) { /* Smiling Friends */
                 var result = "";
-                /*
-                var colors = ["#fbff73", "#efa4ee", "#ee5766", "#85fd8c", "#ace6fa"];
-                var i = 0;
-                for (var j = 0; j < text.length; j++) {
-                    var letter = text.charAt(j);
-                    if (letter != ' ') {
-                        result += `<span style="color: ${colors[i++]};">${letter}</span>`;
-                        if (i >= colors.length) i = 0;
-                    } else {
-                        result += ' ';
-                    }
-                }
-                return result;
-                */
                 var colors = ["#fbff73", "#efa4ee"];
                 var i = 0;
                 text.split(" ").forEach(word => {
