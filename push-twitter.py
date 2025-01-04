@@ -2,6 +2,7 @@
 
 import os
 import re
+import subprocess
 import time
 import traceback
 from datetime import datetime, timezone
@@ -328,7 +329,8 @@ def main():
             send_tweet(text)
 
         if added_videos:
-            os.system("sudo apt-get install ffmpeg -y")
+            print("Installing FFmpeg")
+            subprocess.run("sudo apt-get install ffmpeg -y", shell=True, capture_output=True, check=True)
             for video in added_videos:
                 send_preview(video)
 
