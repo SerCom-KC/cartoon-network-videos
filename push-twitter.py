@@ -13,7 +13,7 @@ import youtube_dl
 from requests_oauthlib import OAuth1
 
 twitter_credential = OAuth1(
-    os.environ["TWITTER_CONSUMER_KEY"],
+    client_key=os.environ["TWITTER_CONSUMER_KEY"],
     client_secret=os.environ["TWITTER_CONSUMER_SECRET"],
     resource_owner_key=os.environ["TWITTER_ACCESS_TOKEN_KEY"],
     resource_owner_secret=os.environ["TWITTER_ACCESS_TOKEN_SECRET"],
@@ -83,11 +83,11 @@ def parse_video(video):
     if not video["seasonnumber"] or video["seasonnumber"] == "0":
         seasonno = "??"
     else:
-        seasonno = "0%s" % (video["seasonnumber"]) if int(video["seasonnumber"]) < 10 else video["seasonnumber"]
+        seasonno = video["seasonnumber"].zfill(2)
     if not video["seasonepisodenumber"] or video["seasonepisodenumber"] == "0":
         episodeno = "??"
     else:
-        episodeno = "0%s" % (video["seasonepisodenumber"]) if int(video["seasonepisodenumber"]) < 10 else video["seasonepisodenumber"]
+        episodeno = video["seasonepisodenumber"].zfill(2)
     ep_result = ""
     if video["originalseriesname"] != "":
         ep_result += "%s S%s" % (escape(video["originalseriesname"]), seasonno)
@@ -106,16 +106,10 @@ def parse_video(video):
             if espanol > 3: return -1
     else:
         return -1
-    locked = "🔒" if video["authtype"] == "auth" else "🔓"
-    minute = int(video["duration"]/60)
-    second = int(video["duration"] - minute * 60)
-    minute = "0%s" % (minute) if minute < 10 else str(minute)
-    second = "0%s" % (second) if second < 10 else str(second)
-    ep_result += "%s %s %s:%s\n" % (video["tvratingcode"], locked, minute, second)
+    ep_result += f"{video['tvratingcode']} {'🔒' if video['authtype'] == 'auth' else '🔓'} {int(video['duration'] / 60):02}:{video['duration'] % 60:02}\n"
     expires = datetime.fromtimestamp(int(video["expdateasmilliseconds"])/1000, timezone.utc).replace(tzinfo=pytz.timezone("UTC")).astimezone(tz=pytz.timezone("US/Eastern"))
     ep_result += expires.strftime("⌛ %B ")
     ep_result += expires.strftime("%d, %Y at %H:%M:%S %Z\n").lstrip("0")
-    #app_url = s.get("https://tinyurl.com/api-create.php", params={"url": "cartoonnetwork://open?section=onDemand&series=%s&title=%s&media=%s" % (video["seriesid"], video["titleid"], video["mediaid"])}, timeout=10).text.replace('http://', 'https://')
     app_url = f'https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid={video["seriesid"]}&titleid={video["titleid"]}&mediaid={video["mediaid"]}'
     ep_result += "APP: %s\n" % (app_url)
     if video["seofriendlyurl"] != "":
