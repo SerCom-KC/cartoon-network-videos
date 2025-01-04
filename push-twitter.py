@@ -1,8 +1,8 @@
 # coding: utf-8
 
-import json
 import os
 import re
+import time
 import traceback
 from datetime import datetime, timezone
 
@@ -25,15 +25,19 @@ tg_dbg_chatid = os.environ["TG_DBG_CHAT_ID"]
 
 s = requests.Session()
 
-def send_tweet(text, media_ids=None):
+def send_tweet(text, media_ids=None, in_reply_to_tweet_id=None):
     data = {"text": text}
+
     if media_ids:
+        assert(isinstance(media_ids, list))
         data["media"] = {"media_ids": [str(i) for i in media_ids]}
+    if in_reply_to_tweet_id:
+        assert(isinstance(in_reply_to_tweet_id, str))
+        data["reply"] = {"in_reply_to_tweet_id": in_reply_to_tweet_id}
 
     resp = s.post(
         "https://api.twitter.com/2/tweets",
-        headers={"Content-Type": "application/json"},
-        data=json.dumps(data, ensure_ascii=True).encode("utf-8"),
+        json=data,
         auth=twitter_credential
     )
 
@@ -42,6 +46,84 @@ def send_tweet(text, media_ids=None):
         resp.raise_for_status()
 
     return resp.json()
+
+def upload_video(video_path):
+    video_size = os.path.getsize(video_path)
+
+    resp = s.post(
+        "https://upload.twitter.com/1.1/media/upload.json",
+        data={
+            "command": "INIT",
+            "media_type": "video/mp4",
+            "total_bytes": video_size,
+            "media_category": "tweet_video"
+        },
+        auth=twitter_credential
+    )
+    if not resp.ok:
+        log(resp.content)
+        resp.raise_for_status()
+    media_id = resp.json()["media_id"]
+
+    with open(video_path, "rb") as f:
+        segment_id = 0
+        while True:
+            chunk = f.read(4*1024*1024)
+            if len(chunk) == 0:
+                break
+
+            resp = s.post(
+                "https://upload.twitter.com/1.1/media/upload.json",
+                data={
+                    "command": "APPEND",
+                    "media_id": media_id,
+                    "segment_index": segment_id
+                },
+                files={
+                    "media": chunk
+                },
+                auth=twitter_credential
+            )
+
+            if not resp.ok:
+                log(resp.content)
+                resp.raise_for_status()
+            
+            segment_id += 1
+
+    resp = s.post(
+        "https://upload.twitter.com/1.1/media/upload.json",
+        data={
+            "command": "FINALIZE",
+            "media_id": media_id
+        },
+        auth=twitter_credential
+    )
+    if not resp.ok:
+        log(resp.content)
+        resp.raise_for_status()
+
+    while True:
+        processing_info = resp.json().get("processing_info", {"state": "succeeded"})
+        if processing_info["state"] == "succeeded":
+            return media_id
+        elif processing_info["state"] == "failed":
+            log(resp.content)
+            raise NotImplementedError
+
+        time.sleep(processing_info["check_after_secs"])
+
+        resp = s.get(
+            "https://upload.twitter.com/1.1/media/upload.json",
+            params={
+                "command": "STATUS",
+                "media_id": media_id
+            },
+            auth=twitter_credential
+        )
+        if not resp.ok:
+            log(resp.content)
+            resp.raise_for_status()
 
 DB_URL = "https://raw.githubusercontent.com/SerCom-KC/cartoon-network-videos/db/%s.json"
 DIFF_URL = "https://raw.githubusercontent.com/%s/%s/diff.json?"
@@ -156,7 +238,6 @@ def parse_video(video):
 
 def send_preview(video):
     if video["twitter_status_id"] == -1: return
-    return # we are not sending preview videos to Twitter for this time
     output_path = PREVIEW_OUTPUT_PATH % (video["mediaid"])
 
     try:
@@ -170,13 +251,11 @@ def send_preview(video):
     
         preview = s.get("https://medium.ngtv.io/media/%s/phone/preview" % (video["mediaid"]), timeout=10).json()
         preview_link = preview["media"]["phone"]["preview"]["secureUrl"]
-        preview_duration = preview["media"]["phone"]["preview"]["totalRuntime"]
+        #preview_duration = preview["media"]["phone"]["preview"]["totalRuntime"]
 
         if youtube_dl.YoutubeDL(opts).download([preview_link]) == 0:
-            media_ids = []
-            raise NotImplementedError
-            #media_ids.append(twitter_v1_1.media_upload(filename=output_path).media_id)
-            #twitter_v2.create_tweet(text=escape(video["description"]), in_reply_to_tweet_id=video["twitter_status_id"], media_ids=media_ids, user_auth=True)
+            media_ids = [upload_video(output_path)]
+            send_tweet(video["description"], media_ids, video["twitter_status_id"])
     except Exception:
         pass
 
