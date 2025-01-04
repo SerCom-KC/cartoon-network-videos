@@ -30,7 +30,7 @@ def log(text):
         "text": text
     }
     try:
-        s.get("https://api.telegram.org/bot%s/sendMessage" % (telegram_token), params=params, timeout=3)
+        s.post("https://api.telegram.org/bot%s/sendMessage" % (telegram_token), json=params, timeout=3)
     except requests.exceptions.ReadTimeout:
         pass
     print(text)
@@ -118,7 +118,7 @@ def parse_video(video):
         "disable_notification": "False" if new_flag else "True"
     }
     try:
-        tg_resp = s.get("https://api.telegram.org/bot%s/sendPhoto" % (telegram_token), params=params, timeout=10).json()
+        tg_resp = s.post("https://api.telegram.org/bot%s/sendPhoto" % (telegram_token), json=params, timeout=10).json()
     except requests.exceptions.ReadTimeout:
         return -1
     if not tg_resp["ok"]:
@@ -221,7 +221,7 @@ def main():
             "disable_web_page_preview": True
         }
         try:
-            s.get("https://api.telegram.org/bot%s/sendMessage" % (telegram_token), params=params, timeout=3)
+            s.post("https://api.telegram.org/bot%s/sendMessage" % (telegram_token), json=params, timeout=3)
         except requests.exception.ReadTimeout:
             pass
 
@@ -244,7 +244,7 @@ def main():
                 "disable_notification": True
             }
             try:
-                s.get("https://api.telegram.org/bot%s/sendMessage" % (telegram_token), params=params, timeout=3)
+                s.post("https://api.telegram.org/bot%s/sendMessage" % (telegram_token), json=params, timeout=3)
             except requests.exception.ReadTimeout:
                 pass
 
