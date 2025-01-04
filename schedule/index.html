@@ -261,7 +261,8 @@
 
         function scrollTo(element, retry=false) {
             try {
-                document.querySelectorAll(element)[0].scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
+                var current_show = document.querySelectorAll(element);
+                current_show[current_show.length - 1].scrollIntoView({behavior: "smooth", block: "center", inline: "center"});
             } catch(e) {
                 if (retry) setTimeout(scrollTo(element), 5000);
             }
