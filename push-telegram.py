@@ -3,7 +3,7 @@
 import os
 import re
 import traceback
-from datetime import datetime
+from datetime import datetime, timezone
 
 import pytz
 import requests
@@ -84,7 +84,7 @@ def parse_video(video):
     minute = "0%s" % (minute) if minute < 10 else str(minute)
     second = "0%s" % (second) if second < 10 else str(second)
     ep_result += "%s %s %s:%s\n" % (video["tvratingcode"], locked, minute, second)
-    expires = datetime.utcfromtimestamp(int(video["expdateasmilliseconds"])/1000).replace(tzinfo=pytz.timezone("UTC")).astimezone(tz=pytz.timezone("US/Eastern"))
+    expires = datetime.fromtimestamp(int(video["expdateasmilliseconds"])/1000, timezone.utc).replace(tzinfo=pytz.timezone("UTC")).astimezone(tz=pytz.timezone("US/Eastern"))
     ep_result += expires.strftime("⌛ %B ")
     ep_result += expires.strftime("%d, %Y at %H:%M:%S %Z\n").lstrip("0")
     #app_url = s.get("https://tinyurl.com/api-create.php", params={"url": "cartoonnetwork://open?section=onDemand&series=%s&title=%s&media=%s" % (video["seriesid"], video["titleid"], video["mediaid"])}, timeout=10).text.replace('http://', 'https://')
@@ -190,7 +190,7 @@ def main():
     # a. calculating the time elapsed
     # b. avoiding unnecessary pushes, e.g. a video removed during the previous push has just added back
     prev_video_list = s.get(DIFF_URL % (github_repo, before_hash)).json()
-    prev_video_list_updated = datetime.utcfromtimestamp(int(prev_video_list["updated"])).replace(tzinfo=pytz.timezone("UTC")).astimezone(tz=pytz.timezone("US/Eastern"))
+    prev_video_list_updated = datetime.fromtimestamp(int(prev_video_list["updated"]), timezone.utc).replace(tzinfo=pytz.timezone("UTC")).astimezone(tz=pytz.timezone("US/Eastern"))
 
     video_list = s.get(DIFF_URL % (github_repo, commit_hash)).json()
     added_videos = video_list["added"]
