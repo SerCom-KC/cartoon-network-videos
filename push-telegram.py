@@ -71,7 +71,6 @@ def parse_video(video):
     ep_result += "%s</b>\n" % (escape(video["title"]))
     new_flag = False
     if is_new_video(video):
-        ep_result += "🆕 "
         new_flag = True
         if escape(video["originalseriesname"]).rstrip().endswith("en Espanol"):
             espanol += 1
@@ -116,7 +115,7 @@ def parse_video(video):
         "caption": ep_result,
         "parse_mode": "HTML",
         "photo": video["thumbnailurl"].replace("640x360", "1280x720"),
-        "disable_notification": str(not new_flag)
+        "disable_notification": "False" if new_flag else "True"
     }
     try:
         tg_resp = s.get("https://api.telegram.org/bot%s/sendPhoto" % (telegram_token), params=params, timeout=10).json()

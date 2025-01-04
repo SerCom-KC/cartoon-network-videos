@@ -97,10 +97,7 @@ def parse_video(video):
             ep_result += "E%s" % (episodeno)
         ep_result += " - "
     ep_result += "%s\n" % (escape(video["title"]))
-    new_flag = False
     if is_new_video(video):
-        ep_result += "🆕 "
-        new_flag = True
         if escape(video["originalseriesname"]).rstrip().endswith("en Espanol"):
             espanol += 1
             if espanol > 3: return -1
