@@ -119,8 +119,8 @@
 .franchise-477232, .series-2357025, /* Shenmue: The Animation */
 .franchise-479112, .series-2387380, /* Lupin the 3rd Part 6 */
 .franchise-482252, .series-2398940, /* Housing Complex C */
-.series-2507889, /* Rick and Morty: The Anime (Sub) */
-.series-2193532 { /* Uzumaki (Sub) */
+.series-2193532, /* Uzumaki (Sub) */
+.series-2536171 { /* Mashle: Magic and Muscles */
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     background-image: radial-gradient(#851ddb 20%, transparent 20%),
         radial-gradient(#851ddb 20%, transparent 20%);
@@ -1092,11 +1092,25 @@
 }
 
 /* .franchise-489898 start */
+.series-313949 { /* Cartoon Planet */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #138cda;
+    color: white;
+    border-color: white;
+}
+
 .series-317041 { /* The Scooby-Doo Show */
     font-family: "Avenir Std", sans-serif;
     background-color: #8069c3;
     color: white;
     border-color: white;
+}
+
+.series-317121 { /* Scooby-Doo, Where Are You! */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #f4af54;
+    color: #6f2d86;
+    border-color: #6f2d86;
 }
 
 .series-622269, /* Naruto */
@@ -1105,6 +1119,20 @@
     background-image: linear-gradient(90deg, #bfcfdc, #fefeff);
     color: #7a3041;
     border-color: #7a3041;
+}
+
+.series-627595 { /* Tom and Jerry Tales */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #efbe1b;
+    color: #ea1814;
+    border-color: #ea1814;
+}
+
+.series-796588 { /* Scooby-Doo! Mystery Incorporated */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #8bfffc;
+    color: #b43793;
+    border-color: #b43793;
 }
 
 .series-824654 { /* The Looney Tunes Show */
@@ -1121,6 +1149,13 @@
     border-color: #474a90;
 }
 
+.series-2031360 { /* Be Cool, Scooby-Doo! */
+    font-family: "Avenir Std", sans-serif;
+    background-color: #75388f;
+    color: #efe970;
+    border-color: #efe970;
+}
+
 .series-2118583, .series-2266853 { /* The Heroic Quest of the Valiant Prince Ivandoe */
     font-family: "Avenir Std", sans-serif;
     background-color: #fbe5b3;
@@ -1135,6 +1170,13 @@
     border-color: #008efd;
 }
 
+.series-2288428 { /* Lu & the Bally Bunch */
+    font-family: linotteregular, sans-serif;
+    background-color: #e48ca7;
+    color: #55235d;
+    border-color: #55235d;
+}
+
 .series-2305437 { /* Total Drama Island */
     font-family: "Avenir Std", sans-serif;
     background-color: #d69a00;
@@ -1147,6 +1189,35 @@
     background-color: #abe7e7;
     color: #785f88;
     border-color: #785f88;
+}
+
+.series-2424733, /* Rick and Morty: The Anime (Dub) */
+.series-2507889 { /* Rick and Morty: The Anime (Sub) */
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #01b2c8;
+    color: black;
+    border-color: black;
+}
+
+.series-2429682 { /* Silly Sundays */
+    font-family: linotteregular, sans-serif;
+    background-color: #b6e8f3;
+    color: #08757a;
+    border-color: #08757a;
+}
+
+.series-2431343 { /* Let's Go Bananas */
+    font-family: linotteregular, sans-serif;
+    background-color: #fdc159;
+    color: #0ea49d;
+    border-color: #0ea49d;
+}
+
+.series-2503122 { /* Barney's World */
+    font-family: linotteregular, sans-serif;
+    background-color: #a51389;
+    color: #37fa5c;
+    border-color: #37fa5c;
 }
 
 .series-2530043 { /* Psi Cops */
