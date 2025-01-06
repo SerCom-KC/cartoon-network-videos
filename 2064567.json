@@ -72,10 +72,10 @@
         "originalpremieredate": "2025-01-03T05:00:00.000Z",
         "pubdate": "2025-01-03T05:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/326568_005_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "expdate": "2025-01-31T04:59:00.000Z",
         "webflags": "",
-        "tags": "ppg - classic",
+        "tags": "ppg - classic|unauth",
         "titleid": "326568",
         "titletype": "Episode",
         "bannertext": "LATEST EPISODE",
@@ -88,7 +88,7 @@
         "pubdateasmilliseconds": "1735880400000",
         "expdateasmilliseconds": "1738299540000",
         "mediaid": "0b19c21b801d6690eea9d95f8dce7cca9900a0d6",
-        "isunlockedfullepisode": false,
+        "isunlockedfullepisode": true,
         "ismultipropertycollection": false
     },
     {
