@@ -2,7 +2,7 @@
   "airingid": "RADS1001152500016344",
   "seasonnumber": "1",
   "seasonitemnumber": "3",
-  "seriesid": "2288428",
+  "seriesid": "10000000000",
   "id": "109b5b0a681ea17341df2ad3e5c3ee1a20c8fe29",
   "collectionid": "",
   "seofriendlyurl": "/video/lu-&-the-bally-bunch/what-if-i-canthome-toyelevator-play-date-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2288428",
-  "seriesname": "Lu & the Bally Bunch",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2025-01-20T05:00:00.000Z",
   "pubdate": "2025-01-20T05:00:00.000Z",
   "expdate": "2025-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1767157200000",
   "mediaid": "109b5b0a681ea17341df2ad3e5c3ee1a20c8fe29",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
