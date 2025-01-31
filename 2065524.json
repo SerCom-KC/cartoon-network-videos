@@ -2,7 +2,7 @@
   "airingid": "RADS1001202500016797",
   "seasonnumber": "2",
   "seasonitemnumber": "5",
-  "seriesid": "10000000000",
+  "seriesid": "2056641",
   "id": "51be2c6eaf808eb6533d4e6da789ce5d4b5f53e7",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/nom-noms-entourage-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2056641",
+  "seriesname": "We Bare Bears",
   "originalpremieredate": "2025-01-24T05:00:00.000Z",
   "pubdate": "2025-01-24T05:00:00.000Z",
   "expdate": "2025-01-31T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1738299540000",
   "mediaid": "51be2c6eaf808eb6533d4e6da789ce5d4b5f53e7",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
