@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: February 8, 2025 at 17:00:16 UTC_
+_Last Update: February 8, 2025 at 17:30:17 UTC_
 ## Video added
-No videos were added.  
+### Summary
+2239398 We Baby Bears: 2 (2 new)  
+### 2417936
+**We Baby Bears S02E14 - Sunken Sub**  
+🆕 TV-Y7 🔒 11:19  
+⌛ December 31, 2025 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2239398&titleid=2417936&mediaid=35b9d4ca5f50d16a918a06c95864f41b4cdc5365) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/sunken-sub-episode.html  
+seriesid=`2239398` titleid=`2417936` mediaid=`35b9d4ca5f50d16a918a06c95864f41b4cdc5365`  
+_In an effort to speed up their journey to Atlantis, Panda pilots a submarine._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2417936_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417936_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417936_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417936_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417936_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417936_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417936_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417936_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417936_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417936_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417936_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417936_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417936_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417936_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417936_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417936_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417936_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417936_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417936_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417936_010_640x360.jpg" height="144px" /></a>
+### 2417937
+**We Baby Bears S02E15 - Flounder Fam**  
+🆕 TV-Y7 🔒 11:19  
+⌛ December 31, 2025 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2239398&titleid=2417937&mediaid=a2a01cde7757a25fbc1af0b0d86e65829df989f3) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/flounder-fam-episode.html  
+seriesid=`2239398` titleid=`2417937` mediaid=`a2a01cde7757a25fbc1af0b0d86e65829df989f3`  
+_Farah is embarrassed by her inability to fit in with her family. Ice Bear trains her in the art of camouflage._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2417937_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417937_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417937_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417937_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417937_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417937_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417937_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417937_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417937_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417937_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417937_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417937_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417937_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417937_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417937_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417937_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417937_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417937_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417937_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417937_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
