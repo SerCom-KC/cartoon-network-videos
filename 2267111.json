@@ -496,7 +496,7 @@
         "originalpremieredate": "2025-02-19T16:04:00.000Z",
         "pubdate": "2025-02-19T16:04:00.000Z",
         "expdate": "2026-01-01T04:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2373929_006_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2373929_002_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "cartoonito",
@@ -1075,7 +1075,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1001132500015748",
+        "airingid": "RADS1001132500015764",
         "seasonnumber": "1",
         "seasonitemnumber": "10",
         "seriesid": "2267111",
@@ -1118,7 +1118,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1001132500015764",
+        "airingid": "RADS1001132500015748",
         "seasonnumber": "1",
         "seasonitemnumber": "10",
         "seriesid": "2267111",
@@ -2345,7 +2345,7 @@
         "originalpremieredate": "2025-02-18T16:04:00.000Z",
         "pubdate": "2025-02-18T16:04:00.000Z",
         "expdate": "2026-01-01T04:59:00.000Z",
-        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2373930_002_640x360.jpg",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2373930_007_640x360.jpg",
         "authtype": "auth",
         "webflags": "",
         "tags": "cartoonito",
@@ -2580,7 +2580,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1001132500015768",
+        "airingid": "RADS1001132500015761",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2267111",
@@ -2623,7 +2623,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1001132500015761",
+        "airingid": "RADS1001132500015768",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2267111",
