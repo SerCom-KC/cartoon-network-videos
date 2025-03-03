@@ -2,7 +2,7 @@
   "airingid": "RADS1002262500022760",
   "seasonnumber": "4",
   "seasonitemnumber": "1",
-  "seriesid": "10000000000",
+  "seriesid": "2132940",
   "id": "e2b8f73e36bf709fed3db1d5ec1c210efca34f06",
   "collectionid": "",
   "seofriendlyurl": "/video/craig-of-the-creek/the-legend-of-the-library-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2132940",
+  "seriesname": "Craig of the Creek",
   "originalpremieredate": "2025-03-03T05:00:00.000Z",
   "pubdate": "2025-03-03T05:00:00.000Z",
   "expdate": "2025-03-10T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1741579140000",
   "mediaid": "e2b8f73e36bf709fed3db1d5ec1c210efca34f06",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
