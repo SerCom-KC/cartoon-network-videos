@@ -1118,7 +1118,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1001132500015764",
+        "airingid": "RADS1001132500015748",
         "seasonnumber": "1",
         "seasonitemnumber": "10",
         "seriesid": "2267111",
@@ -1161,7 +1161,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1001132500015748",
+        "airingid": "RADS1001132500015764",
         "seasonnumber": "1",
         "seasonitemnumber": "10",
         "seriesid": "2267111",
@@ -2604,12 +2604,12 @@
         "pubdate": "2024-12-31T05:01:00.000Z",
         "expdate": "2025-12-31T05:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2267129_004_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "webflags": "",
-        "tags": "cartoonito|unauth",
+        "tags": "cartoonito",
         "titleid": "2267129",
         "titletype": "Episode",
-        "bannertext": "UNLOCKED",
+        "bannertext": "",
         "originalseriesid": "2267111",
         "originalseriesname": "Batwheels",
         "hasparent": false,
@@ -2617,7 +2617,7 @@
         "pubdateasmilliseconds": "1735621260000",
         "expdateasmilliseconds": "1767157200000",
         "mediaid": "c7c101cab71a709c1569b5cf49ff4557b68d2aab",
-        "isunlockedfullepisode": true,
+        "isunlockedfullepisode": false,
         "ismultipropertycollection": false,
         "clipsonly": false,
         "includeshortform": true
