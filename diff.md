@@ -3,26 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: March 3, 2025 at 13:00:16 UTC_
+_Last Update: March 3, 2025 at 13:30:17 UTC_
 ## Video added
 No videos were added.  
 ## Video removed
-### Summary
-2132940 Craig of the Creek: 1 (1 new)  
-2000349 Teen Titans Go!: 1  
-### 2260166
-**Craig of the Creek S04E02 - Locked Out Cold**  
-🆕 TV-Y7 🔓 11:17  
-⌛ March 9, 2025 at 23:59:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2260166&mediaid=08ecf792aec19c217a9a6e113d69ff2c18ba6b10) or on the web: https://www.cartoonnetwork.com/video/craig-of-the-creek/locked-out-cold-episode.html  
-seriesid=`2132940` titleid=`2260166` mediaid=`08ecf792aec19c217a9a6e113d69ff2c18ba6b10`  
-_On the eve of a big holiday party, the Williams kids are locked out of the house, leading to a frantic search all over town for a spare key._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2260166_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260166_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260166_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260166_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260166_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260166_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260166_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260166_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260166_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260166_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260166_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260166_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260166_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260166_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260166_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260166_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260166_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260166_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2260166_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2260166_010_640x360.jpg" height="144px" /></a>
-### 2417905
-**Teen Titans Go! S08E38 - Four Hundred**  
-TV-PG 🔒 22:34  
-⌛ December 31, 2025 at 00:00:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2000349&titleid=2417905&mediaid=3882d8b0ac05af0baa918b6b4f01c7aa18b593a0) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/four-hundred-episode.html  
-seriesid=`2000349` titleid=`2417905` mediaid=`3882d8b0ac05af0baa918b6b4f01c7aa18b593a0`  
-_After Teen Titans Go! wins the award for being DC's longest running animated series, a jealous Superman banishes the Titans to world of stop-motion in order to get their show cancelled._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2417905_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417905_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417905_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417905_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417905_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417905_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417905_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417905_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417905_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417905_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417905_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417905_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417905_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417905_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417905_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417905_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417905_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417905_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2417905_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2417905_010_640x360.jpg" height="144px" /></a>
+No videos were removed.  
