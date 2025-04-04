@@ -1118,7 +1118,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1001132500015764",
+        "airingid": "RADS1001132500015748",
         "seasonnumber": "1",
         "seasonitemnumber": "10",
         "seriesid": "2267111",
@@ -1161,7 +1161,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1001132500015748",
+        "airingid": "RADS1001132500015764",
         "seasonnumber": "1",
         "seasonitemnumber": "10",
         "seriesid": "2267111",
@@ -1464,14 +1464,14 @@
     {
         "airingid": "RADS1002262500022885",
         "seasonnumber": "2",
-        "seasonitemnumber": "22",
+        "seasonitemnumber": "19",
         "seriesid": "2267111",
         "id": "5501ef0045511ab13674abe1985af1e4189ae52a",
         "collectionid": "",
         "seofriendlyurl": "/video/batwheels/the-batgirlmobile-episode.html",
-        "seasonepisodenumber": "22",
+        "seasonepisodenumber": "19",
         "title": "The Batgirlmobile",
-        "episodenumber": "22",
+        "episodenumber": "19",
         "type": "fullepisode",
         "active": true,
         "description": "With Bibi in need of repairs, Batgirl takes Bam out for a spin to stop Mr. Freeze's latest icy crime spree. Bam will have to get used to having Batgirl in the driver's seat and learn something new if he's going to help her stop Mr. Freeze!",
@@ -2752,7 +2752,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1001132500015761",
+        "airingid": "RADS1001132500015768",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2267111",
@@ -2795,7 +2795,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1001132500015768",
+        "airingid": "RADS1001132500015761",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2267111",
