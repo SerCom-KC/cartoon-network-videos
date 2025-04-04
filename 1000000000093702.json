@@ -2217,7 +2217,7 @@
         "pubdate": "2025-01-03T05:00:00.000Z",
         "expdate": "2025-12-31T05:00:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2141113_006_640x360.jpg",
-        "authtype": "unauth",
+        "authtype": "auth",
         "webflags": "",
         "tags": "cartoonito",
         "titleid": "2141113",
