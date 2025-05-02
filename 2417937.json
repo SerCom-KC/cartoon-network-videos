@@ -2,7 +2,7 @@
   "airingid": "RADS1001272500017837",
   "seasonnumber": "2",
   "seasonitemnumber": "15",
-  "seriesid": "10000000000",
+  "seriesid": "2239398",
   "id": "a2a01cde7757a25fbc1af0b0d86e65829df989f3",
   "collectionid": "",
   "seofriendlyurl": "/video/we-baby-bears/flounder-fam-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2239398",
+  "seriesname": "We Baby Bears",
   "originalpremieredate": "2025-02-08T17:30:00.000Z",
   "pubdate": "2025-02-08T17:30:00.000Z",
   "expdate": "2026-01-01T04:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2417937",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2239398",
   "originalseriesname": "We Baby Bears",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1767243540000",
   "mediaid": "a2a01cde7757a25fbc1af0b0d86e65829df989f3",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
