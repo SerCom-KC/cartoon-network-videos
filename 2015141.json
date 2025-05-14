@@ -2,7 +2,7 @@
   "airingid": "RADS1005072500034553",
   "seasonnumber": "2",
   "seasonitemnumber": "30",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "08e15ab9fccfcfd6336afcc0f1b545382321edf0",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/knowledge-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2025-05-12T04:00:00.000Z",
   "pubdate": "2025-05-12T04:00:00.000Z",
   "expdate": "2025-05-30T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1748577540000",
   "mediaid": "08e15ab9fccfcfd6336afcc0f1b545382321edf0",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
