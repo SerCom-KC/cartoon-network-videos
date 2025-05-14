@@ -3,8 +3,17 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: May 14, 2025 at 11:00:16 UTC_
+_Last Update: May 14, 2025 at 15:00:16 UTC_
 ## Video added
-No videos were added.  
+### Summary
+2267156 Bugs Bunny Builders: 1 (1 new)  
+### 2410038
+**Bugs Bunny Builders S02E23 - Fire Fighters**  
+🆕 TV-Y 🔒 11:16  
+⌛ December 31, 2025 at 23:59:59 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2410038&mediaid=812bbeaa94ee8806489c08d1f0fa98c09cc91697) or on the web: https://www.cartoonnetwork.com/video/bugs-bunny-builders/fire-fighters-episode.html  
+seriesid=`2267156` titleid=`2410038` mediaid=`812bbeaa94ee8806489c08d1f0fa98c09cc91697`  
+_The Looney Builders are hired by the town's volunteer firefighters to build a fire truck. Duty calls and they build on the go as they make rescues throughout Looneyburg._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2410038_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2410038_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2410038_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2410038_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2410038_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2410038_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2410038_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2410038_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2410038_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2410038_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2410038_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2410038_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2410038_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2410038_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2410038_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2410038_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2410038_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2410038_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2410038_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2410038_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
