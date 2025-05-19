@@ -4926,7 +4926,7 @@
         "pubdate": "2025-01-31T16:32:00.000Z",
         "expdate": "2026-01-01T04:59:00.000Z",
         "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2503161_001_640x360.jpg",
-        "authtype": "auth",
+        "authtype": "unauth",
         "webflags": "",
         "tags": "cartoonito",
         "titleid": "2503161",
