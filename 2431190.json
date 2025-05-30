@@ -2,7 +2,7 @@
   "airingid": "RADS1003312500027813",
   "seasonnumber": "1",
   "seasonitemnumber": "1",
-  "seriesid": "10000000000",
+  "seriesid": "2431140",
   "id": "7254452e59a0144180b0052a73dea4f9e18eb10b",
   "collectionid": "",
   "seofriendlyurl": "/video/iyanu/the-chosen-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2431140",
+  "seriesname": "Iyanu",
   "originalpremieredate": "2025-04-05T17:00:00.000Z",
   "pubdate": "2025-04-05T17:00:00.000Z",
   "expdate": "2025-11-02T03:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2431190",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2431140",
   "originalseriesname": "Iyanu",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1762055940000",
   "mediaid": "7254452e59a0144180b0052a73dea4f9e18eb10b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
