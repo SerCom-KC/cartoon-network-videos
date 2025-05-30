@@ -2,7 +2,7 @@
   "airingid": "RADS1012262400010521",
   "seasonnumber": "2",
   "seasonitemnumber": "11",
-  "seriesid": "10000000000",
+  "seriesid": "2239398",
   "id": "d6b170974c02196feb5861dfffa308c93cafef9d",
   "collectionid": "",
   "seofriendlyurl": "/video/we-baby-bears/the-big-bloom-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2239398",
+  "seriesname": "We Baby Bears",
   "originalpremieredate": "2024-12-31T05:01:00.000Z",
   "pubdate": "2024-12-31T05:01:00.000Z",
   "expdate": "2025-12-31T05:00:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2417933",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2239398",
   "originalseriesname": "We Baby Bears",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1767157200000",
   "mediaid": "d6b170974c02196feb5861dfffa308c93cafef9d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
