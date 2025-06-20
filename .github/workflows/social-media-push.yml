@@ -1,10 +1,7 @@
 name: Push updates to our social media accounts
 
 on:
-  push:
-    branches:
-      - master
-      - fastring
+  workflow_dispatch:
 
 jobs:
   push:
@@ -14,39 +11,5 @@ jobs:
         platform: [telegram, twitter]
     
     steps:
-      - name: Get the SHA of the commit before the push
-        uses: actions/github-script@v6
-        id: before-sha
-        with:
-          script: |
-            const owner = context.repo.owner
-            const repo = context.repo.repo
-            const ref = context.sha
-            const resp = await github.rest.repos.getCommit({
-              owner,
-              repo,
-              ref
-            })
-            return resp.data.parents[0].sha
-          result-encoding: string
-
-      - name: Pull Python code
-        uses: actions/checkout@v3
-        with:
-          ref: source
-
-      - name: Install dependencies
-        run: |
-          pip3 install requests datetime youtube-dl pytz requests-oauthlib
-
-      - name: Push to ${{matrix.platform}}
-        env:
-          GITHUB_BEFORE: ${{ steps.before-sha.outputs.result }}
-          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
-          TG_PROD_CHAT_ID: ${{ secrets.TG_PROD_CHAT_ID }}
-          TG_DBG_CHAT_ID: ${{ secrets.TG_DBG_CHAT_ID }}
-          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
-          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
-          TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
-          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
-        run: python3 push-${{matrix.platform}}.py
+      - name: Install FFmpeg
+        run: sudo apt-get install ffmpeg -y
