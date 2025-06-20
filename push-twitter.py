@@ -330,7 +330,7 @@ def main():
 
         if added_videos:
             print("Installing FFmpeg")
-            subprocess.run("sudo apt-get install ffmpeg -y", shell=True, capture_output=True, check=True)
+            subprocess.run("sudo apt-get update && sudo apt-get install ffmpeg -y", shell=True, capture_output=True, check=True)
             for video in added_videos:
                 send_preview(video)
 
