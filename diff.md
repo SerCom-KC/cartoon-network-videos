@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 29, 2025 at 08:30:16 UTC_
+_Last Update: August 30, 2025 at 16:30:16 UTC_
 ## Video added
-No videos were added.  
+### Summary
+2000349 Teen Titans Go!: 2 (2 new)  
+### 2536618
+**Teen Titans Go! S09E20 - DC Leader Swap**  
+🆕 TV-PG 🔒 10:38  
+⌛ September 20, 2025 at 12:14:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2000349&titleid=2536618&mediaid=7107107d49800047619c252afc991e0916c3d8ad) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/dc-leader-swap-episode.html  
+seriesid=`2000349` titleid=`2536618` mediaid=`7107107d49800047619c252afc991e0916c3d8ad`  
+_Robin and The Joker swap roles and lead each other's teams._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2536618_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536618_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536618_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536618_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536618_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536618_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536618_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536618_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536618_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536618_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536618_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536618_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536618_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536618_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536618_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536618_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536618_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536618_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536618_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536618_010_640x360.jpg" height="144px" /></a>
+### 2536619
+**Teen Titans Go! S09E21 - Shhh**  
+🆕 TV-PG 🔒 10:17  
+⌛ September 20, 2025 at 12:29:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2000349&titleid=2536619&mediaid=fc43b20a7f89d36ff1f591be345b11e1c15f1f93) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/shhh-episode.html  
+seriesid=`2000349` titleid=`2536619` mediaid=`fc43b20a7f89d36ff1f591be345b11e1c15f1f93`  
+_The Titans discover a sleeping gorilla in their kitchen and must silently return it to the zoo._  
+<a href="https://s3.amazonaws.com/cartoonorchestrator/2536619_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536619_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536619_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536619_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536619_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536619_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536619_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536619_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536619_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536619_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536619_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536619_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536619_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536619_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536619_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536619_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536619_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536619_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536619_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536619_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
