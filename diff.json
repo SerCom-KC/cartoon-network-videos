@@ -1,9 +1,8 @@
 {
-    "updated": 1758991454,
-    "added": [],
-    "removed": [
+    "updated": 1758991514,
+    "added": [
         {
-            "airingid": "RADS1008312500055812",
+            "airingid": "RADS1009222500059145",
             "seasonnumber": "2",
             "seasonitemnumber": "24",
             "seriesid": "2239398",
@@ -23,27 +22,28 @@
             "tvratingcode": "TV-Y7",
             "seriestitleid": "2239398",
             "seriesname": "We Baby Bears",
-            "originalpremieredate": "2025-09-06T16:45:00.000Z",
-            "pubdate": "2025-09-06T16:45:00.000Z",
-            "expdate": "2025-09-27T16:44:00.000Z",
+            "originalpremieredate": "2025-09-27T16:45:00.000Z",
+            "pubdate": "2025-09-27T16:45:00.000Z",
+            "expdate": "2026-01-01T04:59:00.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2374975_008_640x360.jpg",
             "authtype": "auth",
             "webflags": "",
             "tags": "",
             "titleid": "2374975",
             "titletype": "Episode",
-            "bannertext": "",
+            "bannertext": "LATEST EPISODE",
             "originalseriesid": "2239398",
             "originalseriesname": "We Baby Bears",
             "hasparent": false,
-            "originalpremieredateasmilliseconds": "1757177100000",
-            "pubdateasmilliseconds": "1757177100000",
-            "expdateasmilliseconds": "1758991440000",
+            "originalpremieredateasmilliseconds": "1758991500000",
+            "pubdateasmilliseconds": "1758991500000",
+            "expdateasmilliseconds": "1767243540000",
             "mediaid": "013554c01e80b230ae2c4c0631269735a71712e3",
             "isunlockedfullepisode": false,
             "ismultipropertycollection": false,
             "clipsonly": false,
             "includeshortform": true
         }
-    ]
+    ],
+    "removed": []
 }
