@@ -1333,7 +1333,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1001132500015748",
+        "airingid": "RADS1001132500015764",
         "seasonnumber": "1",
         "seasonitemnumber": "10",
         "seriesid": "2267111",
@@ -1376,7 +1376,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1001132500015764",
+        "airingid": "RADS1001132500015748",
         "seasonnumber": "1",
         "seasonitemnumber": "10",
         "seriesid": "2267111",
@@ -2709,6 +2709,49 @@
         "includeshortform": true
     },
     {
+        "airingid": "RADS1010162500063078",
+        "seasonnumber": "2",
+        "seasonitemnumber": "37",
+        "seriesid": "2267111",
+        "id": "a122713055c61d4dffeb0841b44463935e8eb7da",
+        "collectionid": "",
+        "seofriendlyurl": "/video/batwheels/bibi-and-the-bad-seed-episode.html",
+        "seasonepisodenumber": "37",
+        "title": "Bibi and the Bad Seed",
+        "episodenumber": "37",
+        "type": "fullepisode",
+        "active": true,
+        "description": "When Poison Ivy uses a rare pollen-spewing flower to put all of Gotham to sleep, it's up to Bibi to save her friends and save the day.",
+        "duration": 681,
+        "freewheelid": "cn-2397919",
+        "isclip": false,
+        "typesort": "1",
+        "tvratingcode": "TV-Y",
+        "seriestitleid": "2267111",
+        "seriesname": "Batwheels",
+        "originalpremieredate": "2025-10-23T14:12:00.000Z",
+        "pubdate": "2025-10-23T14:12:00.000Z",
+        "expdate": "2026-02-05T04:59:59.000Z",
+        "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2397919_005_640x360.jpg",
+        "authtype": "auth",
+        "webflags": "",
+        "tags": "cartoonito",
+        "titleid": "2397919",
+        "titletype": "Episode",
+        "bannertext": "LATEST EPISODE",
+        "originalseriesid": "2267111",
+        "originalseriesname": "Batwheels",
+        "hasparent": false,
+        "originalpremieredateasmilliseconds": "1761228720000",
+        "pubdateasmilliseconds": "1761228720000",
+        "expdateasmilliseconds": "1770267599000",
+        "mediaid": "a122713055c61d4dffeb0841b44463935e8eb7da",
+        "isunlockedfullepisode": false,
+        "ismultipropertycollection": false,
+        "clipsonly": false,
+        "includeshortform": true
+    },
+    {
         "airingid": "RADS1012262400011466",
         "seasonnumber": "1",
         "seasonitemnumber": "21",
@@ -3268,7 +3311,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1001132500015761",
+        "airingid": "RADS1001132500015768",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2267111",
@@ -3311,7 +3354,7 @@
         "includeshortform": true
     },
     {
-        "airingid": "RADS1001132500015768",
+        "airingid": "RADS1001132500015761",
         "seasonnumber": "",
         "seasonitemnumber": "",
         "seriesid": "2267111",
