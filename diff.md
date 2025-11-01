@@ -3,17 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: November 1, 2025 at 16:30:15 UTC_
+_Last Update: November 1, 2025 at 18:00:16 UTC_
 ## Video added
-### Summary
-2000349 Teen Titans Go!: 1 (1 new)  
-### 2536628
-**Teen Titans Go! S09E30 - Helmet of Doom**  
-🆕 TV-PG 🔒 10:09  
-⌛ November 22, 2025 at 12:14:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2000349&titleid=2536628&mediaid=238e9140cedf0a34a2e9e10b474945f1ad963795) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/helmet-of-doom-episode.html  
-seriesid=`2000349` titleid=`2536628` mediaid=`238e9140cedf0a34a2e9e10b474945f1ad963795`  
-_The Titans get stuck in the swamp and learn the truth about the Hall of Doom._  
-<a href="https://s3.amazonaws.com/cartoonorchestrator/2536628_001_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536628_001_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536628_002_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536628_002_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536628_003_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536628_003_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536628_004_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536628_004_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536628_005_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536628_005_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536628_006_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536628_006_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536628_007_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536628_007_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536628_008_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536628_008_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536628_009_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536628_009_640x360.jpg" height="144px" /></a><a href="https://s3.amazonaws.com/cartoonorchestrator/2536628_010_1280x720.jpg"><img src="https://s3.amazonaws.com/cartoonorchestrator/2536628_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
