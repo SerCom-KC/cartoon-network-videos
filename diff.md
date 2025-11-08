@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: November 7, 2025 at 15:30:16 UTC_
+_Last Update: November 8, 2025 at 04:00:17 UTC_
 ## Video added
-### Summary
-2503122 Barney's World: 2 (2 new)  
-### 2503214
-**Barney's World S01E?? - Just Like Liam**  
-🆕 TV-Y 🔒 11:10  
-⌛ February 18, 2026 at 23:59:59 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2503214&mediaid=c1102900285c98a8c9d757039acd3e8d7fee699c) or on the web: https://www.cartoonnetwork.com/video/barney's-world/just-like-liam-episode.html  
-seriesid=`2503122` titleid=`2503214` mediaid=`c1102900285c98a8c9d757039acd3e8d7fee699c`  
-_When David insists on copying everything Liam does, Barney takes the kids a trip to the Castleverse. They help Billy use his unique traits as a knight, leading David to the realization that it's important to be your unique self._  
-<a href="https://i.cartoonnetwork.com/orchestrator/2503214_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503214_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503214_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503214_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503214_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503214_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503214_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503214_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503214_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503214_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503214_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503214_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503214_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503214_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503214_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503214_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503214_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503214_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503214_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503214_010_640x360.jpg" height="144px" /></a>
-### 2503212
-**Barney's World S01E?? - Nonna on the Move**  
-🆕 TV-Y 🔒 11:10  
-⌛ February 11, 2026 at 23:59:59 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2503212&mediaid=6cfef8114d60997fa15d096693a33df8e095ce80) or on the web: https://www.cartoonnetwork.com/video/barney's-world/nonna-on-the-move-episode.html  
-seriesid=`2503122` titleid=`2503212` mediaid=`6cfef8114d60997fa15d096693a33df8e095ce80`  
-_When a day of fun with Nonna prompts Vivie to realize Nonna's declining mobility, Nonna and Barney help Vivie discover how she can care for Nonna by making simple adjustments that allow them to keep having fun in a slightly different way._  
-<a href="https://i.cartoonnetwork.com/orchestrator/2503212_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503212_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503212_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503212_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503212_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503212_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503212_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503212_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503212_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503212_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503212_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503212_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503212_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503212_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503212_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503212_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503212_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503212_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2503212_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2503212_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
