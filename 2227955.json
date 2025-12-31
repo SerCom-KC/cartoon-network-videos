@@ -2,7 +2,7 @@
   "airingid": "RADS1012272400012059",
   "seasonnumber": "1",
   "seasonitemnumber": "2",
-  "seriesid": "1000000000093702",
+  "seriesid": "2227953",
   "id": "60ef4e9acf0febfdae4a29057e1af3d3cf61a469",
   "collectionid": "",
   "seofriendlyurl": "/video/mecha-builders/pull-togetherlift-up-and-lift-off-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2227953",
+  "seriesname": "Mecha Builders",
   "originalpremieredate": "2024-12-31T05:01:00.000Z",
   "pubdate": "2024-12-31T05:01:00.000Z",
   "expdate": "2025-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1767157200000",
   "mediaid": "60ef4e9acf0febfdae4a29057e1af3d3cf61a469",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

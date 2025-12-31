@@ -2,7 +2,7 @@
   "airingid": "RADS1012272400012042",
   "seasonnumber": "1",
   "seasonitemnumber": "19",
-  "seriesid": "1000000000093702",
+  "seriesid": "2227953",
   "id": "c8f1463922f025addd2dd25bea5e2fcf3a8d58ff",
   "collectionid": "",
   "seofriendlyurl": "/video/mecha-builders/macbarms-day-offplayhouse-problems-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2227953",
+  "seriesname": "Mecha Builders",
   "originalpremieredate": "2024-12-31T05:01:00.000Z",
   "pubdate": "2024-12-31T05:01:00.000Z",
   "expdate": "2025-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1767157200000",
   "mediaid": "c8f1463922f025addd2dd25bea5e2fcf3a8d58ff",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

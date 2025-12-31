@@ -2,7 +2,7 @@
   "airingid": "RADS1012272400012037",
   "seasonnumber": "1",
   "seasonitemnumber": "6",
-  "seriesid": "1000000000093702",
+  "seriesid": "2227953",
   "id": "2a52277247c4b5043048da79704f24ca1a8297cb",
   "collectionid": "",
   "seofriendlyurl": "/video/mecha-builders/roll-chickens-rollramp-up-up-and-away-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2227953",
+  "seriesname": "Mecha Builders",
   "originalpremieredate": "2024-12-31T05:01:00.000Z",
   "pubdate": "2024-12-31T05:01:00.000Z",
   "expdate": "2025-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1767157200000",
   "mediaid": "2a52277247c4b5043048da79704f24ca1a8297cb",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

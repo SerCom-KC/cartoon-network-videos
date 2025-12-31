@@ -2,7 +2,7 @@
   "airingid": "RADS1012272400012036",
   "seasonnumber": "1",
   "seasonitemnumber": "8",
-  "seriesid": "1000000000093702",
+  "seriesid": "2227953",
   "id": "5f39e2addcdd868cc2b51d66daf1f79692c51233",
   "collectionid": "",
   "seofriendlyurl": "/video/mecha-builders/the-treasure-of-treetop-woodszee-makes-an-amazing-maze-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2227953",
+  "seriesname": "Mecha Builders",
   "originalpremieredate": "2024-12-31T05:01:00.000Z",
   "pubdate": "2024-12-31T05:01:00.000Z",
   "expdate": "2025-12-31T05:00:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1767157200000",
   "mediaid": "5f39e2addcdd868cc2b51d66daf1f79692c51233",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
