@@ -2,7 +2,7 @@
   "airingid": "RADS1012262400010088",
   "seasonnumber": "2",
   "seasonitemnumber": "8",
-  "seriesid": "10000000000",
+  "seriesid": "2133648",
   "id": "20a5ac3d212788a91ffc50752cfc9ce164b4d539",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/falafels-glory-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2133648",
+  "seriesname": "Apple & Onion",
   "originalpremieredate": "2024-12-31T05:01:00.000Z",
   "pubdate": "2024-12-31T05:01:00.000Z",
   "expdate": "2026-01-01T04:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2222828",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2133648",
   "originalseriesname": "Apple & Onion",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1767243540000",
   "mediaid": "20a5ac3d212788a91ffc50752cfc9ce164b4d539",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

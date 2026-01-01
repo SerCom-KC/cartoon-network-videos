@@ -2,7 +2,7 @@
   "airingid": "RADS1001202500016716",
   "seasonnumber": "1",
   "seasonitemnumber": "13",
-  "seriesid": "1000000000093702",
+  "seriesid": "2503122",
   "id": "3940600661c534fc181fcd0ef837507eef8db31e",
   "collectionid": "",
   "seofriendlyurl": "/video/barney's-world/missing-mel-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2503122",
+  "seriesname": "Barney's World",
   "originalpremieredate": "2025-01-24T16:16:00.000Z",
   "pubdate": "2025-01-24T16:16:00.000Z",
   "expdate": "2026-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1767243540000",
   "mediaid": "3940600661c534fc181fcd0ef837507eef8db31e",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

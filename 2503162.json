@@ -2,7 +2,7 @@
   "airingid": "RADS1001272500017846",
   "seasonnumber": "1",
   "seasonitemnumber": "17",
-  "seriesid": "1000000000093702",
+  "seriesid": "2503122",
   "id": "c93e0a530726a422ddb66b66fa4f2f49ed4d2b66",
   "collectionid": "",
   "seofriendlyurl": "/video/barney's-world/the-big-spill-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2503122",
+  "seriesname": "Barney's World",
   "originalpremieredate": "2025-02-07T16:16:00.000Z",
   "pubdate": "2025-02-07T16:16:00.000Z",
   "expdate": "2026-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1767243540000",
   "mediaid": "c93e0a530726a422ddb66b66fa4f2f49ed4d2b66",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

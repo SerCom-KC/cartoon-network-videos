@@ -2,7 +2,7 @@
   "airingid": "RADS1012262400010097",
   "seasonnumber": "2",
   "seasonitemnumber": "13",
-  "seriesid": "10000000000",
+  "seriesid": "2133648",
   "id": "80e25dcf933c809f7e321a5a1c77b6ec5dd6cde2",
   "collectionid": "",
   "seofriendlyurl": "/video/apple-and-onion/drone-shoes-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2133648",
+  "seriesname": "Apple & Onion",
   "originalpremieredate": "2024-12-31T05:01:00.000Z",
   "pubdate": "2024-12-31T05:01:00.000Z",
   "expdate": "2026-01-01T04:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2229269",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2133648",
   "originalseriesname": "Apple & Onion",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1767243540000",
   "mediaid": "80e25dcf933c809f7e321a5a1c77b6ec5dd6cde2",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

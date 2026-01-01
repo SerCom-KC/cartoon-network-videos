@@ -2,7 +2,7 @@
   "airingid": "RADS1001202500016764",
   "seasonnumber": "1",
   "seasonitemnumber": "16",
-  "seriesid": "1000000000093702",
+  "seriesid": "2503122",
   "id": "491cfbd6cb483436df0e547dbf53fd7dba71dd7f",
   "collectionid": "",
   "seofriendlyurl": "/video/barney's-world/worth-the-wait-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2503122",
+  "seriesname": "Barney's World",
   "originalpremieredate": "2025-01-31T16:32:00.000Z",
   "pubdate": "2025-01-31T16:32:00.000Z",
   "expdate": "2026-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1767243540000",
   "mediaid": "491cfbd6cb483436df0e547dbf53fd7dba71dd7f",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

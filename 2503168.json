@@ -2,7 +2,7 @@
   "airingid": "RADS1003312500027832",
   "seasonnumber": "1",
   "seasonitemnumber": "23",
-  "seriesid": "1000000000093702",
+  "seriesid": "2503122",
   "id": "aea2cc064a9a515e984accfc6df02f4cf3a0c863",
   "collectionid": "",
   "seofriendlyurl": "/video/barney's-world/bigger-wheels-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2503122",
+  "seriesname": "Barney's World",
   "originalpremieredate": "2025-04-11T04:00:00.000Z",
   "pubdate": "2025-04-11T04:00:00.000Z",
   "expdate": "2026-01-01T04:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1767243540000",
   "mediaid": "aea2cc064a9a515e984accfc6df02f4cf3a0c863",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
