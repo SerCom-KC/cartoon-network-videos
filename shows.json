@@ -4,10 +4,6 @@
         "title": "Unlocked"
     },
     {
-        "show_id": "100000000001182633",
-        "title": "Ben 10 Classic"
-    },
-    {
         "show_id": "1000000000093702",
         "title": "Cartoonito"
     },
@@ -20,8 +16,20 @@
         "title": "Steven Universe"
     },
     {
+        "show_id": "2012957",
+        "title": "Clarence"
+    },
+    {
         "show_id": "2056641",
         "title": "We Bare Bears"
+    },
+    {
+        "show_id": "2085313",
+        "title": "Ben 10"
+    },
+    {
+        "show_id": "2131007",
+        "title": "Summer Camp Island"
     },
     {
         "show_id": "2132940",
@@ -32,12 +40,16 @@
         "title": "Apple & Onion"
     },
     {
+        "show_id": "2141109",
+        "title": "Care Bears: Unlock the Magic"
+    },
+    {
         "show_id": "2141710",
         "title": "Total Dramarama"
     },
     {
-        "show_id": "2239398",
-        "title": "We Baby Bears"
+        "show_id": "2227953",
+        "title": "Mecha Builders"
     },
     {
         "show_id": "2266853",
@@ -54,6 +66,10 @@
     {
         "show_id": "2267298",
         "title": "Tiny Toons Looniversity"
+    },
+    {
+        "show_id": "2274096",
+        "title": "Thomas and Friends: All Engines Go"
     },
     {
         "show_id": "2305437",
