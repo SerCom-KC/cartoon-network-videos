@@ -190,10 +190,10 @@ def parse_video(video):
     expires = datetime.fromtimestamp(int(video["expdateasmilliseconds"])/1000, timezone.utc).replace(tzinfo=pytz.timezone("UTC")).astimezone(tz=pytz.timezone("US/Eastern"))
     ep_result += expires.strftime("⌛ %B ")
     ep_result += expires.strftime("%d, %Y at %H:%M:%S %Z\n").lstrip("0")
-    app_url = f'https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid={video["seriesid"]}&titleid={video["titleid"]}&mediaid={video["mediaid"]}'
-    ep_result += "APP: %s\n" % (app_url)
-    if video["seofriendlyurl"] != "":
-        ep_result += "WEB: https://www.cartoonnetwork.com%s\n" % (video["seofriendlyurl"])
+    #app_url = f'https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid={video["seriesid"]}&titleid={video["titleid"]}&mediaid={video["mediaid"]}'
+    #ep_result += "APP: %s\n" % (app_url)
+    #if video["seofriendlyurl"] != "":
+    #    ep_result += "WEB: https://www.cartoonnetwork.com%s\n" % (video["seofriendlyurl"])
     ep_result += "seriesid=%s titleid=%s mediaid=%s\n" % (video["originalseriesid"] if video["originalseriesid"] != "0" else video["seriesid"], video["titleid"], video["mediaid"])
 
     # Make sure there's always a valid thumbnail URL
