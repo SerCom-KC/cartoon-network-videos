@@ -3,17 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: January 19, 2026 at 08:00:12 UTC_
+_Last Update: January 19, 2026 at 09:00:13 UTC_
 ## Video added
-### Summary
-2420187 Totally Spies Woohp World: 1  
-### 2420189
-**Totally Spies Woohp World S07E02 - It Takes a Slob**  
-TV-Y7 🔓 21:59  
-⌛ January 23, 2026 at 23:59:00 EST  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2420187&titleid=2420189&mediaid=70b0d8b7c70b5487887db7c162017dfc598a1c57) or on the web: https://www.cartoonnetwork.com/video/totally-spies-woohp-world/it-takes-a-slob-episode.html  
-seriesid=`2420187` titleid=`2420189` mediaid=`70b0d8b7c70b5487887db7c162017dfc598a1c57`  
-_When the streets of Singapore explode with trash, seems like The Slob is back in town. But with The Slob in jail, the Spies have a copycat on their hands. As the Spies race to clean up the crime, Alex stresses about impressing her new, very tidy coach._  
-<a href="https://i.cartoonnetwork.com/orchestrator/2420189_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2420189_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2420189_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2420189_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2420189_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2420189_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2420189_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2420189_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2420189_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2420189_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2420189_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2420189_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2420189_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2420189_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2420189_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2420189_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2420189_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2420189_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2420189_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2420189_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
