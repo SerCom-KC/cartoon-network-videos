@@ -2,7 +2,7 @@
   "airingid": "RADS1002132600086851",
   "seasonnumber": "1",
   "seasonitemnumber": "13",
-  "seriesid": "1000000000093702",
+  "seriesid": "2227953",
   "id": "db93e3cac9ac88c1fb865c47b2474274738fb3f8",
   "collectionid": "",
   "seofriendlyurl": "/video/mecha-builders/moo-ving-dayfollow-that-breeze-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2227953",
+  "seriesname": "Mecha Builders",
   "originalpremieredate": "2026-02-19T05:00:00.000Z",
   "pubdate": "2026-02-19T05:00:00.000Z",
   "expdate": "2026-02-26T04:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1772081999000",
   "mediaid": "db93e3cac9ac88c1fb865c47b2474274738fb3f8",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
