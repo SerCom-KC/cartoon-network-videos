@@ -1,12 +1,11 @@
 {
-    "updated": 1777136351,
-    "added": [],
-    "removed": [
+    "updated": 1777136413,
+    "added": [
         {
-            "airingid": "RADS1003162600092060",
+            "airingid": "RADS1004202600098180",
             "seasonnumber": "7",
             "seasonitemnumber": "22",
-            "seriesid": "10000000000",
+            "seriesid": "2420187",
             "id": "3b3aa12d221e3ff9cea6ea4a4987b6a0bd0e699b",
             "collectionid": "",
             "seofriendlyurl": "/video/totally-spies-woohp-world/a-dog-gone-day-episode.html",
@@ -21,29 +20,30 @@
             "isclip": false,
             "typesort": "1",
             "tvratingcode": "TV-Y7-FV",
-            "seriestitleid": "10000000000",
-            "seriesname": "Unlocked",
-            "originalpremieredate": "2026-03-21T17:00:00.000Z",
-            "pubdate": "2026-03-21T17:00:00.000Z",
-            "expdate": "2026-04-25T16:59:00.000Z",
+            "seriestitleid": "2420187",
+            "seriesname": "Totally Spies Woohp World",
+            "originalpremieredate": "2026-04-25T17:00:00.000Z",
+            "pubdate": "2026-04-25T17:00:00.000Z",
+            "expdate": "2026-06-14T03:59:59.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2420208_009_640x360.jpg",
-            "authtype": "unauth",
+            "authtype": "auth",
             "webflags": "",
-            "tags": "unauth",
+            "tags": "",
             "titleid": "2420208",
             "titletype": "Episode",
-            "bannertext": "",
+            "bannertext": "LATEST EPISODE",
             "originalseriesid": "2420187",
             "originalseriesname": "Totally Spies Woohp World",
             "hasparent": false,
-            "originalpremieredateasmilliseconds": "1774112400000",
-            "pubdateasmilliseconds": "1774112400000",
-            "expdateasmilliseconds": "1777136340000",
+            "originalpremieredateasmilliseconds": "1777136400000",
+            "pubdateasmilliseconds": "1777136400000",
+            "expdateasmilliseconds": "1781409599000",
             "mediaid": "3b3aa12d221e3ff9cea6ea4a4987b6a0bd0e699b",
-            "isunlockedfullepisode": true,
-            "ismultipropertycollection": true,
+            "isunlockedfullepisode": false,
+            "ismultipropertycollection": false,
             "clipsonly": false,
-            "includeshortform": false
+            "includeshortform": true
         }
-    ]
+    ],
+    "removed": []
 }
