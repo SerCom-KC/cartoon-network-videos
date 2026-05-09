@@ -1,9 +1,8 @@
 {
-    "updated": 1778344151,
-    "added": [],
-    "removed": [
+    "updated": 1778344214,
+    "added": [
         {
-            "airingid": "RADS1004132600096947",
+            "airingid": "RADS1005012600000356",
             "seasonnumber": "2",
             "seasonitemnumber": "5",
             "seriesid": "2431140",
@@ -23,27 +22,28 @@
             "tvratingcode": "TV-PG",
             "seriestitleid": "2431140",
             "seriesname": "Iyanu",
-            "originalpremieredate": "2026-04-18T16:30:00.000Z",
-            "pubdate": "2026-04-18T16:30:00.000Z",
-            "expdate": "2026-05-09T16:29:00.000Z",
+            "originalpremieredate": "2026-05-09T16:30:00.000Z",
+            "pubdate": "2026-05-09T16:30:00.000Z",
+            "expdate": "2026-06-13T16:59:00.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2431207_007_640x360.jpg",
-            "authtype": "auth",
+            "authtype": "unauth",
             "webflags": "",
-            "tags": "",
+            "tags": "unauth",
             "titleid": "2431207",
             "titletype": "Episode",
-            "bannertext": "",
+            "bannertext": "LATEST EPISODE",
             "originalseriesid": "2431140",
             "originalseriesname": "Iyanu",
             "hasparent": false,
-            "originalpremieredateasmilliseconds": "1776529800000",
-            "pubdateasmilliseconds": "1776529800000",
-            "expdateasmilliseconds": "1778344140000",
+            "originalpremieredateasmilliseconds": "1778344200000",
+            "pubdateasmilliseconds": "1778344200000",
+            "expdateasmilliseconds": "1781369940000",
             "mediaid": "a25773189aa3d8b9cc9317cdde69240ddd297b32",
-            "isunlockedfullepisode": false,
+            "isunlockedfullepisode": true,
             "ismultipropertycollection": false,
             "clipsonly": false,
             "includeshortform": true
         }
-    ]
+    ],
+    "removed": []
 }
