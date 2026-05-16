@@ -1,12 +1,11 @@
 {
-    "updated": 1778950752,
-    "added": [],
-    "removed": [
+    "updated": 1778950813,
+    "added": [
         {
-            "airingid": "RADS1004062600095510",
+            "airingid": "RADS1005112600002446",
             "seasonnumber": "7",
             "seasonitemnumber": "25",
-            "seriesid": "10000000000",
+            "seriesid": "2420187",
             "id": "824a03a47e5d73e9cf40c63f004aeb079e7fad74",
             "collectionid": "",
             "seofriendlyurl": "/video/totally-spies-woohp-world/locked-in-space-episode.html",
@@ -21,29 +20,30 @@
             "isclip": false,
             "typesort": "1",
             "tvratingcode": "TV-Y7-FV",
-            "seriestitleid": "10000000000",
-            "seriesname": "Unlocked",
-            "originalpremieredate": "2026-04-11T17:00:00.000Z",
-            "pubdate": "2026-04-11T17:00:00.000Z",
-            "expdate": "2026-05-16T16:59:00.000Z",
+            "seriestitleid": "2420187",
+            "seriesname": "Totally Spies Woohp World",
+            "originalpremieredate": "2026-05-16T17:00:00.000Z",
+            "pubdate": "2026-05-16T17:00:00.000Z",
+            "expdate": "2026-07-05T03:59:00.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2420212_008_640x360.jpg",
-            "authtype": "unauth",
+            "authtype": "auth",
             "webflags": "",
-            "tags": "unauth",
+            "tags": "",
             "titleid": "2420212",
             "titletype": "Episode",
-            "bannertext": "",
+            "bannertext": "LATEST EPISODE",
             "originalseriesid": "2420187",
             "originalseriesname": "Totally Spies Woohp World",
             "hasparent": false,
-            "originalpremieredateasmilliseconds": "1775926800000",
-            "pubdateasmilliseconds": "1775926800000",
-            "expdateasmilliseconds": "1778950740000",
+            "originalpremieredateasmilliseconds": "1778950800000",
+            "pubdateasmilliseconds": "1778950800000",
+            "expdateasmilliseconds": "1783223940000",
             "mediaid": "824a03a47e5d73e9cf40c63f004aeb079e7fad74",
-            "isunlockedfullepisode": true,
-            "ismultipropertycollection": true,
+            "isunlockedfullepisode": false,
+            "ismultipropertycollection": false,
             "clipsonly": false,
-            "includeshortform": false
+            "includeshortform": true
         }
-    ]
+    ],
+    "removed": []
 }
