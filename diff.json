@@ -1,9 +1,8 @@
 {
-    "updated": 1780430352,
-    "added": [],
-    "removed": [
+    "updated": 1780430414,
+    "added": [
         {
-            "airingid": "RADS1005072600001686",
+            "airingid": "RADS1005272600004792",
             "seasonnumber": "1",
             "seasonitemnumber": "2",
             "seriesid": "2574076",
@@ -23,27 +22,28 @@
             "tvratingcode": "TV-PG",
             "seriestitleid": "2574076",
             "seriesname": "Regular Show: The Lost Tapes",
-            "originalpremieredate": "2026-05-12T20:00:00.000Z",
-            "pubdate": "2026-05-12T20:00:00.000Z",
-            "expdate": "2026-06-02T19:59:00.000Z",
+            "originalpremieredate": "2026-06-02T20:00:00.000Z",
+            "pubdate": "2026-06-02T20:00:00.000Z",
+            "expdate": "2026-06-10T19:59:00.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2574079_005_640x360.jpg",
-            "authtype": "auth",
+            "authtype": "unauth",
             "webflags": "",
-            "tags": "",
+            "tags": "unauth",
             "titleid": "2574079",
             "titletype": "Episode",
-            "bannertext": "",
+            "bannertext": "LATEST EPISODE",
             "originalseriesid": "2574076",
             "originalseriesname": "Regular Show: The Lost Tapes",
             "hasparent": false,
-            "originalpremieredateasmilliseconds": "1778616000000",
-            "pubdateasmilliseconds": "1778616000000",
-            "expdateasmilliseconds": "1780430340000",
+            "originalpremieredateasmilliseconds": "1780430400000",
+            "pubdateasmilliseconds": "1780430400000",
+            "expdateasmilliseconds": "1781121540000",
             "mediaid": "f7a72fa4ebed0e8853886222668b7ce2f1ef9b48",
-            "isunlockedfullepisode": false,
+            "isunlockedfullepisode": true,
             "ismultipropertycollection": false,
             "clipsonly": false,
             "includeshortform": true
         }
-    ]
+    ],
+    "removed": []
 }
