@@ -2,7 +2,7 @@
   "airingid": "RADS1005272600004768",
   "seasonnumber": "2",
   "seasonitemnumber": "1",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "6d2dfbe01ce83fad3f5ce6f1b3ed3ddea650ef39",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-kids-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2026-06-02T04:00:00.000Z",
   "pubdate": "2026-06-02T04:00:00.000Z",
   "expdate": "2026-06-09T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1780977540000",
   "mediaid": "6d2dfbe01ce83fad3f5ce6f1b3ed3ddea650ef39",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

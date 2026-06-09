@@ -2,7 +2,7 @@
   "airingid": "RADS1005272600004776",
   "seasonnumber": "1",
   "seasonitemnumber": "37",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "401134eea77b0f7fd989afaed54b5a6ad1905698",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-internet-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2026-06-02T04:00:00.000Z",
   "pubdate": "2026-06-02T04:00:00.000Z",
   "expdate": "2026-06-09T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1780977540000",
   "mediaid": "401134eea77b0f7fd989afaed54b5a6ad1905698",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
