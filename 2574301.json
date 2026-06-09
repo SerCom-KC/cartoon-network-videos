@@ -2,7 +2,7 @@
   "airingid": "RADS1005072600001624",
   "seasonnumber": "1",
   "seasonitemnumber": "1",
-  "seriesid": "10000000000",
+  "seriesid": "2574076",
   "id": "bfee59bcaeacf1294fc6dde0806afe5752a55cb1",
   "collectionid": "",
   "seofriendlyurl": "/video/regular_show_the_lost_tapes/fix-that-tapeskips-luau-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2574076",
+  "seriesname": "Regular Show: The Lost Tapes",
   "originalpremieredate": "2026-05-11T20:00:00.000Z",
   "pubdate": "2026-05-11T20:00:00.000Z",
   "expdate": "2026-06-09T19:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2574301",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2574076",
   "originalseriesname": "Regular Show: The Lost Tapes",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1781035140000",
   "mediaid": "bfee59bcaeacf1294fc6dde0806afe5752a55cb1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
