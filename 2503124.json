@@ -2,7 +2,7 @@
   "airingid": "RADS1006052600007121",
   "seasonnumber": "1",
   "seasonitemnumber": "01",
-  "seriesid": "2503122",
+  "seriesid": "1000000000093702",
   "id": "d572344a446096697bf67d09b1f3c4255e0ed7b9",
   "collectionid": "",
   "seofriendlyurl": "/video/barney's-world/the-floor-is-grape-jelly-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2503122",
-  "seriesname": "Barney's World",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2026-06-11T04:00:00.000Z",
   "pubdate": "2026-06-11T04:00:00.000Z",
   "expdate": "2027-05-06T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1809575940000",
   "mediaid": "d572344a446096697bf67d09b1f3c4255e0ed7b9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
