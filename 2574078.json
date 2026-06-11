@@ -2,7 +2,7 @@
   "airingid": "RADS1005272600004983",
   "seasonnumber": "1",
   "seasonitemnumber": "3",
-  "seriesid": "10000000000",
+  "seriesid": "2574076",
   "id": "60d6cee52a5ca15a70c12514d9561d26c9e44f59",
   "collectionid": "",
   "seofriendlyurl": "/video/regular_show_the_lost_tapes/nap-spot-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2574076",
+  "seriesname": "Regular Show: The Lost Tapes",
   "originalpremieredate": "2026-06-03T20:00:00.000Z",
   "pubdate": "2026-06-03T20:00:00.000Z",
   "expdate": "2026-06-11T19:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2574078",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2574076",
   "originalseriesname": "Regular Show: The Lost Tapes",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1781207940000",
   "mediaid": "60d6cee52a5ca15a70c12514d9561d26c9e44f59",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
