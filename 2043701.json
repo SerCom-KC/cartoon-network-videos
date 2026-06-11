@@ -2,7 +2,7 @@
   "airingid": "RADS1006052600007139",
   "seasonnumber": "6",
   "seasonitemnumber": "19",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "406f86ead2288b2d66f0d843136e6822c10deddd",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/gamers-never-say-die-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-06-11T04:00:00.000Z",
   "pubdate": "2026-06-11T04:00:00.000Z",
   "expdate": "2026-06-18T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1781755140000",
   "mediaid": "406f86ead2288b2d66f0d843136e6822c10deddd",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }

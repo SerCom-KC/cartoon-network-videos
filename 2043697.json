@@ -2,7 +2,7 @@
   "airingid": "RADS1006052600007143",
   "seasonnumber": "6",
   "seasonitemnumber": "17",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "cce3554b8e0259e88942683094d6dd821a95e656",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/happy-birthday-song-contest-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-06-11T04:00:00.000Z",
   "pubdate": "2026-06-11T04:00:00.000Z",
   "expdate": "2026-06-18T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1781755140000",
   "mediaid": "cce3554b8e0259e88942683094d6dd821a95e656",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
