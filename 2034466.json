@@ -2,7 +2,7 @@
   "airingid": "RADS1006072600007255",
   "seasonnumber": "2",
   "seasonitemnumber": "10",
-  "seriesid": "2011404",
+  "seriesid": "10000000000",
   "id": "cf637e15cdac210420268be85c069eb32d32985d",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/chille-tid-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2011404",
-  "seriesname": "Steven Universe",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-06-12T04:00:00.000Z",
   "pubdate": "2026-06-12T04:00:00.000Z",
   "expdate": "2026-06-19T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1781841540000",
   "mediaid": "cf637e15cdac210420268be85c069eb32d32985d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
