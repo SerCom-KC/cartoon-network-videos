@@ -2,7 +2,7 @@
   "airingid": "RADS1005292600005636",
   "seasonnumber": "9",
   "seasonitemnumber": "17",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "13e079e8bc229743132bc97901fe5814e0b84dad",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/lake-side-story-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2026-06-06T04:00:00.000Z",
   "pubdate": "2026-06-06T04:00:00.000Z",
   "expdate": "2026-06-13T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1781323140000",
   "mediaid": "13e079e8bc229743132bc97901fe5814e0b84dad",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
