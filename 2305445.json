@@ -2,7 +2,7 @@
   "airingid": "RADS1006082600007850",
   "seasonnumber": "1",
   "seasonitemnumber": "8",
-  "seriesid": "10000000000",
+  "seriesid": "2305437",
   "id": "3ee1fed37db924a3b6184a6623f6c364b83f8121",
   "collectionid": "",
   "seofriendlyurl": "/video/total-drama-island/the-wheel-of-vomit-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2305437",
+  "seriesname": "Total Drama Island",
   "originalpremieredate": "2026-06-14T04:00:00.000Z",
   "pubdate": "2026-06-14T04:00:00.000Z",
   "expdate": "2026-06-21T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1782014340000",
   "mediaid": "3ee1fed37db924a3b6184a6623f6c364b83f8121",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
