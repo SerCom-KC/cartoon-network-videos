@@ -2,7 +2,7 @@
   "airingid": "RADS1005042600000719",
   "seasonnumber": "1",
   "seasonitemnumber": "2",
-  "seriesid": "10000000000",
+  "seriesid": "2431140",
   "id": "6b31b8632de9d7ffd248120cd2bf1e0f5f98969b",
   "collectionid": "",
   "seofriendlyurl": "/video/iyanu/the-exiles-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2431140",
+  "seriesname": "Iyanu",
   "originalpremieredate": "2026-05-10T04:00:00.000Z",
   "pubdate": "2026-05-10T04:00:00.000Z",
   "expdate": "2026-06-14T03:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2431191",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2431140",
   "originalseriesname": "Iyanu",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1781409540000",
   "mediaid": "6b31b8632de9d7ffd248120cd2bf1e0f5f98969b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
