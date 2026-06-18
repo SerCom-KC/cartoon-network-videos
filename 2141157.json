@@ -2,7 +2,7 @@
   "airingid": "RADS1006132600008610",
   "seasonnumber": "1",
   "seasonitemnumber": "49",
-  "seriesid": "1000000000093702",
+  "seriesid": "2141109",
   "id": "40a9801534c71953b6b992d59750f653a7f623d9",
   "collectionid": "",
   "seofriendlyurl": "/video/care-bears-unlock-the-magic/say-what-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2141109",
+  "seriesname": "Care Bears: Unlock the Magic",
   "originalpremieredate": "2026-06-18T04:00:00.000Z",
   "pubdate": "2026-06-18T04:00:00.000Z",
   "expdate": "2026-10-22T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1792641540000",
   "mediaid": "40a9801534c71953b6b992d59750f653a7f623d9",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
