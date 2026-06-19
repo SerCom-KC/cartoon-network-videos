@@ -2,7 +2,7 @@
   "airingid": "RADS1006072600007257",
   "seasonnumber": "2",
   "seasonitemnumber": "9",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "b3a9ae5d58a4aed610a940d95422c2819969f5f5",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/we-need-to-talk-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2026-06-12T04:00:00.000Z",
   "pubdate": "2026-06-12T04:00:00.000Z",
   "expdate": "2026-06-19T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1781841540000",
   "mediaid": "b3a9ae5d58a4aed610a940d95422c2819969f5f5",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
