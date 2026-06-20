@@ -3,17 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: June 20, 2026 at 04:30:11 UTC_
+_Last Update: June 20, 2026 at 17:00:10 UTC_
 ## Video added
-### Summary
-2239398 We Baby Bears: 1 (1 new)  
-### 2374979
-**We Baby Bears S02E23 - The Wish Cannon**  
-🆕 TV-Y7 🔓 11:20  
-⌛ July 10, 2026 at 23:59:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2374979&mediaid=e5226c04d21941c59c55a9b9a0f3b9e2bc987149) or on the web: https://www.cartoonnetwork.com/video/we-baby-bears/the-wish-cannon-episode.html  
-seriesid=`2239398` titleid=`2374979` mediaid=`e5226c04d21941c59c55a9b9a0f3b9e2bc987149`  
-_Dippy and the bears help prepare for Rigel's baby shower._  
-<a href="https://i.cartoonnetwork.com/orchestrator/2374979_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2374979_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2374979_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2374979_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2374979_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2374979_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2374979_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2374979_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2374979_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2374979_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2374979_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2374979_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2374979_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2374979_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2374979_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2374979_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2374979_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2374979_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2374979_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2374979_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
