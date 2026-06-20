@@ -2,7 +2,7 @@
   "airingid": "RADS1006072600007376",
   "seasonnumber": "9",
   "seasonitemnumber": "14",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "b5f362d3adc7e7772a8739357d9e531ee7724f7a",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/favorite-animated-show-nominee-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2026-06-13T04:00:00.000Z",
   "pubdate": "2026-06-13T04:00:00.000Z",
   "expdate": "2026-06-20T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1781927940000",
   "mediaid": "b5f362d3adc7e7772a8739357d9e531ee7724f7a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

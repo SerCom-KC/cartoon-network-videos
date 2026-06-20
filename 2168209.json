@@ -2,7 +2,7 @@
   "airingid": "RADS1006072600007392",
   "seasonnumber": "5",
   "seasonitemnumber": "10",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "a61dd4c28bbb9e7988f2359badd1d2563d1a3273",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/quantum-fun-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2026-06-13T04:00:00.000Z",
   "pubdate": "2026-06-13T04:00:00.000Z",
   "expdate": "2026-06-20T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1781927940000",
   "mediaid": "a61dd4c28bbb9e7988f2359badd1d2563d1a3273",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
