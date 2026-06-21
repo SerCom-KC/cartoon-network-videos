@@ -2,7 +2,7 @@
   "airingid": "RADS1006162600008924",
   "seasonnumber": "1",
   "seasonitemnumber": "11",
-  "seriesid": "10000000000",
+  "seriesid": "2305437",
   "id": "afc498c0f1faf3e12521bea11832e15b77818718",
   "collectionid": "",
   "seofriendlyurl": "/video/total-drama-island/tortoise-rigamortis-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2305437",
+  "seriesname": "Total Drama Island",
   "originalpremieredate": "2026-06-21T04:00:00.000Z",
   "pubdate": "2026-06-21T04:00:00.000Z",
   "expdate": "2026-06-28T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1782619140000",
   "mediaid": "afc498c0f1faf3e12521bea11832e15b77818718",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
