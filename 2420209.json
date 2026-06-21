@@ -2,7 +2,7 @@
   "airingid": "RADS1005112600002632",
   "seasonnumber": "7",
   "seasonitemnumber": "18",
-  "seriesid": "10000000000",
+  "seriesid": "2420187",
   "id": "2b35f2c2154f7242e7b387f3ff6aae86aa037d61",
   "collectionid": "",
   "seofriendlyurl": "/video/totally-spies-woohp-world/somethings-fishy-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2420187",
+  "seriesname": "Totally Spies Woohp World",
   "originalpremieredate": "2026-05-17T04:00:00.000Z",
   "pubdate": "2026-05-17T04:00:00.000Z",
   "expdate": "2026-06-21T03:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2420209",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2420187",
   "originalseriesname": "Totally Spies Woohp World",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1782014340000",
   "mediaid": "2b35f2c2154f7242e7b387f3ff6aae86aa037d61",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
