@@ -2,7 +2,7 @@
   "airingid": "RADS1006162600008964",
   "seasonnumber": "5",
   "seasonitemnumber": "77",
-  "seriesid": "757073",
+  "seriesid": "10000000000",
   "id": "679cc5afe49542dc9475c12d7084335cfd7766a0",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/the-red-throne-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "757073",
-  "seriesname": "Adventure Time",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-06-22T04:00:00.000Z",
   "pubdate": "2026-06-22T04:00:00.000Z",
   "expdate": "2026-06-29T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1782705540000",
   "mediaid": "679cc5afe49542dc9475c12d7084335cfd7766a0",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
