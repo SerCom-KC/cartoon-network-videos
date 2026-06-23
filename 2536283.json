@@ -2,7 +2,7 @@
   "airingid": "RADS1005212600003852",
   "seasonnumber": "3",
   "seasonitemnumber": "2",
-  "seriesid": "2267111",
+  "seriesid": "1000000000093702",
   "id": "1da52cf6eec57be96e1bc0446ae3bc2fa9ba2e37",
   "collectionid": "",
   "seofriendlyurl": "/video/batwheels/betterwheels-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2267111",
-  "seriesname": "Batwheels",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2026-05-26T04:00:00.000Z",
   "pubdate": "2026-05-26T04:00:00.000Z",
   "expdate": "2026-06-23T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1782187140000",
   "mediaid": "1da52cf6eec57be96e1bc0446ae3bc2fa9ba2e37",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
