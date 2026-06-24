@@ -2,7 +2,7 @@
   "airingid": "RADS1006112600008262",
   "seasonnumber": "6",
   "seasonitemnumber": "2",
-  "seriesid": "10000000000",
+  "seriesid": "2132940",
   "id": "381dd50bd2c549c1577f6359d087bf17f9469eb1",
   "collectionid": "",
   "seofriendlyurl": "/video/craig-of-the-creek/sleep-talk-jp-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2132940",
+  "seriesname": "Craig of the Creek",
   "originalpremieredate": "2026-06-17T04:00:00.000Z",
   "pubdate": "2026-06-17T04:00:00.000Z",
   "expdate": "2026-06-24T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1782273540000",
   "mediaid": "381dd50bd2c549c1577f6359d087bf17f9469eb1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
