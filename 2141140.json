@@ -2,7 +2,7 @@
   "airingid": "RADS1002132600086843",
   "seasonnumber": "1",
   "seasonitemnumber": "31",
-  "seriesid": "2141109",
+  "seriesid": "1000000000093702",
   "id": "72d4b253c271abd388a5d692c4b356780c2e619b",
   "collectionid": "",
   "seofriendlyurl": "/video/care-bears-unlock-the-magic/power-outage-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2141109",
-  "seriesname": "Care Bears: Unlock the Magic",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2026-02-19T05:00:00.000Z",
   "pubdate": "2026-02-19T05:00:00.000Z",
   "expdate": "2026-06-25T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1782359940000",
   "mediaid": "72d4b253c271abd388a5d692c4b356780c2e619b",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
