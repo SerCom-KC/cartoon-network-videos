@@ -2,7 +2,7 @@
   "airingid": "RADS1006212600009484",
   "seasonnumber": "9",
   "seasonitemnumber": "9",
-  "seriesid": "2000349",
+  "seriesid": "10000000000",
   "id": "eef0f54a4328e1c0d82120b0f3b237afa773e6f1",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/passive-income-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2000349",
-  "seriesname": "Teen Titans Go!",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-06-27T04:00:00.000Z",
   "pubdate": "2026-06-27T04:00:00.000Z",
   "expdate": "2026-07-04T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1783137540000",
   "mediaid": "eef0f54a4328e1c0d82120b0f3b237afa773e6f1",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
