@@ -2,7 +2,7 @@
   "airingid": "RADS1006222600009679",
   "seasonnumber": "3",
   "seasonitemnumber": "45",
-  "seriesid": "2056641",
+  "seriesid": "10000000000",
   "id": "e2fee1e221a63439bb94c3d0c936247f77330b93",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/i-am-ice-bear-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2056641",
-  "seriesname": "We Bare Bears",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-06-28T04:00:00.000Z",
   "pubdate": "2026-06-28T04:00:00.000Z",
   "expdate": "2026-07-05T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1783223940000",
   "mediaid": "e2fee1e221a63439bb94c3d0c936247f77330b93",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
