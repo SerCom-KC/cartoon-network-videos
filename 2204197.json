@@ -2,7 +2,7 @@
   "airingid": "RADS1006242600009769",
   "seasonnumber": "4",
   "seasonitemnumber": "23",
-  "seriesid": "2085313",
+  "seriesid": "10000000000",
   "id": "edb5252bf6a7b396e1997413c3eaf69172f9a5e5",
   "collectionid": "",
   "seofriendlyurl": "/video/ben-10/medieval-upheaval-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "2085313",
-  "seriesname": "Ben 10",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-06-29T04:00:00.000Z",
   "pubdate": "2026-06-29T04:00:00.000Z",
   "expdate": "2027-07-19T03:59:59.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1815969599000",
   "mediaid": "edb5252bf6a7b396e1997413c3eaf69172f9a5e5",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
