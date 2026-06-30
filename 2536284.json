@@ -2,7 +2,7 @@
   "airingid": "RADS1005272600004790",
   "seasonnumber": "3",
   "seasonitemnumber": "3",
-  "seriesid": "2267111",
+  "seriesid": "1000000000093702",
   "id": "1e551ff512e1df4cfa78c4de6dcf8ac3087d7a24",
   "collectionid": "",
   "seofriendlyurl": "/video/batwheels/the-tumbler-begins-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2267111",
-  "seriesname": "Batwheels",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2026-06-02T04:00:00.000Z",
   "pubdate": "2026-06-02T04:00:00.000Z",
   "expdate": "2026-06-30T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1782791940000",
   "mediaid": "1e551ff512e1df4cfa78c4de6dcf8ac3087d7a24",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
