@@ -2,7 +2,7 @@
   "airingid": "RADS1006252600010104",
   "seasonnumber": "1",
   "seasonitemnumber": "4",
-  "seriesid": "2503122",
+  "seriesid": "1000000000093702",
   "id": "4ddf511a6cdcd0f6fee41d75dcc748d282ed8d0b",
   "collectionid": "",
   "seofriendlyurl": "/video/barney's-world/one-ripe-tomato-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2503122",
-  "seriesname": "Barney's World",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2026-07-02T04:00:00.000Z",
   "pubdate": "2026-07-02T04:00:00.000Z",
   "expdate": "2027-05-27T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1811390340000",
   "mediaid": "4ddf511a6cdcd0f6fee41d75dcc748d282ed8d0b",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
