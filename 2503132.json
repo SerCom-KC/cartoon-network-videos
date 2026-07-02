@@ -2,7 +2,7 @@
   "airingid": "RADS1001062600078640",
   "seasonnumber": "1",
   "seasonitemnumber": "9",
-  "seriesid": "1000000000093702",
+  "seriesid": "2503122",
   "id": "6871cbdf1c7054c79c29377334212f9875dc5d15",
   "collectionid": "",
   "seofriendlyurl": "/video/barney's-world/practice-makes-purple-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2503122",
+  "seriesname": "Barney's World",
   "originalpremieredate": "2026-01-11T05:00:00.000Z",
   "pubdate": "2026-01-11T05:00:00.000Z",
   "expdate": "2026-07-02T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1782964740000",
   "mediaid": "6871cbdf1c7054c79c29377334212f9875dc5d15",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
