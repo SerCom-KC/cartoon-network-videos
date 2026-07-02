@@ -2,7 +2,7 @@
   "airingid": "RADS1006212600009436",
   "seasonnumber": "6",
   "seasonitemnumber": "28",
-  "seriesid": "10000000000",
+  "seriesid": "810150",
   "id": "fae9dc541eccfbe96d618a48c6433078ed054d7a",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/dumped-at-the-altar-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "810150",
+  "seriesname": "Regular Show",
   "originalpremieredate": "2026-06-25T04:00:00.000Z",
   "pubdate": "2026-06-25T04:00:00.000Z",
   "expdate": "2026-07-02T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1782964740000",
   "mediaid": "fae9dc541eccfbe96d618a48c6433078ed054d7a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
