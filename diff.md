@@ -3,8 +3,25 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: July 1, 2026 at 04:30:10 UTC_
+_Last Update: July 2, 2026 at 04:00:09 UTC_
 ## Video added
-No videos were added.  
+### Summary
+2267111 Batwheels: 2 (2 new)  
+### 2364047
+**Batwheels S02E04 - Mission: Stuffed Animal**  
+🆕 TV-Y 🔒 11:16  
+⌛ December 2, 2026 at 23:59:00 EST  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2267111&titleid=2364047&mediaid=641edf06c49c96e839a11ed884351b807ce2be8e) or on the web: https://www.cartoonnetwork.com/video/batwheels/mission-stuffed-animal-episode.html  
+seriesid=`2267111` titleid=`2364047` mediaid=`641edf06c49c96e839a11ed884351b807ce2be8e`  
+_When Redbird takes one of Buff's stuffed animals without asking and it accidentally gets swiped by the Legion of Zoom, Red enlists Bam to help him make a daring rescue._  
+<a href="https://i.cartoonnetwork.com/orchestrator/2364047_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2364047_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2364047_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2364047_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2364047_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2364047_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2364047_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2364047_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2364047_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2364047_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2364047_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2364047_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2364047_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2364047_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2364047_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2364047_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2364047_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2364047_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2364047_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2364047_010_640x360.jpg" height="144px" /></a>
+### 2267137
+**Batwheels S01E19 - Harley Did It**  
+🆕 TV-Y 🔓 11:07  
+⌛ August 5, 2026 at 23:59:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2267111&titleid=2267137&mediaid=1197883c0a3e086f801d84388a2492b383d6fe24) or on the web: https://www.cartoonnetwork.com/video/batwheels/harley-did-it-episode.html  
+seriesid=`2267111` titleid=`2267137` mediaid=`1197883c0a3e086f801d84388a2492b383d6fe24`  
+_Everyone assumes that Harley Quinn is the culprit in a recent burglary. But as Batman and Bam pursue Harley, Bibi and Redbird begin to suspect that she may actually be innocent._  
+<a href="https://i.cartoonnetwork.com/orchestrator/2267137_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267137_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267137_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267137_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267137_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267137_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267137_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267137_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267137_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267137_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267137_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267137_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267137_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267137_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267137_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267137_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267137_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267137_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267137_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267137_010_640x360.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
