@@ -2,7 +2,7 @@
   "airingid": "RADS1006212600009488",
   "seasonnumber": "9",
   "seasonitemnumber": "7",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "d500e91d14df3f1b6467ee705662a9f5cfa5adaa",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/high-five-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2026-06-27T04:00:00.000Z",
   "pubdate": "2026-06-27T04:00:00.000Z",
   "expdate": "2026-07-04T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1783137540000",
   "mediaid": "d500e91d14df3f1b6467ee705662a9f5cfa5adaa",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
