@@ -2,7 +2,7 @@
   "airingid": "RADS1007012600011374",
   "seasonnumber": "7",
   "seasonitemnumber": "8",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "d5db103e90b0e4d4770ec24bf25c74b492561aaa",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/struck-by-lightning-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-07-09T04:00:00.000Z",
   "pubdate": "2026-07-09T04:00:00.000Z",
   "expdate": "2026-07-16T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1784174340000",
   "mediaid": "d5db103e90b0e4d4770ec24bf25c74b492561aaa",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
