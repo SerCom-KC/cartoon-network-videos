@@ -2,7 +2,7 @@
   "airingid": "RADS1007032600012258",
   "seasonnumber": "7",
   "seasonitemnumber": "17",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "63dcfd870a66fae5cda31ef3eff71b7942e0dbb6",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/win-that-prize-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-07-16T04:00:00.000Z",
   "pubdate": "2026-07-16T04:00:00.000Z",
   "expdate": "2026-07-23T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1784779140000",
   "mediaid": "63dcfd870a66fae5cda31ef3eff71b7942e0dbb6",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
