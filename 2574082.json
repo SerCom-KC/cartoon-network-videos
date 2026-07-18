@@ -2,7 +2,7 @@
   "airingid": "RADS1007032600012340",
   "seasonnumber": "1",
   "seasonitemnumber": "5",
-  "seriesid": "2574076",
+  "seriesid": "10000000000",
   "id": "474b5f7d52a6ce4a92d43970fbe80160f1d54107",
   "collectionid": "",
   "seofriendlyurl": "/video/regular_show_the_lost_tapes/boba-or-bo-bust-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2574076",
-  "seriesname": "Regular Show: The Lost Tapes",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-07-18T04:00:00.000Z",
   "pubdate": "2026-07-18T04:00:00.000Z",
   "expdate": "2026-08-22T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1787371140000",
   "mediaid": "474b5f7d52a6ce4a92d43970fbe80160f1d54107",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
