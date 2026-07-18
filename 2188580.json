@@ -2,7 +2,7 @@
   "airingid": "RADS1007012600011436",
   "seasonnumber": "5",
   "seasonitemnumber": "30",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "44187b3d8046ecec9ccfcd701cc4b9ff334eb5af",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/tv-knight-4-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2026-07-11T04:00:00.000Z",
   "pubdate": "2026-07-11T04:00:00.000Z",
   "expdate": "2026-07-18T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1784347140000",
   "mediaid": "44187b3d8046ecec9ccfcd701cc4b9ff334eb5af",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

@@ -2,7 +2,7 @@
   "airingid": "RADS1007012600011410",
   "seasonnumber": "9",
   "seasonitemnumber": "29",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "b9f1e79ab47a92fb4f1801dd28a2e0139b3a26d5",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/unmasking-the-teen-titans-story-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2026-07-11T04:00:00.000Z",
   "pubdate": "2026-07-11T04:00:00.000Z",
   "expdate": "2026-07-18T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1784347140000",
   "mediaid": "b9f1e79ab47a92fb4f1801dd28a2e0139b3a26d5",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
