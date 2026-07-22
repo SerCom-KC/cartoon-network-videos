@@ -2,7 +2,7 @@
   "airingid": "RADS1007012600011564",
   "seasonnumber": "1",
   "seasonitemnumber": "13",
-  "seriesid": "10000000000",
+  "seriesid": "2132940",
   "id": "b5539fa792f25e671eac5a71584f54bdab2f91d4",
   "collectionid": "",
   "seofriendlyurl": "/video/craig-of-the-creek/lost-in-the-sewer-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2132940",
+  "seriesname": "Craig of the Creek",
   "originalpremieredate": "2026-07-15T04:00:00.000Z",
   "pubdate": "2026-07-15T04:00:00.000Z",
   "expdate": "2026-07-22T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1784692740000",
   "mediaid": "b5539fa792f25e671eac5a71584f54bdab2f91d4",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
