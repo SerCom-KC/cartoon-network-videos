@@ -2,7 +2,7 @@
   "airingid": "RADS1007172600013993",
   "seasonnumber": "7",
   "seasonitemnumber": "21",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "866e7e35ca3b82faa0d06ad819b7ee578bcebbbe",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/gymblonski-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-07-23T04:00:00.000Z",
   "pubdate": "2026-07-23T04:00:00.000Z",
   "expdate": "2026-07-30T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1785383940000",
   "mediaid": "866e7e35ca3b82faa0d06ad819b7ee578bcebbbe",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }

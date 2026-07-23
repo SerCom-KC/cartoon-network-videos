@@ -2,7 +2,7 @@
   "airingid": "RADS1007172600013991",
   "seasonnumber": "7",
   "seasonitemnumber": "22",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "70e1765d18df7b3efc03cc9345c8a90bf9ef9546",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/guys-night-2-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-07-23T04:00:00.000Z",
   "pubdate": "2026-07-23T04:00:00.000Z",
   "expdate": "2026-07-30T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1785383940000",
   "mediaid": "70e1765d18df7b3efc03cc9345c8a90bf9ef9546",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
