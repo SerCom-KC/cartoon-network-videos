@@ -2,7 +2,7 @@
   "airingid": "RADS1001262600082556",
   "seasonnumber": "1",
   "seasonitemnumber": "22",
-  "seriesid": "2267111",
+  "seriesid": "1000000000093702",
   "id": "354fa02228c36c6c26e68f7eaeb96eea04357708",
   "collectionid": "",
   "seofriendlyurl": "/video/batwheels/batty-race-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2267111",
-  "seriesname": "Batwheels",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2026-01-29T05:00:00.000Z",
   "pubdate": "2026-01-29T05:00:00.000Z",
   "expdate": "2026-07-23T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1784779140000",
   "mediaid": "354fa02228c36c6c26e68f7eaeb96eea04357708",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
