@@ -2,7 +2,7 @@
   "airingid": "RADS1007202600014365",
   "seasonnumber": "3",
   "seasonitemnumber": "5",
-  "seriesid": "2074760",
+  "seriesid": "10000000000",
   "id": "78f2d59bff253d61a458c601ce5ff969fda07595",
   "collectionid": "",
   "seofriendlyurl": "/video/grizzy_and_the_lemmings/the-legend-of-the-lemmings-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2074760",
-  "seriesname": "Grizzy and the Lemmings",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-07-25T17:00:00.000Z",
   "pubdate": "2026-07-25T17:00:00.000Z",
   "expdate": "2027-08-01T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1817092740000",
   "mediaid": "78f2d59bff253d61a458c601ce5ff969fda07595",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
