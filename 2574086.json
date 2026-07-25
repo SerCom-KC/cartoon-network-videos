@@ -2,7 +2,7 @@
   "airingid": "RADS1007202600014357",
   "seasonnumber": "1",
   "seasonitemnumber": "6",
-  "seriesid": "2574076",
+  "seriesid": "10000000000",
   "id": "4c46be72114c9390493836d98061c57da4208ee3",
   "collectionid": "",
   "seofriendlyurl": "/video/regular_show_the_lost_tapes/corpse-flower-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2574076",
-  "seriesname": "Regular Show: The Lost Tapes",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-07-25T04:00:00.000Z",
   "pubdate": "2026-07-25T04:00:00.000Z",
   "expdate": "2026-08-29T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1787975940000",
   "mediaid": "4c46be72114c9390493836d98061c57da4208ee3",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }

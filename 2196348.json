@@ -2,7 +2,7 @@
   "airingid": "RADS1007202600014339",
   "seasonnumber": "5",
   "seasonitemnumber": "40",
-  "seriesid": "2000349",
+  "seriesid": "10000000000",
   "id": "113e580fed36b79f1e5a6c0de996df1fd3d5ba3f",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/communicate-openly-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2000349",
-  "seriesname": "Teen Titans Go!",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-07-25T04:00:00.000Z",
   "pubdate": "2026-07-25T04:00:00.000Z",
   "expdate": "2026-08-01T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1785556740000",
   "mediaid": "113e580fed36b79f1e5a6c0de996df1fd3d5ba3f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
