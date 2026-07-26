@@ -2,7 +2,7 @@
   "airingid": "RADS1007142600012925",
   "seasonnumber": "4",
   "seasonitemnumber": "3",
-  "seriesid": "10000000000",
+  "seriesid": "2056641",
   "id": "c1836be25d6aacdb921b3412d39a46115314cd78",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/mom-app-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2056641",
+  "seriesname": "We Bare Bears",
   "originalpremieredate": "2026-07-19T04:00:00.000Z",
   "pubdate": "2026-07-19T04:00:00.000Z",
   "expdate": "2026-07-26T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1785038340000",
   "mediaid": "c1836be25d6aacdb921b3412d39a46115314cd78",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

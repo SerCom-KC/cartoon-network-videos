@@ -2,7 +2,7 @@
   "airingid": "RADS1007142600012921",
   "seasonnumber": "4",
   "seasonitemnumber": "5",
-  "seriesid": "10000000000",
+  "seriesid": "2056641",
   "id": "9925a2be1620225aca6ca210e89e2a2e4c151d83",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/more-everyones-tube-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2056641",
+  "seriesname": "We Bare Bears",
   "originalpremieredate": "2026-07-19T04:00:00.000Z",
   "pubdate": "2026-07-19T04:00:00.000Z",
   "expdate": "2026-07-26T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1785038340000",
   "mediaid": "9925a2be1620225aca6ca210e89e2a2e4c151d83",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
