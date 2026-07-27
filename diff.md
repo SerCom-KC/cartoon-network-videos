@@ -3,25 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: July 27, 2026 at 04:30:10 UTC_
+_Last Update: July 27, 2026 at 22:00:10 UTC_
 ## Video added
-### Summary
-2267156 Bugs Bunny Builders: 2 (2 new)  
-### 2376660
-**Bugs Bunny Builders S02E03 - Looney Moon**  
-🆕 TV-Y 🔓 11:11  
-⌛ August 30, 2026 at 23:59:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2376660&mediaid=f010c57037628121413a2f1238c0e61a143bc655) or on the web: https://www.cartoonnetwork.com/video/bugs-bunny-builders/looney-moon-episode.html  
-seriesid=`2267156` titleid=`2376660` mediaid=`f010c57037628121413a2f1238c0e61a143bc655`  
-_When The Looney Builders help Wile E. Coyote build a telescope to view the Looney Moon, Tweety must face his fear of the dark._  
-<a href="https://i.cartoonnetwork.com/orchestrator/2376660_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2376660_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2376660_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2376660_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2376660_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2376660_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2376660_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2376660_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2376660_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2376660_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2376660_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2376660_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2376660_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2376660_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2376660_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2376660_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2376660_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2376660_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2376660_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2376660_010_640x360.jpg" height="144px" /></a>
-### 2267181
-**Bugs Bunny Builders S01E28 - Mail Whale**  
-🆕 TV-Y 🔒 11:11  
-⌛ June 6, 2027 at 23:59:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2267181&mediaid=60d347ce49cf6360fff8bc49d7f889217bec1fe2) or on the web: https://www.cartoonnetwork.com/video/bugs-bunny-builders/mail-whale-episode.html  
-seriesid=`2267156` titleid=`2267181` mediaid=`60d347ce49cf6360fff8bc49d7f889217bec1fe2`  
-_The Looney Builders try to help Winston Whale by building him a mail truck, but Winston is used to working alone._  
-<a href="https://i.cartoonnetwork.com/orchestrator/2267181_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267181_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267181_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267181_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267181_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267181_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267181_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267181_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267181_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267181_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267181_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267181_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267181_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267181_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267181_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267181_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267181_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267181_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267181_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267181_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 No videos were removed.  
