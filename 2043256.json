@@ -2,7 +2,7 @@
   "airingid": "RADS1007212600014696",
   "seasonnumber": "6",
   "seasonitemnumber": "21",
-  "seriesid": "757073",
+  "seriesid": "10000000000",
   "id": "f05dd8a7c31ef11b82a9e9822f57dac836568c2f",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/dentist-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "757073",
-  "seriesname": "Adventure Time",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-07-27T04:00:00.000Z",
   "pubdate": "2026-07-27T04:00:00.000Z",
   "expdate": "2026-08-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1785729540000",
   "mediaid": "f05dd8a7c31ef11b82a9e9822f57dac836568c2f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
