@@ -2,7 +2,7 @@
   "airingid": "RADS1007152600013033",
   "seasonnumber": "6",
   "seasonitemnumber": "20",
-  "seriesid": "10000000000",
+  "seriesid": "757073",
   "id": "5c896a440968050ac6a3a9f3c2d091c14bba3559",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/jake-the-brick-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2026-07-20T04:00:00.000Z",
   "pubdate": "2026-07-20T04:00:00.000Z",
   "expdate": "2026-07-27T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1785124740000",
   "mediaid": "5c896a440968050ac6a3a9f3c2d091c14bba3559",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

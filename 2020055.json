@@ -2,7 +2,7 @@
   "airingid": "RADS1007152600013039",
   "seasonnumber": "6",
   "seasonitemnumber": "17",
-  "seriesid": "10000000000",
+  "seriesid": "757073",
   "id": "2122fc7e6d685539a88cb41a79d343502744bd3c",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/ghost-fly-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2026-07-20T04:00:00.000Z",
   "pubdate": "2026-07-20T04:00:00.000Z",
   "expdate": "2026-07-27T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1785124740000",
   "mediaid": "2122fc7e6d685539a88cb41a79d343502744bd3c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

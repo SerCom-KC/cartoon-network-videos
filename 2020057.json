@@ -2,7 +2,7 @@
   "airingid": "RADS1007152600013037",
   "seasonnumber": "6",
   "seasonitemnumber": "18",
-  "seriesid": "10000000000",
+  "seriesid": "757073",
   "id": "596ad6486382fa815e8c17a6423b9645243650e2",
   "collectionid": "",
   "seofriendlyurl": "/video/adventure-time/everythings-jake-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "757073",
+  "seriesname": "Adventure Time",
   "originalpremieredate": "2026-07-20T04:00:00.000Z",
   "pubdate": "2026-07-20T04:00:00.000Z",
   "expdate": "2026-07-27T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1785124740000",
   "mediaid": "596ad6486382fa815e8c17a6423b9645243650e2",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
