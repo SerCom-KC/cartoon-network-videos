@@ -2,7 +2,7 @@
   "airingid": "RADS1007212600014686",
   "seasonnumber": "1",
   "seasonitemnumber": "28",
-  "seriesid": "1000000000093702",
+  "seriesid": "2267156",
   "id": "60d347ce49cf6360fff8bc49d7f889217bec1fe2",
   "collectionid": "",
   "seofriendlyurl": "/video/bugs-bunny-builders/mail-whale-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2267156",
+  "seriesname": "Bugs Bunny Builders",
   "originalpremieredate": "2026-07-27T04:00:00.000Z",
   "pubdate": "2026-07-27T04:00:00.000Z",
   "expdate": "2027-06-07T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1812340740000",
   "mediaid": "60d347ce49cf6360fff8bc49d7f889217bec1fe2",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
