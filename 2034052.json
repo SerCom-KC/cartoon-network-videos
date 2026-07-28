@@ -2,7 +2,7 @@
   "airingid": "RADS1007222600014778",
   "seasonnumber": "3",
   "seasonitemnumber": "40",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "e8d987a775fe3bbec752f6671c40286c8395c834",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-egg-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2026-07-28T04:00:00.000Z",
   "pubdate": "2026-07-28T04:00:00.000Z",
   "expdate": "2026-08-04T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1785815940000",
   "mediaid": "e8d987a775fe3bbec752f6671c40286c8395c834",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

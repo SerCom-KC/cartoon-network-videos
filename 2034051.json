@@ -2,7 +2,7 @@
   "airingid": "RADS1007222600014784",
   "seasonnumber": "3",
   "seasonitemnumber": "57",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "2bfc10e8361dbe347fdfa6f28c09bf251f065e8c",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-downer-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2026-07-28T04:00:00.000Z",
   "pubdate": "2026-07-28T04:00:00.000Z",
   "expdate": "2026-08-04T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1785815940000",
   "mediaid": "2bfc10e8361dbe347fdfa6f28c09bf251f065e8c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
