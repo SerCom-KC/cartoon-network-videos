@@ -2,7 +2,7 @@
   "airingid": "RADS1007172600013999",
   "seasonnumber": "7",
   "seasonitemnumber": "18",
-  "seriesid": "10000000000",
+  "seriesid": "810150",
   "id": "a648d55d6a4e1edc0b43f0a6186f0050502880b8",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/snow-tubing-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "810150",
+  "seriesname": "Regular Show",
   "originalpremieredate": "2026-07-23T04:00:00.000Z",
   "pubdate": "2026-07-23T04:00:00.000Z",
   "expdate": "2026-07-30T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1785383940000",
   "mediaid": "a648d55d6a4e1edc0b43f0a6186f0050502880b8",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
