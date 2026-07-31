@@ -2,7 +2,7 @@
   "airingid": "RADS1007252600015203",
   "seasonnumber": "3",
   "seasonitemnumber": "22",
-  "seriesid": "2011404",
+  "seriesid": "10000000000",
   "id": "344ba886acd3273831e5db1817938df9e5048621",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/crack-the-whip-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2011404",
-  "seriesname": "Steven Universe",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-07-31T04:00:00.000Z",
   "pubdate": "2026-07-31T04:00:00.000Z",
   "expdate": "2026-08-07T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1786075140000",
   "mediaid": "344ba886acd3273831e5db1817938df9e5048621",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
