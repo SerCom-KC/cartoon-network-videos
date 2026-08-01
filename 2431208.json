@@ -2,7 +2,7 @@
   "airingid": "RADS1005112600002372",
   "seasonnumber": "2",
   "seasonitemnumber": "6",
-  "seriesid": "10000000000",
+  "seriesid": "2431140",
   "id": "3948dfe1c15e5b7f2fa271160870d70918a1235f",
   "collectionid": "",
   "seofriendlyurl": "/video/iyanu/the-acceptance-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2431140",
+  "seriesname": "Iyanu",
   "originalpremieredate": "2026-05-16T16:30:00.000Z",
   "pubdate": "2026-05-16T16:30:00.000Z",
   "expdate": "2026-08-01T17:29:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2431208",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2431140",
   "originalseriesname": "Iyanu",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1785605340000",
   "mediaid": "3948dfe1c15e5b7f2fa271160870d70918a1235f",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
