@@ -2,7 +2,7 @@
   "airingid": "RADS1007202600014319",
   "seasonnumber": "9",
   "seasonitemnumber": "24",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "d28e7a00f817023612643428da405c1f6b89a1cf",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/not-a-halloween-special-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2026-07-25T04:00:00.000Z",
   "pubdate": "2026-07-25T04:00:00.000Z",
   "expdate": "2026-08-01T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1785556740000",
   "mediaid": "d28e7a00f817023612643428da405c1f6b89a1cf",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
