@@ -2,7 +2,7 @@
   "airingid": "RADS1007282600015528",
   "seasonnumber": "1",
   "seasonitemnumber": "29",
-  "seriesid": "1000000000093702",
+  "seriesid": "2267156",
   "id": "11f8630f4eb2366f751b94015db74f45cf2d3625",
   "collectionid": "",
   "seofriendlyurl": "/video/bugs-bunny-builders/bright-light-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2267156",
+  "seriesname": "Bugs Bunny Builders",
   "originalpremieredate": "2026-08-03T04:00:00.000Z",
   "pubdate": "2026-08-03T04:00:00.000Z",
   "expdate": "2027-06-14T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1812945540000",
   "mediaid": "11f8630f4eb2366f751b94015db74f45cf2d3625",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
