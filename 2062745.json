@@ -2,7 +2,7 @@
   "airingid": "RADS1007292600015626",
   "seasonnumber": "4",
   "seasonitemnumber": "3",
-  "seriesid": "835928",
+  "seriesid": "10000000000",
   "id": "061e225f44fbac861083858f97ca0b55859f2517",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-crew-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "835928",
-  "seriesname": "Gumball",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-08-04T04:00:00.000Z",
   "pubdate": "2026-08-04T04:00:00.000Z",
   "expdate": "2026-08-11T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1786420740000",
   "mediaid": "061e225f44fbac861083858f97ca0b55859f2517",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
