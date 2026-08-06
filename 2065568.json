@@ -2,7 +2,7 @@
   "airingid": "RADS1007312600016055",
   "seasonnumber": "7",
   "seasonitemnumber": "32",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "150e37ff89900ba36df29b70c41e6dffd69c0bde",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/pam-i-am-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-08-06T04:00:00.000Z",
   "pubdate": "2026-08-06T04:00:00.000Z",
   "expdate": "2026-08-13T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1786593540000",
   "mediaid": "150e37ff89900ba36df29b70c41e6dffd69c0bde",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
