@@ -2,7 +2,7 @@
   "airingid": "RADS1008032600016726",
   "seasonnumber": "5",
   "seasonitemnumber": "52",
-  "seriesid": "2000349",
+  "seriesid": "10000000000",
   "id": "f5cda84f3eb59a8f540bdce666c018712072a6c2",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/tv-knight-5-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2000349",
-  "seriesname": "Teen Titans Go!",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-08-08T04:00:00.000Z",
   "pubdate": "2026-08-08T04:00:00.000Z",
   "expdate": "2026-08-15T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1786766340000",
   "mediaid": "f5cda84f3eb59a8f540bdce666c018712072a6c2",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
