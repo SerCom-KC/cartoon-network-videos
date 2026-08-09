@@ -2,7 +2,7 @@
   "airingid": "RADS1007272600015413",
   "seasonnumber": "2",
   "seasonitemnumber": "4",
-  "seriesid": "2305437",
+  "seriesid": "10000000000",
   "id": "e1ac3321f3a9fa38ddb5f6e3324c0113b218bee6",
   "collectionid": "",
   "seofriendlyurl": "/video/total-drama-island/choosin-for-a-bruisin-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2305437",
-  "seriesname": "Total Drama Island",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-08-02T04:00:00.000Z",
   "pubdate": "2026-08-02T04:00:00.000Z",
   "expdate": "2026-08-09T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1786247940000",
   "mediaid": "e1ac3321f3a9fa38ddb5f6e3324c0113b218bee6",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
