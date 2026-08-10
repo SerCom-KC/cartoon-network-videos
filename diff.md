@@ -3,34 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 10, 2026 at 04:30:09 UTC_
+_Last Update: August 10, 2026 at 17:30:11 UTC_
 ## Video added
-### Summary
-757073 Adventure Time: 2 (2 new)  
-### 2043653
-**Adventure Time S06E?? - Friends Forever**  
-🆕 TV-PG 🔓 11:42  
-⌛ August 16, 2026 at 23:59:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2043653&mediaid=d011a83e36c5f4873c320807ab9fe80453b27a58) or on the web: https://www.cartoonnetwork.com/video/adventure-time/friends-forever-episode.html  
-seriesid=`757073` titleid=`2043653` mediaid=`d011a83e36c5f4873c320807ab9fe80453b27a58`  
-_Ice King plots to form a perfect circle of confidants._  
-<a href="https://i.cartoonnetwork.com/orchestrator/2043653_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043653_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043653_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043653_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043653_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043653_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043653_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043653_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043653_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043653_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043653_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043653_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043653_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043653_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043653_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043653_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043653_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043653_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043653_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043653_010_640x360.jpg" height="144px" /></a>
-### 2043656
-**Adventure Time S06E?? - Graybles 1000+**  
-🆕 TV-PG 🔓 11:42  
-⌛ August 16, 2026 at 23:59:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2043656&mediaid=4ddb0955c93b2ae5f786d97006d2e3b07bf23194) or on the web: https://www.cartoonnetwork.com/video/adventure-time/graybles-1000-episode.html  
-seriesid=`757073` titleid=`2043656` mediaid=`4ddb0955c93b2ae5f786d97006d2e3b07bf23194`  
-_Marooned on an alien world, Cuber must rely on his bag of Graybles to survive._  
-<a href="https://i.cartoonnetwork.com/orchestrator/2043656_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043656_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043656_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043656_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043656_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043656_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043656_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043656_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043656_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043656_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043656_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043656_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043656_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043656_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043656_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043656_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043656_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043656_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043656_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043656_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-### Summary
-757073 Adventure Time: 1 (1 new)  
-### 2043651
-**Adventure Time S06E?? - The Diary**  
-🆕 TV-PG 🔓 11:42  
-⌛ August 9, 2026 at 23:59:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2043651&mediaid=7e18804c736786116a378e9a4ccf37cf4991b337) or on the web: https://www.cartoonnetwork.com/video/adventure-time/the-diary-episode.html  
-seriesid=`757073` titleid=`2043651` mediaid=`7e18804c736786116a378e9a4ccf37cf4991b337`  
-_Jake's son TV discovers a lost diary and sets out to solve a decades-old mystery._  
-<a href="https://i.cartoonnetwork.com/orchestrator/2043651_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043651_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043651_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043651_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043651_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043651_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043651_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043651_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043651_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043651_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043651_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043651_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043651_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043651_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043651_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043651_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043651_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043651_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043651_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043651_010_640x360.jpg" height="144px" /></a>
+No videos were removed.  
