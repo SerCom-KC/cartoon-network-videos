@@ -2,7 +2,7 @@
   "airingid": "RADS1007292600015624",
   "seasonnumber": "4",
   "seasonitemnumber": "4",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "a97f27801c1b135842d3dbbca6dc2e9796a133ec",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-others-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2026-08-04T04:00:00.000Z",
   "pubdate": "2026-08-04T04:00:00.000Z",
   "expdate": "2026-08-11T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1786420740000",
   "mediaid": "a97f27801c1b135842d3dbbca6dc2e9796a133ec",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

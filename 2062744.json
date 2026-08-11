@@ -2,7 +2,7 @@
   "airingid": "RADS1007292600015628",
   "seasonnumber": "4",
   "seasonitemnumber": "2",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "edacfeb9314e9f651441795bca231d11727d9455",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-nemesis-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2026-08-04T04:00:00.000Z",
   "pubdate": "2026-08-04T04:00:00.000Z",
   "expdate": "2026-08-11T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1786420740000",
   "mediaid": "edacfeb9314e9f651441795bca231d11727d9455",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
