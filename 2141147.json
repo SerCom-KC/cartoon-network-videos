@@ -2,7 +2,7 @@
   "airingid": "RADS1004032600094964",
   "seasonnumber": "1",
   "seasonitemnumber": "38",
-  "seriesid": "2141109",
+  "seriesid": "1000000000093702",
   "id": "2b2f4069763c94d59e47cd55ee7f43bbeb720ea4",
   "collectionid": "",
   "seofriendlyurl": "/video/care-bears-unlock-the-magic/finders-keepers-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2141109",
-  "seriesname": "Care Bears: Unlock the Magic",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2026-04-09T04:00:00.000Z",
   "pubdate": "2026-04-09T04:00:00.000Z",
   "expdate": "2026-08-13T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1786593540000",
   "mediaid": "2b2f4069763c94d59e47cd55ee7f43bbeb720ea4",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
