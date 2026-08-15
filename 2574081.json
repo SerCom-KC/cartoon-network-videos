@@ -2,7 +2,7 @@
   "airingid": "RADS1007012600011450",
   "seasonnumber": "1",
   "seasonitemnumber": "4",
-  "seriesid": "10000000000",
+  "seriesid": "2574076",
   "id": "4669c76b332851469c661fdb87c915a0d1291050",
   "collectionid": "",
   "seofriendlyurl": "/video/regular_show_the_lost_tapes/coffee-shop-wars-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2574076",
+  "seriesname": "Regular Show: The Lost Tapes",
   "originalpremieredate": "2026-07-11T04:00:00.000Z",
   "pubdate": "2026-07-11T04:00:00.000Z",
   "expdate": "2026-08-15T03:59:00.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2574081",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2574076",
   "originalseriesname": "Regular Show: The Lost Tapes",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1786766340000",
   "mediaid": "4669c76b332851469c661fdb87c915a0d1291050",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

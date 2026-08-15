@@ -2,7 +2,7 @@
   "airingid": "RADS1008032600016720",
   "seasonnumber": "9",
   "seasonitemnumber": "33",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "23c4540c595cde8671a60e27bb7b3326ea60a28b",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/rulers-rule-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2026-08-08T04:00:00.000Z",
   "pubdate": "2026-08-08T04:00:00.000Z",
   "expdate": "2026-08-15T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1786766340000",
   "mediaid": "23c4540c595cde8671a60e27bb7b3326ea60a28b",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

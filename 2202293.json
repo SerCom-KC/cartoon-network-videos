@@ -2,7 +2,7 @@
   "airingid": "RADS1008032600016724",
   "seasonnumber": "5",
   "seasonitemnumber": "53",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "cf8a523cba6237da093702b8682fc442368e6745",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/witches-brew-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2026-08-08T04:00:00.000Z",
   "pubdate": "2026-08-08T04:00:00.000Z",
   "expdate": "2026-08-15T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1786766340000",
   "mediaid": "cf8a523cba6237da093702b8682fc442368e6745",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
