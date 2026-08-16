@@ -2,7 +2,7 @@
   "airingid": "RADS1008102600018235",
   "seasonnumber": "2",
   "seasonitemnumber": "13",
-  "seriesid": "10000000000",
+  "seriesid": "2305437",
   "id": "3c038e19232f2989f6cedff7bc576b7894d4be77",
   "collectionid": "",
   "seofriendlyurl": "/video/total-drama-island/soar-losers-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2305437",
+  "seriesname": "Total Drama Island",
   "originalpremieredate": "2026-08-16T04:00:00.000Z",
   "pubdate": "2026-08-16T04:00:00.000Z",
   "expdate": "2026-08-23T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1787457540000",
   "mediaid": "3c038e19232f2989f6cedff7bc576b7894d4be77",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

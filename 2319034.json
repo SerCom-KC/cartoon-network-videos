@@ -2,7 +2,7 @@
   "airingid": "RADS1008102600018241",
   "seasonnumber": "2",
   "seasonitemnumber": "10",
-  "seriesid": "10000000000",
+  "seriesid": "2305437",
   "id": "08e94368ef6e67c7ac99c4ef79022266a1d0eac5",
   "collectionid": "",
   "seofriendlyurl": "/video/total-drama-island/circling-the-drain-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2305437",
+  "seriesname": "Total Drama Island",
   "originalpremieredate": "2026-08-16T04:00:00.000Z",
   "pubdate": "2026-08-16T04:00:00.000Z",
   "expdate": "2026-08-23T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1787457540000",
   "mediaid": "08e94368ef6e67c7ac99c4ef79022266a1d0eac5",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }

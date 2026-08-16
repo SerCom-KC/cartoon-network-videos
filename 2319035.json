@@ -2,7 +2,7 @@
   "airingid": "RADS1008102600018239",
   "seasonnumber": "2",
   "seasonitemnumber": "11",
-  "seriesid": "10000000000",
+  "seriesid": "2305437",
   "id": "5e385d6fbeb2cebc2f74cee293077e07d027d0d2",
   "collectionid": "",
   "seofriendlyurl": "/video/total-drama-island/working-k9-to-5-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2305437",
+  "seriesname": "Total Drama Island",
   "originalpremieredate": "2026-08-16T04:00:00.000Z",
   "pubdate": "2026-08-16T04:00:00.000Z",
   "expdate": "2026-08-23T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1787457540000",
   "mediaid": "5e385d6fbeb2cebc2f74cee293077e07d027d0d2",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
