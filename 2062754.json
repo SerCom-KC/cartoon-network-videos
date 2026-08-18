@@ -2,7 +2,7 @@
   "airingid": "RADS1008062600017523",
   "seasonnumber": "4",
   "seasonitemnumber": "11",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "e57e09246471ac1e3ff6607e1ea898cb87bb085a",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-routine-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2026-08-11T04:00:00.000Z",
   "pubdate": "2026-08-11T04:00:00.000Z",
   "expdate": "2026-08-18T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1787025540000",
   "mediaid": "e57e09246471ac1e3ff6607e1ea898cb87bb085a",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }

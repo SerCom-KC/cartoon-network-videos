@@ -2,7 +2,7 @@
   "airingid": "RADS1007162600013176",
   "seasonnumber": "3",
   "seasonitemnumber": "1",
-  "seriesid": "2267111",
+  "seriesid": "1000000000093702",
   "id": "6627ba235c72e7df2fcf4821e8bc373533413f69",
   "collectionid": "",
   "seofriendlyurl": "/video/batwheels/gotham-we-have-a-problem-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "2267111",
-  "seriesname": "Batwheels",
+  "seriestitleid": "1000000000093702",
+  "seriesname": "Cartoonito",
   "originalpremieredate": "2026-07-21T04:00:00.000Z",
   "pubdate": "2026-07-21T04:00:00.000Z",
   "expdate": "2026-08-18T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1787025540000",
   "mediaid": "6627ba235c72e7df2fcf4821e8bc373533413f69",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
