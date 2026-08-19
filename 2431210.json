@@ -2,7 +2,7 @@
   "airingid": "RADS1005292600005673",
   "seasonnumber": "2",
   "seasonitemnumber": "8",
-  "seriesid": "10000000000",
+  "seriesid": "2431140",
   "id": "cfbfae0abd3936174735b30f09317380cb35cea2",
   "collectionid": "",
   "seofriendlyurl": "/video/iyanu/the-battle-of-elu-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2431140",
+  "seriesname": "Iyanu",
   "originalpremieredate": "2026-06-06T16:30:00.000Z",
   "pubdate": "2026-06-06T16:30:00.000Z",
   "expdate": "2026-08-19T03:59:59.000Z",
@@ -28,7 +28,7 @@
   "tags": "unauth",
   "titleid": "2431210",
   "titletype": "Episode",
-  "bannertext": "",
+  "bannertext": "UNLOCKED",
   "originalseriesid": "2431140",
   "originalseriesname": "Iyanu",
   "hasparent": false,
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1787111999000",
   "mediaid": "cfbfae0abd3936174735b30f09317380cb35cea2",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
