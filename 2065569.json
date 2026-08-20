@@ -2,7 +2,7 @@
   "airingid": "RADS1008092600017956",
   "seasonnumber": "7",
   "seasonitemnumber": "33",
-  "seriesid": "10000000000",
+  "seriesid": "810150",
   "id": "aa407ab77f16a7ca2ef3a9b7cac2216bc5c8a54d",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/lame-lockdown-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "810150",
+  "seriesname": "Regular Show",
   "originalpremieredate": "2026-08-13T04:00:00.000Z",
   "pubdate": "2026-08-13T04:00:00.000Z",
   "expdate": "2026-08-20T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1787198340000",
   "mediaid": "aa407ab77f16a7ca2ef3a9b7cac2216bc5c8a54d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
