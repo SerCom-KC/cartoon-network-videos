@@ -3,17 +3,17 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: August 22, 2026 at 04:30:10 UTC_
+_Last Update: August 22, 2026 at 16:30:11 UTC_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-104153 Teen Titans Go! Season 6: 1 (1 new)  
-### 2188581
-**Teen Titans Go! Season 6 S06E01 - Teen Titans Vroom**  
-🆕 TV-PG 🔓 21:04  
-⌛ August 21, 2026 at 23:59:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=10000000000&titleid=2188581&mediaid=3232fc64f5d2e10b2d61e9e0f9cb65d4a069d113)  
-seriesid=`104153` titleid=`2188581` mediaid=`3232fc64f5d2e10b2d61e9e0f9cb65d4a069d113`  
-_Teen Titans Vroom: Part 1: In this episode of "Turbo Titans Go Force" the Titans gain the ability to transform into cars. /Teen Titans Vroom: Part 2: In the exciting conclusion of "Turbo Titans Go Force" the Titans must learn to work together to stop Dr. Military._  
-<a href="https://i.cartoonnetwork.com/orchestrator/2188581_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2188581_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2188581_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2188581_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2188581_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2188581_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2188581_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2188581_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2188581_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2188581_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2188581_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2188581_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2188581_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2188581_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2188581_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2188581_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2188581_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2188581_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2188581_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2188581_010_640x360.jpg" height="144px" /></a>
+2000349 Teen Titans Go!: 1 (1 new)  
+### 2536642
+**Teen Titans Go! S09E46 - Teen Titans Go to the Repair Shop Pt. 2**  
+🆕 TV-PG 🔒 10:49  
+⌛ September 12, 2026 at 12:14:00 EDT  
+[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=2000349&titleid=2536642&mediaid=703ec27dc7bee83cfc52ee9874b63c3152ba0caf) or on the web: https://www.cartoonnetwork.com/video/teen-titans-go/teen-titans-go-to-the-repair-shop-pt-2-episode.html  
+seriesid=`2000349` titleid=`2536642` mediaid=`703ec27dc7bee83cfc52ee9874b63c3152ba0caf`  
+_The Repair Shop crew are pushed to the limit while fixing the Titans' gear so they can stop Mad Mod's world domination plan._  
+<a href="https://i.cartoonnetwork.com/orchestrator/2536642_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2536642_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2536642_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2536642_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2536642_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2536642_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2536642_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2536642_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2536642_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2536642_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2536642_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2536642_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2536642_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2536642_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2536642_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2536642_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2536642_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2536642_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2536642_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2536642_010_640x360.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
