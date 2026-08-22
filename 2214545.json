@@ -2,7 +2,7 @@
   "airingid": "RADS1008172600019126",
   "seasonnumber": "6",
   "seasonitemnumber": "8",
-  "seriesid": "2000349",
+  "seriesid": "10000000000",
   "id": "28640f7006869b95fe9957056b64fbc4c5bf8a4c",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/bat-scouts-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2000349",
-  "seriesname": "Teen Titans Go!",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-08-22T04:00:00.000Z",
   "pubdate": "2026-08-22T04:00:00.000Z",
   "expdate": "2026-08-29T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1787975940000",
   "mediaid": "28640f7006869b95fe9957056b64fbc4c5bf8a4c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
