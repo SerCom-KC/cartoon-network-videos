@@ -2,7 +2,7 @@
   "airingid": "RADS1008182600019268",
   "seasonnumber": "4",
   "seasonitemnumber": "27",
-  "seriesid": "2056641",
+  "seriesid": "10000000000",
   "id": "1c69d4bd6999e8855444988de13325238c12fc0d",
   "collectionid": "",
   "seofriendlyurl": "/video/we-bare-bears/sandcastle-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7",
-  "seriestitleid": "2056641",
-  "seriesname": "We Bare Bears",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-08-23T04:00:00.000Z",
   "pubdate": "2026-08-23T04:00:00.000Z",
   "expdate": "2026-08-30T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1788062340000",
   "mediaid": "1c69d4bd6999e8855444988de13325238c12fc0d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
