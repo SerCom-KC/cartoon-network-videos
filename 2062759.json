@@ -2,7 +2,7 @@
   "airingid": "RADS1008122600018571",
   "seasonnumber": "4",
   "seasonitemnumber": "15",
-  "seriesid": "10000000000",
+  "seriesid": "835928",
   "id": "a7dbf01761d79ea22ad2de5149ec040570753f7d",
   "collectionid": "",
   "seofriendlyurl": "/video/gumball/the-uploads-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "835928",
+  "seriesname": "Gumball",
   "originalpremieredate": "2026-08-18T04:00:00.000Z",
   "pubdate": "2026-08-18T04:00:00.000Z",
   "expdate": "2026-08-25T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1787630340000",
   "mediaid": "a7dbf01761d79ea22ad2de5149ec040570753f7d",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
