@@ -2,7 +2,7 @@
   "airingid": "RADS1008202600019912",
   "seasonnumber": "8",
   "seasonitemnumber": "9",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "543341e6512a1891d37f2c94f79f862c20166106",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/fries-night-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-08-27T04:00:00.000Z",
   "pubdate": "2026-08-27T04:00:00.000Z",
   "expdate": "2026-09-03T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1788407940000",
   "mediaid": "543341e6512a1891d37f2c94f79f862c20166106",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
