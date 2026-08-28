@@ -2,7 +2,7 @@
   "airingid": "RADS1008172600019032",
   "seasonnumber": "4",
   "seasonitemnumber": "11",
-  "seriesid": "10000000000",
+  "seriesid": "2011404",
   "id": "52ccb756f6411559c0c16e152417b3040a98637c",
   "collectionid": "",
   "seofriendlyurl": "/video/steven-universe/adventures-in-light-distortion-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2011404",
+  "seriesname": "Steven Universe",
   "originalpremieredate": "2026-08-21T04:00:00.000Z",
   "pubdate": "2026-08-21T04:00:00.000Z",
   "expdate": "2026-08-28T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1787889540000",
   "mediaid": "52ccb756f6411559c0c16e152417b3040a98637c",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
