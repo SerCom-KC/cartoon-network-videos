@@ -2,7 +2,7 @@
   "airingid": "RADS1008242600020275",
   "seasonnumber": "9",
   "seasonitemnumber": "44",
-  "seriesid": "2000349",
+  "seriesid": "10000000000",
   "id": "05354e3d2143a9ce4aa22c523a83e592fc770236",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/a-time-to-sew-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "2000349",
-  "seriesname": "Teen Titans Go!",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-08-29T16:15:00.000Z",
   "pubdate": "2026-08-29T16:15:00.000Z",
   "expdate": "2026-10-03T16:14:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1791044040000",
   "mediaid": "05354e3d2143a9ce4aa22c523a83e592fc770236",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
   "includeshortform": false
 }
