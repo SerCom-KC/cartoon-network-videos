@@ -2,7 +2,7 @@
   "airingid": "RADS1008172600019110",
   "seasonnumber": "9",
   "seasonitemnumber": "35",
-  "seriesid": "10000000000",
+  "seriesid": "2000349",
   "id": "7d55e475ea36eae0c117805a0db0ba9aad9587dc",
   "collectionid": "",
   "seofriendlyurl": "/video/teen-titans-go/elseworlds-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2000349",
+  "seriesname": "Teen Titans Go!",
   "originalpremieredate": "2026-08-22T04:00:00.000Z",
   "pubdate": "2026-08-22T04:00:00.000Z",
   "expdate": "2026-08-29T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1787975940000",
   "mediaid": "7d55e475ea36eae0c117805a0db0ba9aad9587dc",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
   "includeshortform": false
 }
