@@ -2,7 +2,7 @@
   "airingid": "RADS1008242600020428",
   "seasonnumber": "7",
   "seasonitemnumber": "7",
-  "seriesid": "10000000000",
+  "seriesid": "2420187",
   "id": "32aedcb05c4ea34abc18b7787b6e4f2375964571",
   "collectionid": "",
   "seofriendlyurl": "/video/totally-spies-woohp-world/totally-trolling-much-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y7-FV",
-  "seriestitleid": "10000000000",
-  "seriesname": "Unlocked",
+  "seriestitleid": "2420187",
+  "seriesname": "Totally Spies Woohp World",
   "originalpremieredate": "2026-08-30T04:00:00.000Z",
   "pubdate": "2026-08-30T04:00:00.000Z",
   "expdate": "2026-10-04T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1791086340000",
   "mediaid": "32aedcb05c4ea34abc18b7787b6e4f2375964571",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
