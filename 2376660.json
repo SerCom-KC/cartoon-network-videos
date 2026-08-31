@@ -2,7 +2,7 @@
   "airingid": "RADS1008252600020474",
   "seasonnumber": "2",
   "seasonitemnumber": "3",
-  "seriesid": "1000000000093702",
+  "seriesid": "2267156",
   "id": "f010c57037628121413a2f1238c0e61a143bc655",
   "collectionid": "",
   "seofriendlyurl": "/video/bugs-bunny-builders/looney-moon-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-Y",
-  "seriestitleid": "1000000000093702",
-  "seriesname": "Cartoonito",
+  "seriestitleid": "2267156",
+  "seriesname": "Bugs Bunny Builders",
   "originalpremieredate": "2026-08-31T04:00:00.000Z",
   "pubdate": "2026-08-31T04:00:00.000Z",
   "expdate": "2027-09-13T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1820807940000",
   "mediaid": "f010c57037628121413a2f1238c0e61a143bc655",
   "isunlockedfullepisode": false,
-  "ismultipropertycollection": true,
+  "ismultipropertycollection": false,
   "clipsonly": false,
-  "includeshortform": false
+  "includeshortform": true
 }
