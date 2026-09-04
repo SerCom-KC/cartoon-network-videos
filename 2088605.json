@@ -2,7 +2,7 @@
   "airingid": "RADS1008282600020783",
   "seasonnumber": "8",
   "seasonitemnumber": "15",
-  "seriesid": "810150",
+  "seriesid": "10000000000",
   "id": "407eb6a362670309c484e69fd7762dc0a78697a9",
   "collectionid": "",
   "seofriendlyurl": "/video/regular-show/space-escape-episode.html",
@@ -17,8 +17,8 @@
   "isclip": false,
   "typesort": "1",
   "tvratingcode": "TV-PG",
-  "seriestitleid": "810150",
-  "seriesname": "Regular Show",
+  "seriestitleid": "10000000000",
+  "seriesname": "Unlocked",
   "originalpremieredate": "2026-09-03T04:00:00.000Z",
   "pubdate": "2026-09-03T04:00:00.000Z",
   "expdate": "2026-09-10T03:59:00.000Z",
@@ -37,7 +37,7 @@
   "expdateasmilliseconds": "1789012740000",
   "mediaid": "407eb6a362670309c484e69fd7762dc0a78697a9",
   "isunlockedfullepisode": true,
-  "ismultipropertycollection": false,
+  "ismultipropertycollection": true,
   "clipsonly": false,
-  "includeshortform": true
+  "includeshortform": false
 }
