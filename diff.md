@@ -3,34 +3,8 @@
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 **Note: The "NEW" sign might not be accurate and is for reference only; information on this page only indicates in-app visibility of the video. A "removed" video here might still be available on the website until its expiry date.**  
 
-_Last Update: September 7, 2026 at 04:30:10 UTC_
+_Last Update: September 8, 2026 at 01:00:10 UTC_
 ## Video added
-### Summary
-2267156 Bugs Bunny Builders: 1 (1 new)  
-### 2267182
-**Bugs Bunny Builders S01E34 - Honey Bunny**  
-🆕 TV-Y 🔒 11:11  
-⌛ July 18, 2027 at 23:59:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=1000000000093702&titleid=2267182&mediaid=0491a019e1732321fb9c27f0e1f8902fdc5d0bb0) or on the web: https://www.cartoonnetwork.com/video/bugs-bunny-builders/honey-bunny-episode.html  
-seriesid=`2267156` titleid=`2267182` mediaid=`0491a019e1732321fb9c27f0e1f8902fdc5d0bb0`  
-_Queen Beatrice hires The Looney Builders to build a workshop in her beehive where there is one rule the crew has trouble following._  
-<a href="https://i.cartoonnetwork.com/orchestrator/2267182_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267182_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267182_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267182_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267182_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267182_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267182_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267182_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267182_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267182_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267182_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267182_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267182_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267182_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267182_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267182_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267182_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267182_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2267182_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2267182_010_640x360.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-### Summary
-757073 Adventure Time: 2  
-### 2043660
-**Adventure Time S06E40 - Orgalorg**  
-TV-PG 🔒 11:42  
-⌛ September 6, 2026 at 23:59:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=757073&titleid=2043660&mediaid=93a36380fdfd151850dcaec3132ee5de6214e7c4) or on the web: https://www.cartoonnetwork.com/video/adventure-time/orgalorg-episode.html  
-seriesid=`757073` titleid=`2043660` mediaid=`93a36380fdfd151850dcaec3132ee5de6214e7c4`  
-_After a walrus race accident, Gunther starts to experience strange visions._  
-<a href="https://i.cartoonnetwork.com/orchestrator/2043660_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043660_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043660_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043660_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043660_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043660_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043660_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043660_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043660_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043660_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043660_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043660_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043660_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043660_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043660_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043660_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043660_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043660_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043660_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043660_010_640x360.jpg" height="144px" /></a>
-### 2043657
-**Adventure Time S06E36 - Hoots**  
-TV-PG 🔒 11:42  
-⌛ September 6, 2026 at 23:59:00 EDT  
-[Open in app](https://cnvideo.sercomkc.org/redirector.html?type=cnapp&seriesid=757073&titleid=2043657&mediaid=d1e71de78b108aae50bddd5843fe6d92b30c1039) or on the web: https://www.cartoonnetwork.com/video/adventure-time/hoots-episode.html  
-seriesid=`757073` titleid=`2043657` mediaid=`d1e71de78b108aae50bddd5843fe6d92b30c1039`  
-_A charismatic stranger in Finn's dream leads Cosmic Owl to shirk his duties._  
-<a href="https://i.cartoonnetwork.com/orchestrator/2043657_001_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043657_001_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043657_002_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043657_002_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043657_003_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043657_003_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043657_004_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043657_004_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043657_005_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043657_005_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043657_006_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043657_006_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043657_007_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043657_007_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043657_008_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043657_008_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043657_009_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043657_009_640x360.jpg" height="144px" /></a><a href="https://i.cartoonnetwork.com/orchestrator/2043657_010_1280x720.jpg"><img src="https://i.cartoonnetwork.com/orchestrator/2043657_010_640x360.jpg" height="144px" /></a>
+No videos were removed.  
