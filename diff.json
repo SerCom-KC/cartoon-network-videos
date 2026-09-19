@@ -1,9 +1,8 @@
 {
-    "updated": 1789834509,
-    "added": [],
-    "removed": [
+    "updated": 1789834749,
+    "added": [
         {
-            "airingid": "RADS1008242600020277",
+            "airingid": "RADS1009142600023716",
             "seasonnumber": "9",
             "seasonitemnumber": "47",
             "seriesid": "2000349",
@@ -23,27 +22,28 @@
             "tvratingcode": "TV-PG",
             "seriestitleid": "2000349",
             "seriesname": "Teen Titans Go!",
-            "originalpremieredate": "2026-08-29T16:15:00.000Z",
-            "pubdate": "2026-08-29T16:15:00.000Z",
-            "expdate": "2026-09-19T16:14:00.000Z",
+            "originalpremieredate": "2026-09-19T16:15:00.000Z",
+            "pubdate": "2026-09-19T16:15:00.000Z",
+            "expdate": "2026-10-24T16:14:00.000Z",
             "thumbnailurl": "https://i.cartoonnetwork.com/orchestrator/2536643_001_640x360.jpg",
-            "authtype": "auth",
+            "authtype": "unauth",
             "webflags": "",
-            "tags": "",
+            "tags": "unauth",
             "titleid": "2536643",
             "titletype": "Episode",
-            "bannertext": "",
+            "bannertext": "LATEST EPISODE",
             "originalseriesid": "2000349",
             "originalseriesname": "Teen Titans Go!",
             "hasparent": false,
-            "originalpremieredateasmilliseconds": "1788020100000",
-            "pubdateasmilliseconds": "1788020100000",
-            "expdateasmilliseconds": "1789834440000",
+            "originalpremieredateasmilliseconds": "1789834500000",
+            "pubdateasmilliseconds": "1789834500000",
+            "expdateasmilliseconds": "1792858440000",
             "mediaid": "8506748cc2f8126723ebae67fa26c5fe661e11dc",
-            "isunlockedfullepisode": false,
+            "isunlockedfullepisode": true,
             "ismultipropertycollection": false,
             "clipsonly": false,
             "includeshortform": false
         }
-    ]
+    ],
+    "removed": []
 }
